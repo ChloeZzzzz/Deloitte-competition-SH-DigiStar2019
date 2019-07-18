@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821232290623833",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 1095
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 315
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 6
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 53
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 9
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 3
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 1
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 10
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 3
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 117
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 515
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 356
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 58
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 8
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 183
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 111
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 23
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 35
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 60
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 114
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 647
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 334
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "71d70c33-6c56-4ce3-8606-df2520718abd",
+      "NewsId": "5915ac132114fb630eb7bf5e7b265673",
+      "Source": "百家号",
+      "Title": "金龙鱼IPO：净利增速大幅放缓，存货余额高达293亿！",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9076997459688903200%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-17 10:59:18",
+      "EmotionType": "positive",
+      "Category": "3100,3200,3300",
+      "NewsTags": "金龙鱼,益海嘉里,丰益,募集资金,调和油"
+    },
+    {
+      "Id": "3e333aad-cb63-40cf-a09c-45e74a06195b",
+      "NewsId": "3bb2c77830c81d15e34a5d5d84203411",
+      "Source": "面包财经",
+      "Title": "桃李面包：重要股东减持，业绩增速能否支撑259亿市值？",
+      "Url": "http://www.sohu.com/a/327024034_384082",
+      "PublishTime": "2019-07-16 07:00:00",
+      "EmotionType": "none",
+      "Category": "3200,3600,3700",
+      "NewsTags": "桃李面包,盛雅莉,合计,实控人,营收"
+    },
+    {
+      "Id": "ff37acc2-2a08-4acd-8686-53c716124073",
+      "NewsId": "f07da5f06844c9d099f858161331ab23",
+      "Source": "食品商务网",
+      "Title": "食品大事件：三只松鼠上市！中国红牛上半年138.9亿……",
+      "Url": "https://news.21food.cn/35/2851054.html",
+      "PublishTime": "2019-07-15 08:59:00",
+      "EmotionType": "none",
+      "Category": "2000,3200,5000",
+      "NewsTags": "星冰乐,瑞幸咖啡,獐子岛,中国红牛,慢燃片"
+    },
+    {
+      "Id": "8b7e000d-bb0f-4f07-be5d-24cfbc403ae7",
+      "NewsId": "f0f673422cefdf15ee5a5f0852bbf687",
+      "Source": "时讯网",
+      "Title": "年收1600多亿的食品巨无霸要IPO，百胜、麦当劳都是它的客户",
+      "Url": "http://www.shixunwan.cn/article/1562945956905001/",
+      "PublishTime": "2019-07-12 23:38:00",
+      "EmotionType": "none",
+      "Category": "3100,3200,3300,3600",
+      "NewsTags": "家乐氏,丰益,巨无霸,存货,披露"
+    },
+    {
+      "Id": "806c5d2c-e9f0-46ea-bbef-589179698a67",
+      "NewsId": "e28bf4329dfbddf0ac21495bbc98ef3f",
+      "Source": "同花顺财经",
+      "Title": "证监会：桃李面包等5家公司可转债事项获通过",
+      "Url": "http://stock.10jqka.com.cn/20190712/c612496322.shtml",
+      "PublishTime": "2019-07-12 21:42:00",
+      "EmotionType": "none",
+      "Category": "3100",
+      "NewsTags": "股份有限,发审委,审核,会议"
+    },
+    {
+      "Id": "89742807-565c-4ed8-8b3f-807325903d60",
+      "NewsId": "7ba8788abb9c33a150c3518a15a06bfb",
+      "Source": "东方财富网",
+      "Title": "桃李面包(603866)公开发行可转换公司债券申请获得中国证监会发审委审核通过",
+      "Url": "http://finance.eastmoney.com/a/201907121177398772.html",
+      "PublishTime": "2019-07-12 18:01:00",
+      "EmotionType": "none",
+      "Category": "3100",
+      "NewsTags": ""
+    },
+    {
+      "Id": "b3725bd3-310d-4467-aeeb-adc160ba36ad",
+      "NewsId": "5bc36ef101d9d5da4fecbda25ac61778",
+      "Source": "食品商务网",
+      "Title": "今日食事热点：桃李面包减持套现3.47亿、天丝诉讼遭驳回",
+      "Url": "https://news.21food.cn/35/2848443.html",
+      "PublishTime": "2019-07-12 09:35:00",
+      "EmotionType": "none",
+      "Category": "1200,3400,3600,3700,5000",
+      "NewsTags": "泰森食品,泰国天丝,皇台酒业,中粮集团,减持"
+    },
+    {
+      "Id": "a95fa42d-cf9d-43f7-ab7a-923a1e5aebc4",
+      "NewsId": "9854e2c0fcea1abd3e6b57e639ed6718",
+      "Source": "中国网",
+      "Title": "桃李面包披露股东减持进展：创始人家族股东累计套现3.47亿元",
+      "Url": "http://finance.china.com.cn/news/20190711/5027211.shtml",
+      "PublishTime": "2019-07-11 14:05:00",
+      "EmotionType": "none",
+      "Category": "3600,3700",
+      "NewsTags": "减持,盛雅莉,桃李面包,吴学东,肖蜀岩"
+    },
+    {
+      "Id": "12e56b62-f99d-43e6-8bc4-529430a2bb92",
+      "NewsId": "05e2bd5cca1fbe39bcf34f28083e2c62",
+      "Source": "牧童资讯",
+      "Title": "7月9日A股共发生52宗大宗交易成交9.76亿元",
+      "Url": "http://www.mutongzixun.com/index.php?m=content&c=index&a=show&catid=22&id=25664",
+      "PublishTime": "2019-07-09 19:04:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "溢价率,前三,折价率,成交额,股票"
+    },
+    {
+      "Id": "6afd3ca4-fc66-426b-a64d-152fb3280a26",
+      "NewsId": "11fddfb17408be53381a3efeb328d740",
+      "Source": "中金在线",
+      "Title": "第十八届发审委2019年第80次工作会议公告",
+      "Url": "http://xg.stock.cnfol.com/xinguyaowen/20190708/27577241.shtml",
+      "PublishTime": "2019-07-08 19:05:00",
+      "EmotionType": "none",
+      "Category": "3100",
+      "NewsTags": "郭旭东,陈国飞,发行审核,潘健红,陈鹤岚"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

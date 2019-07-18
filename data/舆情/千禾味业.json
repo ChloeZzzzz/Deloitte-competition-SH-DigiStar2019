@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821264631573479",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 788
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 231
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 43
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 2
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 2
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 4
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 1
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 1
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 4
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 211
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 240
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 223
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 46
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 10
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 95
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 45
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 13
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 44
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 49
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 99
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 435
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 254
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "ac454c09-2991-4929-9e06-7a6fd8225af3",
+      "NewsId": "4ba635e22f212927330ba45701a7887f",
+      "Source": "食品商务网",
+      "Title": "酱油龙头企业保持超过20%增速",
+      "Url": "https://news.21food.cn/13/2853078.html",
+      "PublishTime": "2019-07-17 10:54:00",
+      "EmotionType": "positive",
+      "Category": "3200,4000",
+      "NewsTags": "占比,调味品,集中度,马太效应,龙头企业"
+    },
+    {
+      "Id": "6214234b-aa60-4add-a579-fc91949d5086",
+      "NewsId": "005e169178e518797b46e880b44a2f0e",
+      "Source": "百家号",
+      "Title": "调味品行业 个股上半年增幅较大 抗周期性强",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9427023125162386394%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-16 04:21:59",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "调味品,千禾味业,同比增长,涨幅,星湖科技"
+    },
+    {
+      "Id": "cdd85bb6-020f-447b-8af8-bcb4cdf9b44a",
+      "NewsId": "bd522c8566c669c04169074cd9127c9f",
+      "Source": "同花顺财经",
+      "Title": "2018年中国调味品行业市场概况与发展趋势 头部厂商依靠产地优势树立起产品壁垒",
+      "Url": "http://stock.10jqka.com.cn/20190715/c612515648.shtml",
+      "PublishTime": "2019-07-15 16:56:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "酱油,占比,消费量,酿造"
+    },
+    {
+      "Id": "f6f2cfeb-0380-4a6b-a22f-618061e24f0e",
+      "NewsId": "d993a7106922945f55a1dccc56627a1e",
+      "Source": "创头条",
+      "Title": "2019年调味品行业发展趋势 ",
+      "Url": "http://www.ctoutiao.com/2077098.html",
+      "PublishTime": "2019-07-11 18:47:00",
+      "EmotionType": "positive",
+      "Category": "3200,5000",
+      "NewsTags": "品类,老干妈,经销商,小包装,营销"
+    },
+    {
+      "Id": "ebcf364c-da64-452c-973b-c353d42c5eeb",
+      "NewsId": "262d75e99425296e737f922c32c10519",
+      "Source": "新浪网",
+      "Title": "酱醋江湖竞争充分 扎根西南的千禾味业以何自立？",
+      "Url": "https://finance.sina.com.cn/stock/s/2019-07-11/doc-ihytcitm1342081.shtml",
+      "PublishTime": "2019-07-11 18:43:00",
+      "EmotionType": "none",
+      "Category": "3200",
+      "NewsTags": "千禾味业,酱油,海天味业,中炬高新,增速"
+    },
+    {
+      "Id": "e1964a9c-d278-4f81-9d30-c0409ec31927",
+      "NewsId": "85db477698f2964a563bb5881e7f13be",
+      "Source": "河南焦作网",
+      "Title": "2月17日晚间可能影响股价重要资讯速递(更新中",
+      "Url": "http://www.boairsj.com/a/caijingxinwen/2019/0711/180015.html",
+      "PublishTime": "2019-07-11 05:13:00",
+      "EmotionType": "none",
+      "Category": "3100,3200",
+      "NewsTags": "股份有限,PPI,上市交易,千禾味业,天创时尚"
+    },
+    {
+      "Id": "1c33ff4a-c5f3-4e8b-8b28-26e8a0573901",
+      "NewsId": "dc87227a647a7740085706b508f47430",
+      "Source": "搜狐财经",
+      "Title": " 原创 上半年机构共调研52家川股 大消费行业最受青睐 ",
+      "Url": "http://www.sohu.com/a/325919032_387251",
+      "PublishTime": "2019-07-10 15:33:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "国窖1573,千禾味业,天齐锂业,提价,配股"
+    },
+    {
+      "Id": "c4e4ce9b-cb6e-4afc-a5cb-f464bfda95ba",
+      "NewsId": "edc869b69fcb2039ab1e09028a06bdf0",
+      "Source": "中华网",
+      "Title": "陕西发明智能酿醋设备，年产万吨车间仅需3人监管",
+      "Url": "http://m.tech.china.com/redian/2019/0708/323775.html",
+      "PublishTime": "2019-07-08 11:57:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "果醋,许朝辉,食醋,生产线,原酿"
+    },
+    {
+      "Id": "0472b192-2774-488f-91ea-6345e2f47052",
+      "NewsId": "8e3c2294463d64c1382b8749b9fa9b41",
+      "Source": "时讯网",
+      "Title": "大白马持续调整，要学李晨和范冰冰一样各奔东西了吗？",
+      "Url": "http://www.shixunwan.cn/article/1562535394107001/",
+      "PublishTime": "2019-07-08 05:29:00",
+      "EmotionType": "negative",
+      "Category": "3300",
+      "NewsTags": "科创板,禅师,非农数据,处以,大幅反弹"
+    },
+    {
+      "Id": "de85523c-3438-4189-a405-140ad66be972",
+      "NewsId": "8fb80175686a497ecbea92e3f42e6519",
+      "Source": "慢钱头条",
+      "Title": "新城控股惊现5笔大宗交易，有人提前知道内幕跑路？",
+      "Url": "http://toutiao.manqian.cn/wz_5cgOkGkCmDh.html",
+      "PublishTime": "2019-07-08 00:00:00",
+      "EmotionType": "negative",
+      "Category": "3500",
+      "NewsTags": "大宗交易,永安期货,总持仓,OLED,千禾味业"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

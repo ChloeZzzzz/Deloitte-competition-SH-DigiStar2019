@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821160617378321",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 536
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 192
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 1
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 37
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 12
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 3
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 1
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 2
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 6
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 48
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 159
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 116
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 80
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 3
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 38
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 6
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 14
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 52
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 33
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 51
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 266
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 219
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "a18dfb84-ef17-40ff-91ce-96ccc6a77995",
+      "NewsId": "85bcbf0bc1c02bd732bd5b8385bd987f",
+      "Source": "微转化",
+      "Title": "天润乳业收购天润烽火台，进一步完善自身生态养殖链",
+      "Url": "https://diyitui.com/content-1563398543.77241111.html",
+      "PublishTime": "2019-07-18 13:22:00",
+      "EmotionType": "none",
+      "Category": "3200,3400,3600,3800",
+      "NewsTags": "兵团乳业,质押,总股本,股权转让,收购"
+    },
+    {
+      "Id": "a7e58694-0b8a-46dc-a252-a17373388ad7",
+      "NewsId": "74207e6b6b1818d70cb8a6bf0f9faa7c",
+      "Source": "食品商务网",
+      "Title": "今日食事热点：鹿角巷深圳首店关闭、泰国天丝重申红牛商标所有权",
+      "Url": "https://news.21food.cn/35/2852021.html",
+      "PublishTime": "2019-07-16 09:22:00",
+      "EmotionType": "none",
+      "Category": "3200,3300,3400,3600",
+      "NewsTags": "鹿角巷,泰国天丝,百事,能量饮料,天味食品"
+    },
+    {
+      "Id": "c1857cb5-db10-45b2-aeb8-4ef7ca3e3332",
+      "NewsId": "520e71c02deab728c45c7674c00582fd",
+      "Source": "贤集网",
+      "Title": "天润乳业收购控股子公司天润烽火台剩余的49%股权",
+      "Url": "https://www.xianjichina.com/special/detail_410515.html",
+      "PublishTime": "2019-07-16 00:00:00",
+      "EmotionType": "positive",
+      "Category": "3200,3400",
+      "NewsTags": "天润乳业,同比增长,第三师,农畜产品,乳品"
+    },
+    {
+      "Id": "501b6181-a015-4614-841a-8ffaa21f72ea",
+      "NewsId": "2d458a294533d1885c16a418e1afb3e9",
+      "Source": "百家号",
+      "Title": "天润乳业收购控股子公司股权",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9249913714930764758%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-15 19:54:32",
+      "EmotionType": "positive",
+      "Category": "3400",
+      "NewsTags": "天润乳业,股权"
+    },
+    {
+      "Id": "ab1501a0-8f11-4340-bffb-b77c031e0d5e",
+      "NewsId": "71d1c762d8bead78dd550a9f721224f2",
+      "Source": "东方财富网",
+      "Title": "天润乳业：拟收购天润烽火台49%股权 完善牧业板块布局",
+      "Url": "http://finance.eastmoney.com/a/201907151178844098.html",
+      "PublishTime": "2019-07-15 16:59:00",
+      "EmotionType": "none",
+      "Category": "3200,3400",
+      "NewsTags": "天润乳业,农畜产品,股权,收购,新疆"
+    },
+    {
+      "Id": "f34a57a4-1e25-4b61-bbf3-697575ac0741",
+      "NewsId": "a1662ffce599f57919f08950c72521bc",
+      "Source": "时讯网",
+      "Title": "现场直击 | 伊利、蒙牛、光明、现代牧业、君乐宝……D20企业同台竞秀，快来为中国奶业最强天团点赞",
+      "Url": "http://www.shixunwan.cn/article/1562961807934001/",
+      "PublishTime": "2019-07-13 04:02:00",
+      "EmotionType": "positive",
+      "Category": "3200,4000",
+      "NewsTags": "同比增长,奶业,奶牛,奶粉,乳制品"
+    },
+    {
+      "Id": "ad1dd600-0b0f-44c3-8754-514ce383cc3b",
+      "NewsId": "6bfe0d39f55a8c0885c14d8d682e5624",
+      "Source": "食品伙伴网",
+      "Title": "睿农研究：2019年第二季度乳品行业市场分析",
+      "Url": "http://news.foodmate.net/2019/07/525689.html",
+      "PublishTime": "2019-07-09 17:04:00",
+      "EmotionType": "positive",
+      "Category": "3200,5000",
+      "NewsTags": "乳品,代餐,同比增长,乳业,新希望"
+    },
+    {
+      "Id": "d9204cc6-1ff1-4496-95e2-83b7e781e941",
+      "NewsId": "e37ddd1b011d6d2b8516c4695377af18",
+      "Source": "新华社",
+      "Title": "【边疆党旗红】党建已成新疆企业经营发展中靓丽风景",
+      "Url": "http://www.sohu.com/a/325050336_267106",
+      "PublishTime": "2019-07-05 18:19:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "党建,杨晓波,离不开,国家"
+    },
+    {
+      "Id": "cee1a7ce-6849-4476-a0d7-d6c56fa96e5e",
+      "NewsId": "90bd4ef9a59e721a37f192865a6bc7ff",
+      "Source": "挖贝网",
+      "Title": "天润乳业股东兵团乳业质押650万股 公司去年净利同比增长15%",
+      "Url": "http://www.wabei.cn/Home/News/58994",
+      "PublishTime": "2019-07-05 07:50:00",
+      "EmotionType": "none",
+      "Category": "3200,3800",
+      "NewsTags": "总股本,兵团乳业,天润乳业,股份有限,stockCode"
+    },
+    {
+      "Id": "86b2d4ad-bd1f-4200-b5a3-af0dc2e1971d",
+      "NewsId": "6459291be3f15e65b8428a44de50aea0",
+      "Source": "第一财经",
+      "Title": "中宠股份：拟与金鼎投资设立宠物产业资产管理中心",
+      "Url": "http://www.sohu.com/a/324755626_114986",
+      "PublishTime": "2019-07-04 11:51:00",
+      "EmotionType": "positive",
+      "Category": "3300",
+      "NewsTags": "战略合作,协议"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}
