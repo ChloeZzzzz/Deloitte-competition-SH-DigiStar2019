@@ -1,0 +1,219 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820122497673038",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 98
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 54
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 3
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 2
+          },
+          {
+            "Value": "2200",
+            "Desc": "贪污受贿",
+            "Count": 1
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 2
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 16
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 21
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 14
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 1
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 4
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 1
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 1
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 5
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 17
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 36
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 45
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "13fb724c-a9b7-454c-b311-892736078024",
+        "NewsId": "2d00e6c0866c4a67b9e59158559ba3a3",
+        "Source": "中记联网",
+        "Title": "全国模范劳动关系和谐企业及工业园区评选揭晓 天津12家企业1园区入选",
+        "Url": "http://zhongjilian.com/tianjin/2019/07-18/62382_0.html",
+        "PublishTime": "2019-07-18 14:57:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "天津,股份有限,集团"
+      },
+      {
+        "Id": "f623a6b6-f3c8-4939-afbd-3f93e11fe045",
+        "NewsId": "f34ec3c78a70bb9c349a6c8bf9a66114",
+        "Source": "新浪网",
+        "Title": "桂发祥：关于监事辞职的公告",
+        "Url": "https://finance.sina.com.cn/stock/ggzz/2019-07-17/doc-ihytcerm4318802.shtml",
+        "PublishTime": "2019-07-17 18:00:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "监事会,辞职报告,深圳证券交易所,职务,公告"
+      },
+      {
+        "Id": "5fd18931-b0fe-4ebd-a8e2-92522daa00df",
+        "NewsId": "fa5d6c1a749fab1084c9da76e954aec5",
+        "Source": "财富投资网",
+        "Title": "桂发祥开拓创新赋能老字号 深耕津门枝繁叶茂",
+        "Url": "http://www.baiyintouzi.com/ssgs/20190715-55811.html",
+        "PublishTime": "2019-07-15 09:39:00",
+        "EmotionType": "positive",
+        "Category": "3200,3300,3400",
+        "NewsTags": "吴宏,十八街,产品,天津,糕点"
+      },
+      {
+        "Id": "593634f7-cfc4-4c5e-a9b7-112d1c48a750",
+        "NewsId": "92a06512ac3d04e7336c7cc3be75af44",
+        "Source": "中证网",
+        "Title": "情系津门 桂发祥开拓创新赋能老字号",
+        "Url": "http://www.cs.com.cn/ssgs/gsxw/201907/t20190715_5968238.html",
+        "PublishTime": "2019-07-15 06:47:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "十八街,吴宏,中国证券报,刘老,改制"
+      },
+      {
+        "Id": "4e3f9952-6042-4b70-b37d-eed8c8050c5f",
+        "NewsId": "40e55d150936a722e99f83af59351c77",
+        "Source": "时讯网",
+        "Title": "“中华老字号”名录大全",
+        "Url": "http://www.shixunwan.cn/article/1562958753553001/",
+        "PublishTime": "2019-07-13 03:07:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "注册商标,股份有限,酒业,上海,集团"
+      },
+      {
+        "Id": "1645328a-61d4-441d-b17b-8a31f45f1658",
+        "NewsId": "478334a96ff29902f97c5c6c9c57ecf4",
+        "Source": "百家号",
+        "Title": "展翠食品八成业务来自境外ODM 自有零食品牌未能走出区域市场",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9643361422453692300%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-07-10 08:14:57",
+        "EmotionType": "positive",
+        "Category": "3100,3200",
+        "NewsTags": "糖果,巧克力,毛利率,零食,平均水平"
+      },
+      {
+        "Id": "196ced90-ef3a-49b6-9c25-c5701dca1174",
+        "NewsId": "287e33a57bfb69a2de2deaa7dc81c7d5",
+        "Source": "同花顺",
+        "Title": "天津“618”“95后”消费者占比近七成",
+        "Url": "http://news.10jqka.com.cn/20190625/c612137691.shtml",
+        "PublishTime": "2019-06-25 10:54:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "iPadmini,iPhoneXR,P30Pro,vivoiQOO,单品"
+      },
+      {
+        "Id": "57cdacca-5fa6-4f82-b988-49f22baa7fe7",
+        "NewsId": "0829ba6e4132fd9a6e6c3e7da72f7754",
+        "Source": "食品伙伴网",
+        "Title": "展翠食品超八成营收依赖境外 经营现金流波动大造血能力不稳定",
+        "Url": "http://news.foodmate.net/2019/06/523476.html",
+        "PublishTime": "2019-06-24 08:08:00",
+        "EmotionType": "none",
+        "Category": "3100,3200",
+        "NewsTags": "展翠,毛利率,IPO,招股书,营收"
+      },
+      {
+        "Id": "58eca8de-2d90-4b32-9608-88ecf5bb91f6",
+        "NewsId": "8fd1ca095987cb8ec045efa0a6cbc1d3",
+        "Source": "天津在线",
+        "Title": "津门“618”：买家人均购物8件以上 蓟州区成扫货黑马 “95后”消费者占比近七成",
+        "Url": "http://news.72177.com/a/201906/194481761.shtml",
+        "PublishTime": "2019-06-19 23:14:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "Pro,促销,购买力,单品,电商"
+      },
+      {
+        "Id": "a3ea17b0-03ae-4d00-bfb8-5e2414047387",
+        "NewsId": "eed70b07b55772303448a8310e6107f1",
+        "Source": "新浪网",
+        "Title": "展翠食品闯关IPO：小猪佩奇零食代工厂 现金流过山车",
+        "Url": "https://finance.sina.com.cn/roll/2019-06-18/doc-ihxvchpr4262258.shtml",
+        "PublishTime": "2019-06-18 12:43:00",
+        "EmotionType": "none",
+        "Category": "3100,3200",
+        "NewsTags": "ODM,华夏时报,占比,小黄人,自营"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

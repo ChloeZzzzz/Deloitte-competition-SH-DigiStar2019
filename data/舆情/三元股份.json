@@ -1,0 +1,239 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821170343803097",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 736
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 296
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 3
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 40
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 3
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 5
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 1
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 9
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 3
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 8
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 22
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 185
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 129
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 153
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 7
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 33
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 8
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 100
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 61
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 54
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 250
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 432
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "9cfee34c-4241-49cb-b4a7-25014114d568",
+      "NewsId": "18f5adac5a60afae290a3fd3f8354596",
+      "Source": "中国企业网",
+      "Title": "三元食品亮相中国奶业大会，坚守品质振兴奶业发展",
+      "Url": "https://finance.zqcn.com.cn/html/yanbao/20190716/40410.html",
+      "PublishTime": "2019-07-16 11:53:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "三元食品,衡安堂,常毅,酸奶,牛奶"
+    },
+    {
+      "Id": "cdfefb09-252a-4563-8402-ddbbef149bdb",
+      "NewsId": "1cd3f7b479bbd16279a724c55275723f",
+      "Source": "美通社",
+      "Title": "菲仕兰协办中国奶业大会在津开幕",
+      "Url": "https://www.prnasia.com/story/251864-1.shtml",
+      "PublishTime": "2019-07-15 10:51:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "菲仕兰,乳业,荷兰王国,犊牛,驻华使馆"
+    },
+    {
+      "Id": "ed2c9e2d-cba5-417f-bf6d-357909ff89b8",
+      "NewsId": "fcba94c21a848c43dda3968071ef1ea8",
+      "Source": "新华社",
+      "Title": "专家：可持续发展是中国奶业未来面临的挑战",
+      "Url": "http://www.sohu.com/a/326530938_267106",
+      "PublishTime": "2019-07-13 09:42:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "李胜利,牧场,养殖,中国农业大学,荷兰"
+    },
+    {
+      "Id": "7f19712a-1e19-4ff0-ae4b-f339421cde6e",
+      "NewsId": "a1662ffce599f57919f08950c72521bc",
+      "Source": "时讯网",
+      "Title": "现场直击 | 伊利、蒙牛、光明、现代牧业、君乐宝……D20企业同台竞秀，快来为中国奶业最强天团点赞",
+      "Url": "http://www.shixunwan.cn/article/1562961807934001/",
+      "PublishTime": "2019-07-13 04:02:00",
+      "EmotionType": "positive",
+      "Category": "3200,4000",
+      "NewsTags": "同比增长,奶业,奶牛,奶粉,乳制品"
+    },
+    {
+      "Id": "a60c78a1-185a-47f0-a32c-2a3ce4a0b1a1",
+      "NewsId": "1e4302224accef341a333400bd589858",
+      "Source": "中访财经",
+      "Title": "原创 主营业务突然赚钱了，三元股份高代价收购法国乳企值不值？",
+      "Url": "http://www.sohu.com/a/326077513_103207",
+      "PublishTime": "2019-07-11 10:14:00",
+      "EmotionType": "none",
+      "Category": "3200,3400",
+      "NewsTags": "三元股份,同比增长,乳品,营收,乳制品"
+    },
+    {
+      "Id": "15d99ec9-b3b2-4f96-98e7-20977b4beb8f",
+      "NewsId": "d6759b92d7ec09734c8160f10afddd78",
+      "Source": "时讯网",
+      "Title": "从源头创新升级 三元极致A2β-酪蛋白纯牛奶获“科技创新产品”奖",
+      "Url": "http://www.shixunwan.cn/article/1562642115669001/",
+      "PublishTime": "2019-07-09 11:13:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "三元食品,健康产业,牛奶,挤奶,留样"
+    },
+    {
+      "Id": "6a1d35fe-f463-4294-8585-4ef9a6a187b6",
+      "NewsId": "1cca97778119332a0c401db198169e30",
+      "Source": "微信公众号",
+      "Title": "HXQC应邀参加首届食品企业质量安全官论坛",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562059539&src=3&ver=1&signature=zVsh2KDYbhJzjD0cuXVSmOjt6LdSNLmGdmxy9UjEH3OSY7KQ4A4MB3dW3iwQT6H0-aFqAEHeRfltCq0EFdNnxfUTmLRk4LlBRYu-e0z5z2n4KJF5KlEPtoErti50g9aYZvcMJS2rShxQC8ltfwJnYgwZCEjkhfIUpVqvfOmEDBA=",
+      "PublishTime": "2019-07-02 17:24:19",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "论坛,市场监管总局,王铁汉,酒业协会,管理司"
+    },
+    {
+      "Id": "aaf02901-4f01-44e1-9804-b18edc7a3167",
+      "NewsId": "7b3d21a0deba075093da2ea148420301",
+      "Source": "同花顺财经",
+      "Title": "主营业务毛利延续亏损 三元股份是如何靠投资赚来翻倍净利润",
+      "Url": "http://stock.10jqka.com.cn/20190702/c612263176.shtml",
+      "PublishTime": "2019-07-02 09:16:00",
+      "EmotionType": "none",
+      "Category": "2800,3200,3300,3400",
+      "NewsTags": "三元股份,同比增长,负债,营业收入,净利润"
+    },
+    {
+      "Id": "eed0100b-e5c5-49f9-9aa3-48633ca5fe50",
+      "NewsId": "981cf83300b2ad029809b60e4a8c35e6",
+      "Source": "微信公众号",
+      "Title": "2018年度中国轻工业百强企业名单 海尔美的格力列前三",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562026854&src=3&ver=1&signature=50FGrUb7ZBLoVyTTCmyAkslp5lsmYs3CM5YYQxP644ZeYz8CYdPzT6b0nNa4RXTvI61czpnX0LTMCEXP4bT9yydEA8Pau*vDROassc5bHhF3pEgkB0QoVk*3bAfKoc6trvTy3*v1AmQCAWq6zPqbU1PgvmLNBqvM4TKrOA2FMsw=",
+      "PublishTime": "2019-07-02 07:34:04",
+      "EmotionType": "positive",
+      "Category": "4000",
+      "NewsTags": "百强,轻工业,贵州茅台,晨鸣纸业,美的集团"
+    },
+    {
+      "Id": "ce32e52e-4cdd-42c3-8bbf-494242d8bba1",
+      "NewsId": "789d60660cf712bc0a2c4b001bb359ec",
+      "Source": "搜财网",
+      "Title": "全脂奶粉成交均价再创高位 国际奶价持续攀升",
+      "Url": "http://www.scbzol.com/content/313794.html",
+      "PublishTime": "2019-07-01 18:51:00",
+      "EmotionType": "none",
+      "Category": "3200,5000",
+      "NewsTags": "乳企,地震,新西兰南岛,成交均价,酸奶"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

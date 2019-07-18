@@ -1,0 +1,234 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071819525953141104",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 109
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 27
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 2
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 5
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 1
+          },
+          {
+            "Value": "2200",
+            "Desc": "贪污受贿",
+            "Count": 1
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 2
+          },
+          {
+            "Value": "2400",
+            "Desc": "垄断信息",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 12
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 6
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 47
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 30
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 21
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 22
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 4
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 8
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 14
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 6
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 18
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 46
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 45
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "3f52d2d7-7fb9-4197-be61-ad78b74bec93",
+        "NewsId": "85bcbf0bc1c02bd732bd5b8385bd987f",
+        "Source": "微转化",
+        "Title": "天润乳业收购天润烽火台，进一步完善自身生态养殖链",
+        "Url": "https://diyitui.com/content-1563398543.77241111.html",
+        "PublishTime": "2019-07-18 13:22:00",
+        "EmotionType": "none",
+        "Category": "3200,3400,3600,3800",
+        "NewsTags": "兵团乳业,质押,总股本,股权转让,收购"
+      },
+      {
+        "Id": "6cafab20-1088-4a3c-9883-06a375431b8c",
+        "NewsId": "0f4078dbff0ea521595ac37e29a4382c",
+        "Source": "中国经济新闻联播",
+        "Title": "“特中选优，优中选特”——水牛奶打响特色优质牌",
+        "Url": "http://www.cctv-cmpany.com/nongye/49869.html",
+        "PublishTime": "2019-07-16 15:30:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "奶水,广西,水牛,乳业,论坛"
+      },
+      {
+        "Id": "91afec48-e9d4-4d53-89f0-fc32e9c9d3e4",
+        "NewsId": "dfb1e15558066f46cae1bcc8ed037a4e",
+        "Source": "263财富网",
+        "Title": "皇氏集团预计上半年净利达700万元至1600万元 去年同期亏损7257.80万元",
+        "Url": "https://www.ysslc.com/caijing/xinwen/1797761.html",
+        "PublishTime": "2019-07-15 15:41:00",
+        "EmotionType": "none",
+        "Category": "3200,3600",
+        "NewsTags": "皇氏集团,报告期,xinwen,去年同期,caijing"
+      },
+      {
+        "Id": "3e1d9a5e-5e58-4b0b-b236-d469c20b7b8b",
+        "NewsId": "8acc2ca6062435b617802450335fb985",
+        "Source": "挖贝网",
+        "Title": "皇氏集团2019年上半年净利700万-1600万 加强主营业务的管理及业务推进",
+        "Url": "http://www.wabei.cn/Home/News/60376",
+        "PublishTime": "2019-07-13 08:34:00",
+        "EmotionType": "none",
+        "Category": "3200,3600",
+        "NewsTags": "皇氏集团,announcementTime,announcementId,stockCode,orgId"
+      },
+      {
+        "Id": "e2d41c8a-a84e-460e-9590-0659ed0f1753",
+        "NewsId": "a1662ffce599f57919f08950c72521bc",
+        "Source": "时讯网",
+        "Title": "现场直击 | 伊利、蒙牛、光明、现代牧业、君乐宝……D20企业同台竞秀，快来为中国奶业最强天团点赞",
+        "Url": "http://www.shixunwan.cn/article/1562961807934001/",
+        "PublishTime": "2019-07-13 04:02:00",
+        "EmotionType": "positive",
+        "Category": "3200,4000",
+        "NewsTags": "同比增长,奶业,奶牛,奶粉,乳制品"
+      },
+      {
+        "Id": "f71eaa45-57e8-4ce9-b1b6-f4700561ec8b",
+        "NewsId": "e98fd2ec19a79b4b0e439cfe35d0210c",
+        "Source": "河南焦作网",
+        "Title": "质押平仓危机袭来 多公司大股东“补血”",
+        "Url": "http://www.boairsj.com/a/caijingxinwen/2019/0711/179953.html",
+        "PublishTime": "2019-07-11 02:25:00",
+        "EmotionType": "negative",
+        "Category": "3100,3300,3600,3800",
+        "NewsTags": "控股股东,徐蕾蕾,鑫茂科技,皇氏集团,古鳌科技"
+      },
+      {
+        "Id": "7f4724ac-06d3-4e3a-9e77-1bbd6100533e",
+        "NewsId": "1ed13733dd919087cf2697d1254035de",
+        "Source": "中国经济时报",
+        "Title": "资本搅动乳业竞合大变局",
+        "Url": "http://www.sohu.com/a/326004071_115495",
+        "PublishTime": "2019-07-11 00:00:00",
+        "EmotionType": "positive",
+        "Category": "3200,3400",
+        "NewsTags": "蒙牛,乳企,皇氏集团,伊利,新希望"
+      },
+      {
+        "Id": "144d8541-88a4-444b-ab1b-2c621040628e",
+        "NewsId": "ad0eb8a89464b42cba0c4af4b87e60e3",
+        "Source": "中国创新网",
+        "Title": "南宁高新区：李耕调研服务园区重大项目",
+        "Url": "http://www.chinahightech.com/html/yuanqu/yqdt/2019/0710/534454.html",
+        "PublishTime": "2019-07-10 16:01:00",
+        "EmotionType": "positive",
+        "Category": "3300,5000",
+        "NewsTags": "农业科技,科技集团,管委会,高新区"
+      },
+      {
+        "Id": "894de908-28ac-4e95-b0e1-235414ba3ddc",
+        "NewsId": "134dee8d90f40f96b47240151f403a5c",
+        "Source": "母婴前沿",
+        "Title": "6月内收三封深交所询问函，皇氏集团资金缺口隐现",
+        "Url": "http://www.sohu.com/a/324939966_819050",
+        "PublishTime": "2019-07-05 09:23:00",
+        "EmotionType": "negative",
+        "Category": "2800,3200,3300",
+        "NewsTags": "皇氏集团,御嘉,深交所,情形,骄阳"
+      },
+      {
+        "Id": "80f693ff-44a1-40b4-b4a2-47f096d1db14",
+        "NewsId": "bf2e3b052b22a9905be4025730f76595",
+        "Source": "搜狐财经",
+        "Title": "皇氏集团股份有限公司第五届董事会第十一次会议决议公告 ",
+        "Url": "http://www.sohu.com/a/324910181_115433",
+        "PublishTime": "2019-07-05 04:53:00",
+        "EmotionType": "none",
+        "Category": "3300",
+        "NewsTags": "董事,中国银行,融资,贷款"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

@@ -1,0 +1,239 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820133758225563",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 997
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 586
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 11
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 6
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 3
+          },
+          {
+            "Value": "2500",
+            "Desc": "环保处罚",
+            "Count": 1
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 2
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 104
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 245
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 131
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 9
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 3
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 21
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 7
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 1
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 34
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 49
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 108
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 622
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 267
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "44638737-f12a-4b13-8449-c95d19117a60",
+        "NewsId": "1c2336450ebfe900f69074affb64efd7",
+        "Source": "东方财富网",
+        "Title": "盐津铺子食品股份有限公司第二届监事会第十四次会议决议公告",
+        "Url": "http://finance.eastmoney.com/a/201907181181943975.html",
+        "PublishTime": "2019-07-18 13:32:00",
+        "EmotionType": "none",
+        "Category": "3100,3300",
+        "NewsTags": "监事会,表决,赞成票,弃权票,反对票"
+      },
+      {
+        "Id": "f56cc2ce-bf5b-4432-b58f-ebe93e6b125d",
+        "NewsId": "b252b42639fb201d5530e12c6bbed22b",
+        "Source": "东方财富网",
+        "Title": "盐津铺子食品股份有限公司关于募集资金投资项目终止或结项并将节余募集资金永久补流资金的公告",
+        "Url": "http://finance.eastmoney.com/a/201907181181936147.html",
+        "PublishTime": "2019-07-18 13:25:00",
+        "EmotionType": "none",
+        "Category": "3100,3300",
+        "NewsTags": "节余,结项,建设项目,股份有限,终止"
+      },
+      {
+        "Id": "5d6811c0-7be3-4506-8caf-24492842af4a",
+        "NewsId": "14e40a1686be3792433558462144a173",
+        "Source": "东方财富网",
+        "Title": "盐津铺子食品股份有限公司关于拟新增合作银行并申请循环授信额度的公告",
+        "Url": "http://finance.eastmoney.com/a/201907181181874986.html",
+        "PublishTime": "2019-07-18 11:31:00",
+        "EmotionType": "none",
+        "Category": "3300",
+        "NewsTags": "额度,审议,公告,董事会,证券"
+      },
+      {
+        "Id": "bc5269f7-db65-4e8d-bce1-d37cc5b1a1cb",
+        "NewsId": "25ad6b5bbd4b72139e8174ebea3b0800",
+        "Source": "东方财富网",
+        "Title": "盐津铺子食品股份有限公司关于调整和新增2019年度日常关联交易预计的公告",
+        "Url": "http://finance.eastmoney.com/a/201907181181828837.html",
+        "PublishTime": "2019-07-18 11:01:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "恒远,盐津铺子,食品,曼谷,新增"
+      },
+      {
+        "Id": "6caabdac-d9aa-429d-9e1a-04087ce57d9e",
+        "NewsId": "5cac26f95ca1301b7ebd0b8ee2089e31",
+        "Source": "东方财富网",
+        "Title": "盐津铺子食品股份有限公司第二届董事会第十六次会议决议公告",
+        "Url": "http://finance.eastmoney.com/a/201907181181724070.html",
+        "PublishTime": "2019-07-18 09:49:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "赞成票,弃权票,反对票,表决,募集资金"
+      },
+      {
+        "Id": "9796401f-7cb2-4ec5-9899-df59d6711ff7",
+        "NewsId": "77121321e71fd4e84cf2c32a16f574a1",
+        "Source": "慢钱头条",
+        "Title": "一枚散户的自选股观察名单更新20190716",
+        "Url": "http://toutiao.manqian.cn/wz_5cZiz92PKNV.html",
+        "PublishTime": "2019-07-17 00:00:00",
+        "EmotionType": "negative",
+        "Category": "0000",
+        "NewsTags": "上海机场,价格标签,轻套,苏泊尔,自选股"
+      },
+      {
+        "Id": "f0052621-3c2a-4ba3-829d-e95d0af9b83d",
+        "NewsId": "72cf75d4bf19b2f4ec5a31cc26370b8d",
+        "Source": "食品商务网",
+        "Title": "盐津铺子预计上半年净利或达6000万以上",
+        "Url": "https://news.21food.cn/13/2851077.html",
+        "PublishTime": "2019-07-15 14:35:00",
+        "EmotionType": "positive",
+        "Category": "3200",
+        "NewsTags": "战略,优化,报告,增长"
+      },
+      {
+        "Id": "f04f74ec-5d11-413e-8a08-876ebbe96c14",
+        "NewsId": "fb44dd0cc07db449239cc34daf668da8",
+        "Source": "食品商务网",
+        "Title": "今日食事热点：茅台营收超400亿、贝因美预亏损破亿",
+        "Url": "https://news.21food.cn/35/2851058.html",
+        "PublishTime": "2019-07-15 09:36:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "东阿阿胶,功能性饮料,百威英博,乳制品"
+      },
+      {
+        "Id": "e45d79f0-5d10-4b4c-b89a-b6d2791c8585",
+        "NewsId": "939ac4e79a57650a998ce1458034b649",
+        "Source": "贤集网",
+        "Title": "盐津铺子上半年净利预增逾五成 开发新品类已成有力增长点",
+        "Url": "https://www.xianjichina.com/special/detail_410458.html",
+        "PublishTime": "2019-07-15 00:00:00",
+        "EmotionType": "positive",
+        "Category": "3200,5000",
+        "NewsTags": "盐津铺子,产品结构,素食,收获期,单店"
+      },
+      {
+        "Id": "87a02246-cafc-41da-9e5c-22aa5a887d4d",
+        "NewsId": "5719bfa24e983ee5ea445af6b9274c28",
+        "Source": "挖贝网",
+        "Title": "盐津铺子2019年上半年盈利6000万元-7000万元 比上年同期增长53%－79%",
+        "Url": "http://www.wabei.cn/Home/News/60863",
+        "PublishTime": "2019-07-14 18:46:00",
+        "EmotionType": "positive",
+        "Category": "3200",
+        "NewsTags": "盐津铺子,announcementTime,orgId,stockCode,announcementId"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

@@ -1,0 +1,224 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820163940421106",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 426
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 171
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 13
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 7
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 1
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 40
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 125
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 60
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 30
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 59
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 42
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 4
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 15
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 7
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 36
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 316
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 74
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "e5c59c77-e72b-479b-8175-841a8de24b40",
+        "NewsId": "505211084838fa93021efcc083cec93a",
+        "Source": "证券时报",
+        "Title": "兰州庄园牧场股份有限公司关于提前归还补充流动资金的募集资金的公告",
+        "Url": "http://www.sohu.com/a/327326509_115433",
+        "PublishTime": "2019-07-17 02:47:00",
+        "EmotionType": "none",
+        "Category": "3100",
+        "NewsTags": "保荐,董事会,归还,证券报,审议"
+      },
+      {
+        "Id": "68812e58-b1d2-4b47-80b2-dea66f990e85",
+        "NewsId": "62b4b3eaf99dc0baa12e8a5fe54084e4",
+        "Source": "港股挖掘机",
+        "Title": "庄园牧场(01533)已将暂时补充流动资金的1亿元全部归还至募集资金专用账户",
+        "Url": "http://www.sohu.com/a/327259723_323087",
+        "PublishTime": "2019-07-16 19:15:00",
+        "EmotionType": "negative",
+        "Category": "3100",
+        "NewsTags": "募集资金,智通财经APP,保荐,归还"
+      },
+      {
+        "Id": "9213aebb-8d93-4811-ab48-be16bb082e0f",
+        "NewsId": "d9971918f68a78e3bc5e586b065995f1",
+        "Source": "港股挖掘机",
+        "Title": "庄园牧场(01533)向激励对象授予限制性A股334.06万股",
+        "Url": "http://www.sohu.com/a/326393424_323087",
+        "PublishTime": "2019-07-12 16:31:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "智通财经APP,发行"
+      },
+      {
+        "Id": "bed22dc3-9d78-426b-8462-61b1b653a373",
+        "NewsId": "ad9f36bdb56acca70d9fb261768e1eac",
+        "Source": "搜狐财经",
+        "Title": "兰州庄园牧场股份有限公司关于2018年年度报告更正的补充公告 ",
+        "Url": "http://www.sohu.com/a/326252435_115433",
+        "PublishTime": "2019-07-12 01:59:00",
+        "EmotionType": "negative",
+        "Category": "3300",
+        "NewsTags": "收到,证券报"
+      },
+      {
+        "Id": "212f1f08-ba3a-45cc-aab9-a1deca2b24f5",
+        "NewsId": "5ce546ad6a3b85754ce9633d06bf8e19",
+        "Source": "吉林电视台",
+        "Title": "新型农业经营主体带头人孙中明：“养牛大王”变形记",
+        "Url": "http://www.jlntv.cn/folder2228/folder2229/folder2702/2019-07-09/934758.html",
+        "PublishTime": "2019-07-09 13:07:00",
+        "EmotionType": "positive",
+        "Category": "5000",
+        "NewsTags": "孙中明,牧场,奶制品,农业,吉林省"
+      },
+      {
+        "Id": "fba74b62-2dd7-4bde-b197-c092d87cf5ba",
+        "NewsId": "9dbc4eaae5bb1d06ab8903b17584cbae",
+        "Source": "搜狐财经",
+        "Title": "庄园牧场(01533)：授予84名激励对象334.06万股A股 ",
+        "Url": "http://www.sohu.com/a/325513536_323087",
+        "PublishTime": "2019-07-08 16:29:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "智通财经APP,激励计划,庄园牧场,股份有限"
+      },
+      {
+        "Id": "5318eb74-a31a-436f-8f65-aaafd32e6b78",
+        "NewsId": "935dd56a27f4b03159f34d99554d7dce",
+        "Source": "北极星环保网",
+        "Title": "531家 甘肃省2019年重点排污单位名录",
+        "Url": "http://huanbao.bjx.com.cn/news/20190708/991022.shtml",
+        "PublishTime": "2019-07-08 08:38:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "污水处理厂,股份有限,兰州,徽县,西和县"
+      },
+      {
+        "Id": "f5885822-504c-4948-8342-dc7b049b15ec",
+        "NewsId": "77449f8d8d9249fd8e4dcfe56ec7d258",
+        "Source": "智通财经",
+        "Title": "智通港股通占比异动统计|7月5日",
+        "Url": "https://www.zhitongcaijing.com/content/detail/217446.html",
+        "PublishTime": "2019-07-08 08:35:00",
+        "EmotionType": "none",
+        "Category": "3600,3700",
+        "NewsTags": "6.71,金山软件,山东黄金,0.20,0.07"
+      },
+      {
+        "Id": "aae6f840-eb95-4705-8c3f-11bd266f27a2",
+        "NewsId": "d16a648f4a3236e21fcfb7cbc1cbd119",
+        "Source": "智通财经",
+        "Title": "智通港股通占比异动统计|7月4日",
+        "Url": "https://www.zhitongcaijing.com/content/detail/217030.html",
+        "PublishTime": "2019-07-05 08:35:00",
+        "EmotionType": "none",
+        "Category": "3600,3700",
+        "NewsTags": "0.24,0.17,山东黄金,0.51,0.11"
+      },
+      {
+        "Id": "9ec7923e-e93b-40ee-892c-fa78b12ccaeb",
+        "NewsId": "fca87afc0f560f853121c42071b02bc8",
+        "Source": "人民网",
+        "Title": "先进制造业暨工业互联网高峰论坛在兰州召开",
+        "Url": "http://www.sohu.com/a/324891523_114731",
+        "PublishTime": "2019-07-05 01:08:00",
+        "EmotionType": "positive",
+        "Category": "2800",
+        "NewsTags": "兰州市,合作协议,股份有限,材料,发展"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

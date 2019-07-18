@@ -1,0 +1,259 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820013093802406",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 958
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 317
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 3
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 22
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 19
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 9
+          },
+          {
+            "Value": "2200",
+            "Desc": "贪污受贿",
+            "Count": 2
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 83
+          },
+          {
+            "Value": "2500",
+            "Desc": "环保处罚",
+            "Count": 1
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 1
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 2
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 6
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 126
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 291
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 251
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 235
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 6
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 129
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 67
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 34
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 73
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 92
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 202
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 411
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 345
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "ed6f5922-d784-4085-b36c-b75c13d30e1c",
+        "NewsId": "5f21ff14434b200f1ac095c85eaac51f",
+        "Source": "百家号",
+        "Title": "彩云香辛料见证宁乡经开区食品产业链发展 “美味供应链”关联企业超百家",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9580925916683711683%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-07-15 15:21:38",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "宁乡经开区,加加食品,美味,园区,食品行业"
+      },
+      {
+        "Id": "7ec789a5-ec93-4945-9e28-bcfb791f72eb",
+        "NewsId": "11d8845f1d3cde44d30bc7e5ec2cd074",
+        "Source": "搜狐财经",
+        "Title": "处于历史最高估值期间，怎么看酱油老大的投资价值？ ",
+        "Url": "http://www.sohu.com/a/326767789_313170",
+        "PublishTime": "2019-07-14 14:22:00",
+        "EmotionType": "positive",
+        "Category": "3200,3300,3400,4000",
+        "NewsTags": "海天,调味品,酱油,占比,料酒"
+      },
+      {
+        "Id": "becc29ef-1c7c-480e-8875-08715dac1153",
+        "NewsId": "262d75e99425296e737f922c32c10519",
+        "Source": "新浪网",
+        "Title": "酱醋江湖竞争充分 扎根西南的千禾味业以何自立？",
+        "Url": "https://finance.sina.com.cn/stock/s/2019-07-11/doc-ihytcitm1342081.shtml",
+        "PublishTime": "2019-07-11 18:43:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "千禾味业,酱油,海天味业,中炬高新,增速"
+      },
+      {
+        "Id": "85bdb76b-52a1-4ccb-8687-89de7228603d",
+        "NewsId": "e5ddad05905826cfe9a666e8f500ddd0",
+        "Source": "慢钱头条",
+        "Title": "低价名单(有补涨潜力)！",
+        "Url": "http://toutiao.manqian.cn/wz_5b1JJxnEuvh.html",
+        "PublishTime": "2019-07-11 00:00:00",
+        "EmotionType": "negative",
+        "Category": "3300",
+        "NewsTags": "低价股,加加食品,汉宇集团,食品饮料,补涨"
+      },
+      {
+        "Id": "9bcc2d83-2f07-4460-a600-44bec1f2d0d8",
+        "NewsId": "af6ba8543e2669af3a018759f4cbc48d",
+        "Source": "同花顺财经",
+        "Title": "酱油第一股 加加食品为何“越活越回去”",
+        "Url": "http://stock.10jqka.com.cn/20190710/c612430699.shtml",
+        "PublishTime": "2019-07-10 16:30:00",
+        "EmotionType": "negative",
+        "Category": "2300,3200,3300,3400,3600",
+        "NewsTags": "加加食品,金枪鱼钓,卓越投资,杨振,海天味业"
+      },
+      {
+        "Id": "24cfb6f2-a60b-426f-864a-81d7ff992d7a",
+        "NewsId": "c6b577b1c6fb6dead93f0a79546de10a",
+        "Source": "百家号",
+        "Title": "加加食品7月8日盘中跌停",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9873975005805733411%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-07-08 13:43:23",
+        "EmotionType": "negative",
+        "Category": "0000",
+        "NewsTags": "加加食品,净流出,主力资金"
+      },
+      {
+        "Id": "208694d7-9197-403c-bd5c-352dcae408be",
+        "NewsId": "2852d7bd107c85b47ce7c0a61e9fe5af",
+        "Source": "金融界",
+        "Title": "7月8日午盘两市机构大单抛盘40股(名单)",
+        "Url": "http://www.sohu.com/a/325527980_114984",
+        "PublishTime": "2019-07-08 11:30:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "0.095,0.0020,ST,5.58,0.031"
+      },
+      {
+        "Id": "5b02f7d3-7557-49e1-807d-0832bfae1bbf",
+        "NewsId": "2848ae73cc434216320bad85784771f3",
+        "Source": "雪球",
+        "Title": "打酱油双雄，海天味业和千禾味业财务对比",
+        "Url": "http://www.sohu.com/a/325215007_100034414",
+        "PublishTime": "2019-07-06 17:29:00",
+        "EmotionType": "negative",
+        "Category": "3200",
+        "NewsTags": "酱油,海天味业,千禾味业,存货周转,毛利率"
+      },
+      {
+        "Id": "9c381477-1130-4e7b-9bbd-460f851a06c8",
+        "NewsId": "ba4946d90403693e0333dcd19564dfa3",
+        "Source": "搜狐财经",
+        "Title": "加加食品集团股份有限公司关于公司及控股股东被中国证监会立案调查进展暨风险提示的公告 ",
+        "Url": "http://www.sohu.com/a/325117050_115433",
+        "PublishTime": "2019-07-06 02:48:00",
+        "EmotionType": "none",
+        "Category": "2300,3100",
+        "NewsTags": "深圳证券交易所股票上市规则,控股股东,公司股票,中国证监会,公告"
+      },
+      {
+        "Id": "d276b596-cba6-4d0d-8c44-293210ec0e58",
+        "NewsId": "a7be6f47f2f76f3432ea659ad0f081a1",
+        "Source": "时讯网",
+        "Title": "亏哭，看不下去了",
+        "Url": "http://www.shixunwan.cn/article/1562326049719001/",
+        "PublishTime": "2019-07-05 19:19:00",
+        "EmotionType": "negative",
+        "Category": "3600,3700",
+        "NewsTags": "金冠股份,泰晶科技,减持,炸板,军工"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

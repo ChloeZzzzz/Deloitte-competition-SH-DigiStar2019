@@ -1,0 +1,254 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821174048374754",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 949
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 285
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 16
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 107
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 8
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 6
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 13
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 5
+        },
+        {
+          "Value": "2500",
+          "Desc": "环保处罚",
+          "Count": 2
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 6
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 33
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 39
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 362
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 137
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 123
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 2
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 40
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 23
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 1
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 99
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 154
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 74
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 307
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 568
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "33c9465d-09f4-4a0c-aac8-a73fbc571af6",
+      "NewsId": "a65cab002dc3e22b2c0c958268fccf16",
+      "Source": "运营商财经网",
+      "Title": "光明乳业雪糕产品被查出菌落超标  到底是哪个环节出了错？",
+      "Url": "http://www.sohu.com/a/327616413_452858",
+      "PublishTime": "2019-07-18 09:07:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "不合格,菌落总数,光明乳业,生产"
+    },
+    {
+      "Id": "4f34fa37-f090-4641-b917-5b565c4dc068",
+      "NewsId": "59038f02430ca40dc9c61a1708b58c49",
+      "Source": "汉网",
+      "Title": "创新与责任，传递光明力量 光明乳业参展2019中国（北京）国际妇女儿童产业博览会",
+      "Url": "http://news.cnhan.com/html/guonei/20190717/1028129.htm",
+      "PublishTime": "2019-07-17 17:07:00",
+      "EmotionType": "positive",
+      "Category": "4000",
+      "NewsTags": "光明乳业,社会责任,奶酪,展位,观展"
+    },
+    {
+      "Id": "126740a9-ff0c-4496-a75d-7cef9e3337d5",
+      "NewsId": "65d1b8742025cc10c6cd07b402c2a2ab",
+      "Source": "IT数码之家",
+      "Title": "光明乳业代表团参加第十届中国奶业大会 暨2019中国奶业展览会",
+      "Url": "http://www.sohu.com/a/270448391_175007",
+      "PublishTime": "2019-07-17 17:02:00",
+      "EmotionType": "positive",
+      "Category": "5000",
+      "NewsTags": "光明乳业,濮韶华,唐新仁,牛奶,大白兔"
+    },
+    {
+      "Id": "15251672-8b0a-472e-990b-af273f01d17b",
+      "NewsId": "4c31e91e4f6bb31d3c8fc4eb2dd3fe17",
+      "Source": "每日食讯",
+      "Title": "光明雪糕微生物超标 上海市市场监管局：冰柜制冷系统发生障碍导致",
+      "Url": "http://www.sohu.com/a/327214762_374874",
+      "PublishTime": "2019-07-16 16:06:00",
+      "EmotionType": "negative",
+      "Category": "3400",
+      "NewsTags": "CFU,菌落总数,样品,光明乳业,25000cfu"
+    },
+    {
+      "Id": "6ebd49c0-c3fc-4363-8a99-74286f509b06",
+      "NewsId": "f6a88d9df6ae1a19a587be50482c19dd",
+      "Source": "贤集网",
+      "Title": "我国乳制品行业生产现状、市格格局与发展趋势",
+      "Url": "https://www.xianjichina.com/news/details_135528.html",
+      "PublishTime": "2019-07-16 14:12:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "牧场,脱脂奶粉,奶源,自热,婴幼儿"
+    },
+    {
+      "Id": "7137958a-2746-413c-9edc-019e78e8c7ab",
+      "NewsId": "082b1f4f1b17c71b2067e804f2dfc9f1",
+      "Source": "每日经济新闻",
+      "Title": "“科技创新、消费升级” 第十七届中国MBA创业大赛落幕：清华大学“镁伽机器人”项目夺冠",
+      "Url": "http://www.sohu.com/a/326936995_115362",
+      "PublishTime": "2019-07-15 13:41:00",
+      "EmotionType": "positive",
+      "Category": "3300,5000",
+      "NewsTags": "参赛,常规赛,赛区,资本,合伙人"
+    },
+    {
+      "Id": "b5cc5339-f165-4e53-b492-ef497c387253",
+      "NewsId": "ce573e43d556b48fa7095615e099a698",
+      "Source": "朝闻天下",
+      "Title": "《文汇报》对光明乳业专题报道：两个拳头品牌的乘法口诀",
+      "Url": "http://news.newstx.cn/news/2019/0715/10794.html",
+      "PublishTime": "2019-07-15 10:52:00",
+      "EmotionType": "none",
+      "Category": "5000",
+      "NewsTags": "光明乳业,冷饮,濮韶华,跨界,品牌"
+    },
+    {
+      "Id": "0365bb58-c714-44df-a39c-8ec83a1722a5",
+      "NewsId": "47deac063529bc2a87440493a932bd7c",
+      "Source": "金融界财经频道",
+      "Title": "追溯体系为国产乳制品保驾护航",
+      "Url": "http://finance.jrj.com.cn/2019/07/15071027839577.shtml",
+      "PublishTime": "2019-07-15 07:10:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "光明乳业,乳制品,乳品,产品,扫码"
+    },
+    {
+      "Id": "80ba4e2f-3e83-4b9c-9c2d-fd00637872f1",
+      "NewsId": "a1662ffce599f57919f08950c72521bc",
+      "Source": "时讯网",
+      "Title": "现场直击 | 伊利、蒙牛、光明、现代牧业、君乐宝……D20企业同台竞秀，快来为中国奶业最强天团点赞",
+      "Url": "http://www.shixunwan.cn/article/1562961807934001/",
+      "PublishTime": "2019-07-13 04:02:00",
+      "EmotionType": "positive",
+      "Category": "3200,4000",
+      "NewsTags": "同比增长,奶业,奶牛,奶粉,乳制品"
+    },
+    {
+      "Id": "b706421f-555d-41c8-939d-78ddaf0e46a4",
+      "NewsId": "40e55d150936a722e99f83af59351c77",
+      "Source": "时讯网",
+      "Title": "“中华老字号”名录大全",
+      "Url": "http://www.shixunwan.cn/article/1562958753553001/",
+      "PublishTime": "2019-07-13 03:07:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "注册商标,股份有限,酒业,上海,集团"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

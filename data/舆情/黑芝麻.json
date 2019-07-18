@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071819404187955312",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 623
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 196
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 3
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 25
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 12
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 3
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 2
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 7
+        },
+        {
+          "Value": "2900",
+          "Desc": "偷税漏税",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 71
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 243
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 187
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 162
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 3
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 84
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 6
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 16
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 38
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 81
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 67
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 296
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 260
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "52cb3124-2017-4547-acd3-2ba1dc446992",
+      "NewsId": "0b135307ca2ea10c054389e3fb5dfb9f",
+      "Source": "百家号",
+      "Title": "黑芝麻被疑隐瞒大额关联交易，收到深交所关注函",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_10333137624341257038%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-18 19:19:19",
+      "EmotionType": "negative",
+      "Category": "3200",
+      "NewsTags": "黑芝麻,大额,盛代,奇遇记,深交所"
+    },
+    {
+      "Id": "6368eac9-e5a8-47f0-9350-ebdbde8f215f",
+      "NewsId": "85488aaeb4a76e2eddbdc24ba7f00d71",
+      "Source": "百家号",
+      "Title": "黑芝麻：拟回购不低于3000万元公司股份",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_8689644834553121345%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-18 14:05:55",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "回购股份,股份总数,黑芝麻,数量"
+    },
+    {
+      "Id": "92a64113-76e0-4bf6-a3c0-ba7c22c3348d",
+      "NewsId": "644116b5000026e494e331461b0445ea",
+      "Source": "东方财富网",
+      "Title": "南方黑芝麻集团股份有限公司第九届董事会2019年第七次临时会议决议公告",
+      "Url": "http://finance.eastmoney.com/a/201907181181757993.html",
+      "PublishTime": "2019-07-18 10:08:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "回购股份,董事会,弃权,股东大会,表决"
+    },
+    {
+      "Id": "e396775c-67f4-4669-bd92-25e2c8e1bc04",
+      "NewsId": "bacd656b2b661e3f8d9c5d62c83614f2",
+      "Source": "东方财富网",
+      "Title": "南方黑芝麻集团股份有限公司关于为下属子公司提供担保的公告",
+      "Url": "http://finance.eastmoney.com/a/201907111175827660.html",
+      "PublishTime": "2019-07-11 14:38:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "股份有限,子公司,0.0177,董事会,审计"
+    },
+    {
+      "Id": "2200ec1f-50a0-45ff-ad8d-2ad738d82b4c",
+      "NewsId": "eb96c4e82289ea6fd34e350b53b027f7",
+      "Source": "东方财富网",
+      "Title": "南方黑芝麻集团股份有限公司关于向银行申请综合授信额度的公告",
+      "Url": "http://finance.eastmoney.com/a/201907111175818621.html",
+      "PublishTime": "2019-07-11 14:32:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "授信额度,董事会,银行,总额,公告"
+    },
+    {
+      "Id": "5b5cb526-2873-4e20-9c2b-5f5692da5a6c",
+      "NewsId": "551e82bc2374f70c6c02320e640c23af",
+      "Source": "东方财富网",
+      "Title": "南方黑芝麻集团股份有限公司第九届董事会2019年第六次临时会议决议公告",
+      "Url": "http://finance.eastmoney.com/a/201907111175785554.html",
+      "PublishTime": "2019-07-11 14:15:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "授信额度,表决,议案,担保,公告"
+    },
+    {
+      "Id": "d74e64f1-ed2e-4fee-a7ee-a7463e5bf936",
+      "NewsId": "7bf00a2b7db6a8e1985b8ea9796a7d88",
+      "Source": "搜狐财经",
+      "Title": "天夏智慧城市科技股份有限公司关于选举第九届监事会职工代表监事的公告 ",
+      "Url": "http://www.sohu.com/a/325806277_115433",
+      "PublishTime": "2019-07-10 04:17:00",
+      "EmotionType": "none",
+      "Category": "1200",
+      "NewsTags": "议案,投票,提名,天夏智慧,股东大会"
+    },
+    {
+      "Id": "48b7fc88-3ae5-48db-97ea-8cab95df01bd",
+      "NewsId": "9553a646f33d6a4b0bf53bb10f0fa88f",
+      "Source": "百家号",
+      "Title": "靠“糊”吃饭的南方黑芝麻，寻求出路，却屡屡失败",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9947725903554944091%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-06-27 17:23:00",
+      "EmotionType": "none",
+      "Category": "3200,5000",
+      "NewsTags": "南方黑芝麻,主打产品,范冰冰,营养,食品"
+    },
+    {
+      "Id": "43da6754-3117-4593-b378-5aad49397424",
+      "NewsId": "ff3bb3d9dd350f69da113eeed86e2720",
+      "Source": "时讯网",
+      "Title": "股价异动：黑芝麻(000716)大幅拉升，成交量放大",
+      "Url": "http://www.shixunwan.cn/article/1561162172124001/",
+      "PublishTime": "2019-06-22 07:53:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "黑芝麻,ST,日线,皇氏集团,振幅"
+    },
+    {
+      "Id": "e02d0fed-ad8e-4b1b-9672-325e8fdeca6d",
+      "NewsId": "dd55de2faa6f2f1bb2b44ba00c4573b4",
+      "Source": "时讯网",
+      "Title": "南方黑芝麻集团股份有限公司关于股改限售股份上市流通公告",
+      "Url": "http://www.shixunwan.cn/article/1560712693756001/",
+      "PublishTime": "2019-06-17 03:12:00",
+      "EmotionType": "none",
+      "Category": "3300,3600",
+      "NewsTags": "股权分置,非流通股,广西,偿还,解除"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

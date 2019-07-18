@@ -1,0 +1,259 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821213625687824",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 4998
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 1961
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 61
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 182
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 48
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 56
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 81
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 13
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 14
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 8
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 22
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 88
+        },
+        {
+          "Value": "2900",
+          "Desc": "偷税漏税",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 140
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 1585
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 835
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 356
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 20
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 238
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 106
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 12
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 549
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 503
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 476
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 1668
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 2854
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "659edab3-6954-4197-b69c-d5e1d8ed8367",
+      "NewsId": "4eebbb10d5beca0eb3552a00ac0f4189",
+      "Source": "中国创新网",
+      "Title": "全球大健康联盟主席刘东明和露露董事长鲁永明论道品牌聚集战略",
+      "Url": "http://www.chinahightech.com/html/Info/huizhan/2019/0718/535682.html",
+      "PublishTime": "2019-07-18 16:51:00",
+      "EmotionType": "positive",
+      "Category": "1200,4000",
+      "NewsTags": "东阿阿胶,承德露露,董事长,总裁班,万向"
+    },
+    {
+      "Id": "cea3812e-772b-4254-8f57-e0145c781de0",
+      "NewsId": "070f8e174ca71c2c06b985a7bc25c0b2",
+      "Source": "中国银河证券",
+      "Title": "伊利股份(600887)短期融资券发行 总额为10亿元",
+      "Url": "http://www.chinastock.com.cn/yhwz_about.do?methodCall=getDetailInfo&docId=6887580",
+      "PublishTime": "2019-07-18 00:00:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "伊利股份,健康饮品,短期融资券,面值,SCP004"
+    },
+    {
+      "Id": "5045d9bd-2863-49ba-b4b8-b1b5af0b5723",
+      "NewsId": "e81c46c28d4afd4720bb1775d00fb72b",
+      "Source": "证券时报网",
+      "Title": "渤海证券：食品饮料行业依然发展稳健 大部分公司呈良性发展态势",
+      "Url": "http://kuaixun.stcn.com/2019/0718/15259788.shtml",
+      "PublishTime": "2019-07-18 00:00:00",
+      "EmotionType": "none",
+      "Category": "3200",
+      "NewsTags": "白酒,确定性,建议,板块,业绩"
+    },
+    {
+      "Id": "ff488de7-0bdd-4592-956c-b9ccc07e6e29",
+      "NewsId": "812143b60412580b7065d49959aed533",
+      "Source": "东方财富网",
+      "Title": "重仓股曝光！如何跟着明星基金经理买买买？",
+      "Url": "http://fund.eastmoney.com/a/201907171180845867.html",
+      "PublishTime": "2019-07-17 14:47:00",
+      "EmotionType": "none",
+      "Category": "3600",
+      "NewsTags": "季报,披露,产品"
+    },
+    {
+      "Id": "ddcac64b-126f-451a-8b97-51dc2cd0fb71",
+      "NewsId": "038b92f3d0b02f6be4196c3aae238a53",
+      "Source": "中金在线",
+      "Title": "嘉实农业产业三主线把握风口 十大重仓股曝光",
+      "Url": "http://sc.stock.cnfol.com/zldongxiang/20190717/27591638.shtml",
+      "PublishTime": "2019-07-17 13:03:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "季度末,龙头,季报,回报,农业"
+    },
+    {
+      "Id": "d0e012a8-bfc9-4b81-84b4-074392b49c28",
+      "NewsId": "9467d234b25ded4b928cb5df377f48f7",
+      "Source": "百家号",
+      "Title": "「中国安心奖」2019评选正式启动 蝉联VS冲榜",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9194709722831908844%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-17 00:07:35",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "年度,安心,连锁,中国,电商"
+    },
+    {
+      "Id": "96d6177f-e849-4db2-b8ad-0c04b70fbebb",
+      "NewsId": "77121321e71fd4e84cf2c32a16f574a1",
+      "Source": "慢钱头条",
+      "Title": "一枚散户的自选股观察名单更新20190716",
+      "Url": "http://toutiao.manqian.cn/wz_5cZiz92PKNV.html",
+      "PublishTime": "2019-07-17 00:00:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "上海机场,价格标签,轻套,苏泊尔,自选股"
+    },
+    {
+      "Id": "369ce24a-64b4-47ec-8006-08c023dd6bcd",
+      "NewsId": "2a2d1c2f5feb8a07f2c45d4d3718f5d3",
+      "Source": "每日经济新闻",
+      "Title": "郑眼看盘:支撑渐强 个股涨多跌少",
+      "Url": "http://www.sohu.com/a/327300625_115362",
+      "PublishTime": "2019-07-16 23:18:00",
+      "EmotionType": "negative",
+      "Category": "3100,3200",
+      "NewsTags": "科创板,白马股,微跌,伊利股份,中小创"
+    },
+    {
+      "Id": "7630b1bc-cea1-456a-a1f7-aa14a70606f1",
+      "NewsId": "855370bde1bd9211ef1281b72fd66f5b",
+      "Source": "金融界",
+      "Title": "7月16日两市机构大单抛盘40股(名单)",
+      "Url": "http://www.sohu.com/a/327277619_114984",
+      "PublishTime": "2019-07-16 15:00:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "0.0010,0.046,ST,0.025,0.042"
+    },
+    {
+      "Id": "34ba0306-6633-47c0-a46a-825b4d72fdf2",
+      "NewsId": "0a09e71d2fe224d64846e4425714818a",
+      "Source": "证券时报网",
+      "Title": "中信证券：消费整体向上趋势无疑 建议持续配置",
+      "Url": "http://kuaixun.stcn.com/2019/0716/15255170.shtml",
+      "PublishTime": "2019-07-16 00:00:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "消费,建议,持续,经济,数据"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

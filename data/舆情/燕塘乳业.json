@@ -1,0 +1,249 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820093116238887",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 711
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 281
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 3
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 24
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 21
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 3
+          },
+          {
+            "Value": "2200",
+            "Desc": "贪污受贿",
+            "Count": 2
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 5
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 8
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 17
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 67
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 211
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 123
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 37
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 5
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 32
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 15
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 1
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 91
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 62
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 106
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 278
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 327
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "b2823af9-ab8c-4440-aa41-e5394b8cbbdf",
+        "NewsId": "d623c9c83b988c14b04f50441d1c43cf",
+        "Source": "微信公众号",
+        "Title": "2018年度广东省“守合同重信用”企业公示名单",
+        "Url": "https://mp.weixin.qq.com/s?timestamp=1563185342&src=3&ver=1&signature=X9QN1TTE5AVbeOU06YGtFFCCxEKzepChGDNK*jZO33nb5cUxJsLZYCtrmVFJADZcsxDkB7CMeYPRHUCcobEVplmraX-9xtoZnUzX9Q6TGix2PMEDJ*Br9A2wTxBLLKfpdLAq6a7OFybkiezxqEKqDu6spVKzSDjVGI60PKJNFh8=",
+        "PublishTime": "2019-07-15 17:29:51",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "股份有限,广东省,咨询,集团,监理"
+      },
+      {
+        "Id": "4d6b3c11-fba9-4e16-9c1b-9db149315368",
+        "NewsId": "a1662ffce599f57919f08950c72521bc",
+        "Source": "时讯网",
+        "Title": "现场直击 | 伊利、蒙牛、光明、现代牧业、君乐宝……D20企业同台竞秀，快来为中国奶业最强天团点赞",
+        "Url": "http://www.shixunwan.cn/article/1562961807934001/",
+        "PublishTime": "2019-07-13 04:02:00",
+        "EmotionType": "positive",
+        "Category": "3200,4000",
+        "NewsTags": "同比增长,奶业,奶牛,奶粉,乳制品"
+      },
+      {
+        "Id": "82d870c4-de8d-4782-94d7-1e8210d125dc",
+        "NewsId": "0cac3914c7e0d0135d814bfb14adee4e",
+        "Source": "中金在线",
+        "Title": "李子园：供应商“黑料”缠身 产品质量显隐忧",
+        "Url": "http://news.cnfol.com/zhengquanyaowen/20190709/27578769.shtml",
+        "PublishTime": "2019-07-09 13:59:00",
+        "EmotionType": "negative",
+        "Category": "3100,3200",
+        "NewsTags": "食品,牧瑶,同比增长,股份有限,供应商"
+      },
+      {
+        "Id": "2c077b21-e9b6-4ab3-8b8b-beb3dc6d39d3",
+        "NewsId": "d4bf7e052cebf2d6ccaa01fbfa887281",
+        "Source": "新浪网",
+        "Title": "食品行业:乳制品上下游价格持续回升值得关注",
+        "Url": "http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/lastest/rptid/4633228/index.phtml",
+        "PublishTime": "2019-07-08 00:00:00",
+        "EmotionType": "positive",
+        "Category": "1200,3200,3300",
+        "NewsTags": "贵州茅台,华润怡宝,燕塘乳业,前三,仙居县"
+      },
+      {
+        "Id": "3189ed35-246e-48f7-abfa-7f5012cff7ce",
+        "NewsId": "fbfa29e04370c5c3b17f93d704906dc7",
+        "Source": "搜狐财经",
+        "Title": "燕塘(002732.SZ)发盈喜提涨停板，区域乳企如何复苏？ ",
+        "Url": "http://www.sohu.com/a/325010553_313170",
+        "PublishTime": "2019-07-05 15:12:00",
+        "EmotionType": "positive",
+        "Category": "3200,3600,3700",
+        "NewsTags": "燕塘乳业,增持,乳制品,乳品,梯队"
+      },
+      {
+        "Id": "4f9ab329-7555-4374-b9d4-5604ace4b9de",
+        "NewsId": "b611eaf5f36147bd69d14a5fdc995eaf",
+        "Source": "荣格食品饮料",
+        "Title": "FNBS2019，带您走进中国南方乳品生产旗舰工厂",
+        "Url": "http://www.sohu.com/a/324988790_99952024",
+        "PublishTime": "2019-07-05 10:56:00",
+        "EmotionType": "positive",
+        "Category": "5000",
+        "NewsTags": "包装,燕塘乳业,特医,食品饮料,股份有限"
+      },
+      {
+        "Id": "d45b7f05-7bdb-4b58-842d-796d8211b175",
+        "NewsId": "315d5ed20b5952b1db15958a88c4c7d4",
+        "Source": "同花顺财经",
+        "Title": "异动股揭秘：燕塘乳业业绩大幅预增 燕塘乳业触及涨停",
+        "Url": "http://yuanchuang.10jqka.com.cn/20190705/c612340950.shtml",
+        "PublishTime": "2019-07-05 10:02:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "燕塘乳业,后市,净利润,业绩"
+      },
+      {
+        "Id": "49884d1b-8b0a-4d23-9ac9-63ccb96b26d1",
+        "NewsId": "7642e6ce86c8c6d265c2cbbde30695e0",
+        "Source": "正北方网",
+        "Title": "赤峰市7家企业 参加广州国际食品食材展",
+        "Url": "http://www.northnews.cn/2019/0705/3109076.shtml",
+        "PublishTime": "2019-07-05 09:33:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "农畜产品,参展,展览会,赤峰市,零售商"
+      },
+      {
+        "Id": "61cdf800-79e3-47fd-8666-1949cdf489f4",
+        "NewsId": "bcf1c00e013a04c92f8cd97878ca605e",
+        "Source": "同花顺财经",
+        "Title": "燕塘乳业：2019年半年度业绩预增45%至 60%",
+        "Url": "http://www.sohu.com/a/324836871_161117",
+        "PublishTime": "2019-07-04 18:43:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": ""
+      },
+      {
+        "Id": "c2f75f67-03b2-411e-9279-19e59006c94c",
+        "NewsId": "4ff51bff93c387cd64645e0b858d5f3d",
+        "Source": "证券时报网",
+        "Title": "燕塘乳业：上半年净利预增45%-60%",
+        "Url": "http://kuaixun.stcn.com/2019/0704/15231001.shtml",
+        "PublishTime": "2019-07-04 00:00:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": ""
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

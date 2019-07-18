@@ -1,0 +1,249 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820201023563733",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 631
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 271
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 18
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 10
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 2
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 8
+          },
+          {
+            "Value": "2400",
+            "Desc": "垄断信息",
+            "Count": 3
+          },
+          {
+            "Value": "2500",
+            "Desc": "环保处罚",
+            "Count": 2
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 6
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 99
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 99
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 109
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 58
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 2
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 60
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 21
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 10
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 86
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 43
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 41
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 264
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 326
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "d4eb6cea-87a4-44eb-b702-4dbd772dc227",
+        "NewsId": "bd7aafddc27bf260b1d6fd8ce41c0f20",
+        "Source": "饲料市场",
+        "Title": "头条‖2019畜牧饲料峰会暨济南市饲料协会四届一次会员大会/山东省绿色无抗饲料联盟蛋禽分盟泉城高峰论",
+        "Url": "http://www.sohu.com/a/327296234_785860",
+        "PublishTime": "2019-07-16 21:00:00",
+        "EmotionType": "positive",
+        "Category": "4000",
+        "NewsTags": "颁牌,博士,董事长,颁奖,股份有限"
+      },
+      {
+        "Id": "86c6ee08-5c8f-4816-9ada-77b14549a1b3",
+        "NewsId": "4645dc609c53911d93e06f4eadb888f9",
+        "Source": "同花顺财经",
+        "Title": "溢多利将于7月19日解禁4658.11万股",
+        "Url": "http://yuanchuang.10jqka.com.cn/20190715/c612526365.shtml",
+        "PublishTime": "2019-07-15 21:02:00",
+        "EmotionType": "none",
+        "Category": "3100",
+        "NewsTags": "解禁,比例"
+      },
+      {
+        "Id": "11f68e75-e7c3-4859-9be5-13cab353e594",
+        "NewsId": "f22923f2ec458bd720f453b6e26577a8",
+        "Source": "中国银河证券",
+        "Title": "溢多利(300381)2019年上半年净利3133万—3446万 医药板块受第一季度停限产",
+        "Url": "http://www.chinastock.com.cn/yhwz_about.do?methodCall=getDetailInfo&docId=6875317",
+        "PublishTime": "2019-07-11 00:00:00",
+        "EmotionType": "none",
+        "Category": "3200,5000",
+        "NewsTags": "生物技术,溢多利,报告期内,业绩,净利润"
+      },
+      {
+        "Id": "1f7b215f-6115-4a19-a225-63066f459baa",
+        "NewsId": "dd37193409bb46f1e8dd3eb290f00221",
+        "Source": "同花顺财经",
+        "Title": "溢多利预计2019年半年度净利润同比变动0%至10%",
+        "Url": "http://yuanchuang.10jqka.com.cn/20190710/c612440794.shtml",
+        "PublishTime": "2019-07-10 20:12:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "报告期内,上市公司股东,净利润,板块,盈利"
+      },
+      {
+        "Id": "e164e3c2-fb27-402a-a973-eb1e6e2ade50",
+        "NewsId": "9413296185bd8814cffb350bff9e09aa",
+        "Source": "财富动力",
+        "Title": "我武生物（300357）股票怎么样 我武生物公司基本信息一览",
+        "Url": "http://www.927953.com/gp/gsyj/457341.html",
+        "PublishTime": "2019-05-27 10:38:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "我武生物,脱敏,艾德生物,交大昂立,正海生物"
+      },
+      {
+        "Id": "fb162e78-a0ac-4a44-8cd4-a2d6f150a4cb",
+        "NewsId": "0dbca4bdec40f1de555e0203c220a2ad",
+        "Source": "魅力新湖南",
+        "Title": "湖南常德| 屈俊：和机器做朋友的理工男",
+        "Url": "http://www.sohu.com/a/314648173_100110679?sec=wd",
+        "PublishTime": "2019-05-17 17:42:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "屈俊,氢化可的松,动漫,原料药,中间体"
+      },
+      {
+        "Id": "87350d48-ee41-46f8-a602-0f7931263b3d",
+        "NewsId": "71c32bdb2a014795d16c1342fc088fb8",
+        "Source": "东方财富网",
+        "Title": "溢多利：同冠管理拟减持不超1.08%股份",
+        "Url": "http://finance.eastmoney.com/a/201905131121286193.html",
+        "PublishTime": "2019-05-13 20:31:00",
+        "EmotionType": "none",
+        "Category": "3600,3700",
+        "NewsTags": "同冠,管理"
+      },
+      {
+        "Id": "01dfb1fd-0203-4c9f-bf1a-7000bc78045d",
+        "NewsId": "a5fe1ffa0b6487a967dcc36cb1d88a1d",
+        "Source": "新浪网",
+        "Title": "溢多利现1笔大宗交易 共成交1,804.00万元",
+        "Url": "https://finance.sina.com.cn/stock/ggzz/2019-05-10/doc-ihvhiqax7853406.shtml",
+        "PublishTime": "2019-05-10 16:40:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "证券营业部,股份有限,成交"
+      },
+      {
+        "Id": "34e3cb1b-e7ff-41a6-a6ae-39f5f3f7deca",
+        "NewsId": "21f6e217327a2ee97c8474b4002f0d00",
+        "Source": "中证网",
+        "Title": "仙琚制药2018年净利润同比增长45.85%",
+        "Url": "http://www.cs.com.cn/ssgs/gsxw/201904/t20190425_5943548.html",
+        "PublishTime": "2019-04-25 08:33:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "甾体激素,同比增长,类药物,皮质激素类,仙琚制药"
+      },
+      {
+        "Id": "4d088555-3b62-4ce7-a6a3-de1e3ecb4375",
+        "NewsId": "76955bd19c16f9438446ab4fc1531d25",
+        "Source": "潮起",
+        "Title": "仙琚制药2018年净利润同比增长45.85%…",
+        "Url": "https://www.chaoqi.net/caijing/2019/0425/198206.html",
+        "PublishTime": "2019-04-25 00:00:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "甾体激素,同比增长,类药物,仙琚制药,皮质激素类"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }
