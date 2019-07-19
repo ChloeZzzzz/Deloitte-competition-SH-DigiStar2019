@@ -1,0 +1,713 @@
+{
+  "OrderNumber": "ECI2019071823503856483282",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2018-10-10",
+        "CaseNo": "JY13101070091260"
+      },
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2018-10-10",
+        "CaseNo": "JY13101140032721"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2018-07-26",
+        "CaseNo": "SC20231011401143"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2018-05-15",
+        "CaseNo": "c20231011401143"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2018-02-05",
+        "CaseNo": "JDPX20180223"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2016-12-22",
+        "CaseNo": "2016JD0174"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2016-07-04",
+        "CaseNo": "9131000063207506XW"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2016-07-04",
+        "CaseNo": "jy13101140032721"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2014-11-12",
+        "CaseNo": "CY_2007010479"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2014-11-12",
+        "CaseNo": "沪餐证字2011310114060021"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2002-07-12",
+        "CaseNo": ""
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [
+      {
+        "CompanyId": "ed8f5dc1de5eb837d6ae2e95c0c02c51",
+        "RegistNo": "2720180095",
+        "Pledgor": "欧亚太集团有限公司",
+        "PledgorNo": "非公示项",
+        "Pledgee": "爱普香料集团股份有限公司",
+        "PledgeeNo": "9131000063207506XW",
+        "PledgedAmount": "250",
+        "RegDate": "2018-08-14",
+        "PublicDate": "2018-08-14",
+        "Status": "有效"
+      }
+    ],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "徐行所",
+        "Type": "抽查",
+        "Date": "2018-07-19",
+        "Consequence": "食品生产企业日常监督检查：未发现违法违规情况",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "嘉定区市场监管局",
+        "Type": "抽查",
+        "Date": "2017-10-25",
+        "Consequence": "食品生产企业日常监督检查：未发现违法违规情况",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "9131000063207506XW",
+        "Name": "爱普香料集团股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "9131000063207506XW",
+        "Name": "爱普香料集团股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "9131000063207506XW",
+        "Name": "爱普香料集团股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "31011463207506X",
+        "Name": "爱普香料集团股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "31011463207506X",
+        "Name": "爱普香料集团股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "爱普香料集团股份有限公司",
+        "Link": "http://www.cnaff.com",
+        "ImageUrl": "http://img.qichacha.com/Product/a3a38921-364a-4048-8cd2-f52709adfc87.jpg",
+        "Name": "爱普股份",
+        "Domain": "生活服务",
+        "Tags": "生活服务,食品,香精,食品添加剂",
+        "Description": "爱普香料集团股份有限公司是中国香精香料和食品添加剂行业最大的制造企业之一,研发、生产经营食用香精、烟草香精、日化香精、香料和食品配料五大系列产品。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "沪餐证字2011310114060021",
+        "LicensDocName": "",
+        "ValidityFrom": "2014-11-12",
+        "ValidityTo": "2017-11-11",
+        "LicensOffice": "上海市嘉定区市场监督管理局",
+        "LicensContent": "食堂:企事业食堂 不含熟食卤味"
+      },
+      {
+        "LicensDocNo": "PJSZX2015078",
+        "LicensDocName": "对企业技术中心的认定",
+        "ValidityFrom": "2016-01-01",
+        "ValidityTo": "2017-12-31",
+        "LicensOffice": "上海市经济和信息化委员会",
+        "LicensContent": "上海市市级企业技术中心"
+      },
+      {
+        "LicensDocNo": "沪WH安许证字[2016]0045",
+        "LicensDocName": "危险化学品安全生产许可证核发",
+        "ValidityFrom": "2016-05-04",
+        "ValidityTo": "2019-05-03",
+        "LicensOffice": "上海市安全生产监督管理局",
+        "LicensContent": "上海市嘉定区曹新公路33号（萜品油烯;含易燃溶剂的合成树脂、油漆、辅助材料、涂料等制品[闭杯闪点≤60℃](86.烟用香精、64.合成香料);）: : : :"
+      },
+      {
+        "LicensDocNo": "JY13101140032721",
+        "LicensDocName": "",
+        "ValidityFrom": "2016-07-04",
+        "ValidityTo": "2021-07-03",
+        "LicensOffice": "上海市嘉定区市场监督管理局",
+        "LicensContent": "01;0102"
+      },
+      {
+        "LicensDocNo": "02216775",
+        "LicensDocName": "上海市对外贸易经营者备案登记及变更",
+        "ValidityFrom": "2017-05-10",
+        "ValidityTo": "",
+        "LicensOffice": "上海市商务委员会",
+        "LicensContent": "变更"
+      },
+      {
+        "LicensDocNo": "JDPX20180223",
+        "LicensDocName": "排水许可证",
+        "ValidityFrom": "2018-02-05",
+        "ValidityTo": "2023-02-04",
+        "LicensOffice": "上海市嘉定区水务局",
+        "LicensContent": "核发排水许可证"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "魏中浩",
+        "StockType": "自然人股东",
+        "StockPercent": "47.18%",
+        "ShouldCapi": "5661",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "5661",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "上海馨宇投资管理有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "16.00%",
+        "ShouldCapi": "1920",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "1920",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "上海轶乐实业有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "5.55%",
+        "ShouldCapi": "666",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "666",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "王圣文",
+        "StockType": "自然人股东",
+        "StockPercent": "3.47%",
+        "ShouldCapi": "416",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "416",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "吴音",
+        "StockType": "自然人股东",
+        "StockPercent": "2.98%",
+        "ShouldCapi": "357",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "357",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "费文耀",
+        "StockType": "自然人股东",
+        "StockPercent": "2.98%",
+        "ShouldCapi": "357",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "357",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "张敏",
+        "StockType": "自然人股东",
+        "StockPercent": "2.75%",
+        "ShouldCapi": "330",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "330",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "周凤剑",
+        "StockType": "自然人股东",
+        "StockPercent": "2.00%",
+        "ShouldCapi": "240",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "240",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "胡勇成",
+        "StockType": "自然人股东",
+        "StockPercent": "1.87%",
+        "ShouldCapi": "224.4",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "224.4",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "梅国游",
+        "StockType": "自然人股东",
+        "StockPercent": "1.87%",
+        "ShouldCapi": "224.4",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "224.4",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "杜毅",
+        "StockType": "自然人股东",
+        "StockPercent": "1.70%",
+        "ShouldCapi": "204",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "204",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "王国桥",
+        "StockType": "自然人股东",
+        "StockPercent": "1.53%",
+        "ShouldCapi": "183.6",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "183.6",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "北京善驰投资咨询有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "1.50%",
+        "ShouldCapi": "180",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "180",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "上海新行建设投资有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "1.50%",
+        "ShouldCapi": "180",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "180",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "陈秋林",
+        "StockType": "自然人股东",
+        "StockPercent": "1.36%",
+        "ShouldCapi": "163.2",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "163.2",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "朱学胜",
+        "StockType": "自然人股东",
+        "StockPercent": "1.33%",
+        "ShouldCapi": "160",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "160",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "黄戡英",
+        "StockType": "自然人股东",
+        "StockPercent": "1.02%",
+        "ShouldCapi": "122.4",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "122.4",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "杨国华",
+        "StockType": "自然人股东",
+        "StockPercent": "0.68%",
+        "ShouldCapi": "81.6",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "81.6",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "张焕",
+        "StockType": "自然人股东",
+        "StockPercent": "0.51%",
+        "ShouldCapi": "61.2",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "61.2",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "徐耀忠",
+        "StockType": "自然人股东",
+        "StockPercent": "0.51%",
+        "ShouldCapi": "61.2",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "61.2",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "陈维",
+        "StockType": "自然人股东",
+        "StockPercent": "0.45%",
+        "ShouldCapi": "54",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "54",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "王苇",
+        "StockType": "自然人股东",
+        "StockPercent": "0.42%",
+        "ShouldCapi": "51",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "51",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "张炯",
+        "StockType": "自然人股东",
+        "StockPercent": "0.42%",
+        "ShouldCapi": "51",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "51",
+        "CapiDate": "2010-09-07"
+      },
+      {
+        "StockName": "张丽华",
+        "StockType": "自然人股东",
+        "StockPercent": "0.42%",
+        "ShouldCapi": "51",
+        "ShoudDate": "1995-06-28",
+        "InvestType": "其它",
+        "InvestName": "其它",
+        "RealCapi": "51",
+        "CapiDate": "2010-09-07"
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "魏中浩",
+        "Job": "董事长,总经理"
+      },
+      {
+        "Name": "黄健",
+        "Job": "董事"
+      },
+      {
+        "Name": "陶宁萍",
+        "Job": "董事"
+      },
+      {
+        "Name": "徐耀忠",
+        "Job": "董事"
+      },
+      {
+        "Name": "王众",
+        "Job": "董事"
+      },
+      {
+        "Name": "王鸿祥",
+        "Job": "董事"
+      },
+      {
+        "Name": "葛文斌",
+        "Job": "董事"
+      },
+      {
+        "Name": "王慧辰",
+        "Job": "董事"
+      },
+      {
+        "Name": "朱忠兰",
+        "Job": "董事"
+      },
+      {
+        "Name": "杨燕",
+        "Job": "监事"
+      },
+      {
+        "Name": "黄采鹰",
+        "Job": "监事"
+      },
+      {
+        "Name": "黄彦宾",
+        "Job": "监事"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "0a6abf75abf2a38d682090e4cd974527",
+        "RegNo": "913101066987852088",
+        "Name": "爱普香料集团股份有限公司第一分公司",
+        "BelongOrg": "静安区市场监管局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b02bee4a743cc330bd3f479042f4e60f",
+        "RegNo": "2101122202059",
+        "Name": "上海爱普香料有限公司沈阳分公司",
+        "BelongOrg": "沈阳市浑南区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "bf6c61541bb6ee0d12311af6897bacfa",
+        "RegNo": "4401032000806",
+        "Name": "上海爱普香料有限公司广州分公司",
+        "BelongOrg": "广州市工商行政管理局荔湾分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d5409d4edad9accfa467fe86e97dc578",
+        "RegNo": "94066990",
+        "Name": "上海爱普香料有限公司沈阳办事处",
+        "BelongOrg": "沈阳市和平区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "dac7640f9e3921b1ebc9ca653205397b",
+        "RegNo": "4400002290930",
+        "Name": "上海爱普香料有限公司广东分公司",
+        "BelongOrg": "广东省工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f70e466899887b9e68ee76b2d629cf6e",
+        "RegNo": "310108000152081",
+        "Name": "上海爱普香料有限公司销售分公司",
+        "BelongOrg": "静安区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2019-05-15章程备案",
+        "ChangeDate": "2019-06-20"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "王众；徐耀忠；朱忠兰；黄健；葛文斌；王慧辰；王鸿祥；魏中浩*；齐庆中【退出】",
+        "AfterContent": "魏中浩*；朱忠兰；陶宁萍【新增】；葛文斌；王众；黄健；王鸿祥；徐耀忠；王慧辰",
+        "ChangeDate": "2019-06-20"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "香精香料、调味料、食品添加剂(详见许可证)、日用化学品的生产,百货、食品添加剂、化工原料(除危险化学品、监控化学品、烟花爆竹、民用爆炸物品、易制毒化学品)的销售,本企业自产产品及相关技术的出口业务和所需原材料、仪器、设备及相关技术的进口业务,“三来一补”业务,商务咨询。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+        "AfterContent": "香精香料、调味料、食品添加剂(详见许可证)、日用化学品的生产,食品销售,百货、食品添加剂、化工原料(除危险化学品、监控化学品、烟花爆竹、民用爆炸物品、易制毒化学品)的销售,本企业自产产品及相关技术的出口业务和所需原材料、仪器、设备及相关技术的进口业务,“三来一补”业务,商务咨询。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+        "ChangeDate": "2018-06-12"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2018-05-10章程备案",
+        "ChangeDate": "2018-06-12"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "2016-04-20章程备案",
+        "AfterContent": "2017-03-30章程备案",
+        "ChangeDate": "2017-05-09"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "朱念琳【退出】；顾红【退出】；梅国游【退出】；费文耀【退出】；胡勇成【退出】；魏中浩*；黄健；朱忠兰；王众",
+        "AfterContent": "魏中浩*；朱忠兰；黄健；葛文斌【新增】；王众；徐耀忠【新增】；王慧辰【新增】；齐庆中【新增】；王鸿祥【新增】",
+        "ChangeDate": "2016-09-29"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "张丽华【退出】；杜毅【退出】；杨燕",
+        "AfterContent": "黄采鹰【新增】；黄彦宾【新增】；杨燕",
+        "ChangeDate": "2016-09-29"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "16000.000000万人民币",
+        "AfterContent": "32000.0000万人民币（+100%）",
+        "ChangeDate": "2016-06-20"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "2014-04-28章程备案",
+        "AfterContent": "2016-04-20章程备案",
+        "ChangeDate": "2016-06-20"
+      },
+      {
+        "ProjectName": "企业类型变更",
+        "BeforeContent": "股份有限公司(非上市、自然人投资或控股)",
+        "AfterContent": "股份有限公司(上市、自然人投资或控股)",
+        "ChangeDate": "2015-04-30"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "12000.000000万人民币",
+        "AfterContent": "16000.000000万人民币（+33.33%）",
+        "ChangeDate": "2015-04-30"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "2010-09-10章程备案",
+        "AfterContent": "2014-04-28章程备案",
+        "ChangeDate": "2015-04-30"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "杜毅；杨燕；朱念琳；费文耀；胡勇成；张丽华；魏中浩*；朱忠兰；王锡昌【退出】；梅国游；周凤剑【退出】；顾红",
+        "AfterContent": "杜毅；朱忠兰；胡勇成；朱念琳；梅国游；魏中浩*；王众【新增】；顾红；黄健【新增】；张丽华；费文耀；杨燕",
+        "ChangeDate": "2014-06-03"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.cnaff.com"
+        }
+      ],
+      "PhoneNumber": "021-59940388",
+      "Email": "apple@cnaff.com"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": "26",
+      "SubIndustry": "化学原料和化学制品制造业",
+      "MiddleCategoryCode": "268",
+      "MiddleCategory": "日用化学产品制造",
+      "SmallCategoryCode": "2684",
+      "SmallCategory": "香料、香精制造"
+    },
+    "Area": {
+      "Province": "上海市",
+      "City": "上海市",
+      "County": "嘉定区"
+    },
+    "InsuredCount": "395",
+    "EnglishName": "Apple Flavor & Fragrance Group Co., Ltd.",
+    "PersonScope": " 500-999人",
+    "KeyNo": "ed8f5dc1de5eb837d6ae2e95c0c02c51",
+    "Name": "爱普香料集团股份有限公司",
+    "No": "310114000131263",
+    "BelongOrg": "上海市市场监督管理局",
+    "OperName": "魏中浩",
+    "StartDate": "1995-06-28 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "SH",
+    "UpdatedDate": "2019-07-18 16:38:45",
+    "CreditCode": "9131000063207506XW",
+    "RegistCapi": "32000万元人民币",
+    "EconKind": "股份有限公司(上市、自然人投资或控股)",
+    "Address": "上海市嘉定区曹新公路33号",
+    "Scope": "香精香料、调味料、食品添加剂(详见许可证)、日用化学品的生产,食品销售,百货、食品添加剂、化工原料(除危险化学品、监控化学品、烟花爆竹、民用爆炸物品、易制毒化学品)的销售,本企业自产产品及相关技术的出口业务和所需原材料、仪器、设备及相关技术的进口业务,“三来一补”业务,商务咨询。【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+    "TermStart": "1995-06-28 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "1995-06-28 00:00:00",
+    "OrgNo": "63207506-X",
+    "IsOnStock": "1",
+    "StockNumber": "603020",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "上海爱普香料有限公司",
+        "ChangeDate": ""
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/ed8f5dc1de5eb837d6ae2e95c0c02c51.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "12000万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

@@ -1,0 +1,512 @@
+{
+    "OrderNumber": "ECI2019071823192740147258",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2017-03-28",
+          "CaseNo": "粤饲添字(2017)147003"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2017-01-04",
+          "CaseNo": ""
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-11-18",
+          "CaseNo": "核字第2016-3-0080号"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-05-13",
+          "CaseNo": "(江)质监(锅注)准许字[2016]第19号"
+        },
+        {
+          "Name": "中华人民共和国特种设备使用登记证",
+          "Province": "总局",
+          "Liandate": "2016-05-13",
+          "CaseNo": "（江）质监(锅注)准许字[2016]第19号"
+        },
+        {
+          "Name": "食品生产许可",
+          "Province": "总局",
+          "Liandate": "2016-04-28",
+          "CaseNo": "SC13144070400178"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-04-28",
+          "CaseNo": "SC13144070400178"
+        },
+        {
+          "Name": "建设项目环境影响评价文件审批",
+          "Province": "总局",
+          "Liandate": "2016-01-11",
+          "CaseNo": "江环审[2016]3号"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-01-11",
+          "CaseNo": "江环审[2016]3号"
+        },
+        {
+          "Name": "建设项目环境影响评价文件审批",
+          "Province": "总局",
+          "Liandate": "2015-09-16",
+          "CaseNo": "江环审[2015]284号"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2015-09-16",
+          "CaseNo": "江环审[2015]284号"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2014-03-20",
+          "CaseNo": "粤饲添(2014)T13001"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2014-03-20",
+          "CaseNo": "粤饲添(2014)t13001"
+        },
+        {
+          "Name": "饲料添加剂、添加剂预混合饲料生产许可证审批",
+          "Province": "总局",
+          "Liandate": "2014-03-20",
+          "CaseNo": "粤饲添(2014)T13001"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2011-03-11",
+          "CaseNo": "QS4407 0307 0620"
+        },
+        {
+          "Name": "食品生产许可证信息",
+          "Province": "总局",
+          "Liandate": "2011-03-11",
+          "CaseNo": "QS4407 0307 0620"
+        }
+      ],
+      "Penalty": [],
+      "Exceptions": [],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [],
+      "Liquidation": null,
+      "Pledge": [
+        {
+          "CompanyId": "399a42b95662d2a907b46f4e07bf1616",
+          "RegistNo": "4120180167",
+          "Pledgor": "量子高科（中国）生物股份有限公司",
+          "PledgorNo": null,
+          "Pledgee": "中国工商银行股份有限公司江门分行",
+          "PledgeeNo": "91440703893922773U",
+          "PledgedAmount": "12503.3947",
+          "RegDate": "2018-07-10",
+          "PublicDate": "2018-07-10",
+          "Status": "有效"
+        }
+      ],
+      "SpotCheck": [
+        {
+          "No": null,
+          "ExecutiveOrg": "江门市食品药品监督管理局",
+          "Type": "检查",
+          "Date": "2016-04-14",
+          "Consequence": "正常",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "江门市食品药品监督管理局",
+          "Type": "检查",
+          "Date": "2015-09-10",
+          "Consequence": "正常",
+          "Remark": null
+        }
+      ],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "44070472115339X",
+          "Name": "量子高科(中国)生物股份有限公司",
+          "Year": "2015",
+          "Level": "A"
+        },
+        {
+          "No": "44070472115339X",
+          "Name": "江门量子高科生物股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        },
+        {
+          "No": "44070472115339X",
+          "Name": "江门量子高科生物股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "量子高科(中国)生物股份有限公司",
+          "Link": "",
+          "ImageUrl": "",
+          "Name": "量子生物",
+          "Domain": "医疗健康",
+          "Tags": "医疗,生物医药",
+          "Description": "",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "SP4407041010026151",
+          "LicensDocName": "《食品流通许可证》",
+          "ValidityFrom": "2013-03-12",
+          "ValidityTo": "2016-03-11",
+          "LicensOffice": "江海区食品药品监督管理局",
+          "LicensContent": "保健食品(国内保健食品批准证书范围内产品)的研发、生产、销售及技术转让；淀粉糖（低聚果糖）、低聚半乳糖、调味料(固态、液态)、饮料、蜂产品、茶叶及相关制品、糖果制品等预包装食品、新资源食品、特殊膳食食品、食品添加剂及酶制剂、医药辅料、饲料添加剂的研发、生产、销售；医药技术研发、技术咨询和技术转让；生物技术的开发和转让；研发、销售包装材料；健康管理服务（不含医疗服务）、咨询、生物健康技术开发。经营本企业生产、科研所需的原辅料、产品、仪器仪表、机械设备、零配件及相关技术的进出口业务；批发、零售：预包装食品、乳制品、保健食品、化妆品、日用品、保健仪器、检测仪器、理疗仪器（以上经营范围涉及前置审批的项目凭相关许可证核准的经营范围经营，未取得前置许可证的不得经营。上述经营范围不涉及国营贸易管理商品，涉及配额、许可证管理商品的，按国家有关规定办理申请）。"
+        },
+        {
+          "LicensDocNo": "粤饲添(2014)T13001",
+          "LicensDocName": "饲料添加剂、添加剂预混合饲料生产许可证审批",
+          "ValidityFrom": "2014-03-20",
+          "ValidityTo": "2019-03-19",
+          "LicensOffice": "广东省农业厅",
+          "LicensContent": ""
+        },
+        {
+          "LicensDocNo": "江环审[2015]284号",
+          "LicensDocName": "建设项目环境影响评价文件审批",
+          "ValidityFrom": "2015-09-16",
+          "ValidityTo": "2099-12-31",
+          "LicensOffice": "江门市环境保护局",
+          "LicensContent": "量子高科（中国）生物股份有限公司原名江门量子高科生物股份有限公司，位于江门高新技术产业园区高新西路133号，污染物排放许可证编号：4407042011300865。公司现拟将原有的2台6t/h燃煤蒸汽锅炉改为2台6t/h燃生物质成型燃料锅炉。项目改造后，企业其它生产工艺不变。"
+        },
+        {
+          "LicensDocNo": "(江)质监(锅注)准许字[2016]第19号",
+          "LicensDocName": "中华人民共和国特种设备使用登记证",
+          "ValidityFrom": "2016-05-13",
+          "ValidityTo": "2099-12-31",
+          "LicensOffice": "江门市质量技术监督局",
+          "LicensContent": "特种设备使用登记"
+        },
+        {
+          "LicensDocNo": "核字第2016-3-0080号",
+          "LicensDocName": "建设工程规划条件核实合格通知书",
+          "ValidityFrom": "2016-11-18",
+          "ValidityTo": "2017-11-18",
+          "LicensOffice": "江门市自然资源局",
+          "LicensContent": "车间B"
+        },
+        {
+          "LicensDocNo": "锅粤JB3307",
+          "LicensDocName": "特种设备使用登记证",
+          "ValidityFrom": "2017-11-21",
+          "ValidityTo": "",
+          "LicensOffice": "江门市质量技术监督局",
+          "LicensContent": "锅炉"
+        },
+        {
+          "LicensDocNo": "锅粤JB3309",
+          "LicensDocName": "特种设备使用登记证",
+          "ValidityFrom": "2017-11-21",
+          "ValidityTo": "",
+          "LicensOffice": "江门市质量技术监督局",
+          "LicensContent": "锅炉"
+        },
+        {
+          "LicensDocNo": "锅粤JB3308",
+          "LicensDocName": "特种设备使用登记证",
+          "ValidityFrom": "2017-11-21",
+          "ValidityTo": "",
+          "LicensOffice": "江门市质量技术监督局",
+          "LicensContent": "锅炉"
+        },
+        {
+          "LicensDocNo": "JY34407040032630",
+          "LicensDocName": "《食品经营许可证》核发",
+          "ValidityFrom": "2018-03-21",
+          "ValidityTo": "2023-03-20",
+          "LicensOffice": "江门市江海区食品药品监督管理局",
+          "LicensContent": "热食类食品制售(热食类食品制售)"
+        },
+        {
+          "LicensDocNo": "建字第2018-3-0330号",
+          "LicensDocName": "建设工程规划许可证",
+          "ValidityFrom": "2018-12-12",
+          "ValidityTo": "2019-12-12",
+          "LicensOffice": "江门市城乡规划局",
+          "LicensContent": "机修五金库兼原料仓库"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "社会公众股东",
+          "StockType": "其他投资者",
+          "StockPercent": "36.87%",
+          "ShouldCapi": "11117.59",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "量子高科集团有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "27.15%",
+          "ShouldCapi": "8185.35",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "江门凯地生物技术有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "22.96%",
+          "ShouldCapi": "6923.7",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "江门金洪商务有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "5.96%",
+          "ShouldCapi": "1797.3",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "广州市宝桃食品有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "5.27%",
+          "ShouldCapi": "1589.48",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "江门合众生物技术有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "1.78%",
+          "ShouldCapi": "536.58",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "李显峰",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "曾宪维",
+          "Job": "董事"
+        },
+        {
+          "Name": "HUI MICHAEL XIN",
+          "Job": "董事"
+        },
+        {
+          "Name": "周新平",
+          "Job": "董事"
+        },
+        {
+          "Name": "陈菡",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "袁杰力",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "林岩",
+          "Job": "职工代表监事"
+        },
+        {
+          "Name": "朱彪",
+          "Job": "监事"
+        },
+        {
+          "Name": "曾宪经",
+          "Job": ""
+        },
+        {
+          "Name": "齐家辉",
+          "Job": ""
+        }
+      ],
+      "Branches": [
+        {
+          "CompanyId": "c4d94e72c88770379c79d49ec1412c6f",
+          "RegNo": "91440101054500190H",
+          "Name": "量子高科(中国)生物股份有限公司广州分公司",
+          "BelongOrg": "广州市越秀区工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        }
+      ],
+      "ChangeRecords": [
+        {
+          "ProjectName": "注册资本(金)变更",
+          "BeforeContent": "42210.000000",
+          "AfterContent": "49977.689200（+18.4%）",
+          "ChangeDate": "2018-10-30"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "保健食品(国内保健食品批准证书范围内产品)的研发、生产、销售及技术转让；低聚果糖、低聚半乳糖、调味料(固态、液态)、饮料、蜂产品、茶叶及相关制品、糖果制品、其他食品等预包装食品、新食品原料、特殊膳食食品、食品添加剂及酶制剂、医药辅料、饲料添加剂的研发、生产、销售；医药技术研发、技术咨询和技术转让；生物技术的开发和转让；研发、销售包装材料；健康管理服务(不含医疗服务)、咨询、生物健康技术开发。经营本企业生产、科研所需的原辅材料、产品、仪器仪表、机械设备、零配件及相关技术的进出口业务；批发、零售:预包装食品、乳制品、保健食品、化妆品、日用品、保健仪器、检测仪器、理疗仪器 ；资产租赁。(以上经营范围涉及前置审批的项目凭相关许可证核准的经营范围经营,未取得前置许可证的不得经营。上述经营范围不涉及国营贸易管理商品,涉及配额、许可证管理商品的,按国家有关规定办理申请)。",
+          "AfterContent": "保健食品(国内保健食品批准证书范围内产品)的研发、生产、销售及技术转让；低聚果糖、低聚半乳糖、母乳低聚糖、医疗器械、诊断试剂、调味料(固态、液态)、饮料、蜂产品、茶叶及相关制品、糖果制品、其他食品等预包装食品、新食品原料、特殊膳食食品、特殊医学用途配方食品、食品添加剂及酶制剂、医药辅料、饲料添加剂的研发、生产、销售；医药研发服务；医药技术研发、技术咨询和技术转让；生物技术的开发和转让；研发、销售包装材料；健康管理服务(不含医疗服务)、咨询、生物健康技术开发；经营本企业生产、科研所需的原辅材料、产品、仪器仪表、机械设备、零配件及相关技术的进出口业务；批发、零售:预包装食品、乳制品、保健食品、化妆品、日用品、保健仪器、检测仪器、理疗仪器 ；资产租赁。(以上经营范围涉及前置审批的项目凭相关许可证核准的经营范围经营,未取得前置许可证的不得经营。上述经营范围不涉及国营贸易管理商品,涉及配额、许可证管理商品的,按国家有关规定办理申请)。",
+          "ChangeDate": "2018-10-30"
+        },
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "章程修正案",
+          "AfterContent": "章程",
+          "ChangeDate": "2018-10-30"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "保健食品(国内保健食品批准证书范围内产品)的研发、生产、销售及技术转让；淀粉糖(低聚果糖)、低聚半乳糖、调味料(固态、液态)、饮料、蜂产品、茶叶及相关制品、糖果制品等预包装食品、新资源食品、特殊膳食食品、食品添加剂及酶制剂、医药辅料、饲料添加剂的研发、生产、销售；医药技术研发、技术咨询和技术转让；生物技术的开发和转让；研发、销售包装材料；健康管理服务(不含医疗服务)、咨询、生物健康技术开发。经营本企业生产、科研所需的原辅料、产品、仪器仪表、机械设备、零配件及相关技术的进出口业务；批发、零售:预包装食品、乳制品、保健食品、化妆品、日用品、保健仪器、检测仪器、理疗仪器 (以上经营范围涉及前置审批的项目凭相关许可证核准的经营范围经营,未取得前置许可证的不得经营。上述经营范围不涉及国营贸易管理商品,涉及配额、许可证管理商品的,按国家有关规定办理申请)。",
+          "AfterContent": "保健食品(国内保健食品批准证书范围内产品)的研发、生产、销售及技术转让；低聚果糖、低聚半乳糖、调味料(固态、液态)、饮料、蜂产品、茶叶及相关制品、糖果制品、其他食品等预包装食品、新食品原料、特殊膳食食品、食品添加剂及酶制剂、医药辅料、饲料添加剂的研发、生产、销售；医药技术研发、技术咨询和技术转让；生物技术的开发和转让；研发、销售包装材料；健康管理服务(不含医疗服务)、咨询、生物健康技术开发。经营本企业生产、科研所需的原辅材料、产品、仪器仪表、机械设备、零配件及相关技术的进出口业务；批发、零售:预包装食品、乳制品、保健食品、化妆品、日用品、保健仪器、检测仪器、理疗仪器 ；资产租赁。(以上经营范围涉及前置审批的项目凭相关许可证核准的经营范围经营,未取得前置许可证的不得经营。上述经营范围不涉及国营贸易管理商品,涉及配额、许可证管理商品的,按国家有关规定办理申请)。",
+          "ChangeDate": "2017-01-04"
+        },
+        {
+          "ProjectName": "企业类型变更",
+          "BeforeContent": "5220",
+          "AfterContent": "1219",
+          "ChangeDate": "2017-01-04"
+        },
+        {
+          "ProjectName": "企业类型",
+          "BeforeContent": "股份有限公司(中外合资、上市)",
+          "AfterContent": "其他股份有限公司(上市)",
+          "ChangeDate": "2017-01-04"
+        },
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "",
+          "AfterContent": "章程修正案",
+          "ChangeDate": "2015-07-01"
+        },
+        {
+          "ProjectName": "法定代表人变更",
+          "BeforeContent": "王丛威",
+          "AfterContent": "曾宪经*",
+          "ChangeDate": "2015-07-01"
+        },
+        {
+          "ProjectName": "注册资本(金)变更",
+          "BeforeContent": "30150.000000",
+          "AfterContent": "42210.000000（+40%）",
+          "ChangeDate": "2015-07-01"
+        },
+        {
+          "ProjectName": "股东备案",
+          "BeforeContent": "王丛威,董事长;【退出】；王怀宝,董事;【退出】；谢明权,董事;【退出】；谢拥葵,董事;；薛秋茸,董事;【退出】；曾宪经*,副董事长,经理;；曾昭政,监事会主席;【退出】；张海花,监事;；钟泉光,监事;；周新平,董事",
+          "AfterContent": "陈咏梅,独立董事;【新增】；李显峰,独立董事;【新增】；王林,独立董事;【新增】；谢拥葵,董事;；曾宪经*,董事长,经理;；曾宪维,董事;【新增】；张海花,监事;；钟泉光,监事会主席;；周新平,董事；朱彪,监事【新增】",
+          "ChangeDate": "2015-07-01"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "",
+          "AfterContent": "股东发生变更",
+          "ChangeDate": "2014-08-01"
+        },
+        {
+          "ProjectName": "注册资本(金)变更",
+          "BeforeContent": "20100.000000",
+          "AfterContent": "30150.000000（+50%）",
+          "ChangeDate": "2014-08-01"
+        },
+        {
+          "ProjectName": "股东备案",
+          "BeforeContent": "李里特,董事;【退出】；王丛威,董事长;；王怀宝,董事;；谢拥葵,董事;；薛秋茸,董事;；曾宪经*,副董事长,经理;；曾昭政,监事会主席;；张海花,监事;；钟泉光,监事;；周新平,董事",
+          "AfterContent": "王丛威,董事长;；王怀宝,董事;；谢明权,董事;【新增】；谢拥葵,董事;；薛秋茸,董事;；曾宪经*,副董事长,经理;；曾昭政,监事会主席;；张海花,监事;；钟泉光,监事;；周新平,董事",
+          "ChangeDate": "2014-08-01"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "http://www.qht.cc/cn/index.asp"
+          }
+        ],
+        "PhoneNumber": "0750-8258999",
+        "Email": "kf@qht.cc"
+      },
+      "Industry": {
+        "IndustryCode": "C",
+        "Industry": "制造业",
+        "SubIndustryCode": "14",
+        "SubIndustry": "食品制造业",
+        "MiddleCategoryCode": "149",
+        "MiddleCategory": "其他食品制造",
+        "SmallCategoryCode": "1495",
+        "SmallCategory": "食品及饲料添加剂制造"
+      },
+      "Area": {
+        "Province": "广东省",
+        "City": "江门市",
+        "County": ""
+      },
+      "InsuredCount": null,
+      "EnglishName": "quantum hi-tech(china) biological co,.ltd",
+      "PersonScope": "",
+      "KeyNo": "f0fa00c1e495a2c4ed763312484f3cc6",
+      "Name": "量子高科(中国)生物股份有限公司",
+      "No": "440700400013622",
+      "BelongOrg": "江门市工商行政管理局",
+      "OperName": "曾宪经",
+      "StartDate": "2000-01-26 00:00:00",
+      "EndDate": "",
+      "Status": "在营（开业）企业",
+      "Province": "GD",
+      "UpdatedDate": "2019-07-18 11:12:51",
+      "CreditCode": "9144070072115339X0",
+      "RegistCapi": "49977.6892万元人民币",
+      "EconKind": "其他股份有限公司(上市)",
+      "Address": "江门市高新区高新西路133号",
+      "Scope": "保健食品(国内保健食品批准证书范围内产品)的研发、生产、销售及技术转让;低聚果糖、低聚半乳糖、母乳低聚糖、医疗器械、诊断试剂、调味料(固态、液态)、饮料、蜂产品、茶叶及相关制品、糖果制品、其他食品等预包装食品、新食品原料、特殊膳食食品、特殊医学用途配方食品、食品添加剂及酶制剂、医药辅料、饲料添加剂的研发、生产、销售;医药研发服务;医药技术研发、技术咨询和技术转让;生物技术的开发和转让;研发、销售包装材料;健康管理服务(不含医疗服务)、咨询、生物健康技术开发;经营本企业生产、科研所需的原辅材料、产品、仪器仪表、机械设备、零配件及相关技术的进出口业务;批发、零售:预包装食品、乳制品、保健食品、化妆品、日用品、保健仪器、检测仪器、理疗仪器 ;资产租赁。(以上经营范围涉及前置审批的项目凭相关许可证核准的经营范围经营,未取得前置许可证的不得经营。上述经营范围不涉及国营贸易管理商品,涉及配额、许可证管理商品的,按国家有关规定办理申请)。(依法须经批准的项目,经相关部门批准后方可开展经营活动)〓",
+      "TermStart": "2000-01-26 00:00:00",
+      "TeamEnd": "",
+      "CheckDate": "2018-10-30 00:00:00",
+      "OrgNo": "72115339-X",
+      "IsOnStock": "1",
+      "StockNumber": "300149",
+      "StockType": "国内A股",
+      "OriginalName": [],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/f0fa00c1e495a2c4ed763312484f3cc6.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "20100万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

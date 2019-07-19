@@ -1,0 +1,590 @@
+{
+    "OrderNumber": "ECI2019071822184278598474",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "",
+          "Province": "湖南",
+          "Liandate": "2018-07-27",
+          "CaseNo": "(南)食药监许准决〔2018〕456号"
+        }
+      ],
+      "Penalty": [],
+      "Exceptions": [],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [
+        {
+          "RegisterNo": "南县2009押登字第0012号",
+          "RegisterDate": "2009-08-10",
+          "PublicDate": "",
+          "RegisterOffice": "南县市场和质量监督管理局",
+          "DebtSecuredAmount": "900.0万元",
+          "Status": "有效"
+        }
+      ],
+      "Liquidation": null,
+      "Pledge": [
+        {
+          "CompanyId": "46084c48848c72b8aa25bdf474ce78da",
+          "RegistNo": "411728201900000002",
+          "Pledgor": "克明面业股份有限公司",
+          "PledgorNo": null,
+          "Pledgee": "中原银行股份有限公司驻马店分行",
+          "PledgeeNo": "91410000739073187F",
+          "PledgedAmount": "5000",
+          "RegDate": "2019-06-26",
+          "PublicDate": "2019-06-26",
+          "Status": "有效"
+        }
+      ],
+      "SpotCheck": [
+        {
+          "No": null,
+          "ExecutiveOrg": "南县经济开发区市场和质量监督管理所",
+          "Type": "检查",
+          "Date": "2016-06-09",
+          "Consequence": "正常",
+          "Remark": null
+        }
+      ],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "91430900617162624T",
+          "Name": "克明面业股份有限公司",
+          "Year": "2018",
+          "Level": "A"
+        },
+        {
+          "No": "430921617162624",
+          "Name": "克明面业股份有限公司",
+          "Year": "2017",
+          "Level": "A"
+        },
+        {
+          "No": "430921617162624",
+          "Name": "克明面业股份有限公司",
+          "Year": "2015",
+          "Level": "A"
+        },
+        {
+          "No": "430921617162624",
+          "Name": "克明面业股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "克明面业股份有限公司",
+          "Link": "http://www.kemen.cn",
+          "ImageUrl": "http://img.qichacha.com/Product/2a5bebfa-3c83-44f7-b285-26be7eb74d64.jpg",
+          "Name": "克明面业",
+          "Domain": "生活服务",
+          "Tags": "消费生活,食品,食品安全,农产品加工",
+          "Description": "克明面业股份有限公司是一家挂面行业的民营食品高科技企业，公司始终专注于中高端挂面的研发、生产及销售，高度重视产品质量安全，生产出上百种挂面。",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "长环管【2011】10号",
+          "LicensDocName": "建设项目环境影响评价许可审批文件",
+          "ValidityFrom": "2011-01-19",
+          "ValidityTo": "",
+          "LicensOffice": "长沙市环境保护局",
+          "LicensContent": "年产3.6万吨挂面生产线研发检验综合楼"
+        },
+        {
+          "LicensDocNo": "4300J191",
+          "LicensDocName": "进境检疫卫生注册",
+          "ValidityFrom": "2014-10-08",
+          "ValidityTo": "2017-10-07",
+          "LicensOffice": "湖南出入境检验检疫局",
+          "LicensContent": "进口小麦粉\n"
+        },
+        {
+          "LicensDocNo": "湘地税发[2016]12",
+          "LicensDocName": "湖南省国家税务局、湖南省地方税务局关于印发2015年度纳税信用评价工作的通知",
+          "ValidityFrom": "2015-01-01",
+          "ValidityTo": "2015-12-31",
+          "LicensOffice": "南县地方税务局",
+          "LicensContent": "纳税信用等级评定A级"
+        },
+        {
+          "LicensDocNo": "无",
+          "LicensDocName": "建设项目竣工环境保护验收",
+          "ValidityFrom": "2015-03-02",
+          "ValidityTo": "",
+          "LicensOffice": "长沙市地方环保局",
+          "LicensContent": ""
+        },
+        {
+          "LicensDocNo": "长雨许可:111507002",
+          "LicensDocName": "克明面业股份有限公司",
+          "ValidityFrom": "2015-03-20",
+          "ValidityTo": "",
+          "LicensOffice": "长沙市雨花区环境保护局",
+          "LicensContent": "克明面业股份有限公司"
+        },
+        {
+          "LicensDocNo": "QS4309 0103 0001",
+          "LicensDocName": "食品生产许可证",
+          "ValidityFrom": "2015-09-17",
+          "ValidityTo": "2018-09-16",
+          "LicensOffice": "益阳市食品药品监督管理局",
+          "LicensContent": "挂面（普通挂面、花色挂面）"
+        },
+        {
+          "LicensDocNo": "SC10143092105106",
+          "LicensDocName": "食品生产许可证",
+          "ValidityFrom": "2016-06-27",
+          "ValidityTo": "2021-06-26",
+          "LicensOffice": "益阳市食品药品监督管理局",
+          "LicensContent": "粮食加工品"
+        },
+        {
+          "LicensDocNo": "JY14309210221512",
+          "LicensDocName": "食品经营许可证",
+          "ValidityFrom": "2016-07-28",
+          "ValidityTo": "2021-07-27",
+          "LicensOffice": "南县食品药品监督管理局",
+          "LicensContent": "预包装食品（不含冷藏冷冻食品）销售;预包装食品（不含酒类）销售;"
+        },
+        {
+          "LicensDocNo": "南人社函[2016]20号",
+          "LicensDocName": "关于实行综合计算工时工作制的批复",
+          "ValidityFrom": "2016-11-22",
+          "ValidityTo": "2017-11-21",
+          "LicensOffice": "南县人力资源和社会保障局",
+          "LicensContent": "许可该单位实行综合计算工时工作制一年，从2016年11月22日起至2017年11月21日止。"
+        },
+        {
+          "LicensDocNo": "(南)食药监许准决〔2018〕456号",
+          "LicensDocName": "食品经营许可新开办",
+          "ValidityFrom": "2018-07-27",
+          "ValidityTo": "2023-07-26",
+          "LicensOffice": "南县食品药品监督管理局",
+          "LicensContent": "热食类食品制售;"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "无限售流通股",
+          "StockType": "其他投资者",
+          "StockPercent": "98.12%",
+          "ShouldCapi": "32727.9983",
+          "ShoudDate": "2014-07-15",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "有限售流通股",
+          "StockType": "其他投资者",
+          "StockPercent": "1.88%",
+          "ShouldCapi": "627.654",
+          "ShoudDate": "2014-07-15",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "陈宏",
+          "Job": "董事兼总经理"
+        },
+        {
+          "Name": "陈克明",
+          "Job": "董事长"
+        },
+        {
+          "Name": "陈克忠",
+          "Job": "副董事长"
+        },
+        {
+          "Name": "张博栋",
+          "Job": "副总经理"
+        },
+        {
+          "Name": "张瑶",
+          "Job": "副总经理"
+        },
+        {
+          "Name": "张军辉",
+          "Job": "副总经理"
+        },
+        {
+          "Name": "杨波",
+          "Job": "副总经理"
+        },
+        {
+          "Name": "张晓",
+          "Job": "副总经理"
+        },
+        {
+          "Name": "陈晖",
+          "Job": "董事"
+        },
+        {
+          "Name": "段菊香",
+          "Job": "董事"
+        },
+        {
+          "Name": "王舒军",
+          "Job": "董事"
+        },
+        {
+          "Name": "谭宇红",
+          "Job": "董事"
+        },
+        {
+          "Name": "毛海英",
+          "Job": "董事"
+        },
+        {
+          "Name": "舒畅",
+          "Job": "董事"
+        },
+        {
+          "Name": "陈燕",
+          "Job": "董事"
+        },
+        {
+          "Name": "刘洋",
+          "Job": "监事"
+        },
+        {
+          "Name": "杨利娟",
+          "Job": "监事"
+        },
+        {
+          "Name": "许石栋",
+          "Job": "监事"
+        },
+        {
+          "Name": "李锐",
+          "Job": "其他人员"
+        }
+      ],
+      "Branches": [
+        {
+          "CompanyId": "cf807e1d20cbdb510a38a3d47c04e7f6",
+          "RegNo": "430100000188516",
+          "Name": "克明面业股份有限公司长沙分公司",
+          "BelongOrg": "长沙市工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "edeefd495c53413980c1c7e664a308c1",
+          "RegNo": "430921000002022",
+          "Name": "克明面业股份有限公司南洲分公司",
+          "BelongOrg": "南县市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        }
+      ],
+      "ChangeRecords": [
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "33193.0298万人民币",
+          "AfterContent": "33036.867500万人民币（-0.47%）",
+          "ChangeDate": "2019-06-27"
+        },
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "无",
+          "AfterContent": "； 2019-06-27修正章程相应条款",
+          "ChangeDate": "2019-06-27"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "黄劲松【退出】；许石栋；刘洋",
+          "AfterContent": "许石栋；刘洋；杨利娟【新增】",
+          "ChangeDate": "2019-06-27"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "张瑶；张军辉；陈宏",
+          "AfterContent": "陈宏；张军辉；张晓【新增】；张博栋【新增】；杨波【新增】；张瑶",
+          "ChangeDate": "2019-06-27"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "舒畅；陈克忠；陈克明*；段菊香；孟素荷【退出】；陈晖；李庆龙【退出】；王勇【退出】；陈宏",
+          "AfterContent": "陈克明*；陈宏；段菊香；舒畅；陈克忠；陈晖；王舒军【新增】；谭宇红【新增】；毛海英【新增】；陈燕【新增】",
+          "ChangeDate": "2019-06-27"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "33355.6523万人民币",
+          "AfterContent": "33193.029800万人民币（-0.49%）",
+          "ChangeDate": "2018-11-09"
+        },
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "无",
+          "AfterContent": "2018-11-09提交新章程,废止旧章程。",
+          "ChangeDate": "2018-11-09"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "33518.5748万人民币",
+          "AfterContent": "33355.652300万人民币（-0.49%）",
+          "ChangeDate": "2017-11-16"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "无限售流通股 出资 32831.1343万人民币;；有限售流通股 出资 687.4405万人民币;",
+          "AfterContent": "无限售流通股 出资 32727.9983（-103.136）万人民币;；有限售流通股 出资 627.6540（-59.787）万人民币;",
+          "ChangeDate": "2017-11-16"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "33633.4048万人民币",
+          "AfterContent": "33518.574800万人民币（-0.34%）",
+          "ChangeDate": "2017-07-14"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "无限售流通股 出资 328305.993万人民币;；有限售流通股 出资 7579.905万人民币;",
+          "AfterContent": "无限售流通股 出资 32831.1343（-295474.859）万人民币;；有限售流通股 出资 687.4405（-6892.464）万人民币;",
+          "ChangeDate": "2017-07-14"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "33588.5898万人民币",
+          "AfterContent": "33633.404800万人民币（+0.13%）",
+          "ChangeDate": "2017-07-05"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "33656.0898万人民币",
+          "AfterContent": "33588.5898万人民币（-0.2%）",
+          "ChangeDate": "2017-04-20"
+        },
+        {
+          "ProjectName": "财务负责人",
+          "BeforeContent": "晏德军 ***",
+          "AfterContent": "李锐 ***",
+          "ChangeDate": "2017-04-20"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "无限售流通股 出资 24598.4604万人民币;；有限售流通股 出资 9057.6294万人民币;",
+          "AfterContent": "无限售流通股 出资 328305.993（+303707.533）万人民币;；有限售流通股 出资 7579.905（-1477.724）万人民币;",
+          "ChangeDate": "2017-04-20"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "孟素荷；段新宇【退出】；李新首【退出】；黄劲松【退出】；陈晖；陈克明*；晏德军【退出】；李庆龙",
+          "AfterContent": "李庆龙；舒畅【新增】；陈宏【新增】；陈克忠【新增】；陈晖；孟素荷；王勇【新增】；陈克明*；段菊香【新增】",
+          "ChangeDate": "2017-04-20"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "",
+          "AfterContent": "陈宏 【新增】；张瑶 【新增】；张军辉【新增】",
+          "ChangeDate": "2017-04-20"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "孟琦【退出】；聂红华【退出】；许石栋",
+          "AfterContent": "黄劲松【新增】；许石栋；刘洋【新增】",
+          "ChangeDate": "2017-04-20"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "无限售流通股 出资 8199.4868万人民币;；有限售流通股 出资 3019.2098万人民币;",
+          "AfterContent": "无限售流通股 出资 24598.4604（+16398.974）万人民币;；有限售流通股 出资 9057.6294（+6038.42）万人民币;",
+          "ChangeDate": "2016-07-13"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "11218.6966万人民币",
+          "AfterContent": "33656.0898万人民币（+200%）",
+          "ChangeDate": "2016-07-13"
+        },
+        {
+          "ProjectName": "股东或股份发起人改变姓名或名称变更",
+          "BeforeContent": "无限售流通股 出资 8193.8912万人民币;；有限售流通股 出资 3025.3054万人民币;",
+          "AfterContent": "无限售流通股 出资 8199.4868（+5.596）万人民币;；有限售流通股 出资 3019.2098（-6.096）万人民币;",
+          "ChangeDate": "2016-06-13"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "11219.1966万人民币",
+          "AfterContent": "11218.6966万人民币",
+          "ChangeDate": "2016-06-13"
+        },
+        {
+          "ProjectName": "股东或股份发起人改变姓名或名称变更",
+          "BeforeContent": "无限售流通股 出资 8221.75万人民币;；有限售流通股 出资 330.78万人民币;",
+          "AfterContent": "无限售流通股 出资 8193.8912（-27.859）万人民币;；有限售流通股 出资 3025.3054（+2694.525）万人民币;",
+          "ChangeDate": "2016-05-31"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "8552.53万人民币",
+          "AfterContent": "11219.1966万人民币（+31.18%）",
+          "ChangeDate": "2016-05-31"
+        },
+        {
+          "ProjectName": "财务负责人",
+          "BeforeContent": "易尚辉 ***",
+          "AfterContent": "晏德军 ***",
+          "ChangeDate": "2016-05-31"
+        },
+        {
+          "ProjectName": "财务负责人",
+          "BeforeContent": "",
+          "AfterContent": "易尚辉 ***",
+          "ChangeDate": "2016-04-28"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "无限售流通股；限售流通股【退出】",
+          "AfterContent": "无限售流通股；有限售流通股【新增】",
+          "ChangeDate": "2015-07-20"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "8521.2000万元[人民币]",
+          "AfterContent": "8552.5300万元[人民币]（+0.37%）",
+          "ChangeDate": "2015-07-20"
+        },
+        {
+          "ProjectName": "投资人(股权)变更",
+          "BeforeContent": "限售流通股出资 6385.45000万元 人民币;无限售流通股出资 2135.75000万元 人民币",
+          "AfterContent": "有限售流通股出资 330.78000万元 人民币 ;【新增】；无限售流通股出资 8221.75000（+6086）万元 人民币",
+          "ChangeDate": "2015-07-20"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "8590.0000万元[人民币]",
+          "AfterContent": "8521.2000万元[人民币]（-0.8%）",
+          "ChangeDate": "2015-07-15"
+        },
+        {
+          "ProjectName": "投资人(股权)变更",
+          "BeforeContent": "限售流通股出资 6454.25000万元 人民币;无限售流通股出资 2135.75000万元 人民币",
+          "AfterContent": "限售流通股出资 6385.45000万元 人民币 ;无限售流通股出资 2135.75000万元 人民币",
+          "ChangeDate": "2015-07-15"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "陈克明*【退出】；陈克忠【退出】；陈晓珍【退出】；陈源芝【退出】；段菊香【退出】",
+          "AfterContent": "无限售流通股【新增】；限售流通股【新增】",
+          "ChangeDate": "2015-01-22"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "粮食收购(许可证有效期至2016年5月13日)；挂面(普通挂面、花色挂面)生产、销售(许可证有效期至2015年11月02日)；餐饮服务(职工食堂)(许可证有效期至2015年9月10日)；饮料〖瓶(桶)装饮用水类(饮用纯净水)〗生产、销售(有效期至2014年12月29日)；普通货运服务(许可证有效期至2018年6月2日)；预包装食品批发(许可证有效期至2016年8月14日)；信息系统服务；企业管理咨询服务；自营和代理各类商品及技术的进出口业务；自有商标及专利的有偿使用服务。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "AfterContent": "粮食收购；挂面(普通挂面、花色挂面)生产、销售；餐饮服务(职工食堂)；饮料〖瓶(桶)装饮用水类(饮用纯净水)〗生产、销售；普通货运服务；预包装食品批发；信息系统服务；企业管理咨询服务；自营和代理各类商品及技术的进出口业务；自有商标及专利的有偿使用服务。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "ChangeDate": "2015-01-22"
+        },
+        {
+          "ProjectName": "投资人(股权)变更",
+          "BeforeContent": "陈克明*出资 1920.00000万元 人民币;陈源芝出资 450.00000万元 人民币;陈晓珍出资 450.00000万元 人民币;【退出】；段菊香出资 1920.00000万元 人民币;【退出】；陈克忠出资 1260.00000万元 人民币【退出】",
+          "AfterContent": "限售流通股出资 6454.25000万元 人民币 ;无限售流通股出资 2135.75000万元 人民币【新增】",
+          "ChangeDate": "2015-01-22"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "粮食收购(许可证有效期至2016年5月13日)；挂面(普通挂面、花色挂面)生产、销售(许可证有效期至2015年11月02日)；餐饮服务(职工食堂)(许可证有效期至2015年9月10日)；其他粮食加工品(谷物粉类制成品)生产、销售(许可证有效期至2014年10月07日)；饮料〖瓶(桶)装饮用水类(饮用纯净水)〗生产、销售(有效期至2014年12月29日)；普通货运服务(许可证有效期至2018年6月2日)；预包装食品批发(许可证有效期至2016年8月14日)。",
+          "AfterContent": "粮食收购(许可证有效期至2016年5月13日)；挂面(普通挂面、花色挂面)生产、销售(许可证有效期至2015年11月02日)；餐饮服务(职工食堂)(许可证有效期至2015年9月10日)；饮料〖瓶(桶)装饮用水类(饮用纯净水)〗生产、销售(有效期至2014年12月29日)；普通货运服务(许可证有效期至2018年6月2日)；预包装食品批发(许可证有效期至2016年8月14日)；信息系统服务；企业管理咨询服务；自营和代理各类商品及技术的进出口业务；自有商标及专利的有偿使用服务。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "ChangeDate": "2014-12-15"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "8308.0000万元[人民币]",
+          "AfterContent": "8590.0000万元[人民币]（+3.39%）",
+          "ChangeDate": "2014-10-11"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "陈宏【退出】；陈克明*【退出】；陈克忠【退出】；陈晓珍【退出】；陈源芝【退出】；陈晖【退出】；罗志远【退出】；南县克明投资有限公司【退出】；杨忠明【退出】；姚明才【退出】；张瑶【退出】",
+          "AfterContent": "无限售流通股【新增】；限售流通股【新增】",
+          "ChangeDate": "2014-10-11"
+        },
+        {
+          "ProjectName": "投资人(股权)变更",
+          "BeforeContent": "陈克明*出资 50.00000万元 人民币;陈源芝出资 450.00000万元 人民币;【退出】；陈克忠出资 51.00000万元 人民币;陈晓珍出资 450.00000万元 人民币;杨忠明出资 30.00000万元 人民币;姚明才出资 30.00000万元 人民币;【退出】；陈晖出资 20.00000万元 人民币;【退出】；陈宏出资 20.00000万元 人民币;【退出】；张瑶出资 20.00000万元 人民币;罗志远出资 10.00000万元 人民币;南县克明投资有限公司出资 5100.00000万元 人民币【退出】",
+          "AfterContent": "限售流通股出资 6454.25000万元 人民币 ;无限售流通股出资 2135.75000万元 人民币【新增】",
+          "ChangeDate": "2014-10-11"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "粮食收购(许可证有效期至2016年5月13日)；挂面(普通挂面、花色挂面)生产、销售(许可证有效期至2015年11月02日)；餐饮服务(职工食堂)(许可证有效期至2015年9月10日)；其他粮食加工品(谷物粉类制成品)生产、销售(许可证有效期至2014年10月07日)；饮料〖瓶(桶)装饮用水类(饮用纯净水)〗生产、销售(有效期至2014年12月29日)；普通货运服务(许可证有效期至2014年6月1日)；预包装食品批发(许可证有效期至2016年8月14日)。",
+          "AfterContent": "粮食收购(许可证有效期至2016年5月13日)；挂面(普通挂面、花色挂面)生产、销售(许可证有效期至2015年11月02日)；餐饮服务(职工食堂)(许可证有效期至2015年9月10日)；其他粮食加工品(谷物粉类制成品)生产、销售(许可证有效期至2014年10月07日)；饮料〖瓶(桶)装饮用水类(饮用纯净水)〗生产、销售(有效期至2014年12月29日)；普通货运服务(许可证有效期至2018年6月2日)；预包装食品批发(许可证有效期至2016年8月14日)。",
+          "ChangeDate": "2014-07-09"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "http://www.kemen.cn"
+          }
+        ],
+        "PhoneNumber": "0737-5229218",
+        "Email": "kemen@kemen.net.cn"
+      },
+      "Industry": {
+        "IndustryCode": "C",
+        "Industry": "制造业",
+        "SubIndustryCode": "14",
+        "SubIndustry": "食品制造业",
+        "MiddleCategoryCode": "143",
+        "MiddleCategory": "方便食品制造",
+        "SmallCategoryCode": "1431",
+        "SmallCategory": "米、面制品制造"
+      },
+      "Area": {
+        "Province": "湖南省",
+        "City": "益阳市",
+        "County": "益阳市大通湖管理区"
+      },
+      "InsuredCount": "531",
+      "EnglishName": "Kemen Noodle Manufacturing Co., Ltd.",
+      "PersonScope": "",
+      "KeyNo": "58a2eda9141310e86f913b585802e8c4",
+      "Name": "克明面业股份有限公司",
+      "No": "430900000007460",
+      "BelongOrg": "益阳市市场监督管理局",
+      "OperName": "陈克明",
+      "StartDate": "1997-06-16 00:00:00",
+      "EndDate": "",
+      "Status": "存续（在营、开业、在册）",
+      "Province": "HUN",
+      "UpdatedDate": "2019-07-18 11:14:48",
+      "CreditCode": "91430900617162624T",
+      "RegistCapi": "33036.8675万元人民币",
+      "EconKind": "股份有限公司(上市、自然人投资或控股)",
+      "Address": "南县兴盛大道工业园1号",
+      "Scope": "粮食收购;挂面(普通挂面、花色挂面)生产、销售;餐饮服务(职工食堂);饮料〖瓶(桶)装饮用水类(饮用纯净水)〗生产、销售;普通货运服务;预包装食品批发;信息系统服务;企业管理咨询服务;自营和代理各类商品及技术的进出口业务;自有商标及专利的有偿使用服务。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+      "TermStart": "1997-06-16 00:00:00",
+      "TeamEnd": "2030-05-09 00:00:00",
+      "CheckDate": "2019-06-27 00:00:00",
+      "OrgNo": "61716262-4",
+      "IsOnStock": "1",
+      "StockNumber": "002661",
+      "StockType": "国内A股",
+      "OriginalName": [
+        {
+          "Name": "南县克明面业有限公司",
+          "ChangeDate": ""
+        }
+      ],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/58a2eda9141310e86f913b585802e8c4.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "8552.53万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

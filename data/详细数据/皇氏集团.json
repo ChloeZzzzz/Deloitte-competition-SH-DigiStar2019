@@ -1,0 +1,83 @@
+{
+  "JobId": null,
+  "OrderNumber": "ECI2019071817253320064425",
+  "Result": {
+    "Partners": [],
+    "Employees": [
+      {
+        "Name": "黄嘉棣",
+        "Job": ""
+      },
+      {
+        "Name": "云南皇氏来思尔乳业有限公司",
+        "Job": ""
+      }
+    ],
+    "Branches": [],
+    "ChangeRecords": [
+      {
+        "ProjectName": "集团成员（分支公司/分支企业）",
+        "BeforeContent": "广西柳州皇氏甲天下乳业有限责任公司；广西皇氏甲天下农业生态开发有限公司；上思皇氏乳业畜牧发展有限公司；广西新皇传媒有限公司；深圳皇氏甲天下乳业有限公司；广西皇氏甲天下食品有限公司；御嘉影视集团有限公司；南宁市馥嘉园林科技有限公司；广西皇氏甲天下奶水牛开发有限公司；广西皇氏甲天下畜牧有限公司；广西酷乐创网络科技有限公司；云南皇氏来思尔乳业有限公司",
+        "AfterContent": "皇氏广西贸易有限公司；广西酷乐创网络科技有限公司；云南皇氏来思尔乳业有限公司；广西柳州皇氏甲天下乳业有限责任公司；广西皇氏甲天下农业生态开发有限公司；上思皇氏乳业畜牧发展有限公司；广西新皇传媒有限公司；深圳皇氏甲天下乳业有限公司；广西皇氏甲天下食品有限公司；御嘉影视集团有限公司；南宁市馥嘉园林科技有限公司；广西皇氏甲天下奶水牛开发有限公司；广西皇氏甲天下畜牧有限公司；广西飞创房地产开发有限公司",
+        "ChangeDate": "2015-07-24"
+      },
+      {
+        "ProjectName": "投资总额",
+        "BeforeContent": "48223.3085",
+        "AfterContent": "50223.308500（+4.15%）",
+        "ChangeDate": "2015-07-24"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": null,
+      "PhoneNumber": null,
+      "Email": null
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": null,
+      "SubIndustry": null,
+      "MiddleCategoryCode": null,
+      "MiddleCategory": null,
+      "SmallCategoryCode": null,
+      "SmallCategory": null
+    },
+    "Area": {
+      "Province": "广西壮族自治区",
+      "City": "南宁市",
+      "County": "西乡塘区"
+    },
+    "InsuredCount": null,
+    "EnglishName": null,
+    "PersonScope": " 1000-4999人",
+    "KeyNo": "359987983ec6da1d296fe183ab20cc68",
+    "Name": "皇氏集团",
+    "No": "450000000075373",
+    "BelongOrg": "广西壮族自治区工商行政管理局",
+    "OperName": "黄嘉棣",
+    "StartDate": "2014-12-30 00:00:00",
+    "EndDate": "",
+    "Status": "存续",
+    "Province": "GX",
+    "UpdatedDate": "2019-06-16 17:25:33",
+    "CreditCode": null,
+    "RegistCapi": "48万元人民币",
+    "EconKind": "内资企业集团",
+    "Address": "南宁市西乡塘区科园大道66号",
+    "Scope": "",
+    "TermStart": "2014-12-30 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2015-07-24 00:00:00",
+    "OrgNo": null,
+    "IsOnStock": "0",
+    "StockNumber": null,
+    "StockType": null,
+    "OriginalName": [],
+    "ImageUrl": "https://qccdata.qichacha.com/AutoImage/359987983ec6da1d296fe183ab20cc68.jpg?x-oss-process=image/resize,w_120",
+    "EntType": "0",
+    "RecCap": null
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

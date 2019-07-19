@@ -1,0 +1,649 @@
+{
+    "OrderNumber": "ECI2019071823180156648651",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "食品经营许可证",
+          "Province": "总局",
+          "Liandate": "2018-02-13",
+          "CaseNo": "JY19116011502073"
+        },
+        {
+          "Name": "食品经营许可证",
+          "Province": "总局",
+          "Liandate": "2017-07-14",
+          "CaseNo": "JY19116011501097"
+        },
+        {
+          "Name": "食品经营许可证",
+          "Province": "总局",
+          "Liandate": "2017-07-14",
+          "CaseNo": "JY19116011501101"
+        },
+        {
+          "Name": "机动车通行证审批",
+          "Province": "总局",
+          "Liandate": "2017-05-09",
+          "CaseNo": ""
+        },
+        {
+          "Name": "食品生产许可证",
+          "Province": "总局",
+          "Liandate": "2017-03-21",
+          "CaseNo": "sc10562012300296"
+        }
+      ],
+      "Penalty": [],
+      "Exceptions": [],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [
+        {
+          "RegisterNo": "62012019001182",
+          "RegisterDate": "2019-06-20",
+          "PublicDate": "",
+          "RegisterOffice": "甘肃省兰州市榆中县市场监督管理局",
+          "DebtSecuredAmount": "3000万人民币",
+          "Status": null
+        },
+        {
+          "RegisterNo": "62012019000413",
+          "RegisterDate": "2019-03-12",
+          "PublicDate": "",
+          "RegisterOffice": "甘肃省兰州市榆中县工商行政管理局",
+          "DebtSecuredAmount": "4000万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "榆动押2018-620123000016号",
+          "RegisterDate": "2018-06-25",
+          "PublicDate": "2018-06-25",
+          "RegisterOffice": "榆中县工商行政管理局",
+          "DebtSecuredAmount": "5000万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "榆动押2018-620123000005号",
+          "RegisterDate": "2018-01-30",
+          "PublicDate": "2018-01-30",
+          "RegisterOffice": "榆中县工商行政管理局",
+          "DebtSecuredAmount": "4000万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "榆动押2017-620123000034号",
+          "RegisterDate": "2017-06-26",
+          "PublicDate": "2017-06-26",
+          "RegisterOffice": "榆中县工商行政管理局",
+          "DebtSecuredAmount": "5000万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "榆动押2017-620123000007号",
+          "RegisterDate": "2017-01-24",
+          "PublicDate": "2017-01-24",
+          "RegisterOffice": "榆中县工商行政管理局",
+          "DebtSecuredAmount": "4000万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "榆动押2016-620123000042号",
+          "RegisterDate": "2016-06-27",
+          "PublicDate": "2016-06-27",
+          "RegisterOffice": "榆中县工商行政管理局",
+          "DebtSecuredAmount": "5000万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "榆动押2016-620123000036号",
+          "RegisterDate": "2016-06-12",
+          "PublicDate": "2016-06-12",
+          "RegisterOffice": "榆中县工商行政管理局",
+          "DebtSecuredAmount": "3000万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "榆动押2016-620123000009号",
+          "RegisterDate": "2016-01-25",
+          "PublicDate": "2016-01-25",
+          "RegisterOffice": "榆中县工商行政管理局",
+          "DebtSecuredAmount": "4000万人民币元",
+          "Status": null
+        }
+      ],
+      "Liquidation": null,
+      "Pledge": [
+        {
+          "CompanyId": "2a9cb3e5c76faa437c5ef8d7c15aba08",
+          "RegistNo": "61013922019000025",
+          "Pledgor": "兰州庄园牧场股份有限公司",
+          "PledgorNo": null,
+          "Pledgee": "中国工商银行股份有限公司榆中支行",
+          "PledgeeNo": "91620100924621106T",
+          "PledgedAmount": "3530",
+          "RegDate": "2019-06-25",
+          "PublicDate": "",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "5420960e0659e9276ef6658e948ea05e",
+          "RegistNo": "630123201400000007",
+          "Pledgor": "兰州庄园牧场股份有限公司",
+          "PledgorNo": "620123200001194（1-1）",
+          "Pledgee": "青海省信用担保集团有限责任公司",
+          "PledgeeNo": "630000010018969（1-1）",
+          "PledgedAmount": "3000万人民币元",
+          "RegDate": "2015-10-14",
+          "PublicDate": "2015-10-14",
+          "Status": "无效"
+        },
+        {
+          "CompanyId": "e50196230ce75a5a067071d4e6a71965",
+          "RegistNo": "620123200001194001",
+          "Pledgor": "马红富",
+          "PledgorNo": "（非公示项）",
+          "Pledgee": "中国农业发展银行榆中县支行",
+          "PledgeeNo": "620100100004396",
+          "PledgedAmount": "3219.74万元",
+          "RegDate": "2012-04-24",
+          "PublicDate": "",
+          "Status": "无效"
+        },
+        {
+          "CompanyId": "e50196230ce75a5a067071d4e6a71965",
+          "RegistNo": "620123200001194004",
+          "Pledgor": "兰州庄园投资有限公司",
+          "PledgorNo": "62010020004818",
+          "Pledgee": "中国农业发展银行榆中县支行",
+          "PledgeeNo": "620100100004396",
+          "PledgedAmount": "3089.46万元",
+          "RegDate": "2012-04-24",
+          "PublicDate": "",
+          "Status": "无效"
+        },
+        {
+          "CompanyId": "e50196230ce75a5a067071d4e6a71965",
+          "RegistNo": "620123200001194002",
+          "Pledgor": "甘肃福牛投资有限公司",
+          "PledgorNo": "620000200025993",
+          "Pledgee": "中国农业发展银行榆中县支行",
+          "PledgeeNo": "620100100004396",
+          "PledgedAmount": "1500万元",
+          "RegDate": "2012-04-24",
+          "PublicDate": "",
+          "Status": "无效"
+        },
+        {
+          "CompanyId": "e50196230ce75a5a067071d4e6a71965",
+          "RegistNo": "620123200001194003",
+          "Pledgor": "胡开盛",
+          "PledgorNo": "（非公示项）",
+          "Pledgee": "中国农业发展银行榆中县支行",
+          "PledgeeNo": "620100100004396",
+          "PledgedAmount": "190.78万元",
+          "RegDate": "2012-04-24",
+          "PublicDate": "",
+          "Status": "无效"
+        }
+      ],
+      "SpotCheck": [],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "916201007127751385",
+          "Name": "兰州庄园牧场股份有限公司",
+          "Year": "2018",
+          "Level": "A"
+        },
+        {
+          "No": "620123712775138",
+          "Name": "兰州庄园牧场股份有限公司",
+          "Year": "2017",
+          "Level": "A"
+        },
+        {
+          "No": "620123712775138",
+          "Name": "兰州庄园牧场股份有限公司",
+          "Year": "2016",
+          "Level": "A"
+        },
+        {
+          "No": "916201007127751385",
+          "Name": "兰州庄园牧场股份有限公司",
+          "Year": "2015",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "兰州庄园牧场股份有限公司",
+          "Link": "http://www.lzzhuangyuan.com",
+          "ImageUrl": "http://img.qichacha.com/Product/8bb27e6c-1bc6-44d6-b9c9-8421ba12e52f.jpg",
+          "Name": "庄园牧场",
+          "Domain": "医疗健康",
+          "Tags": "医疗健康,乳制品,养殖,乳品,奶牛,牧场",
+          "Description": "庄园牧场成立于2000年4月，属于民营股份制企业，是甘肃省目前投资规模最大的集奶牛养殖、技术研发、乳品加工、销售为一体的专业化乳制品生产企业。",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "\"2000年国务院292号令2005年信息产业部令第33号\"",
+          "LicensDocName": "\"《互联网信息服务管理办法》《非经营性互联网信息服务备案管理办法》\"",
+          "ValidityFrom": "",
+          "ValidityTo": "",
+          "LicensOffice": "甘肃省通信管理局",
+          "LicensContent": "非经营性互联网信息服务备案核准"
+        },
+        {
+          "LicensDocNo": "2013-B01230018",
+          "LicensDocName": "取水许可",
+          "ValidityFrom": "2013-04-16",
+          "ValidityTo": "2018-04-16",
+          "LicensOffice": "榆中县水务局",
+          "LicensContent": "取水许可"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "境内上市内资股投资者(A股)",
+          "StockType": "其他投资者",
+          "StockPercent": "25.00%",
+          "ShouldCapi": "4684",
+          "ShoudDate": "2017-10-30",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "香港H股公众股东",
+          "StockType": "其他投资者",
+          "StockPercent": "18.75%",
+          "ShouldCapi": "3513",
+          "ShoudDate": "2015-11-30",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "马红富",
+          "StockType": "自然人股东",
+          "StockPercent": "17.19%",
+          "ShouldCapi": "3219.74",
+          "ShoudDate": "2010-12-31",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "兰州庄园投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "16.49%",
+          "ShouldCapi": "3089.47",
+          "ShoudDate": "2010-12-31",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "甘肃福牛投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "8.01%",
+          "ShouldCapi": "1500",
+          "ShoudDate": "2010-12-31",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "重庆富坤创业投资中心(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "3.73%",
+          "ShouldCapi": "699",
+          "ShoudDate": "2010-12-31",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "天津创东方富弘股权投资基金合伙企业(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "1.52%",
+          "ShouldCapi": "284.75",
+          "ShoudDate": "2011-09-02",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "深圳市创东方富凯投资企业(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "1.52%",
+          "ShouldCapi": "284.75",
+          "ShoudDate": "2011-09-02",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "上海容银投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "1.51%",
+          "ShouldCapi": "282.175",
+          "ShoudDate": "2010-12-31",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "甘肃财鼎投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "1.49%",
+          "ShouldCapi": "279.6",
+          "ShoudDate": "2010-12-31",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "胡开盛",
+          "StockType": "自然人股东",
+          "StockPercent": "1.02%",
+          "ShouldCapi": "190.79",
+          "ShoudDate": "2010-12-31",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "太阳雨控股集团有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "0.76%",
+          "ShouldCapi": "142.375",
+          "ShoudDate": "2017-01-16",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "华人创新集团有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "0.76%",
+          "ShouldCapi": "142.375",
+          "ShoudDate": "2011-09-02",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "天津久丰股权投资基金合伙企业",
+          "StockType": "合伙企业",
+          "StockPercent": "0.76%",
+          "ShouldCapi": "142.375",
+          "ShoudDate": "2011-09-02",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "章健",
+          "StockType": "自然人股东",
+          "StockPercent": "0.75%",
+          "ShouldCapi": "139.8",
+          "ShoudDate": "2016-11-22",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "郑嘉铭",
+          "StockType": "自然人股东",
+          "StockPercent": "0.75%",
+          "ShouldCapi": "139.8",
+          "ShoudDate": "2010-12-31",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "陈玉海",
+          "Job": "董事兼总经理"
+        },
+        {
+          "Name": "马红富",
+          "Job": "董事长"
+        },
+        {
+          "Name": "王国福",
+          "Job": "副董事长"
+        },
+        {
+          "Name": "刘志军",
+          "Job": "董事"
+        },
+        {
+          "Name": "黄楚恒",
+          "Job": "董事"
+        },
+        {
+          "Name": "叶健聪",
+          "Job": "董事"
+        },
+        {
+          "Name": "宋晓鹏",
+          "Job": "董事"
+        },
+        {
+          "Name": "赵新民",
+          "Job": "董事"
+        },
+        {
+          "Name": "张骞予",
+          "Job": "董事"
+        },
+        {
+          "Name": "孙闯",
+          "Job": "监事"
+        },
+        {
+          "Name": "魏琳",
+          "Job": "监事"
+        },
+        {
+          "Name": "杜魏",
+          "Job": "监事"
+        }
+      ],
+      "Branches": [
+        {
+          "CompanyId": "55315ecd95fea09b56f07887bf5373c9",
+          "RegNo": "6201022300983",
+          "Name": "兰州庄园乳业有限责任公司东岗分厂",
+          "BelongOrg": "兰州市工商行政管理局城关分局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "718b2aaf85f0ce9686418e74008c07a0",
+          "RegNo": "6201022300342",
+          "Name": "兰州庄园乳业有限责任公司兰州营销部",
+          "BelongOrg": "兰州市工商行政管理局城关分局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "a4266057b75e5e93eef122bfb559b5b6",
+          "RegNo": "6201022301182",
+          "Name": "兰州庄园乳业有限责任公司城关配送部",
+          "BelongOrg": "兰州市工商行政管理局城关分局",
+          "CreditCode": null,
+          "OperName": null
+        }
+      ],
+      "ChangeRecords": [
+        {
+          "ProjectName": "外国公司境内法律文书送达人备案",
+          "BeforeContent": "阎彬",
+          "AfterContent": "丁赟",
+          "ChangeDate": "2019-06-12"
+        },
+        {
+          "ProjectName": "经营范围变更（含业务范围变更）",
+          "BeforeContent": "乳制品、乳酸饮料、冷饮生产、加工、销售；奶牛养殖；生物技术的研究与开发；饲料收购。(依法须经批准的项目,经相关部门批准后方可开展经营活动)***",
+          "AfterContent": "乳制品、乳酸饮料、冷饮生产、加工、销售；奶牛养殖；生物技术的研究与开发；饲料收购；自动售货机的销售、租赁、安装、维护、运营管理、售后服务及相关技术咨询、技术推广服务。(依法须经批准的项目,经相关部门批准后方可开展经营活动)***",
+          "ChangeDate": "2019-06-12"
+        },
+        {
+          "ProjectName": "外国公司境内法律文书送达人备案",
+          "BeforeContent": "阎彬",
+          "AfterContent": "丁赟",
+          "ChangeDate": "2018-04-10"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "魏琳:监事；阎彬:董事【退出】；叶健聪:董事；刘志军:董事；宋晓鹏:董事；潘锦:监事【退出】；马红富*:董事长；黄楚恒:董事；信世华:董事【退出】；王国福:副董事长；陈玉海:董事兼总经理；杜魏:监事",
+          "AfterContent": "刘志军:董事；宋晓鹏:董事；王国福:副董事长；赵新民:董事【新增】；叶健聪:董事；魏琳:监事；马红富*:董事长；黄楚恒:董事；张骞予:董事【新增】；孙闯:监事【新增】；杜魏:监事；陈玉海:董事兼总经理",
+          "ChangeDate": "2018-04-10"
+        },
+        {
+          "ProjectName": "投资人信息变更（包括投资人、出资额、出资方式、出资日期、投资人名称等）",
+          "BeforeContent": "郑嘉铭139.8(万元)人民币0.995%;；甘肃财鼎投资有限公司279.6(万元)人民币1.99%;；深圳市创东方富凯投资企业(有限合伙)284.75(万元)人民币2.0267%;；香港H股公众股东3513(万元)人民币25.0036%;；甘肃福牛投资有限公司1500(万元)人民币10.6762%;；胡开盛190.79(万元)人民币1.3579%;；天津创东方富弘股权投资基金合伙企业(有限合伙)284.75(万元)人民币2.0267%;；重庆富坤创业投资中心(有限合伙)699(万元)人民币4.9751%;；马红富*3219.74(万元)人民币22.9164%;；甘肃财成投资有限公司139.8(万元)人民币0.995%;【退出】；兰州庄园投资有限公司3089.47(万元)人民币21.9891%;；华人创新集团有限公司142.375(万元)人民币1.0133%;；天津久丰股权投资基金合伙企业142.375(万元)人民币1.0133%;；上海容银投资有限公司282.175(万元)人民币2.0084%;；黄长荣142.375(万元)人民币1.0133%;【退出】",
+          "AfterContent": "天津久丰股权投资基金合伙企业142.375(万元)人民币0.76%（-0.253）;；上海容银投资有限公司282.175(万元)人民币1.51%（-0.498）;；天津创东方富弘股权投资基金合伙企业(有限合伙)284.75(万元)人民币1.52%（-0.507）;；马红富*3219.74(万元)人民币17.19%（-5.726）;；甘肃财鼎投资有限公司279.6(万元)人民币1.48%（-0.51）;；重庆富坤创业投资中心(有限合伙)699(万元)人民币3.73%（-1.245）;；太阳雨控股集团有限公司142.375(万元)人民币0.76%;【新增】；胡开盛190.79(万元)人民币1.02%（-0.338）;；章健139.8(万元)人民币0.75%;【新增】；深圳市创东方富凯投资企业(有限合伙)284.75(万元)人民币1.52%（-0.507）;；香港H股公众股东3513(万元)人民币18.75%（-6.254）;；郑嘉铭139.8(万元)人民币0.75%（-0.245）;；华人创新集团有限公司142.375(万元)人民币0.76%（-0.253）;；甘肃福牛投资有限公司1500(万元)人民币8.01%（-2.666）;；兰州庄园投资有限公司3089.47(万元)人民币16.49%（-5.499）;；境内上市内资股投资者(A股)4684(万元)人民币25%;【新增】",
+          "ChangeDate": "2018-01-02"
+        },
+        {
+          "ProjectName": "注册资本变更（注册资本、注册资金、成员出资总额等变更）",
+          "BeforeContent": "14050(万元)人民币",
+          "AfterContent": "18734(万元)人民币（+33.34%）",
+          "ChangeDate": "2018-01-02"
+        },
+        {
+          "ProjectName": "经营范围变更（含业务范围变更）",
+          "BeforeContent": "乳制品、乳酸饮料、冷饮生产、加工、销售；奶牛养殖；生物技术的研究与开发；粮食收购。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "AfterContent": "乳制品、乳酸饮料、冷饮生产、加工、销售；奶牛养殖；生物技术的研究与开发；饲料收购。(依法须经批准的项目,经相关部门批准后方可开展经营活动)***",
+          "ChangeDate": "2018-01-02"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "潘锦:监事；魏琳:监事；宋晓鹏:董事；刘志军:董事；陈玉海:董事；阎彬:董事；叶健聪:董事；黄楚恒:董事；信世华:董事；杜魏:监事；王国福:副董事长；马红富*:董事长兼总经理",
+          "AfterContent": "刘志军:董事；马红富*:董事长；杜魏:监事；黄楚恒:董事；宋晓鹏:董事；魏琳:监事；陈玉海:董事兼总经理；信世华:董事；叶健聪:董事；王国福:副董事长；潘锦:监事；阎彬:董事",
+          "ChangeDate": "2018-01-02"
+        },
+        {
+          "ProjectName": "期限变更（经营期限、营业期限、驻在期限、合伙期限等变更）",
+          "BeforeContent": "2000年04月25日至2020年04月24日",
+          "AfterContent": "2000年04月25日至2050年04月24日",
+          "ChangeDate": "2016-10-19"
+        },
+        {
+          "ProjectName": "联络员备案",
+          "BeforeContent": "",
+          "AfterContent": "潘莱0931-8753001甘肃省兰州市城关区雁儿湾158号",
+          "ChangeDate": "2016-10-19"
+        },
+        {
+          "ProjectName": "市场主体类型变更",
+          "BeforeContent": "股份有限公司(上市)",
+          "AfterContent": "股份有限公司(台港澳与境内合资、上市)",
+          "ChangeDate": "2016-10-19"
+        },
+        {
+          "ProjectName": "注册资本变更（注册资本、注册资金、成员出资总额等变更）",
+          "BeforeContent": "",
+          "AfterContent": "14050(万元)人民币",
+          "ChangeDate": "2016-10-19"
+        },
+        {
+          "ProjectName": "外国公司境内法律文书送达人备案",
+          "BeforeContent": "",
+          "AfterContent": "兰州庄园牧场股份有限公司",
+          "ChangeDate": "2016-10-19"
+        },
+        {
+          "ProjectName": "投资人信息变更（包括投资人、出资额、出资方式、出资日期、投资人名称等）",
+          "BeforeContent": "",
+          "AfterContent": "兰州庄园牧场股份有限公司10537(万元)人民币75%;【新增】；香港H股公众股东3513(万元)人民币25%;【新增】",
+          "ChangeDate": "2016-10-19"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "http://www.lzzhuangyuan.com"
+          }
+        ],
+        "PhoneNumber": "0931-8753001",
+        "Email": "grassland@lzzhuangyuan.com"
+      },
+      "Industry": {
+        "IndustryCode": "C",
+        "Industry": "制造业",
+        "SubIndustryCode": "14",
+        "SubIndustry": "食品制造业",
+        "MiddleCategoryCode": "144",
+        "MiddleCategory": "乳制品制造",
+        "SmallCategoryCode": null,
+        "SmallCategory": null
+      },
+      "Area": {
+        "Province": "甘肃省",
+        "City": "兰州市",
+        "County": "榆中县"
+      },
+      "InsuredCount": "656",
+      "EnglishName": null,
+      "PersonScope": "500-999人",
+      "KeyNo": "1bcabbfce99b8596b3fa8e04e930a578",
+      "Name": "兰州庄园牧场股份有限公司",
+      "No": "620123200001194",
+      "BelongOrg": "兰州市工商行政管理局",
+      "OperName": "马红富",
+      "StartDate": "2000-04-25 00:00:00",
+      "EndDate": "",
+      "Status": "存续（在营、开业、在册）",
+      "Province": "GS",
+      "UpdatedDate": "2019-07-16 10:19:50",
+      "CreditCode": "916201007127751385",
+      "RegistCapi": "18734万元人民币",
+      "EconKind": "股份有限公司(台港澳与境内合资、上市)",
+      "Address": "甘肃省兰州市榆中县三角城乡三角城村",
+      "Scope": "乳制品、乳酸饮料、冷饮生产、加工、销售;奶牛养殖;生物技术的研究与开发;饲料收购;自动售货机的销售、租赁、安装、维护、运营管理、售后服务及相关技术咨询、技术推广服务。(依法须经批准的项目,经相关部门批准后方可开展经营活动)***",
+      "TermStart": "2000-04-25 00:00:00",
+      "TeamEnd": "2050-04-24 00:00:00",
+      "CheckDate": "2019-06-21 00:00:00",
+      "OrgNo": "71277513-8",
+      "IsOnStock": "1",
+      "StockNumber": "002910",
+      "StockType": "国内A股",
+      "OriginalName": [
+        {
+          "Name": "兰州庄园乳业有限责任公司",
+          "ChangeDate": ""
+        }
+      ],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/1bcabbfce99b8596b3fa8e04e930a578.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "14050万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

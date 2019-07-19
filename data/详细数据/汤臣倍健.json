@@ -1,0 +1,912 @@
+{
+    "OrderNumber": "ECI2019071823183453168332",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-29",
+          "CaseNo": "粤食健广审(文)第2018070817号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-29",
+          "CaseNo": "粤食健广审(文)第2018070812号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-25",
+          "CaseNo": "粤食健广审(视)第2018060079号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-25",
+          "CaseNo": "粤食健广审(文)第2018070813号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-25",
+          "CaseNo": "粤食健广审(视)第2018060081号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-25",
+          "CaseNo": "粤食健广审(文)第2018070814号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-22",
+          "CaseNo": "粤食健广审(文)第2018070819号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-22",
+          "CaseNo": "粤食健广审(文)第2018070818号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-20",
+          "CaseNo": "粤食健广审(文)第2018070809号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060708号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060715号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060716号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060720号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060721号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060792号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060776号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060795号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060717号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-13",
+          "CaseNo": "粤食健广审(文)第2018060722号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-11",
+          "CaseNo": "粤食健广审(文)第2018060752号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-11",
+          "CaseNo": "粤食健广审(文)第2018060764号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-06-11",
+          "CaseNo": "粤食健广审(文)第2018060756号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-31",
+          "CaseNo": "粤食健广审(文)第2018060656号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-31",
+          "CaseNo": "粤食健广审(文)第2018060654号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-31",
+          "CaseNo": "粤食健广审(文)第2018060655号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018050640号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018060706号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018050638号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018050614号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018050618号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018060697号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018050639号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018060688号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018060718号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018060685号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018060726号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018060703号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018050641号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018050621号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-29",
+          "CaseNo": "粤食健广审(文)第2018050623号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-24",
+          "CaseNo": "粤食健广审(文)第2018050613号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-24",
+          "CaseNo": "粤食健广审(文)第2018050615号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-24",
+          "CaseNo": "粤食健广审(文)第2018050612号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-24",
+          "CaseNo": "粤食健广审(文)第2018050616号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-22",
+          "CaseNo": "粤食健广审(文)第2018050591号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-22",
+          "CaseNo": "粤食健广审(文)第2018050605号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-22",
+          "CaseNo": "粤食健广审(文)第2018050602号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-22",
+          "CaseNo": "粤食健广审(文)第2018050603号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-21",
+          "CaseNo": "粤食健广审(文)第2018050606号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-16",
+          "CaseNo": "粤食健广审(文)第2018050590号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-14",
+          "CaseNo": "粤食健广审(文)第2018050514号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-14",
+          "CaseNo": "粤食健广审(文)第2018050508号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-09",
+          "CaseNo": "粤食健广审(文)第2018060665号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050471号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050540号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050450号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050464号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050488号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050474号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050485号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050538号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050470号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050473号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-07",
+          "CaseNo": "粤食健广审(文)第2018050542号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-04",
+          "CaseNo": "粤食健广审(文)第2018050541号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-05-04",
+          "CaseNo": "粤食健广审(文)第2018050492号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-28",
+          "CaseNo": "粤食健广审(文)第2018050449号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-28",
+          "CaseNo": "粤食健广审(文)第2018050422号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-28",
+          "CaseNo": "粤食健广审(文)第2018050421号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-28",
+          "CaseNo": "粤食健广审(文)第2018050452号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-28",
+          "CaseNo": "粤食健广审(文)第2018050437号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-28",
+          "CaseNo": "粤食健广审(文)第2018050451号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-28",
+          "CaseNo": "粤食健广审(文)第2018050435号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-28",
+          "CaseNo": "粤食健广审(文)第2018050436号"
+        },
+        {
+          "Name": "保健食品广告审查",
+          "Province": "总局",
+          "Liandate": "2018-04-25",
+          "CaseNo": "粤食健广审(文)第2018050420号"
+        },
+        {
+          "Name": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品）变更",
+          "Province": "总局",
+          "Liandate": "2018-04-23",
+          "CaseNo": "SCSC12744040400094"
+        },
+        {
+          "Name": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品）变更",
+          "Province": "总局",
+          "Liandate": "2017-12-20",
+          "CaseNo": "SC12744040400094"
+        },
+        {
+          "Name": "开业登记审批",
+          "Province": "总局",
+          "Liandate": "2016-04-19",
+          "CaseNo": ""
+        },
+        {
+          "Name": "汤臣倍健股份有限公司4#厂房基建项目",
+          "Province": "总局",
+          "Liandate": "2014-04-09",
+          "CaseNo": "珠金环建〔2013〕106号"
+        },
+        {
+          "Name": "汤臣倍健股份有限公司质检车间、宿舍食堂基建项目",
+          "Province": "总局",
+          "Liandate": "2014-04-09",
+          "CaseNo": "珠金环建〔2013〕105号"
+        },
+        {
+          "Name": "汤臣倍健股份有限公司全自动立体成品库、成品分捡车间基建项目",
+          "Province": "总局",
+          "Liandate": "2014-04-09",
+          "CaseNo": "珠金环建〔2013〕104号"
+        },
+        {
+          "Name": "食品生产许可证信息",
+          "Province": "总局",
+          "Liandate": "2013-07-05",
+          "CaseNo": "QS4404 1301 0979"
+        },
+        {
+          "Name": "广东汤臣倍健生物科技股份有限公司生产车间新建项目",
+          "Province": "总局",
+          "Liandate": "2009-12-04",
+          "CaseNo": "珠环建[2009]146号"
+        }
+      ],
+      "Penalty": [],
+      "Exceptions": [],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [],
+      "Liquidation": null,
+      "Pledge": [
+        {
+          "CompanyId": "0aa14afcd6734c1f69b938e5fb31de39",
+          "RegistNo": "1220180808001001",
+          "Pledgor": "汤臣倍健股份有限公司",
+          "PledgorNo": "非公示项",
+          "Pledgee": "中国工商银行股份有限公司广州花城支行",
+          "PledgeeNo": "914401018904923251",
+          "PledgedAmount": "14195.64",
+          "RegDate": "2018-08-08",
+          "PublicDate": "",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "0aa14afcd6734c1f69b938e5fb31de39",
+          "RegistNo": "A1800032641\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+          "Pledgor": "汤臣倍健股份有限公司",
+          "PledgorNo": null,
+          "Pledgee": "中国工商银行股份有限公司广州花城支行",
+          "PledgeeNo": "914401018904923251",
+          "PledgedAmount": "10000",
+          "RegDate": "2018-08-07",
+          "PublicDate": "",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "0aa14afcd6734c1f69b938e5fb31de39",
+          "RegistNo": "0120180807000201",
+          "Pledgor": "汤臣倍健股份有限公司",
+          "PledgorNo": "非公示项",
+          "Pledgee": "中国工商银行股份有限公司广州花城支行",
+          "PledgeeNo": "914401018904923251",
+          "PledgedAmount": "160000",
+          "RegDate": "2018-08-07",
+          "PublicDate": "",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "0aa14afcd6734c1f69b938e5fb31de39",
+          "RegistNo": "A1800032640\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+          "Pledgor": "汤臣倍健股份有限公司",
+          "PledgorNo": null,
+          "Pledgee": "中国工商银行股份有限公司广州花城支行",
+          "PledgeeNo": "914401018904923251",
+          "PledgedAmount": "1333",
+          "RegDate": "2018-08-07",
+          "PublicDate": "",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "0aa14afcd6734c1f69b938e5fb31de39",
+          "RegistNo": "0620180807008201",
+          "Pledgor": "汤臣倍健股份有限公司",
+          "PledgorNo": "非公示项",
+          "Pledgee": "中国工商银行股份有限公司广州花城支行",
+          "PledgeeNo": "914401018904923251",
+          "PledgedAmount": "1400",
+          "RegDate": "2018-08-07",
+          "PublicDate": "",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "0cdb3a37fff06bec20f0b7f6d2ac837f",
+          "RegistNo": "320981000097",
+          "Pledgor": "高志刚",
+          "PledgorNo": null,
+          "Pledgee": "汤臣倍健股份有限公司",
+          "PledgeeNo": "914404007778050708",
+          "PledgedAmount": "4750",
+          "RegDate": "2016-12-13",
+          "PublicDate": "2017-12-18",
+          "Status": "无效"
+        }
+      ],
+      "SpotCheck": [],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "914404007778052708",
+          "Name": "汤臣倍健股份有限公司",
+          "Year": "2018",
+          "Level": "A"
+        },
+        {
+          "No": "440401777805270",
+          "Name": "汤臣倍健股份有限公司",
+          "Year": "2017",
+          "Level": "A"
+        },
+        {
+          "No": "440401777805270",
+          "Name": "汤臣倍健股份有限公司",
+          "Year": "2016",
+          "Level": "A"
+        },
+        {
+          "No": "440401777805270",
+          "Name": "汤臣倍健股份有限公司",
+          "Year": "2015",
+          "Level": "A"
+        },
+        {
+          "No": "440402777805270",
+          "Name": "汤臣倍健股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "汤臣倍健股份有限公司",
+          "Link": "www.by-health.com",
+          "ImageUrl": "http://img.qichacha.com/Product/523ac9fc-9a9d-4f9e-8a44-f15ac491be20.jpg",
+          "Name": "汤臣倍健",
+          "Domain": "医疗健康",
+          "Tags": "医疗健康,健康保健,生物生命科学,医疗检测,保健品,食品,健康,营养,膳食",
+          "Description": "汤臣倍健是一个膳食补充剂品牌，公司致力于开发、研制、生产及销售营养补充剂和功能性健康食品，用纯天然的膳食补充剂产品帮助人们改善健康，提高生活品质。",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "SC12744040400094",
+          "LicensDocName": "食品生产许可证（保健食品）",
+          "ValidityFrom": "2016-04-12",
+          "ValidityTo": "2021-04-11",
+          "LicensOffice": "广东省食品药品监督管理局",
+          "LicensContent": "【法定代表人】梁允超；【食品、食品添加剂类别】保健食品；【生产地址】珠海市金湾区三灶科技工业园星汉路19号；【住所】珠海市金湾区三灶科技工业园星汉路19号；"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "梁允超",
+          "StockType": "自然人股东",
+          "StockPercent": "48.38%",
+          "ShouldCapi": "71061.1742",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "持有无限售条件股份股东",
+          "StockType": "其他投资者",
+          "StockPercent": "46.32%",
+          "ShouldCapi": "68027.4286",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "持有有限售条件股份股东",
+          "StockType": "其他投资者",
+          "StockPercent": "1.65%",
+          "ShouldCapi": "2420.874",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "梁水生",
+          "StockType": "自然人股东",
+          "StockPercent": "1.49%",
+          "ShouldCapi": "2190",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "陈宏",
+          "StockType": "自然人股东",
+          "StockPercent": "1.46%",
+          "ShouldCapi": "2150",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "汤晖",
+          "StockType": "自然人股东",
+          "StockPercent": "0.63%",
+          "ShouldCapi": "927.6",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "龙翠耘",
+          "StockType": "自然人股东",
+          "StockPercent": "0.16%",
+          "ShouldCapi": "235.1112",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "林志成",
+          "Job": "董事兼总经理"
+        },
+        {
+          "Name": "梁允超",
+          "Job": "董事长"
+        },
+        {
+          "Name": "梁水生",
+          "Job": "副董事长"
+        },
+        {
+          "Name": "陈宏",
+          "Job": "副总经理"
+        },
+        {
+          "Name": "蔡良平",
+          "Job": "副总经理"
+        },
+        {
+          "Name": "黎文靖",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "刘恒",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "张平",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "汤晖",
+          "Job": "董事"
+        },
+        {
+          "Name": "唐金银",
+          "Job": "监事"
+        },
+        {
+          "Name": "吕静莲",
+          "Job": ""
+        },
+        {
+          "Name": "王文",
+          "Job": "监事会主席"
+        },
+        {
+          "Name": "蒋钢",
+          "Job": ""
+        },
+        {
+          "Name": "吴卓艺",
+          "Job": ""
+        }
+      ],
+      "Branches": [
+        {
+          "CompanyId": "cb5378929e3fb9ccca14f3bd79ae1821",
+          "RegNo": "914401016756875177",
+          "Name": "汤臣倍健股份有限公司广州分公司",
+          "BelongOrg": "广州市黄埔区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        }
+      ],
+      "ChangeRecords": [
+        {
+          "ProjectName": "",
+          "BeforeContent": "146902.788000",
+          "AfterContent": "146881.788000",
+          "ChangeDate": "2018-09-17"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "146927.188000",
+          "AfterContent": "146902.788000",
+          "ChangeDate": "2018-06-27"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "146947.188000",
+          "AfterContent": "146927.188000",
+          "ChangeDate": "2018-01-19"
+        },
+        {
+          "ProjectName": "法定代表人变更",
+          "BeforeContent": "梁允超",
+          "AfterContent": "林志成*",
+          "ChangeDate": "2017-12-04"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "147012.188000",
+          "AfterContent": "146947.188000",
+          "ChangeDate": "2017-12-04"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "147032.188000",
+          "AfterContent": "147012.188000",
+          "ChangeDate": "2017-06-26"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "145602.188000",
+          "AfterContent": "147032.188000",
+          "ChangeDate": "2017-02-07"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "72801.094000",
+          "AfterContent": "145602.188000",
+          "ChangeDate": "2016-04-19"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "65801.094000",
+          "AfterContent": "72801.094000",
+          "ChangeDate": "2015-04-21"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "65616.000000",
+          "AfterContent": "65801.094000",
+          "ChangeDate": "2014-08-25"
+        },
+        {
+          "ProjectName": "",
+          "BeforeContent": "32808.000000",
+          "AfterContent": "65616.000000",
+          "ChangeDate": "2014-04-28"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "http://www.by-health.com"
+          }
+        ],
+        "PhoneNumber": "4000-916-916",
+        "Email": "cs@by-health.com"
+      },
+      "Industry": {
+        "IndustryCode": "L",
+        "Industry": "租赁和商务服务业",
+        "SubIndustryCode": "72",
+        "SubIndustry": "商务服务业",
+        "MiddleCategoryCode": "729",
+        "MiddleCategory": "其他商务服务业",
+        "SmallCategoryCode": "7299",
+        "SmallCategory": "其他未列明商务服务业"
+      },
+      "Area": {
+        "Province": "广东省",
+        "City": "珠海市",
+        "County": "金湾区"
+      },
+      "InsuredCount": "915",
+      "EnglishName": "By-health Co., Ltd.",
+      "PersonScope": " 1000-4999人",
+      "KeyNo": "0cdb3a37fff06bec20f0b7f6d2ac837f",
+      "Name": "汤臣倍健股份有限公司",
+      "No": "440400000071153",
+      "BelongOrg": "珠海市工商行政管理局",
+      "OperName": "林志成",
+      "StartDate": "2005-04-01 00:00:00",
+      "EndDate": "",
+      "Status": "在营（开业）企业",
+      "Province": "GD",
+      "UpdatedDate": "2019-07-18 11:11:15",
+      "CreditCode": "914404007778052708",
+      "RegistCapi": "146876.388万元人民币",
+      "EconKind": "股份有限公司(上市、自然人投资或控股)",
+      "Address": "珠海市金湾区三灶科技工业园星汉路19号",
+      "Scope": "研发、生产和销售(保健食品、饮料、糖果制品、特殊膳食食品、特殊医学用途配方食品、方便食品、饼干、茶叶及相关制品、糕点、蜂产品、其他食品);进出口食品;批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)、化妆品及卫生用品、医疗用品及医疗器材;糕点、面包零售;研发和销售包装材料;研发生物技术;商务服务(不含许可经营项目);中药材种植(不含许可经营项目);食品添加剂生产、经营。动产和不动产租赁;营养咨询;正餐、快餐、饮料及冷饮服务;咖啡馆服务;商业批发零售;广告业;生物技术推广服务;科技中介服务;农业科学研究和试验发展;医学研究和试验发展;自然科学研究和试验发展;工程和技术研究和试验发展;游览景区管理;化妆品、卫生材料及医药用品的制造。(依法须经批准的项目,经相关部门批准后方可开展经营活动)〓",
+      "TermStart": "2005-04-01 00:00:00",
+      "TeamEnd": "",
+      "CheckDate": "2019-05-13 00:00:00",
+      "OrgNo": "77780527-0",
+      "IsOnStock": "1",
+      "StockNumber": "300146",
+      "StockType": "国内A股",
+      "OriginalName": [],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/0cdb3a37fff06bec20f0b7f6d2ac837f.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "145602.188万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

@@ -1,0 +1,680 @@
+{
+  "OrderNumber": "ECI2019071817333910116027",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "食品经营许可证",
+        "Province": "总局",
+        "Liandate": "2018-05-11",
+        "CaseNo": "jy34101080070046"
+      },
+      {
+        "Name": "特种设备使用登记许可",
+        "Province": "总局",
+        "Liandate": "2017-11-01",
+        "CaseNo": "t569"
+      },
+      {
+        "Name": "特种设备使用登记",
+        "Province": "总局",
+        "Liandate": "2017-04-12",
+        "CaseNo": "ts容032"
+      },
+      {
+        "Name": "特种设备使用登记",
+        "Province": "总局",
+        "Liandate": "2017-01-12",
+        "CaseNo": "t035"
+      },
+      {
+        "Name": "排污许可证换发",
+        "Province": "总局",
+        "Liandate": "2016-07-22",
+        "CaseNo": "郑环总许字第17号"
+      },
+      {
+        "Name": "三全食品股份有限公司锅炉改造项目",
+        "Province": "总局",
+        "Liandate": "2016-06-06",
+        "CaseNo": "惠环验2016015号"
+      },
+      {
+        "Name": "三全食品股份有限公司锅炉改造项目",
+        "Province": "总局",
+        "Liandate": "2016-06-06",
+        "CaseNo": "惠环验〔2016〕015号"
+      },
+      {
+        "Name": "食品生产许可证",
+        "Province": "总局",
+        "Liandate": "2016-05-20",
+        "CaseNo": "SC11141010800034"
+      },
+      {
+        "Name": "特种设备使用登记",
+        "Province": "总局",
+        "Liandate": "2016-04-01",
+        "CaseNo": "YD215"
+      },
+      {
+        "Name": "特种设备使用登记",
+        "Province": "总局",
+        "Liandate": "2016-04-01",
+        "CaseNo": "yd215"
+      },
+      {
+        "Name": "8000吨标准化冷库项目",
+        "Province": "总局",
+        "Liandate": "2015-12-03",
+        "CaseNo": "惠环验(2015)013号"
+      },
+      {
+        "Name": "8000吨标准化冷库项目",
+        "Province": "总局",
+        "Liandate": "2015-12-03",
+        "CaseNo": "惠环验2015013号"
+      },
+      {
+        "Name": "三全食品综合基地二期建设工程建设项目",
+        "Province": "总局",
+        "Liandate": "2015-08-21",
+        "CaseNo": "惠环验2015007号"
+      },
+      {
+        "Name": "三全食品综合基地（二期）建设工程建设项目",
+        "Province": "总局",
+        "Liandate": "2015-08-21",
+        "CaseNo": "惠环验(2015)007号"
+      },
+      {
+        "Name": "三全食品股份有限公司锅炉改造项目",
+        "Province": "总局",
+        "Liandate": "2015-08-19",
+        "CaseNo": "惠环审2015033号"
+      },
+      {
+        "Name": "三全食品股份有限公司锅炉改造”项目",
+        "Province": "总局",
+        "Liandate": "2015-08-19",
+        "CaseNo": "惠环审〔2015〕033号"
+      },
+      {
+        "Name": "郑人防免征字〔2015〕第012号",
+        "Province": "总局",
+        "Liandate": "2015-04-07",
+        "CaseNo": "郑人防免征字〔2015〕第012号"
+      },
+      {
+        "Name": "易地建设人民防空工程（含减免易地建设费）审批",
+        "Province": "总局",
+        "Liandate": "2015-04-07",
+        "CaseNo": "郑人防免征字〔2015〕第012号"
+      },
+      {
+        "Name": "三全食品股份有限公司8000吨标准化冷库建设项目",
+        "Province": "总局",
+        "Liandate": "2015-03-27",
+        "CaseNo": "惠环审2015017号"
+      },
+      {
+        "Name": "“三全食品股份有限公司8000吨标准化冷库”建设项目",
+        "Province": "总局",
+        "Liandate": "2015-03-27",
+        "CaseNo": "惠环审(2015)017号"
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91410000514683187W",
+        "Name": "三全食品股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "91410000514683187W",
+        "Name": "三全食品股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "410108514683187",
+        "Name": "三全食品股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "410108514683187",
+        "Name": "三全食品股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "三全食品股份有限公司",
+        "Link": "http://app.sanquanxianshi.com",
+        "ImageUrl": "http://img.qichacha.com/Product/ece35dea-6173-4fab-b635-23726ac7eb35.jpg",
+        "Name": "三全食品",
+        "Domain": "电子商务",
+        "Tags": "电子商务,消费生活,餐饮,美食,外卖,生鲜食品,食品,中央厨房,供应链,食品安全,冷链,速冻,鲜食,美味",
+        "Description": "三全食品是一个速冻鲜食品牌，产品主要有速冻粽子、速冻水饺等中式速冻及常温食品。通过官网及电商平台、线下超市等渠道销售；目前在写字楼内铺设鲜食自动售货机，采用中央厨房统一生产盒饭，自建冷链物流进行配送，用户通过微信小程序或微信公众平台即可进行购买。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "郑震确[2015]63号",
+        "LicensDocName": "权限内建设工程抗震设防要求确定",
+        "ValidityFrom": "2015-03-12",
+        "ValidityTo": "",
+        "LicensOffice": "郑州市地震局",
+        "LicensContent": "允许"
+      },
+      {
+        "LicensDocNo": "惠环审(2015)017号",
+        "LicensDocName": "“三全食品股份有限公司8000吨标准化冷库”建设项目",
+        "ValidityFrom": "2015-03-27",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "惠济区环保局",
+        "LicensContent": "建设项目环境影响评价文件审批"
+      },
+      {
+        "LicensDocNo": "郑人防免征字〔2015〕第012号",
+        "LicensDocName": "易地建设人民防空工程（含减免易地建设费）审批",
+        "ValidityFrom": "2015-04-07",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "郑州市人民防空办公室",
+        "LicensContent": "你单位建设的“三全食品综合基地工程”项目，位于天河路西、开元路南，总建筑面积9778.71㎡。根据豫计收费[2003]1178号文规定, 同意你单位免缴防空地下室易地建设费。减免原因：工业生产厂房。"
+      },
+      {
+        "LicensDocNo": "惠环审〔2015〕033号",
+        "LicensDocName": "三全食品股份有限公司锅炉改造”项目",
+        "ValidityFrom": "2015-08-19",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "惠济区环保局",
+        "LicensContent": "建设项目环境影响评价文件审批"
+      },
+      {
+        "LicensDocNo": "惠环验(2015)007号",
+        "LicensDocName": "三全食品综合基地（二期）建设工程建设项目",
+        "ValidityFrom": "2015-08-21",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "惠济区环保局",
+        "LicensContent": "建设项目竣工环境保护验收"
+      },
+      {
+        "LicensDocNo": "惠环验(2015)013号",
+        "LicensDocName": "8000吨标准化冷库项目",
+        "ValidityFrom": "2015-12-03",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "惠济区环保局",
+        "LicensContent": "建设项目竣工环境保护验收"
+      },
+      {
+        "LicensDocNo": "YD215",
+        "LicensDocName": "特种设备使用登记",
+        "ValidityFrom": "2016-04-01",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "郑州市质量技术监督局",
+        "LicensContent": "电梯使用登记"
+      },
+      {
+        "LicensDocNo": "SC11141010800034",
+        "LicensDocName": "食品生产许可",
+        "ValidityFrom": "2016-05-20",
+        "ValidityTo": "2021-05-19",
+        "LicensOffice": "郑州市食品药品监督管理局",
+        "LicensContent": "允许经营"
+      },
+      {
+        "LicensDocNo": "惠环验〔2016〕015号",
+        "LicensDocName": "三全食品股份有限公司锅炉改造项目",
+        "ValidityFrom": "2016-06-06",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "惠济区环保局",
+        "LicensContent": "建设项目竣工环境保护验收"
+      },
+      {
+        "LicensDocNo": "郑环总许字第17号",
+        "LicensDocName": "排污许可证换发",
+        "ValidityFrom": "2016-07-22",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "郑州市环保局",
+        "LicensContent": "建设项目环境影响评价文件审批"
+      },
+      {
+        "LicensDocNo": "T035",
+        "LicensDocName": "特种设备使用登记",
+        "ValidityFrom": "2017-01-12",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "郑州市质量技术监督局",
+        "LicensContent": "电梯使用登记"
+      },
+      {
+        "LicensDocNo": "TS容032",
+        "LicensDocName": "特种设备使用登记",
+        "ValidityFrom": "2017-04-12",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "郑州市质量技术监督局",
+        "LicensContent": "压力容器使用登记"
+      },
+      {
+        "LicensDocNo": "T569",
+        "LicensDocName": "特种设备使用登记许可",
+        "ValidityFrom": "2017-11-01",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "郑州市质量技术监督局",
+        "LicensContent": "电梯使用登记许可"
+      },
+      {
+        "LicensDocNo": "T618",
+        "LicensDocName": "特种设备使用登记许可",
+        "ValidityFrom": "2017-11-28",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "郑州市质量技术监督局",
+        "LicensContent": "电梯使用登记许可"
+      },
+      {
+        "LicensDocNo": "JY34101080070046",
+        "LicensDocName": "食品经营许可证",
+        "ValidityFrom": "2018-05-11",
+        "ValidityTo": "2023-05-10",
+        "LicensOffice": "郑州市惠济区食品药品监督管理局",
+        "LicensContent": "热食类食品制售"
+      },
+      {
+        "LicensDocNo": "JY14101080074751",
+        "LicensDocName": "食品经营许可证",
+        "ValidityFrom": "2018-08-14",
+        "ValidityTo": "2023-08-13",
+        "LicensOffice": "郑州市惠济区食品药品监督管理局",
+        "LicensContent": "预包装食品销售"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "社会公众股股东",
+        "StockType": "其他投资者",
+        "StockPercent": "65.44%",
+        "ShouldCapi": "52639.1532",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "货币,其他",
+        "RealCapi": "6191.4383,6236.8383",
+        "CapiDate": "2011-08-29,2013-04-11"
+      },
+      {
+        "StockName": "陈泽民",
+        "StockType": "自然人股东",
+        "StockPercent": "6.86%",
+        "ShouldCapi": "5516.028572",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "股权,其他",
+        "RealCapi": "2752,2752.6",
+        "CapiDate": "2009-06-04,2013-04-11"
+      },
+      {
+        "StockName": "陈希",
+        "StockType": "自然人股东",
+        "StockPercent": "4.92%",
+        "ShouldCapi": "3956",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "股权,其他",
+        "RealCapi": "1978,1978",
+        "CapiDate": "2009-06-04,2013-04-11"
+      },
+      {
+        "StockName": "陈南",
+        "StockType": "自然人股东",
+        "StockPercent": "4.92%",
+        "ShouldCapi": "3956",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "股权,其他",
+        "RealCapi": "1978,1978",
+        "CapiDate": "2009-06-04,2013-04-11"
+      },
+      {
+        "StockName": "苏比尔诗玛特控股有限公司",
+        "StockType": "外国(地区)企业",
+        "StockPercent": "4.48%",
+        "ShouldCapi": "3600",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "股权,其他",
+        "RealCapi": "1800,1800",
+        "CapiDate": "2009-06-04,2013-04-11"
+      },
+      {
+        "StockName": "东逸亚洲有限公司",
+        "StockType": "法人股东",
+        "StockPercent": "4.48%",
+        "ShouldCapi": "3600",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "股权,其他",
+        "RealCapi": "1800,1800",
+        "CapiDate": "2009-06-04,2013-04-11"
+      },
+      {
+        "StockName": "长日投资有限公司",
+        "StockType": "外国(地区)企业",
+        "StockPercent": "4.48%",
+        "ShouldCapi": "3600",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "股权,其他",
+        "RealCapi": "1800,1800",
+        "CapiDate": "2009-06-04,2013-04-11"
+      },
+      {
+        "StockName": "贾岭达",
+        "StockType": "自然人股东",
+        "StockPercent": "4.28%",
+        "ShouldCapi": "3440",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "股权,其他",
+        "RealCapi": "1720,1720",
+        "CapiDate": "2009-06-04,2013-04-11"
+      },
+      {
+        "StockName": "贾勇达",
+        "StockType": "自然人股东",
+        "StockPercent": "0.16%",
+        "ShouldCapi": "126",
+        "ShoudDate": "2001-06-28",
+        "InvestType": "",
+        "InvestName": "股权,其他",
+        "RealCapi": "86,40",
+        "CapiDate": "2009-06-04,2013-04-11"
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "陈南",
+        "Job": "董事长"
+      },
+      {
+        "Name": "贾岭达",
+        "Job": "副董事长"
+      },
+      {
+        "Name": "臧冬斌",
+        "Job": "董事"
+      },
+      {
+        "Name": "张雷",
+        "Job": "董事"
+      },
+      {
+        "Name": "沈祥坤",
+        "Job": "董事"
+      },
+      {
+        "Name": "李娜",
+        "Job": "董事"
+      },
+      {
+        "Name": "陈泽民",
+        "Job": "董事"
+      },
+      {
+        "Name": "郝秀琴",
+        "Job": "董事"
+      },
+      {
+        "Name": "陈希",
+        "Job": "董事"
+      },
+      {
+        "Name": "李涵",
+        "Job": "监事"
+      },
+      {
+        "Name": "庞德红",
+        "Job": "监事"
+      },
+      {
+        "Name": "李玉",
+        "Job": "监事"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "03aa3fdab7e1336fc9fffe1da3bae4bf",
+        "RegNo": "企股浙杭分字第06778号",
+        "Name": "郑州三全食品股份有限公司杭州分公司",
+        "BelongOrg": "杭州市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "130adb07dc4e8a7f4bd1ae5d66674f1b",
+        "RegNo": "91510100740329792M",
+        "Name": "三全食品股份有限公司成都分公司",
+        "BelongOrg": "成都市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "16fea21188c93dd511b54a81ff2f70cf",
+        "RegNo": "210100500011099",
+        "Name": "郑州三全食品股份有限公司沈阳分公司",
+        "BelongOrg": "沈阳市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3e03c7467036da8d6e5d40996ae006c6",
+        "RegNo": "320100500017448",
+        "Name": "郑州三全食品股份有限公司南京分公司",
+        "BelongOrg": "南京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6758d4e41e0eb5b21ae120649e6f2a3b",
+        "RegNo": "91440101MA59B73C01",
+        "Name": "三全食品股份有限公司广州分公司",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "74b6eb41eaf66dc1acc8a0be29e9ffc1",
+        "RegNo": "320585500000294",
+        "Name": "郑州三全食品股份有限公司太仓分公司",
+        "BelongOrg": "太仓市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "78f343556022cb959ce42b9c8cd4212b",
+        "RegNo": "00359",
+        "Name": "郑州三全食品股份有限公司昆明分公司",
+        "BelongOrg": "昆明市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7f6739d704fa0dece28b61feb3b120ff",
+        "RegNo": "91120118MA06Q58J4P",
+        "Name": "三全食品股份有限公司天津分公司",
+        "BelongOrg": "天津市自由贸易试验区市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c05bc91d83aa1d1a0198bb56765bee3a",
+        "RegNo": "企股粤穗分字第004239号",
+        "Name": "郑州三全食品股份有限公司广州经营部",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ef57091a79245b4ea16d306d1315ba5c",
+        "RegNo": "110000420075333",
+        "Name": "郑州三全食品股份有限公司北京分公司",
+        "BelongOrg": "北京市工商行政管理局（",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f79027301099bb01cf1abf6b67bace83",
+        "RegNo": "4201022401356",
+        "Name": "郑州三全食品股份有限公司武汉分公司",
+        "BelongOrg": "武汉市江岸区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "59642.6898",
+        "AfterContent": "59366.471700（-0.46%）",
+        "ChangeDate": "2019-02-22"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "59665.2098",
+        "AfterContent": "59642.689800（-0.04%）",
+        "ChangeDate": "2018-07-12"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "社会公众股股东:65.45%；陈泽民:6.85%；陈希:4.91%；陈南*:4.91%；苏比尔诗玛特控股有限公司:4.47%；东逸亚洲有限公司:4.47%；长日投资有限公司:4.47%；贾岭达:4.27%；贾勇达:0.15%",
+        "AfterContent": "陈希:4.86%（-0.05）；陈南*:4.86%（-0.05）；贾岭达:4.23%（-0.04）；苏比尔诗玛特控股有限公司:4.43%（-0.04）；东逸亚洲有限公司:4.43%（-0.04）；长日投资有限公司:4.43%（-0.04）；贾勇达:0.15%；陈泽民:6.78%（-0.07）；社会公众股股东:64.76%（-0.69）",
+        "ChangeDate": "2018-07-12"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "59922.4232",
+        "AfterContent": "59665.209800（-0.43%）",
+        "ChangeDate": "2018-03-09"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "59868.1932",
+        "AfterContent": "59922.423200（+0.09%）",
+        "ChangeDate": "2017-12-01"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "58821.7532",
+        "AfterContent": "59868.193200（+1.78%）",
+        "ChangeDate": "2017-03-06"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "速冻食品、方便快餐食品、罐头食品、糕点、其他食品的生产与销售。上述自产产品的同类商品的批发、佣金代理(拍卖除外)。",
+        "AfterContent": "速冻食品、方便快餐食品、罐头食品、糕点、其他食品的生产与销售。上述自产产品的同类商品的批发、佣金代理(拍卖除外)；从事预包装食品、散装食品、速冻调制食品、肉类、水产品、乳与乳制品、婴幼儿辅助食品、糕点等货物或技术的进出口及批发业务。",
+        "ChangeDate": "2016-12-05"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "陈泽民:13.71%；陈希:9.83%；陈南*:9.83%；贾岭达:8.55%；社会公众股股东:30.9%；苏比尔诗玛特控股有限公司:8.95%；东逸亚洲有限公司:8.95%；长日投资有限公司:8.95%；贾勇达:0.31%",
+        "AfterContent": "社会公众股股东:65.45%（+34.55）；陈泽民:6.85%（-6.86）；陈希:4.91%（-4.92）；陈南*:4.91%（-4.92）；贾岭达:4.27%（-4.28）；苏比尔诗玛特控股有限公司:4.47%（-4.48）；东逸亚洲有限公司:4.47%（-4.48）；长日投资有限公司:4.47%（-4.48）；贾勇达:0.15%（-0.16）",
+        "ChangeDate": "2015-06-30"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "10800",
+        "AfterContent": "21600.000000（+100%）",
+        "ChangeDate": "2015-06-30"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "29410.8766",
+        "AfterContent": "58821.753200（+100%）",
+        "ChangeDate": "2015-06-30"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）变更",
+        "BeforeContent": "59868.1932",
+        "AfterContent": "59922.423200（+0.09%）",
+        "ChangeDate": "2017-12-04"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "尹效华【退出】；贾勇达【退出】；张雷；何平【退出】；张军民【退出】；孟素荷【退出】；朱文丽【退出】；陈泽民；贾岭达；陈南*；陈希；臧冬斌",
+        "AfterContent": "李涵【新增】；张雷；陈泽民；贾岭达；陈南*；陈希；臧冬斌；庞德红【新增】；李玉【新增】；郝秀琴【新增】；李娜【新增】；沈祥坤【新增】",
+        "ChangeDate": "2018-08-31"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.sanquan.com"
+        }
+      ],
+      "PhoneNumber": "0371-63984891",
+      "Email": "zhenghongyun@sanquan.com"
+    },
+    "Industry": {
+      "IndustryCode": "F",
+      "Industry": "批发和零售业",
+      "SubIndustryCode": "51",
+      "SubIndustry": "批发业",
+      "MiddleCategoryCode": "512",
+      "MiddleCategory": "食品、饮料及烟草制品批发",
+      "SmallCategoryCode": "5129",
+      "SmallCategory": "其他食品批发"
+    },
+    "Area": {
+      "Province": "河南省",
+      "City": "郑州市",
+      "County": "郑州航空港经济综合实验区"
+    },
+    "InsuredCount": "1326",
+    "EnglishName": "Sanquan Food Co., Ltd.",
+    "PersonScope": "",
+    "KeyNo": "05beda1dc2c56585e4d9427594e9fbb6",
+    "Name": "三全食品股份有限公司",
+    "No": "410000400013153",
+    "BelongOrg": "河南省市场监督管理局",
+    "OperName": "陈南",
+    "StartDate": "2001-06-28 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "HEN",
+    "UpdatedDate": "2019-07-18 11:05:53",
+    "CreditCode": "91410000514683187W",
+    "RegistCapi": "80966.4717万元人民币",
+    "EconKind": "股份有限公司(中外合资、上市)",
+    "Address": "郑州市综合投资区长兴路中段",
+    "Scope": "速冻食品、方便快餐食品、罐头食品、糕点、其他食品的生产与销售。上述自产产品的同类商品的批发、佣金代理(拍卖除外);从事预包装食品、散装食品、速冻调制食品、肉类、水产品、乳与乳制品、婴幼儿辅助食品、糕点等货物或技术的进出口及批发业务。",
+    "TermStart": "2001-06-28 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2019-02-22 00:00:00",
+    "OrgNo": "51468318-7",
+    "IsOnStock": "1",
+    "StockNumber": "002216",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "郑州三全食品股份有限公司",
+        "ChangeDate": ""
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/05beda1dc2c56585e4d9427594e9fbb6.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "40210.8766万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

@@ -1,0 +1,592 @@
+{
+    "OrderNumber": "ECI2019071822172438162001",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "",
+          "Province": "总局",
+          "Liandate": "2016-07-21",
+          "CaseNo": "JY34301240199752"
+        },
+        {
+          "Name": "",
+          "Province": "湖南",
+          "Liandate": "2015-12-06",
+          "CaseNo": ""
+        }
+      ],
+      "Penalty": [
+        {
+          "DocNo": "靖食药工质罚决字2017038号",
+          "PenaltyType": "违反对商品或者服务作虚假或者引人误解的宣传的",
+          "OfficeName": "靖州苗族侗族自治县食品药品工商质量监督管理局",
+          "Content": "罚款2.5000万元，没收违法所得和非法财物",
+          "PenaltyDate": "2017-04-17",
+          "PublicDate": "2017-05-11",
+          "Remark": null
+        }
+      ],
+      "Exceptions": [
+        {
+          "AddReason": "未在工商行政管理部门依照《企业信息公示暂行条例》第十条规定责令的期限内公示有关企业信息",
+          "AddDate": "2018-03-28",
+          "RomoveReason": "",
+          "RemoveDate": "",
+          "DecisionOffice": "长沙市工商行政管理局",
+          "RemoveDecisionOffice": ""
+        }
+      ],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [
+        {
+          "RegisterNo": "4301952018050003_1",
+          "RegisterDate": "2018-05-23",
+          "PublicDate": "",
+          "RegisterOffice": "长沙市工商行政管理局宁乡经济技术开发区分局",
+          "DebtSecuredAmount": "10700万人民币",
+          "Status": null
+        }
+      ],
+      "Liquidation": null,
+      "Pledge": [],
+      "SpotCheck": [],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "430124616602720",
+          "Name": "加加食品集团股份有限公司",
+          "Year": "2017",
+          "Level": "A"
+        },
+        {
+          "No": "430124616602720",
+          "Name": "加加食品集团股份有限公司",
+          "Year": "2016",
+          "Level": "A"
+        },
+        {
+          "No": "430124616602720",
+          "Name": "加加食品集团股份有限公司",
+          "Year": "2015",
+          "Level": "A"
+        },
+        {
+          "No": "430124616602720",
+          "Name": "加加食品集团股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "加加食品集团股份有限公司",
+          "Link": "http://www.jiajiagroup.com",
+          "ImageUrl": "http://img.qichacha.com/Product/552baf23-9cb2-44cc-807d-cf5e49675f4e.jpg",
+          "Name": "加加食品",
+          "Domain": "生活服务",
+          "Tags": "生活服务,食品,调味品",
+          "Description": "加加食品是一家调味食品生产商，集研发、生产、营销于一体，主要生产酱油、食醋、味精、鸡精、食用植物油等五大类商品，其中核心产品为特级面条鲜、原酿造酱油、压榨山茶油、花生食用调和油以及特级烧菜酱油。",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "宁环复[2014]233号",
+          "LicensDocName": "建设项目环境影响报告批复",
+          "ValidityFrom": "",
+          "ValidityTo": "",
+          "LicensOffice": "宁乡县环境保护局",
+          "LicensContent": "占地面积67826.08平方米，1万吨/年味精分装线、9万吨/年食用调和油和1万吨/年鸡精生产线"
+        },
+        {
+          "LicensDocNo": "湘环评〔2010〕318号",
+          "LicensDocName": "加加食品集团股份有限公司20万t/a优质酱油扩建项目",
+          "ValidityFrom": "2010-10-22",
+          "ValidityTo": "",
+          "LicensOffice": "湖南省环境保护厅",
+          "LicensContent": "湖南省环境保护厅文件\n\t\n\n湘环评〔2010〕318号\n\t\n \n关于加加食品集团股份有限公司20万t/a优质酱油扩建项目环境影响报告书的批复\n加加食品集团股份有限公司:\n\t你公司《关于申请审批〈加加食品集团股份有限公司20万t/a优质酱油扩建项目环境影响报告书〉的报告》、长沙市环保局关于《加加食品集团股份有限公司20万t/a优质酱油扩建项目环境影响报告书〉的报告》的初审意见、湖南省环境工程评估中心《关于〈加加食品集团股份有限公司20万t/a优质酱油扩建项目环境影响报告书〉的评估报告》及相关附件收悉。经研究，批复如下：\n你公司拟投资47874.42万元在宁乡经开区内异地建设加加食品集团股份有限公司20万t/a优质酱油扩建项目（公司位于宁乡经开区内现已有年产12万吨酱油生产线，采用先低盐固态后高盐稀态的发酵工艺）。拟建项目主要建设内容为原料仓库、原料棚、原料处理车间、制曲车间、辅料库、发酵车间、压榨车间（含堆渣间）、调配车间、毛油半成品灌区、灌装、动力及五金库、污水处理站等,工程占地面积129470m2。项目采用高盐稀态发酵工艺。项目建设符合国家产业政策，选址符合宁乡经开区规划，根据长沙市环境科学研究所编制的环境影响报告书的分析结论，在建设单位全面落实环境影响报告书提出的各项环保措施和风险事故防范措施、确保各项污染物实现长期稳定达标排放的情况下，从环境保护的角度，同意该项目在拟建地址建设。\n一、你公司在项目设计、建设和运行管理中，必须全面落实环境影响报告书提出的各项污染防治措施，严格执行环保“三同时”制度，按照清洁生产、达标排放、总量控制的要求，着重做好以下工作：\n1、加强施工期的环境管理。合理安排施工作业时间，采取有效措施控制施工期扬尘及噪声对环境的影响，防止噪声扰民。\n2、厂区排水实施雨污分流、污污分流和清污分流。配套建设日处理能力为800吨的污水处理站。生产废水和生活污水一并进入厂区污水处理站经有效处理达《污水综合排放标准》（GB8978-1996）表4中三级标准要求后，排入园区污水处理厂进一步处理。厂区只设一个排污口并规范化建设。\n2、本项目依托园区集中供热系统，不得单独建设燃煤、燃重油锅炉。小麦焙炒过程中产生的柴油燃烧烟气、小麦粉碎过程中产生的含尘气体经收集处理后，经不低于15m的排气筒外排，外排废气中污染物浓度、排放速率和厂区周边外浓度须分别达到《大气污染物综合排放标准》（GB16297-1996）表2中二级标准和无组织排放监控浓度限值要求。对豆粕连续蒸煮过程中产生的废气、污泥浓缩及脱水系统产生的恶臭气体采取有效措施处理达到《恶臭污染物排放标准》（GB14554-93）二级标准要求。同意报告书提出的发酵罐区和污水处理站周边100m为大气防护距离，防护距离内不得新建学校、医院和居民点等敏感建筑。并协助园区管委会做好厂区周边用地控制规划，避免各企业之间相互影响。\n4、优化厂区平面布局，选用低噪声设备，将高噪声设备布设在厂区中部，并通过采取减震、设置隔声门窗等综合降噪措施，使厂界噪声达到《工业企业厂界环境噪声排放标准》中的3类标准的要求(临主要干线一侧执行4类标准)。\n5、做好固体废物的收集、暂存和处理(置)工作，对项目固体废物实施综合利用，不能利用的固体废物按照环评报告书提出的要求安全妥善处理（处置），防止二次污染。\n6、配备专职环保管理人员，建立健全环境管理制度，制订环境风险防范措施和应急预案；加强环保设施运转的管理，落实报告书提出的环境风险预案，确保环境风险事故发生时其环境影响能得到有效控制。\n三、本项目污染物排放总量COD:10.9吨/年，氨氮：2.73吨/年。总量指标纳入宁乡经开区污水处理厂已有水污染物排放指标，由当地环保部门总量控制管理。\n四、项目建成后，经我厅同意后方能试生产，试生产三个月内，按有关规定向我厅申请办理项目竣工环保验收手续，经我厅验收合格后方可正式投入生产。\n五、拟建项目环保“三同时”执行情况的监督检查和日常环境管理工作由长沙市环保局和宁乡县环保局具体负责。\n\n\n\n二〇一〇年十一月二十二日\n\n\n\n主题词：环保  建设项目  加加食品△  报告书  批复 \n　抄送：\t长沙市环保局，宁乡县环保局，省环境工程评估中心，长沙市环科所。\t\n湖南省环境保护厅办公室\t2010年11月22日印发"
+        },
+        {
+          "LicensDocNo": "无",
+          "LicensDocName": "机动车检验合格标志和机动车驾驶证核发、审验—机动车检验合格标志核发",
+          "ValidityFrom": "2015-01-09",
+          "ValidityTo": "",
+          "LicensOffice": "长沙市地方公安交警支队",
+          "LicensContent": ""
+        },
+        {
+          "LicensDocNo": "空",
+          "LicensDocName": "食品生产许可证核发",
+          "ValidityFrom": "2015-12-07",
+          "ValidityTo": "2018-11-12",
+          "LicensOffice": "湖南省食品药品监督管理局",
+          "LicensContent": "无"
+        },
+        {
+          "LicensDocNo": " ",
+          "LicensDocName": "食品经营许可新开办",
+          "ValidityFrom": "2018-04-18",
+          "ValidityTo": "2023-04-17",
+          "LicensOffice": "宁乡市食品药品工商质量监督管理局",
+          "LicensContent": "预包装食品（不含冷藏冷冻食品）销售;"
+        },
+        {
+          "LicensDocNo": "JY14301240302659",
+          "LicensDocName": "食品经营许可证",
+          "ValidityFrom": "2018-04-18",
+          "ValidityTo": "2023-04-17",
+          "LicensOffice": "宁乡市食品药品工商质量监督管理局",
+          "LicensContent": "预包装食品（不含冷藏冷冻食品）销售;"
+        },
+        {
+          "LicensDocNo": "(湘)食药监许准决〔2019〕49号",
+          "LicensDocName": "食品生产许可证许可变更",
+          "ValidityFrom": "2019-03-20",
+          "ValidityTo": "2022-06-21",
+          "LicensOffice": "湖南省市场监督管理局",
+          "LicensContent": "调味品"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "湖南卓越投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "53.40%",
+          "ShouldCapi": "6408.6",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "6408.6",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "南京点量一期投资中心(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "7.12%",
+          "ShouldCapi": "855",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "855",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "湖南天恒投资管理有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "6.88%",
+          "ShouldCapi": "825",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "825",
+          "CapiDate": "2010-10-23"
+        },
+        {
+          "StockName": "嘉华卓越(天津)股权投资合伙企业",
+          "StockType": "合伙企业",
+          "StockPercent": "6.43%",
+          "ShouldCapi": "771.432",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "771.432",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "苏州大道成长投资中心(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "6.36%",
+          "ShouldCapi": "763.5",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "763.5",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "嘉华致远(天津)股权投资合伙企业",
+          "StockType": "合伙企业",
+          "StockPercent": "4.47%",
+          "ShouldCapi": "536.4",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "536.4",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "深圳市鼎源成长投资合伙企业(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "3.64%",
+          "ShouldCapi": "436.5",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "436.5",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "嘉华优势(天津)投资企业(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "3.57%",
+          "ShouldCapi": "428.568",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "428.568",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "杨子江",
+          "StockType": "自然人股东",
+          "StockPercent": "2.88%",
+          "ShouldCapi": "345",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "345",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "长沙盈盛投资管理有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "1.75%",
+          "ShouldCapi": "210",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "210",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "刘永交",
+          "StockType": "自然人股东",
+          "StockPercent": "0.38%",
+          "ShouldCapi": "45",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "45",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "陈伯球",
+          "StockType": "自然人股东",
+          "StockPercent": "0.38%",
+          "ShouldCapi": "45",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "45",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "莫文科",
+          "StockType": "自然人股东",
+          "StockPercent": "0.31%",
+          "ShouldCapi": "37.5",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "37.5",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "周继良",
+          "StockType": "自然人股东",
+          "StockPercent": "0.31%",
+          "ShouldCapi": "37.5",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "37.5",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "李建章",
+          "StockType": "自然人股东",
+          "StockPercent": "0.31%",
+          "ShouldCapi": "37.5",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "37.5",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "成定强",
+          "StockType": "自然人股东",
+          "StockPercent": "0.31%",
+          "ShouldCapi": "37.5",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "37.5",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "汪宏",
+          "StockType": "自然人股东",
+          "StockPercent": "0.31%",
+          "ShouldCapi": "37.5",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "37.5",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "成应科",
+          "StockType": "自然人股东",
+          "StockPercent": "0.31%",
+          "ShouldCapi": "37.5",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "37.5",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "戴自良",
+          "StockType": "自然人股东",
+          "StockPercent": "0.25%",
+          "ShouldCapi": "30",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "30",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "肖新良",
+          "StockType": "自然人股东",
+          "StockPercent": "0.25%",
+          "ShouldCapi": "30",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "30",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "周罗明",
+          "StockType": "自然人股东",
+          "StockPercent": "0.25%",
+          "ShouldCapi": "30",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "30",
+          "CapiDate": "2010-10-13"
+        },
+        {
+          "StockName": "陈建夫",
+          "StockType": "自然人股东",
+          "StockPercent": "0.12%",
+          "ShouldCapi": "15",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": "货币",
+          "RealCapi": "15",
+          "CapiDate": "2010-10-13"
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "杨振",
+          "Job": "董事长"
+        },
+        {
+          "Name": "王远明",
+          "Job": "董事"
+        },
+        {
+          "Name": "肖赛平",
+          "Job": "董事"
+        },
+        {
+          "Name": "彭杰",
+          "Job": "董事"
+        },
+        {
+          "Name": "杨子江",
+          "Job": "董事"
+        },
+        {
+          "Name": "何进日",
+          "Job": "董事"
+        },
+        {
+          "Name": "刘永交",
+          "Job": "董事"
+        },
+        {
+          "Name": "卫祥云",
+          "Job": "董事"
+        },
+        {
+          "Name": "段维嵬",
+          "Job": "董事"
+        },
+        {
+          "Name": "蒋小红",
+          "Job": "监事"
+        },
+        {
+          "Name": "姜小娟",
+          "Job": "监事"
+        },
+        {
+          "Name": "王彦武",
+          "Job": "监事"
+        }
+      ],
+      "Branches": [],
+      "ChangeRecords": [
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "无",
+          "AfterContent": "；",
+          "ChangeDate": "2018-03-26"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "杨振*；刘定华【退出】；苏文俊【退出】；彭杰；白燕【退出】；杨子江；刘永交；肖赛平；姚禄仕【退出】",
+          "AfterContent": "杨子江；杨振*；彭杰；刘永交；何进日【新增】；肖赛平；段维嵬【新增】；卫祥云【新增】；王远明【新增】",
+          "ChangeDate": "2018-03-26"
+        },
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "无",
+          "AfterContent": "； 2016-05-13通过章程修正案",
+          "ChangeDate": "2016-05-26"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "农产品初加工服务；酱油(酿造酱油)的生产、销售；味精[谷氨酸钠(99%味精)(分装)、味精]的生产、销售；调味料(液体、固态)的生产、销售；鸡精、食醋(酿造食醋、配制食醋)；谷类及其他作物的种植、豆类和谷物的种植；预包装食品的批发；自营和代理各类商品和技术的进出口,但国家限定公司经营或者禁止进出口的除外。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "AfterContent": "农产品初加工服务；酱油(酿造酱油)的生产、销售；味精[谷氨酸钠(99%味精)(分装)、味精]的生产、销售；调味料(液体、固态)的生产、销售；鸡精、食醋(酿造食醋、配制食醋)、大米、食用植物油的生产、销售；谷类及其他作物的种植、豆类和谷物的种植；预包装食品的批发；自营和代理各类商品和技术的进出口,但国家限定公司经营或者禁止进出口的除外。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "ChangeDate": "2015-12-02"
+        },
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "无",
+          "AfterContent": "； 2015-12-01修改公司章程经营范围条款",
+          "ChangeDate": "2015-12-02"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "46080万人民币",
+          "AfterContent": "115200.0000万人民币（+150%）",
+          "ChangeDate": "2015-10-14"
+        },
+        {
+          "ProjectName": "财务负责人",
+          "BeforeContent": "",
+          "AfterContent": "段维嵬 ***",
+          "ChangeDate": "2015-10-14"
+        },
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "无",
+          "AfterContent": "； 2015-10-08修改公司章程注册资本条款",
+          "ChangeDate": "2015-10-14"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "深圳市鼎源成长投资合伙企业(有限合伙)；长沙盈盛投资管理有限公司；南京点量一期投资中心(有限合伙)；湖南天恒投资管理有限公司；嘉华卓越(天津)股权投资合伙企业；湖南卓越投资有限公司；苏州大道成长投资中心(有限合伙)；嘉华优势(天津)投资企业(有限合伙)；嘉华致远(天津)股权投资合伙企业；杨子江；陈伯球；刘永交；李建章；汪宏；周罗明；周继良；莫文科；成应科；肖新良；戴自良；成定强；陈建夫",
+          "AfterContent": "南京点量一期投资中心(有限合伙)；湖南天恒投资管理有限公司；嘉华卓越(天津)股权投资合伙企业；嘉华优势(天津)投资企业(有限合伙)；湖南卓越投资有限公司；嘉华致远(天津)股权投资合伙企业；苏州大道成长投资中心(有限合伙)；深圳市鼎源成长投资合伙企业(有限合伙)；长沙盈盛投资管理有限公司；杨子江；陈伯球；刘永交；李建章；肖新良；戴自良；成定强；陈建夫；汪宏；周罗明；周继良；莫文科；成应科",
+          "ChangeDate": "2015-05-05"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "农产品初加工服务；酱油(酿造酱油)的生产、销售；味精[谷氨酸钠(99%味精)(分装)、味精]的生产、销售；调味料(液体、固态)的生产、销售；鸡精、食醋(酿造食醋、配制食醋)(在全国工业产品生产许可证有效期内生产、经营)；谷类及其他作物的种植、豆类和谷物的种植；预包装食品的批发(在食品流通许可证有效期内经营)。(涉及许可审批的经营项目,凭许可证或审批文件方可经营)",
+          "AfterContent": "农产品初加工服务；酱油(酿造酱油)的生产、销售；味精[谷氨酸钠(99%味精)(分装)、味精]的生产、销售；调味料(液体、固态)的生产、销售；鸡精、食醋(酿造食醋、配制食醋)；谷类及其他作物的种植、豆类和谷物的种植；预包装食品的批发；自营和代理各类商品和技术的进出口,但国家限定公司经营或者禁止进出口的除外。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "ChangeDate": "2015-05-05"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "农产品初加工服务；酱油(酿造酱油)的生产、销售；味精[谷氨酸钠(99%味精)(分装)、味精]的生产、销售；调味料(液体、固态)的生产、销售；鸡精、食醋(酿造食醋、配制食醋)(在全国工业产品生产许可证有效期内生产、经营)；谷类及其他作物的种植、豆类和谷物的种植；预包装食品的批发(在食品流通许可证有效期内经营)。(不含未经审批的前置许可项目。涉及行政许可的凭许可证经营)",
+          "AfterContent": "农产品初加工服务；酱油(酿造酱油)的生产、销售；味精[谷氨酸钠(99%味精)(分装)、味精]的生产、销售；调味料(液体、固态)的生产、销售；鸡精、食醋(酿造食醋、配制食醋)(在全国工业产品生产许可证有效期内生产、经营)；谷类及其他作物的种植、豆类和谷物的种植；预包装食品的批发(在食品流通许可证有效期内经营)。(涉及许可审批的经营项目,凭许可证或审批文件方可经营)",
+          "ChangeDate": "2014-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "23040.0000万元[人民币]",
+          "AfterContent": "46080.0000万元[人民币]（+100%）",
+          "ChangeDate": "2014-07-10"
+        },
+        {
+          "ProjectName": "投资人(股权)变更",
+          "BeforeContent": "有限售条件流通股出资 11820.38400万元 人民币",
+          "AfterContent": "有限售条件流通股出资 34860.38400（+23040）万元 人民币",
+          "ChangeDate": "2014-07-10"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "http://jiajiasp.tmall.com"
+          }
+        ],
+        "PhoneNumber": "0731-87801016",
+        "Email": "1307522781@qq.com"
+      },
+      "Industry": {
+        "IndustryCode": "C",
+        "Industry": "制造业",
+        "SubIndustryCode": "14",
+        "SubIndustry": "食品制造业",
+        "MiddleCategoryCode": "146",
+        "MiddleCategory": "调味品、发酵制品制造",
+        "SmallCategoryCode": "1462",
+        "SmallCategory": "酱油、食醋及类似制品制造"
+      },
+      "Area": {
+        "Province": "湖南省",
+        "City": "长沙市",
+        "County": "长沙县"
+      },
+      "InsuredCount": "1394",
+      "EnglishName": "Jiajia food group Limited by Share Ltd",
+      "PersonScope": "1000-4999人",
+      "KeyNo": "1e6fc2aa3ab5c6dc47b07fe083d7e51c",
+      "Name": "加加食品集团股份有限公司",
+      "No": "430100400000985",
+      "BelongOrg": "长沙市工商行政管理局",
+      "OperName": "杨振",
+      "StartDate": "1996-08-03 00:00:00",
+      "EndDate": "",
+      "Status": "存续（在营、开业、在册）",
+      "Province": "HUN",
+      "UpdatedDate": "2019-07-18 11:11:52",
+      "CreditCode": "914301006166027203",
+      "RegistCapi": "115200万元人民币",
+      "EconKind": "股份有限公司(上市、自然人投资或控股)",
+      "Address": "湖南省宁乡经济技术开发区站前路",
+      "Scope": "农产品初加工服务;酱油(酿造酱油)的生产、销售;味精[谷氨酸钠(99%味精)(分装)、味精]的生产、销售;调味料(液体、固态)的生产、销售;鸡精、食醋(酿造食醋、配制食醋)、大米、食用植物油的生产、销售;谷类及其他作物的种植、豆类和谷物的种植;预包装食品的批发;自营和代理各类商品和技术的进出口,但国家限定公司经营或者禁止进出口的除外。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+      "TermStart": "1996-08-03 00:00:00",
+      "TeamEnd": "",
+      "CheckDate": "2015-12-02 00:00:00",
+      "OrgNo": "61660272-0",
+      "IsOnStock": "1",
+      "StockNumber": "002650",
+      "StockType": "国内A股",
+      "OriginalName": [
+        {
+          "Name": "长沙加加食品集团有限公司",
+          "ChangeDate": ""
+        },
+        {
+          "Name": "加加集团（长沙）有限公司",
+          "ChangeDate": ""
+        }
+      ],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/1e6fc2aa3ab5c6dc47b07fe083d7e51c.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "12000万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

@@ -1,0 +1,478 @@
+{
+    "OrderNumber": "ECI2019071823253371870380",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "",
+          "Province": "上海",
+          "Liandate": "2018-12-17",
+          "CaseNo": "JY13101155080037"
+        },
+        {
+          "Name": "",
+          "Province": "上海",
+          "Liandate": "2018-04-19",
+          "CaseNo": "2018cn0036"
+        },
+        {
+          "Name": "",
+          "Province": "上海",
+          "Liandate": "2017-09-11",
+          "CaseNo": "浦人社工时审(2017)第2771号"
+        },
+        {
+          "Name": "",
+          "Province": "上海",
+          "Liandate": "2017-07-20",
+          "CaseNo": "1602CN0132D01"
+        },
+        {
+          "Name": "",
+          "Province": "上海",
+          "Liandate": "2016-12-27",
+          "CaseNo": "1602CN0132"
+        },
+        {
+          "Name": "",
+          "Province": "上海",
+          "Liandate": "2016-01-11",
+          "CaseNo": "SP3101151612100046"
+        }
+      ],
+      "Penalty": [],
+      "Exceptions": [],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [],
+      "Liquidation": null,
+      "Pledge": [
+        {
+          "CompanyId": "5306a8b92b2af7d02ee06dce90480ee2",
+          "RegistNo": "2620160075",
+          "Pledgor": "熊爱华",
+          "PledgorNo": null,
+          "Pledgee": "上海梅林正广和股份有限公司",
+          "PledgeeNo": "",
+          "PledgedAmount": "40",
+          "RegDate": "2016-06-13",
+          "PublicDate": "2016-06-13",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "5306a8b92b2af7d02ee06dce90480ee2",
+          "RegistNo": "2620160074",
+          "Pledgor": "张贤东",
+          "PledgorNo": null,
+          "Pledgee": "上海梅林正广和股份有限公司",
+          "PledgeeNo": "",
+          "PledgedAmount": "510",
+          "RegDate": "2016-06-13",
+          "PublicDate": "2016-06-13",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "5306a8b92b2af7d02ee06dce90480ee2",
+          "RegistNo": "2620160073",
+          "Pledgor": "万多兵",
+          "PledgorNo": null,
+          "Pledgee": "上海梅林正广和股份有限公司",
+          "PledgeeNo": "",
+          "PledgedAmount": "300",
+          "RegDate": "2016-06-13",
+          "PublicDate": "2016-06-13",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "5306a8b92b2af7d02ee06dce90480ee2",
+          "RegistNo": "2620160072",
+          "Pledgor": "廖长茂",
+          "PledgorNo": null,
+          "Pledgee": "上海梅林正广和股份有限公司",
+          "PledgeeNo": "",
+          "PledgedAmount": "50",
+          "RegDate": "2016-06-13",
+          "PublicDate": "2016-06-13",
+          "Status": "有效"
+        },
+        {
+          "CompanyId": "5306a8b92b2af7d02ee06dce90480ee2",
+          "RegistNo": "2620160071",
+          "Pledgor": "张贤祥",
+          "PledgorNo": null,
+          "Pledgee": "上海梅林正广和股份有限公司",
+          "PledgeeNo": "",
+          "PledgedAmount": "100",
+          "RegDate": "2016-06-13",
+          "PublicDate": "2016-06-13",
+          "Status": "有效"
+        }
+      ],
+      "SpotCheck": [
+        {
+          "No": null,
+          "ExecutiveOrg": "浦东新区财政局",
+          "Type": "检查",
+          "Date": "2017-07-11",
+          "Consequence": "其他",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "金桥市场监管所",
+          "Type": "抽查",
+          "Date": "2017-07-05",
+          "Consequence": "食品流通单位双随机检查：未发现违法违规情况",
+          "Remark": null
+        }
+      ],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "91310000132285976X",
+          "Name": "上海梅林正广和股份有限公司",
+          "Year": "2018",
+          "Level": "A"
+        },
+        {
+          "No": "91310000132285976X",
+          "Name": "上海梅林正广和股份有限公司",
+          "Year": "2017",
+          "Level": "A"
+        },
+        {
+          "No": "310115132285976",
+          "Name": "上海梅林正广和股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "上海梅林正广和股份有限公司",
+          "Link": "",
+          "ImageUrl": "http://img.qichacha.com/Product/a12492f7-7d47-4660-a117-be1f7e00100a.jpg",
+          "Name": "上海梅林",
+          "Domain": "生活服务",
+          "Tags": "消费",
+          "Description": "上海梅林是一个食品制造分销商，产品涵盖肉制品、罐头食品、休闲食品等品类，旗下拥有“冠生园”、“大白兔”、“梅林”、“佛手”等多个品牌，产品主要通过第三方电商平台以及线下实体商超进行销售。",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "PJSZX2015224",
+          "LicensDocName": "对企业技术中心的认定",
+          "ValidityFrom": "2016-01-01",
+          "ValidityTo": "2017-12-31",
+          "LicensOffice": "上海市经济和信息化委员会",
+          "LicensContent": "上海市市级企业技术中心"
+        },
+        {
+          "LicensDocNo": "SP3101151612100046",
+          "LicensDocName": "食品流通许可证",
+          "ValidityFrom": "2016-01-11",
+          "ValidityTo": "2019-01-10",
+          "LicensOffice": "上海市浦东新区市场监督管理局",
+          "LicensContent": "经营方式：批发非实物方式经营项目：预包装食品(含熟食卤味、冷冻冷藏);"
+        },
+        {
+          "LicensDocNo": "浦人社工时审(2017)第2771号",
+          "LicensDocName": "企业实行其他工作时间审批",
+          "ValidityFrom": "2017-09-11",
+          "ValidityTo": "2018-09-30",
+          "LicensOffice": "上海市浦东新区人力资源和社会保障局",
+          "LicensContent": "同意你单位下列岗位人员自2017年10月1日至2018年9月30日期间实行其他工作时间制度：高级管理人员、领导专职司机岗位实行不定时工作制。"
+        },
+        {
+          "LicensDocNo": "浦人社工时审2018第3024号",
+          "LicensDocName": "准予企业实行其他工作时间制度决定书",
+          "ValidityFrom": "2018-10-01",
+          "ValidityTo": "2019-09-30",
+          "LicensOffice": "浦东区人力资源和社会保障局",
+          "LicensContent": "根据《关于企业实行不定时工作制和综合计算工时工作制的审批办法》(劳部发[94]503号)的规定，经研究，同意你单位高级管理人员岗位人员自2018年10月01日至2019年09月30期间实行不定时工作制。"
+        },
+        {
+          "LicensDocNo": "JY13101155080037",
+          "LicensDocName": "食品经营",
+          "ValidityFrom": "2018-12-17",
+          "ValidityTo": "2023-12-16",
+          "LicensOffice": "上海市浦东新区市场监督管理局",
+          "LicensContent": "预包装食品销售(含冷藏冷冻食品)"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "无限售流通股",
+          "StockType": "其他投资者",
+          "StockPercent": "94.30%",
+          "ShouldCapi": "77580.0114",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "有限售流通股",
+          "StockType": "其他投资者",
+          "StockPercent": "5.70%",
+          "ShouldCapi": "4693.5027",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "吴通红",
+          "Job": "董事长"
+        },
+        {
+          "Name": "王国祥",
+          "Job": "总经理,董事"
+        },
+        {
+          "Name": "刘长奎",
+          "Job": "董事"
+        },
+        {
+          "Name": "朱邹菊",
+          "Job": "董事"
+        },
+        {
+          "Name": "庞毅薇",
+          "Job": "董事"
+        },
+        {
+          "Name": "龚屹",
+          "Job": "董事"
+        },
+        {
+          "Name": "王德清",
+          "Job": "董事"
+        },
+        {
+          "Name": "史剑梅",
+          "Job": "董事"
+        },
+        {
+          "Name": "朱继宏",
+          "Job": "董事"
+        },
+        {
+          "Name": "朱平",
+          "Job": "监事"
+        },
+        {
+          "Name": "张顼",
+          "Job": "监事"
+        },
+        {
+          "Name": "吴志强",
+          "Job": "监事"
+        }
+      ],
+      "Branches": [
+        {
+          "CompanyId": "1c1c4ce1244374e887cd1bc516870993",
+          "RegNo": "3100001004760040001",
+          "Name": "上海梅林正广和股份有限公司营养食品厂",
+          "BelongOrg": "徐汇区市场监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "67610f04eb92abf8fd8c7a1a7760b4e1",
+          "RegNo": "310115000460959",
+          "Name": "上海梅林正广和股份有限公司上海咖啡厂",
+          "BelongOrg": "杨浦区市场监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "c945964c6f3d1dcdbf17e981d3ab512d",
+          "RegNo": "91310109752926471C",
+          "Name": "上海梅林正广和股份有限公司销售分公司",
+          "BelongOrg": "虹口区市场监管局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "d452b4aece85da44e3f8bd28cdb24cae",
+          "RegNo": "31000010047600001",
+          "Name": "上海梅林正广和股份有限公司明胶厂",
+          "BelongOrg": "上海市工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        }
+      ],
+      "ChangeRecords": [
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "无",
+          "AfterContent": "2018-12-26章程备案",
+          "ChangeDate": "2019-02-01"
+        },
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "2015-06-30章程备案",
+          "AfterContent": "2018-01-01章程修正案",
+          "ChangeDate": "2018-01-17"
+        },
+        {
+          "ProjectName": "法定代表人变更",
+          "BeforeContent": "夏旭升",
+          "AfterContent": "王国祥*",
+          "ChangeDate": "2018-01-17"
+        },
+        {
+          "ProjectName": "董事备案",
+          "BeforeContent": "朱继宏；龚屹；王德清；朱邹菊；史剑梅；王国祥*；刘昌奎【退出】；夏旭升【退出】；庞毅薇",
+          "AfterContent": "史剑梅；龚屹；王德清；吴通红【新增】；朱继宏；刘长奎【新增】；庞毅薇；王国祥*；朱邹菊",
+          "ChangeDate": "2018-01-17"
+        },
+        {
+          "ProjectName": "董事备案",
+          "BeforeContent": "朱邹菊；王国祥*；王德清；龚屹；史剑梅；刘昌奎；夏旭升；朱继宏；王雪娟【退出】",
+          "AfterContent": "龚屹；史剑梅；王德清；朱邹菊；朱继宏；庞毅薇【新增】；王国祥*；刘昌奎；夏旭升",
+          "ChangeDate": "2017-10-25"
+        },
+        {
+          "ProjectName": "监事备案",
+          "BeforeContent": "邵黎明【退出】；张顼；朱平",
+          "AfterContent": "张顼；朱平；吴志强【新增】",
+          "ChangeDate": "2017-08-25"
+        },
+        {
+          "ProjectName": "董事备案",
+          "BeforeContent": "史剑梅；刘昌奎；夏旭升；王国祥*；朱继宏；洪明德【退出】；龚屹；王德清；王雪娟",
+          "AfterContent": "龚屹；王雪娟；史剑梅；朱邹菊【新增】；刘昌奎；王德清；朱继宏；王国祥*；夏旭升",
+          "ChangeDate": "2017-08-25"
+        },
+        {
+          "ProjectName": "董事备案",
+          "BeforeContent": "朱继宏；王德清；洪明德；王雪娟；戴继雄【退出】；史剑梅；龚屹；夏旭升；沈伟平【退出】",
+          "AfterContent": "洪明德；朱继宏；王德清；史剑梅；龚屹；刘昌奎【新增】；王雪娟；王国祥*【新增】；夏旭升",
+          "ChangeDate": "2017-04-25"
+        },
+        {
+          "ProjectName": "法定代表人变更",
+          "BeforeContent": "马勇健",
+          "AfterContent": "夏旭升",
+          "ChangeDate": "2016-06-16"
+        },
+        {
+          "ProjectName": "董事备案",
+          "BeforeContent": "史剑梅；戴继雄；朱继宏；王德清；龚屹；沈伟平；王雪娟；马勇健【退出】；洪明德",
+          "AfterContent": "戴继雄；朱继宏；王雪娟；龚屹；王德清；沈伟平；史剑梅；洪明德；夏旭升【新增】",
+          "ChangeDate": "2016-06-16"
+        },
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "2015-03-01章程备案",
+          "AfterContent": "2015-06-30章程修正案",
+          "ChangeDate": "2015-07-29"
+        },
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "2014-05-28章程备案",
+          "AfterContent": "2015-03-01章程修正案",
+          "ChangeDate": "2015-06-17"
+        },
+        {
+          "ProjectName": "法定代表人变更",
+          "BeforeContent": "周海鸣",
+          "AfterContent": "马勇健",
+          "ChangeDate": "2015-06-17"
+        },
+        {
+          "ProjectName": "监事备案",
+          "BeforeContent": "费心佳【退出】；曹晓风【退出】；孙暹光【退出】",
+          "AfterContent": "张顼【新增】；邵黎明【新增】；朱平【新增】",
+          "ChangeDate": "2015-06-17"
+        },
+        {
+          "ProjectName": "董事备案",
+          "BeforeContent": "李英【退出】；姜国芳【退出】；徐荣军【退出】；张广生【退出】；应国强【退出】；周海鸣【退出】；戴继雄；张晖明【退出】；张斌【退出】",
+          "AfterContent": "王雪娟【新增】；沈伟平【新增】；朱继宏【新增】；龚屹【新增】；戴继雄；洪明德【新增】；王德清【新增】；史剑梅【新增】；马勇健【新增】",
+          "ChangeDate": "2015-06-17"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "资产经营,电子商务,信息采集、信息加工、信息发布、经济信息服务,销售:预包装食品(含熟食卤味、含冷冻(藏)食品),马口铁,印铁,化工原料(除危险品),食品机械及零件,国内贸易(除专项规定),自营和代理各类商品和技术的进出口,但国家限定公司经营或禁止进出口的商品及技术除外。",
+          "AfterContent": "资产经营,电子商务,信息采集、信息加工、信息发布、经济信息服务,销售:预包装食品(含熟食卤味、含冷冻(藏)食品),马口铁,印铁,化工原料(除危险品),食品机械及零件,国内贸易(除专项规定),自营和代理各类商品和技术的进出口,但国家限定公司经营或禁止进出口的商品及技术除外。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+          "ChangeDate": "2015-03-06"
+        },
+        {
+          "ProjectName": "注册资本(金)变更",
+          "BeforeContent": "82273.514100万人民币",
+          "AfterContent": "93772.947200万人民币（+13.98%）",
+          "ChangeDate": "2015-03-06"
+        },
+        {
+          "ProjectName": "章程修正案备案",
+          "BeforeContent": "2013-04-01章程备案",
+          "AfterContent": "2014-05-28章程修正案",
+          "ChangeDate": "2014-08-29"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "http://www.shanghaimaling.com"
+          }
+        ],
+        "PhoneNumber": "021-22257000",
+        "Email": "heyhd@126.com"
+      },
+      "Industry": {
+        "IndustryCode": "L",
+        "Industry": "租赁和商务服务业",
+        "SubIndustryCode": "72",
+        "SubIndustry": "商务服务业",
+        "MiddleCategoryCode": "721",
+        "MiddleCategory": "组织管理服务",
+        "SmallCategoryCode": "7212",
+        "SmallCategory": "投资与资产管理"
+      },
+      "Area": {
+        "Province": "上海市",
+        "City": "上海市",
+        "County": ""
+      },
+      "InsuredCount": "85",
+      "EnglishName": "Shanghai Maling Aquarius Co., Ltd.",
+      "PersonScope": "",
+      "KeyNo": "5306a8b92b2af7d02ee06dce90480ee2",
+      "Name": "上海梅林正广和股份有限公司",
+      "No": "310000000054348",
+      "BelongOrg": "上海市市场监督管理局",
+      "OperName": "王国祥",
+      "StartDate": "1997-06-27 00:00:00",
+      "EndDate": "",
+      "Status": "存续（在营、开业、在册）",
+      "Province": "SH",
+      "UpdatedDate": "2019-07-18 17:56:19",
+      "CreditCode": "91310000132285976X",
+      "RegistCapi": "93772.9472万元人民币",
+      "EconKind": "其他股份有限公司(上市)",
+      "Address": "中国(上海)自由贸易试验区川桥路1501号",
+      "Scope": "资产经营,电子商务,信息采集、信息加工、信息发布、经济信息服务,销售:预包装食品(含熟食卤味、含冷冻(藏)食品),马口铁,印铁,化工原料(除危险品),食品机械及零件,国内贸易(除专项规定),自营和代理各类商品和技术的进出口,但国家限定公司经营或禁止进出口的商品及技术除外。【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+      "TermStart": "1997-06-27 00:00:00",
+      "TeamEnd": "",
+      "CheckDate": "1997-06-27 00:00:00",
+      "OrgNo": "13228597-6",
+      "IsOnStock": "1",
+      "StockNumber": "600073",
+      "StockType": "国内A股",
+      "OriginalName": [],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/5306a8b92b2af7d02ee06dce90480ee2.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": ""
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

@@ -1,0 +1,675 @@
+{
+    "OrderNumber": "ECI2019071822205666750394",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2018-07-20",
+          "CaseNo": "穗天农园绿许准〔2018〕90号"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2017-01-01",
+          "CaseNo": ""
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-11-02",
+          "CaseNo": "穗开审批环评〔2016〕30号"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-05-26",
+          "CaseNo": "SC10544010600187"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-05-26",
+          "CaseNo": "c10544010600187"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-03-29",
+          "CaseNo": "jy14401060039005"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-03-29",
+          "CaseNo": "JY14401060039005"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-03-29",
+          "CaseNo": "JY14401060039005"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-03-26",
+          "CaseNo": "粤440106(2016)001"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-02-16",
+          "CaseNo": "粤440106(2016)0001"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-02-16",
+          "CaseNo": "粤440106(2016)0001"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-01-16",
+          "CaseNo": "粤440106(2016)0003"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-01-16",
+          "CaseNo": "粤440106(2016)0005"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-01-16",
+          "CaseNo": "粤440106(2016)0006"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-01-15",
+          "CaseNo": "粤440106(2016)0004"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2016-01-10",
+          "CaseNo": "粤440106(2016)0002"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2014-03-31",
+          "CaseNo": "穗440100001821"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2012-04-01",
+          "CaseNo": "LB-33-1204191833A,GF440100090770"
+        },
+        {
+          "Name": "",
+          "Province": "广东",
+          "Liandate": "2011-03-31",
+          "CaseNo": "QS4401 0501 0164"
+        }
+      ],
+      "Penalty": [],
+      "Exceptions": [],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [],
+      "Liquidation": null,
+      "Pledge": [],
+      "SpotCheck": [],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "91440000617435581X",
+          "Name": "广东燕塘乳业股份有限公司",
+          "Year": "2018",
+          "Level": "A"
+        },
+        {
+          "No": "91440000617435581X",
+          "Name": "广东燕塘乳业股份有限公司",
+          "Year": "2017",
+          "Level": "A"
+        },
+        {
+          "No": "440106617435581",
+          "Name": "广东燕塘乳业股份有限公司",
+          "Year": "2016",
+          "Level": "A"
+        },
+        {
+          "No": "440106617435581",
+          "Name": "广东燕塘乳业股份有限公司",
+          "Year": "2015",
+          "Level": "A"
+        },
+        {
+          "No": "440106617435581",
+          "Name": "广东燕塘乳业股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "广东燕塘乳业股份有限公司",
+          "Link": "http://www.yantangmilk.com",
+          "ImageUrl": "http://img.qichacha.com/Product/6531e099-f04b-47ac-8a6a-d1a1eb7c5800.jpg",
+          "Name": "燕塘乳业",
+          "Domain": "生活服务",
+          "Tags": "消费生活,食品,乳业,牧场",
+          "Description": "广东燕塘乳业股份有限公司（下称“燕塘乳业”）是农业部广东农垦的直属企业。2014年12月，燕塘乳业在深圳A股成功挂牌上市（股票代码：002732），正式登陆资本市场。作为目前广东本土乳制品行业唯一一家上市公司，燕塘乳业经过多年的发展，已成为集种养殖业、研发加工、市场营销、物流运输、资本运作于一体，华南地区大型综合性乳品企业集团之一。\n　　一直以来，燕塘乳业秉承“市场导向，科技领先，质量第一，顾客至上”的经营理念，以“好牛•好奶•高品质”赢得广大消费者喜爱和信赖，先后获得“农业产业化国家重点龙头企业”、 “中国乳业优秀企业”、“国家学生饮用奶计划推广先进企业”及“广东省食品放心工程示范基地”等多项殊荣。\n　　燕塘乳业以“精耕广东、放眼华南、迈向全国”为发展战略。\n　　目前，燕塘乳业拥有广州、湛江等现代化生产基地，同时在建一个日产600吨乳品生产基地，建成投产后将成为中国南方乳制品生产的旗舰工厂之一。此外，公司拥有阳江红五月牧场（全国农垦现代化养殖示范场）、湛江澳新牧场、陆丰新澳牧场等大型自有示范牧场，并与10多家规模牧场建立长期战略合作关系，引领南方种养殖业持续健康发展。\n　　随着企业上市，燕塘乳业将以资产经营和资本运作“双轮驱动”，在精耕广东市场的同时，业务逐步拓展至福建、江西、湖南、广西和海南等省份，放眼华南、迈向全国，让更多消费者享用“优质、安全、新鲜、营养”的燕塘牛奶。",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "440100001821",
+          "LicensDocName": "经营许可证",
+          "ValidityFrom": "2022-03-09",
+          "ValidityTo": "2028-08-25",
+          "LicensOffice": "广州市天河区交通管理总站",
+          "LicensContent": "普通货运;货物专用运输（冷藏保鲜）;货物专用运输（罐式）"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "广东省燕塘投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "42.75%",
+          "ShouldCapi": "6726",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "社会公众股",
+          "StockType": "法人股东",
+          "StockPercent": "25.01%",
+          "ShouldCapi": "3935",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "广东省粤垦投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "12.20%",
+          "ShouldCapi": "1919.86",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "广东中科白云创业投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "7.34%",
+          "ShouldCapi": "1155.22",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "广东省湛江农垦集团公司",
+          "StockType": "企业法人",
+          "StockPercent": "5.25%",
+          "ShouldCapi": "826",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "广州长金投资管理有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "2.75%",
+          "ShouldCapi": "433.06",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "广东中远轻工有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "2.44%",
+          "ShouldCapi": "384.09",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "广东中科招商创业投资管理有限责任公司",
+          "StockType": "企业法人",
+          "StockPercent": "0.39%",
+          "ShouldCapi": "60.77",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "黄宣",
+          "StockType": "自然人股东",
+          "StockPercent": "0.31%",
+          "ShouldCapi": "48.616",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "谢立民",
+          "StockType": "自然人股东",
+          "StockPercent": "0.31%",
+          "ShouldCapi": "48.616",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "刘世坤",
+          "StockType": "自然人股东",
+          "StockPercent": "0.23%",
+          "ShouldCapi": "35.872",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张汉明",
+          "StockType": "自然人股东",
+          "StockPercent": "0.20%",
+          "ShouldCapi": "31.978",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "吴乘云",
+          "StockType": "自然人股东",
+          "StockPercent": "0.17%",
+          "ShouldCapi": "26.904",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "冯立科",
+          "StockType": "自然人股东",
+          "StockPercent": "0.15%",
+          "ShouldCapi": "23.01",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "余保宁",
+          "StockType": "自然人股东",
+          "StockPercent": "0.15%",
+          "ShouldCapi": "23.01",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "吴树荣",
+          "StockType": "自然人股东",
+          "StockPercent": "0.13%",
+          "ShouldCapi": "21.004",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张宝堂",
+          "StockType": "自然人股东",
+          "StockPercent": "0.12%",
+          "ShouldCapi": "19.234",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "李春锋",
+          "StockType": "自然人股东",
+          "StockPercent": "0.08%",
+          "ShouldCapi": "12.862",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "艾华",
+          "StockType": "自然人股东",
+          "StockPercent": "0.02%",
+          "ShouldCapi": "3.894",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "黄宣",
+          "Job": "董事长"
+        },
+        {
+          "Name": "冯立科",
+          "Job": "总经理,董事"
+        },
+        {
+          "Name": "朱滔",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "李伯侨",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "戴锦辉",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "谢立民",
+          "Job": "董事"
+        },
+        {
+          "Name": "杨卫",
+          "Job": "董事"
+        },
+        {
+          "Name": "邵侠",
+          "Job": "董事"
+        },
+        {
+          "Name": "庄伟",
+          "Job": "董事"
+        },
+        {
+          "Name": "陈琛",
+          "Job": "监事"
+        },
+        {
+          "Name": "严文海",
+          "Job": "监事会主席"
+        },
+        {
+          "Name": "陈松湖",
+          "Job": ""
+        }
+      ],
+      "Branches": [
+        {
+          "CompanyId": "2eb2f84420d128c294661993f1d52965",
+          "RegNo": "9144010133139186X3",
+          "Name": "广东燕塘乳业股份有限公司广州东川路直营店",
+          "BelongOrg": "广州市越秀区工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "46fd74e62f1f95eb824fa3f2b5f838f9",
+          "RegNo": "91440101340211170X",
+          "Name": "广东燕塘乳业股份有限公司广州宝岗大道直营店",
+          "BelongOrg": "广州市海珠区工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "52c7d5663f354c2d47fdcbd587067f22",
+          "RegNo": "91440106MA59AGBTX8",
+          "Name": "广东燕塘乳业股份有限公司侨怡苑直营店",
+          "BelongOrg": "广州市天河区工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "5d1c95149ccf48efc3c90498847ecb4f",
+          "RegNo": "91440101050613198H",
+          "Name": "广东燕塘乳业股份有限公司直营店",
+          "BelongOrg": "广州市天河区工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "6a28ef106b7ef2f0bfe1fa32f85ccadf",
+          "RegNo": "91440106MA59BE2C3F",
+          "Name": "广东燕塘乳业股份有限公司东莞庄直营店",
+          "BelongOrg": "广州市天河区工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "9ef7b91b8e8f4da894e336d4c8710cb7",
+          "RegNo": "914417235556222924",
+          "Name": "广东燕塘乳业股份有限公司红五月良种奶牛场分公司",
+          "BelongOrg": "广东省阳江市阳东县工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "e760105ef7b3a36c4cb19d7990aba39d",
+          "RegNo": "91440101304457456F",
+          "Name": "广东燕塘乳业股份有限公司广州水荫路直营店",
+          "BelongOrg": "广州市越秀区工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        }
+      ],
+      "ChangeRecords": [
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "",
+          "AfterContent": "章程",
+          "ChangeDate": "2019-06-06"
+        },
+        {
+          "ProjectName": "业务范围变更",
+          "BeforeContent": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类)；生鲜乳收购；乳制品生产技术服务；收购农产品；生产和销售生鲜乳(限于自养奶牛生奶)；物业出租；以下由分支机构经营:奶牛、种牛养殖及销售；草类的种植及销售；有机肥的生产及销售；批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)。",
+          "AfterContent": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类)；生鲜乳收购；乳制品生产技术服务；收购农产品用作奶牛饲料、饲料原料；生产和销售生鲜乳(限于自养奶牛生奶)；自有物业出租；自有停车场经营；牧场富余牧草的销售；奶粉销售(非婴幼儿奶粉)；货物进出口(限生鲜乳及乳制品)；以下由分支机构经营:奶牛、种牛养殖及销售；与奶牛养殖有关的草类的种植及销售；与奶牛养殖有关的有机肥的生产及销售；批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)。",
+          "ChangeDate": "2019-06-06"
+        },
+        {
+          "ProjectName": "高级管理人员备案",
+          "BeforeContent": "戴锦辉(独立董事)；卫建侬(董事)【退出】；谢立民(董事)；严文海(监事会主席)；冯立科(董事)【退出】；黄宣*(董事长,经理)【退出】；朱滔(独立董事)；杨卫(董事)；李瑮蛟(独立董事)【退出】；陈松湖(职工监事)；邵侠(董事)；陈琛(监事)",
+          "AfterContent": "李伯侨(独立董事)【新增】；谢立民(董事)；严文海(监事会主席)；冯立科(总经理,董事)【新增】；黄宣*(董事长)【新增】；朱滔(独立董事)；杨卫(董事)；邵侠(董事)；陈琛(监事)；庄伟(董事)【新增】；戴锦辉(独立董事)；陈松湖(职工监事)",
+          "ChangeDate": "2019-06-06"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类)；生鲜乳收购；乳制品生产技术服务；收购农产品；生产和销售生鲜乳(限于自养奶牛生奶)；以下由分支机构经营:奶牛、种牛养殖及销售；草类的种植及销售；有机肥的生产及销售；批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)。",
+          "AfterContent": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类)；生鲜乳收购；乳制品生产技术服务；收购农产品；生产和销售生鲜乳(限于自养奶牛生奶)；物业出租；以下由分支机构经营:奶牛、种牛养殖及销售；草类的种植及销售；有机肥的生产及销售；批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)。",
+          "ChangeDate": "2017-10-16"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类)；生鲜乳收购(以上各项凭本公司有效许可证经营)；乳制品生产技术服务。以下由分支机构经营:奶牛、种牛养殖及销售；草类的种植及销售；有机肥的生产及销售；批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)。",
+          "AfterContent": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类)；生鲜乳收购；乳制品生产技术服务；收购农产品；生产和销售生鲜乳(限于自养奶牛生奶)；以下由分支机构经营:奶牛、种牛养殖及销售；草类的种植及销售；有机肥的生产及销售；批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)。",
+          "ChangeDate": "2017-01-11"
+        },
+        {
+          "ProjectName": "股东备案",
+          "BeforeContent": "陈琛,职工代表监事;；黄宣*,董事长,经理;；林树斌,董事;；欧永良,独立董事;绍侠,董事；卫建侬,董事;；吴震,独立董事;；谢立民,董事;；谢勇,董事;；严文海,监事会主席;；赵谋明,独立董事;；周铭超,监事",
+          "AfterContent": "陈琛,职工代表监事;；黄宣*,董事长,经理;；林树斌,董事;；欧永良,独立董事;；邵侠,董事;【新增】；卫建侬,董事;；吴震,独立董事;；谢立民,董事;；谢勇,董事;；严文海,监事会主席;；赵谋明,独立董事;；周铭超,监事",
+          "ChangeDate": "2016-05-18"
+        },
+        {
+          "ProjectName": "董事备案",
+          "BeforeContent": "",
+          "AfterContent": "董事会成员发生备案",
+          "ChangeDate": "2016-05-18"
+        },
+        {
+          "ProjectName": "董事备案",
+          "BeforeContent": "陈琛,职工代表监事;；杜山河,董事;【退出】；冯立科,副总经理;【退出】；黄宣*,董事长,总经理;；林树斌,董事;；刘世坤,副总经理;【退出】；欧永良,独立董事;；吴乘云,副总经理;【退出】；吴树荣,【退出】；董秘;副总;【退出】；吴震,独立董事;；谢立民,董事,副总经理;；谢勇,董事;；严文海,监事会主席;；杨秀通,董事;【退出】；张汉明,财务总监;副总;【退出】；赵谋明,独立董事;；周铭超,监事",
+          "AfterContent": "陈琛,职工代表监事;；黄宣*,董事长,经理;；林树斌,董事;；欧永良,独立董事;绍侠,董事;；卫建侬,董事;【新增】；吴震,独立董事;；谢立民,董事;；谢勇,董事;；严文海,监事会主席;；赵谋明,独立董事;；周铭超,监事",
+          "ChangeDate": "2016-05-18"
+        },
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "章程修正案",
+          "AfterContent": "章程",
+          "ChangeDate": "2015-01-28"
+        },
+        {
+          "ProjectName": "企业类型变更",
+          "BeforeContent": "1229",
+          "AfterContent": "1219",
+          "ChangeDate": "2015-01-28"
+        },
+        {
+          "ProjectName": "股东备案",
+          "BeforeContent": "",
+          "AfterContent": "股东发生备案",
+          "ChangeDate": "2015-01-28"
+        },
+        {
+          "ProjectName": "注册资本(金)变更",
+          "BeforeContent": "11800.000000",
+          "AfterContent": "15735.000000（+33.35%）",
+          "ChangeDate": "2015-01-28"
+        },
+        {
+          "ProjectName": "企业类型",
+          "BeforeContent": "其他股份有限公司(非上市)",
+          "AfterContent": "其他股份有限公司(上市)",
+          "ChangeDate": "2015-01-28"
+        },
+        {
+          "ProjectName": "股东备案",
+          "BeforeContent": "陈琛,职工代表监事;；杜山河,董事;【退出】；冯立科,副总经理;【退出】；黄宣*,董事长,总经理;；林树斌,董事;；刘世坤,副总经理;【退出】；欧永良,独立董事;；吴乘云,副总经理;【退出】；吴树荣,【退出】；董秘、副总;【退出】；吴震,独立董事;；谢立民,董事,副总经理;；谢勇,董事;；严文海,监事会主席;；杨秀通,董事;【退出】；张汉明,财务总监、副总;【退出】；赵谋明,独立董事;；周铭超,监事",
+          "AfterContent": "陈琛,职工代表监事;；黄宣*,董事长,经理;；林树斌,董事;；欧永良,独立董事;绍侠,董事；卫建侬,董事;【新增】；吴震,独立董事;；谢立民,董事;；谢勇,董事;；严文海,监事会主席;；赵谋明,独立董事;；周铭超,监事",
+          "ChangeDate": "2015-01-28"
+        },
+        {
+          "ProjectName": "经理备案",
+          "BeforeContent": "",
+          "AfterContent": "分公司发生备案",
+          "ChangeDate": "2014-07-17"
+        },
+        {
+          "ProjectName": "经理备案",
+          "BeforeContent": "广东燕塘乳业股份有限公司红五月良种奶牛场分公司;广东燕塘乳业股份有限公司直营店",
+          "AfterContent": "广东燕塘乳业股份有限公司广州水荫路直营【新增】；店;广东燕塘乳业股份有限公司红五月良种奶牛场分公司;广东燕塘乳业股份有限公司直营店",
+          "ChangeDate": "2014-07-17"
+        },
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "2012-12-06",
+          "AfterContent": "章程修正案",
+          "ChangeDate": "2014-07-03"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类,生鲜乳收购(以上各项凭本公司有效许可证经营)；乳制品生产技术服务,奶牛养殖,草类的种植及销售,有机肥的生产及销售。",
+          "AfterContent": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类)；生鲜乳收购(以上各项凭本公司有效许可证经营)；乳制品生产技术服务。以下由分支机构经营:奶牛、种牛养殖及销售；草类的种植及销售；有机肥的生产及销售；批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)。",
+          "ChangeDate": "2014-07-03"
+        },
+        {
+          "ProjectName": "股东备案",
+          "BeforeContent": "广东燕塘乳业股份有限公司红五月良种奶牛场分公司；广东燕塘乳业股份有限公司直营店",
+          "AfterContent": "广东燕塘乳业股份有限公司广州水荫路直营店【新增】；广东燕塘乳业股份有限公司红五月良种奶牛场分公司；广东燕塘乳业股份有限公司直营店",
+          "ChangeDate": "2014-07-03"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "www.yantangmilk.com"
+          }
+        ],
+        "PhoneNumber": "020-61372250",
+        "Email": "master@ytdairy.com"
+      },
+      "Industry": {
+        "IndustryCode": "C",
+        "Industry": "制造业",
+        "SubIndustryCode": "14",
+        "SubIndustry": "食品制造业",
+        "MiddleCategoryCode": "144",
+        "MiddleCategory": "乳制品制造",
+        "SmallCategoryCode": null,
+        "SmallCategory": null
+      },
+      "Area": {
+        "Province": "广东省",
+        "City": "广州市",
+        "County": "天河区"
+      },
+      "InsuredCount": null,
+      "EnglishName": "Guangdong Yantang Dairy Co., Ltd.",
+      "PersonScope": " 500-999人",
+      "KeyNo": "8f1c8f873e3411f88d48b58c92f4da6b",
+      "Name": "广东燕塘乳业股份有限公司",
+      "No": "440000000065176",
+      "BelongOrg": "广东省市场监督管理局",
+      "OperName": "黄宣",
+      "StartDate": "2002-12-30 00:00:00",
+      "EndDate": "",
+      "Status": "在营（开业）企业",
+      "Province": "GD",
+      "UpdatedDate": "2019-07-18 11:10:14",
+      "CreditCode": "91440000617435581X",
+      "RegistCapi": "15735万元人民币",
+      "EconKind": "其他股份有限公司(上市)",
+      "Address": "广州市天河区沙河燕塘",
+      "Scope": "生产、销售乳制品:[液体乳(巴氏杀菌乳、调制乳、灭菌乳、发酵乳)],饮料(蛋白饮料类);生鲜乳收购;乳制品生产技术服务;收购农产品用作奶牛饲料、饲料原料;生产和销售生鲜乳(限于自养奶牛生奶);自有物业出租;自有停车场经营;牧场富余牧草的销售;奶粉销售(非婴幼儿奶粉);货物进出口(限生鲜乳及乳制品);以下由分支机构经营:奶牛、种牛养殖及销售;与奶牛养殖有关的草类的种植及销售;与奶牛养殖有关的有机肥的生产及销售;批发兼零售:预包装食品、乳制品(不含婴幼儿配方乳粉)。",
+      "TermStart": "2002-12-30 00:00:00",
+      "TeamEnd": "",
+      "CheckDate": "2019-06-06 00:00:00",
+      "OrgNo": "61743558-1",
+      "IsOnStock": "1",
+      "StockNumber": "002732",
+      "StockType": "国内A股",
+      "OriginalName": [],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/8f1c8f873e3411f88d48b58c92f4da6b.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "15735万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

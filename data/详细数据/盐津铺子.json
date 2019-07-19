@@ -1,0 +1,549 @@
+{
+    "OrderNumber": "ECI2019071823171960330401",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "",
+          "Province": "总局",
+          "Liandate": "2018-12-24",
+          "CaseNo": "(经济技术开发区)食药监许准决〔2018〕403号"
+        },
+        {
+          "Name": "",
+          "Province": "总局",
+          "Liandate": "2017-03-22",
+          "CaseNo": "浏人社许决字[2017]03号"
+        }
+      ],
+      "Penalty": [],
+      "Exceptions": [],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [],
+      "Liquidation": null,
+      "Pledge": [],
+      "SpotCheck": [],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "43018177900133X",
+          "Name": "盐津铺子食品股份有限公司",
+          "Year": "2017",
+          "Level": "A"
+        },
+        {
+          "No": "43018177900133X",
+          "Name": "盐津铺子食品股份有限公司",
+          "Year": "2015",
+          "Level": "A"
+        },
+        {
+          "No": "43018177900133X",
+          "Name": "盐津铺子食品股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "盐津铺子食品股份有限公司",
+          "Link": "http://www.yanjinpuzi.com/index.htm",
+          "ImageUrl": "http://img.qichacha.com/Product/00b72f0f-0c96-47ca-a4b9-daa2ecd0fdc0.jpg",
+          "Name": "盐津铺子",
+          "Domain": "生活服务",
+          "Tags": "食品饮料,休闲食品,消费",
+          "Description": "食品店",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "长430181200049",
+          "LicensDocName": "道路运输经营许可证",
+          "ValidityFrom": "",
+          "ValidityTo": "",
+          "LicensOffice": "浏阳市交通运输管理所",
+          "LicensContent": "道路普通货物运输"
+        },
+        {
+          "LicensDocNo": "湘(2014)浏阳市不动产权第00058号",
+          "LicensDocName": "不动产权",
+          "ValidityFrom": "2014-12-03",
+          "ValidityTo": "2059-12-18",
+          "LicensOffice": "浏阳市国土资源局",
+          "LicensContent": "土地转让"
+        },
+        {
+          "LicensDocNo": "湘(2014)浏阳市不动产权第00056号",
+          "LicensDocName": "不动产权",
+          "ValidityFrom": "2014-12-04",
+          "ValidityTo": "2060-09-29",
+          "LicensOffice": "浏阳市国土资源局",
+          "LicensContent": "土地转让"
+        },
+        {
+          "LicensDocNo": "湘(2014)浏阳市不动产权第00059号",
+          "LicensDocName": "不动产权",
+          "ValidityFrom": "2014-12-05",
+          "ValidityTo": "2059-03-17",
+          "LicensOffice": "浏阳市国土资源局",
+          "LicensContent": "土地转让"
+        },
+        {
+          "LicensDocNo": "湘(2014)浏阳市不动产权第00060号",
+          "LicensDocName": "不动产权",
+          "ValidityFrom": "2014-12-06",
+          "ValidityTo": "2061-06-23",
+          "LicensOffice": "浏阳市国土资源局",
+          "LicensContent": "土地转让"
+        },
+        {
+          "LicensDocNo": "湘(2014)浏阳市不动产权第00055号",
+          "LicensDocName": "不动产权",
+          "ValidityFrom": "2014-12-07",
+          "ValidityTo": "2048-12-31",
+          "LicensOffice": "浏阳市国土资源局",
+          "LicensContent": "土地转让"
+        },
+        {
+          "LicensDocNo": "湘(2014)浏阳市不动产权第00057号",
+          "LicensDocName": "不动产权",
+          "ValidityFrom": "2014-12-08",
+          "ValidityTo": "2048-12-31",
+          "LicensOffice": "浏阳市国土资源局",
+          "LicensContent": "土地转让"
+        },
+        {
+          "LicensDocNo": "湘(2017)浏阳市不动产权第00073号",
+          "LicensDocName": "不动产权",
+          "ValidityFrom": "2015-01-10",
+          "ValidityTo": "2064-05-20",
+          "LicensOffice": "浏阳市国土资源局",
+          "LicensContent": "土地转让"
+        },
+        {
+          "LicensDocNo": "浏环复[2015]12号",
+          "LicensDocName": "建设项目环境影响报告书（表）审批（含建设项目发生重大变化和超5年期开工建设的重新审批）和保护设施竣工验收",
+          "ValidityFrom": "2015-01-16",
+          "ValidityTo": "2099-12-31",
+          "LicensOffice": "浏阳市",
+          "LicensContent": "食品质量安全与检测中心"
+        },
+        {
+          "LicensDocNo": "无",
+          "LicensDocName": "机动车登记、临时通行牌证核发",
+          "ValidityFrom": "2015-01-16",
+          "ValidityTo": "",
+          "LicensOffice": "长沙市地方公安交警支队",
+          "LicensContent": ""
+        },
+        {
+          "LicensDocNo": "浏环复[2015]70号",
+          "LicensDocName": "建设项目环境影响报告书（表）审批（含建设项目发生重大变化和超5年期开工建设的重新审批）和保护设施竣工验收",
+          "ValidityFrom": "2015-08-10",
+          "ValidityTo": "2099-12-31",
+          "LicensOffice": "浏阳市",
+          "LicensContent": "年产30万件鱼豆腐生产线项目"
+        },
+        {
+          "LicensDocNo": "浏环复[2015]126号",
+          "LicensDocName": "建设项目环境影响报告书（表）审批（含建设项目发生重大变化和超5年期开工建设的重新审批）和保护设施竣工验收",
+          "ValidityFrom": "2015-11-09",
+          "ValidityTo": "2099-12-31",
+          "LicensOffice": "浏阳市",
+          "LicensContent": "40万件/年鱼豆腐生产线扩建项目"
+        },
+        {
+          "LicensDocNo": "空",
+          "LicensDocName": "食品生产许可证核发",
+          "ValidityFrom": "2015-12-07",
+          "ValidityTo": "2018-11-19",
+          "LicensOffice": "湖南省食品药品监督管理局",
+          "LicensContent": "无"
+        },
+        {
+          "LicensDocNo": "浏环验(2016)42号",
+          "LicensDocName": "建设项目环境影响报告书（表）审批（含建设项目发生重大变化和超5年期开工建设的重新审批）和保护设施竣工验收",
+          "ValidityFrom": "2016-07-18",
+          "ValidityTo": "2099-12-31",
+          "LicensOffice": "浏阳市",
+          "LicensContent": "建设项目竣工环境保护验收"
+        },
+        {
+          "LicensDocNo": "浏环验(2016)41号",
+          "LicensDocName": "建设项目环境影响报告书（表）审批（含建设项目发生重大变化和超5年期开工建设的重新审批）和保护设施竣工验收",
+          "ValidityFrom": "2016-07-18",
+          "ValidityTo": "2099-12-31",
+          "LicensOffice": "浏阳市",
+          "LicensContent": "建设项目竣工环境保护验收"
+        },
+        {
+          "LicensDocNo": "43018116070066",
+          "LicensDocName": "排污许可证（大气、水）核发",
+          "ValidityFrom": "2016-07-19",
+          "ValidityTo": "2021-07-19",
+          "LicensOffice": "浏阳市",
+          "LicensContent": "废水、废气"
+        },
+        {
+          "LicensDocNo": " ",
+          "LicensDocName": "食品经营许可新开办",
+          "ValidityFrom": "2017-12-25",
+          "ValidityTo": "2022-12-24",
+          "LicensOffice": "浏阳市食品药品工商质量监督管理局",
+          "LicensContent": "预包装食品（不含冷藏冷冻食品）销售;散装食品（不含冷藏冷冻食品）销售;"
+        },
+        {
+          "LicensDocNo": "(浏阳)食药监许准决〔2018〕288号",
+          "LicensDocName": "食品经营许可新开办",
+          "ValidityFrom": "2018-07-17",
+          "ValidityTo": "2021-07-16",
+          "LicensOffice": "浏阳市食品药品工商质量监督管理局",
+          "LicensContent": "热食类食品制售;冷食类食品制售（含凉菜）;"
+        },
+        {
+          "LicensDocNo": "(浏阳)食药监许准决〔2018〕289号",
+          "LicensDocName": "食品经营许可新开办",
+          "ValidityFrom": "2018-07-17",
+          "ValidityTo": "2021-07-16",
+          "LicensOffice": "浏阳市食品药品工商质量监督管理局",
+          "LicensContent": "热食类食品制售;冷食类食品制售（含凉菜）;"
+        },
+        {
+          "LicensDocNo": "(湘)食药监许准决〔2018〕286号",
+          "LicensDocName": "食品生产许可证许可变更",
+          "ValidityFrom": "2018-12-10",
+          "ValidityTo": "2020-11-19",
+          "LicensOffice": "湖南省市场监督管理局",
+          "LicensContent": "肉制品;饼干;罐头;薯类和膨化食品;蔬菜制品;水果制品;炒货食品及坚果制品;水产制品;淀粉及淀粉制品;糕点"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "湖南盐津铺子控股有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "52.02%",
+          "ShouldCapi": "4838.1503",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "湖南昊平投资有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "17.84%",
+          "ShouldCapi": "1658.7944",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张学武",
+          "StockType": "自然人股东",
+          "StockPercent": "13.13%",
+          "ShouldCapi": "1221.057",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张学文",
+          "StockType": "自然人股东",
+          "StockPercent": "6.94%",
+          "ShouldCapi": "645.0867",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "战颖",
+          "StockType": "自然人股东",
+          "StockPercent": "4.62%",
+          "ShouldCapi": "430.0578",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "湖南盐津铺子同创企业(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "4.62%",
+          "ShouldCapi": "430.0578",
+          "ShoudDate": null,
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "胡祥主",
+          "StockType": "自然人股东",
+          "StockPercent": "0.83%",
+          "ShouldCapi": "76.796",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "张学武",
+          "Job": "董事长兼总经理"
+        },
+        {
+          "Name": "张学文",
+          "Job": "副董事长"
+        },
+        {
+          "Name": "单汩源",
+          "Job": "董事"
+        },
+        {
+          "Name": "王宾",
+          "Job": "董事"
+        },
+        {
+          "Name": "陈奇",
+          "Job": "董事"
+        },
+        {
+          "Name": "刘定华",
+          "Job": "董事"
+        },
+        {
+          "Name": "何红渠",
+          "Job": "董事"
+        },
+        {
+          "Name": "繆贤文",
+          "Job": "监事"
+        },
+        {
+          "Name": "熊翠娥",
+          "Job": "监事"
+        },
+        {
+          "Name": "兰波",
+          "Job": "监事"
+        }
+      ],
+      "Branches": [],
+      "ChangeRecords": [
+        {
+          "ProjectName": "财务负责人",
+          "BeforeContent": "胡祥主 ***",
+          "AfterContent": "朱正旺 ***",
+          "ChangeDate": "2017-09-05"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "食品的生产；预包装食品、散装食品批发兼零售；自营和代理各类商品和技术的进出口业务,但国家限定公司经营或禁止进出口的商品和技术除外。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "AfterContent": "预包装食品、干果、坚果、海味干货、散装食品、食品的销售；糕点、糖果及糖的批发；饼干及其他焙烤食品、糖果、巧克力、米、面制品、方便面及其他方便食品、蔬菜、水果罐头、熟食品、糕点、面包、豆制品的制造；食品的互联网销售；糕点、面包、熟食、进口食品的零售；肉制品及副产品、蔬菜、水果和坚果、鱼糜制品及水产品干腌制、蛋品的加工；收购农副产品；蜜饯制作；酱腌菜生产；自营和代理各类商品及技术的进出口,但国家限定公司经营或禁止进出口的商品和技术除外；普通货物运输。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "ChangeDate": "2017-09-05"
+        },
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "无",
+          "AfterContent": "2017-08-18通过章程修正案。",
+          "ChangeDate": "2017-09-05"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "熊翠娥；蒋朝晖【退出】；李素妤【退出】",
+          "AfterContent": "熊翠娥；兰波【新增】；繆贤文【新增】",
+          "ChangeDate": "2017-09-05"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "9300万人民币",
+          "AfterContent": "12400.0000万人民币（+33.33%）",
+          "ChangeDate": "2017-04-12"
+        },
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "无",
+          "AfterContent": "2017-04-06新章程",
+          "ChangeDate": "2017-04-12"
+        },
+        {
+          "ProjectName": "市场主体类型变更",
+          "BeforeContent": "股份有限公司(非上市、自然人投资或控股)",
+          "AfterContent": "股份有限公司(上市、自然人投资或控股)",
+          "ChangeDate": "2017-04-12"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "王宾；何红渠；单汩源；刘定华；张学文；刘永乐【退出】；张学武*",
+          "AfterContent": "张学文；何红渠；单汩源；刘定华；张学武*；王宾；陈奇【新增】",
+          "ChangeDate": "2016-01-15"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "李素妤；蒋朝辉【退出】；彭真【退出】",
+          "AfterContent": "熊翠娥【新增】；蒋朝晖【新增】；李素妤",
+          "ChangeDate": "2015-12-02"
+        },
+        {
+          "ProjectName": "财务负责人",
+          "BeforeContent": "",
+          "AfterContent": "胡祥主 ***",
+          "ChangeDate": "2015-11-10"
+        },
+        {
+          "ProjectName": "章程备案",
+          "BeforeContent": "无",
+          "AfterContent": "2015-10-26通过公司新章程",
+          "ChangeDate": "2015-11-10"
+        },
+        {
+          "ProjectName": "名称变更",
+          "BeforeContent": "盐津铺子食品有限公司",
+          "AfterContent": "盐津铺子食品股份有限公司",
+          "ChangeDate": "2014-08-22"
+        },
+        {
+          "ProjectName": "市场主体类型变更",
+          "BeforeContent": "9230",
+          "AfterContent": "9242",
+          "ChangeDate": "2014-08-22"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "豆制品(非发酵性豆制品、其他豆制品)(凭许可证、审批文件经营)、肉制品(酱卤肉制品)(凭许可证、审批文件经营)、炒货食品及坚果制品(烘炒类、油炸类)(凭许可证、审批文件经营)、蜜饯(凭许可证、审批文件经营)、糕点(烘烤类糕点)(凭许可证、审批文件经营)、其他水产品加工品(风味鱼制品)(凭许可证、审批文件经营)生产；预包装食品、散装食品批发兼零售(凭许可证、审批文件经营)",
+          "AfterContent": "食品的生产(凭许可证、审批文件经营)；预包装食品、散装食品批发兼零售(凭许可证、审批文件经营)",
+          "ChangeDate": "2014-08-22"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "6055.0000万元[人民币]",
+          "AfterContent": "9300.0000万元[人民币]（+53.59%）",
+          "ChangeDate": "2014-08-22"
+        },
+        {
+          "ProjectName": "投资人(股权)变更",
+          "BeforeContent": "张学武*出资 795.00000万元 人民币;；张学文出资 420.00000万元 人民币;；胡祥主出资 50.00000万元 人民币;；战颖出资 280.00000万元 人民币;；湖南昊平投资有限公司出资 1080.00000万元 人民币;湖南盐津铺子同创(有限合伙)企业出资 280.00000万元 人民币;；湖南盐津铺子控股有限公司出资 3150.00000万元 人民币",
+          "AfterContent": "张学武*出资 1221.05700（+426.057）万元 人民币 ;；张学文出资 645.08670（+225.087）万元 人民币 ;；胡祥主出资 76.79600（+26.796）万元 人民币 ;；战颖出资 430.05780（+150.058）万元 人民币 ;；湖南盐津铺子控股有限公司出资 4838.15030（+1688.15）万元 人民币 ;；湖南昊平投资有限公司出资 1658.79440（+578.794）万元 人民币 ;湖南盐津铺子同创(有限合伙)企业出资 430.05780（+150.058）万元 人民币",
+          "ChangeDate": "2014-08-22"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "自营和代理各类商品和技术的进出口业务,但国家限定公司经营或禁止进出口的商品和技术除外(中华人民共和国海关进出口货物收发货人报关注册登记证书有效期至2016年9月30日止)。",
+          "AfterContent": "自营和代理各类商品和技术的进出口业务,但国家限定公司经营或禁止进出口的商品和技术除外。(涉及许可审批的经营项目,凭许可证或审批文件方可经营)",
+          "ChangeDate": "2014-08-12"
+        },
+        {
+          "ProjectName": "其他事项备案",
+          "BeforeContent": "浏阳市工商行政管理局",
+          "AfterContent": "长沙市工商行政管理局",
+          "ChangeDate": "2014-08-12"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "湖南盐津铺子控股有限公司；湖南昊平投资有限公司；湖南盐津铺子同创(有限合伙)企业；张学武*；张学文；战颖；胡祥主",
+          "AfterContent": "湖南盐津铺子控股有限公司；湖南昊平投资有限公司；湖南盐津铺子同创(有限合伙)企业；张学文；战颖；张学武*；胡祥主",
+          "ChangeDate": "2014-08-12"
+        },
+        {
+          "ProjectName": "股东变更",
+          "BeforeContent": "戴春华【退出】；郭熙【退出】；何仰文【退出】；何宗义【退出】；胡祥主；黄立新【退出】；黄世忠【退出】；黄新开【退出】；蒋朝晖【退出】；乐莎【退出】；李焱松【退出】；刘小军【退出】；罗爱军【退出】；罗刚【退出】；罗潘恒【退出】；彭真【退出】；邱湘平【退出】；谭益升【退出】；王宾【退出】；王胜春【退出】；王亚伟【退出】；吴剑【退出】；杨斌【退出】；杨玉兰【退出】；殷晓禹【退出】；张学文；张学武*；周国凤【退出】；周建敏【退出】；周少华【退出】；朱正旺【退出】",
+          "AfterContent": "胡祥主；湖南盐津铺子控股有限公司【新增】；湖南盐津铺子同创(有限合伙)企业【新增】；湖南昊平投资有限公司【新增】；战颖【新增】；张学文；张学武*",
+          "ChangeDate": "2014-06-27"
+        },
+        {
+          "ProjectName": "经营范围变更",
+          "BeforeContent": "豆制品(非发酵性豆制品、其他豆制品)(全国工业产品生产许可证有效期至2014年11月11日止)、肉制品(酱卤肉制品)(全国工业产品生产许可证有效期至2015年12月7日止)、炒货食品及坚果制品(烘炒类、油炸类)(全国工业产品生产许可证有效期至2016年9月16日止)、蜜饯(全国工业生产许可证有效期至2015年5月25日止)、糕点(烘烤类糕点)(全国工业产品生产许可证有效期至2014年7月28日止)、其他水产品加工品(风味鱼制品)(全国工业产品生产许可证有效期至2015年11月25日止)生产；预包装食品、散装食品批发兼零售(食品流通许可证有效期至2015年3月12日止)",
+          "AfterContent": "豆制品(非发酵性豆制品、其他豆制品)(凭许可证、审批文件经营)、肉制品(酱卤肉制品)(凭许可证、审批文件经营)、炒货食品及坚果制品(烘炒类、油炸类)(凭许可证、审批文件经营)、蜜饯(凭许可证、审批文件经营)、糕点(烘烤类糕点)(凭许可证、审批文件经营)、其他水产品加工品(风味鱼制品)(凭许可证、审批文件经营)生产；预包装食品、散装食品批发兼零售(凭许可证、审批文件经营)",
+          "ChangeDate": "2014-06-27"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "5725.0000万元[人民币]",
+          "AfterContent": "6055.0000万元[人民币]（+5.76%）",
+          "ChangeDate": "2014-06-27"
+        },
+        {
+          "ProjectName": "投资人(股权)变更",
+          "BeforeContent": "黄世忠出资 2.20000万元 人民币;李焱松出资 10.45000万元 人民币;蒋朝晖出资 8.25000万元 人民币;罗刚出资 4.95000万元 人民币;黄新开出资 4.40000万元 人民币;殷晓禹出资 3.；30000万元 人民币;乐莎出资 2.75000万元 人民币;彭真出资 2.20000万元 人民币;张学武*出资 3954.80000万元 人民币;邱湘平出资 35.40000万元 人民币;周少华出资 19.25000万元 人民币;王胜春出资 18.70000万元 人民币;罗潘恒出资 11.00000万元 人民币;王宾出资 9.90000万元 人民币;罗爱军出资 9.90000万元 人民币;【退出】；何宗万元 人民币;杨万元 人民币;杨；斌出资 4.40000万元 人民币;吴剑出资 4.40000万元 人民币;刘小军出资 4.40000万元 人民币;戴春华出资 3.85000万元 人民币;周国凤出资 3.85000万元 人民币;何仰文出资 2.20000万元 人民币;杨玉兰出资 6.60000万元 人民币;胡祥主出资 50.00000万元 人民币;张学文出资 1500.00000万元 人民币;朱正旺出资 4.40000万元 人民币;黄立新出资 4.40000万元 人民币;王亚伟出资 4.40000万元 人民币;郭熙出资 4.95000万元 人民币;周建敏出资 14.85000万元 人民币;谭益升出资 7.15000万元 人民币",
+          "AfterContent": "湖南盐津铺子控股有限公司出资 3150.00000万元 人民币 ;【新增】；湖南昊平投资有限公司出资 1080.00000万元 人民币 ;湖南盐津铺子同创(有限合伙)企业出资 280.00000万元 人民币 ;【新增】；胡祥主万元 人民币 ;万元 人民币 ;；战颖出资 280.00000万元 人民币 ;【新增】；张学武*出资 795.00000万元 人民币 ;；张学文出资 420.00000万元 人民币",
+          "ChangeDate": "2014-06-27"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "http://www.yanjinpuzi.com"
+          }
+        ],
+        "PhoneNumber": "18874173999",
+        "Email": "1870772848@qq.com"
+      },
+      "Industry": {
+        "IndustryCode": "C",
+        "Industry": "制造业",
+        "SubIndustryCode": "14",
+        "SubIndustry": "食品制造业",
+        "MiddleCategoryCode": "149",
+        "MiddleCategory": "其他食品制造",
+        "SmallCategoryCode": "1499",
+        "SmallCategory": "其他未列明食品制造"
+      },
+      "Area": {
+        "Province": "湖南省",
+        "City": "长沙市",
+        "County": "长沙县"
+      },
+      "InsuredCount": "1097",
+      "EnglishName": "Hunan Yanjin Puzi Foodstuff Co., Ltd.",
+      "PersonScope": "1000-4999人",
+      "KeyNo": "41be2b201bdc5ca84ed26e524aef6814",
+      "Name": "盐津铺子食品股份有限公司",
+      "No": "430181000013702",
+      "BelongOrg": "长沙市工商行政管理局",
+      "OperName": "张学武",
+      "StartDate": "2005-08-04 00:00:00",
+      "EndDate": "",
+      "Status": "存续（在营、开业、在册）",
+      "Province": "HUN",
+      "UpdatedDate": "2019-07-18 11:12:05",
+      "CreditCode": "9143010077900133XT",
+      "RegistCapi": "12400万元人民币",
+      "EconKind": "股份有限公司(上市、自然人投资或控股)",
+      "Address": "湖南浏阳生物医药工业园",
+      "Scope": "预包装食品、干果、坚果、海味干货、散装食品、食品的销售;糕点、糖果及糖的批发;饼干及其他焙烤食品、糖果、巧克力、米、面制品、方便面及其他方便食品、蔬菜、水果罐头、熟食品、糕点、面包、豆制品的制造;食品的互联网销售;糕点、面包、熟食、进口食品的零售;肉制品及副产品、蔬菜、水果和坚果、鱼糜制品及水产品干腌制、蛋品的加工;收购农副产品;蜜饯制作;酱腌菜生产;自营和代理各类商品及技术的进出口,但国家限定公司经营或禁止进出口的商品和技术除外;普通货物运输。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+      "TermStart": "2005-08-04 00:00:00",
+      "TeamEnd": "",
+      "CheckDate": "2017-09-05 00:00:00",
+      "OrgNo": "77900133-X",
+      "IsOnStock": "1",
+      "StockNumber": "002847",
+      "StockType": "国内A股",
+      "OriginalName": [
+        {
+          "Name": "盐津铺子食品有限公司",
+          "ChangeDate": "2014-08-22"
+        },
+        {
+          "Name": "湖南盐津铺子食品有限公司",
+          "ChangeDate": ""
+        }
+      ],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/41be2b201bdc5ca84ed26e524aef6814.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "9300万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

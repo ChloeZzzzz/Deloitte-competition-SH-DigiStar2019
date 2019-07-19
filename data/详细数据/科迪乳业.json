@@ -1,0 +1,926 @@
+{
+    "OrderNumber": "ECI2019071822342923795960",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "",
+          "Province": "河南",
+          "Liandate": "2017-08-09",
+          "CaseNo": "豫食许准字 2017第 1252号"
+        },
+        {
+          "Name": "",
+          "Province": "河南",
+          "Liandate": "2017-08-09",
+          "CaseNo": "豫商食药监(食)许变决字〔2017〕第10号"
+        },
+        {
+          "Name": "",
+          "Province": "河南",
+          "Liandate": "2016-05-20",
+          "CaseNo": "SC10541142500030"
+        },
+        {
+          "Name": "",
+          "Province": "河南",
+          "Liandate": "2012-12-05",
+          "CaseNo": "豫国土资函〔2012〕1236号"
+        },
+        {
+          "Name": "河南科迪乳业有限公司年产80万顿液态奶一期工程（40万吨）建设项目",
+          "Province": "总局",
+          "Liandate": "2011-11-28",
+          "CaseNo": "豫国土资函〔2011〕716号"
+        }
+      ],
+      "Penalty": [
+        {
+          "DocNo": "14114252018000002062 (3)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-11-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000001936 (4)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-11-07",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000001843 (5)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-09-18",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000001761 (7)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-08-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000001560 (8)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-07-17",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000001373 (9)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-06-26",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "虞地税 简罚 〔2018〕 15 号",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "虞城县税务局",
+          "Content": "未按照规定期限办理纳税申报和报送纳税资料",
+          "PenaltyDate": "2018-05-21",
+          "PublicDate": "2019-05-31",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000001217 (10)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-05-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000000627 (11)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-04-19",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000000460 (14)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-03-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000000399 (15)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-02-23",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252018000000079 (17)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2018-01-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252017000001242 (6)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2017-11-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252017000000804 (18)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2017-08-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252016000000719 (16)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2016-12-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252016000000675 (1)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2016-11-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252016000000171 (12)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2016-03-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252015000000519 (13)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2015-06-16",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        },
+        {
+          "DocNo": "14114252015000000443 (2)",
+          "PenaltyType": "违反税收管理",
+          "OfficeName": "国家税务总局虞城县税务局",
+          "Content": "违反税收管理",
+          "PenaltyDate": "2015-05-26",
+          "PublicDate": "2018-12-04",
+          "Remark": null
+        }
+      ],
+      "Exceptions": [],
+      "ShiXinItems": [
+        {
+          "Name": "河南科迪乳业股份有限公司",
+          "Liandate": "2019-06-25",
+          "Anno": "(2019)豫0191执9010号",
+          "Orgno": "77086900-1",
+          "Executeno": "（2019）豫0191民初11613号",
+          "Publicdate": "2019-07-04",
+          "Executestatus": "全部未履行",
+          "Actionremark": "违反财产报告制度",
+          "Executegov": "郑州高新技术产业开发区人民法院"
+        }
+      ],
+      "ZhiXingItems": [
+        {
+          "Id": "45964c280aa5e5ea8048abcac92689a51",
+          "Sourceid": "0",
+          "Name": "河南科迪乳业股份有限公司",
+          "Liandate": "2019-07-15",
+          "Anno": "(2019)豫1425执1089号",
+          "ExecuteGov": "虞城县人民法院",
+          "Biaodi": "71666",
+          "Status": "",
+          "PartyCardNum": "91410000770****001P",
+          "Updatedate": null
+        },
+        {
+          "Id": "425d72fc93c73150f158c12cf2516c551",
+          "Sourceid": "0",
+          "Name": "河南科迪乳业股份有限公司",
+          "Liandate": "2019-06-25",
+          "Anno": "(2019)豫0191执9010号",
+          "ExecuteGov": "郑州高新技术产业开发区人民法院",
+          "Biaodi": "16296500.0",
+          "Status": "",
+          "PartyCardNum": "91410000770****001P",
+          "Updatedate": null
+        },
+        {
+          "Id": "209728c3ab2b151fc1823ceee3fc78d11",
+          "Sourceid": "0",
+          "Name": "河南科迪乳业股份有限公司",
+          "Liandate": "2019-04-02",
+          "Anno": "(2019)京03执423号",
+          "ExecuteGov": "北京市第三中级人民法院",
+          "Biaodi": "39916968.0",
+          "Status": "",
+          "PartyCardNum": "77086900-1",
+          "Updatedate": null
+        }
+      ],
+      "MPledge": [
+        {
+          "RegisterNo": "虞工商财押字【2015】第015号",
+          "RegisterDate": "2015-04-17",
+          "PublicDate": "",
+          "RegisterOffice": "虞城县市场监督管理局",
+          "DebtSecuredAmount": "3643.9万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "虞工商财押字【2015】第016号",
+          "RegisterDate": "2015-04-17",
+          "PublicDate": "",
+          "RegisterOffice": "虞城县市场监督管理局",
+          "DebtSecuredAmount": "174.7万人民币元",
+          "Status": null
+        },
+        {
+          "RegisterNo": "虞工商财押字【2015】第014号",
+          "RegisterDate": "2015-04-01",
+          "PublicDate": "",
+          "RegisterOffice": "虞城县市场监督管理局",
+          "DebtSecuredAmount": "7805.6万人民币元",
+          "Status": null
+        }
+      ],
+      "Liquidation": null,
+      "Pledge": [
+        {
+          "CompanyId": "ef74b14f4a09ff21fcdadbac76c7e15a",
+          "RegistNo": "410000201800000113",
+          "Pledgor": "张清海",
+          "PledgorNo": "",
+          "Pledgee": "长安国际信托股份有限公司",
+          "PledgeeNo": "916101312206074534",
+          "PledgedAmount": "10000万股",
+          "RegDate": "2018-11-09",
+          "PublicDate": "",
+          "Status": "有效"
+        }
+      ],
+      "SpotCheck": [
+        {
+          "No": null,
+          "ExecutiveOrg": "虞城县民族宗教委",
+          "Type": "检查",
+          "Date": "2018-10-11",
+          "Consequence": "符合清真食品标准",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "商丘市统计局",
+          "Type": "抽查",
+          "Date": "2018-09-13",
+          "Consequence": "正常",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "虞城县工商和质量技术监督局",
+          "Type": "抽查",
+          "Date": "2018-04-24",
+          "Consequence": "1批次聚酯（PET）无汽饮料瓶抽查合格",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "虞城县工商和质量技术监督局",
+          "Type": "抽查",
+          "Date": "2018-03-28",
+          "Consequence": "市双随机抽查，县局配合，整改后合格",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "虞城县民族宗教委",
+          "Type": "检查",
+          "Date": "2018-01-18",
+          "Consequence": "符合清真食品标准",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "商丘市质量技术监督局",
+          "Type": "抽查",
+          "Date": "2017-12-12",
+          "Consequence": "1批次PET塑料瓶合格",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "虞城县工商和质量技术监督局",
+          "Type": "检查",
+          "Date": "2017-04-18",
+          "Consequence": "食品相关产品，合格",
+          "Remark": null
+        },
+        {
+          "No": null,
+          "ExecutiveOrg": "虞城县工商和质量技术监督局",
+          "Type": "检查",
+          "Date": "2016-03-16",
+          "Consequence": "食品相关产品，合格",
+          "Remark": null
+        }
+      ],
+      "CompanyTaxCreditItems": [],
+      "CompanyProducts": [
+        {
+          "CompanyName": "河南科迪乳业股份有限公司",
+          "Link": "http://www.kedidairy.com/index.php?lang=cn",
+          "ImageUrl": "http://img.qichacha.com/Product/28078a6d-156b-4a38-be3e-d0afcbfa581e.jpg",
+          "Name": "科迪乳业",
+          "Domain": "电子商务",
+          "Tags": "电子商务,农业,B2C,生鲜食品,食品,食品安全,饮料,乳业",
+          "Description": "科迪乳业是一家从奶牛养殖繁育到乳品加工、销售的产业链公司，主导产品有利乐砖、百利包、爱克林、屋顶包、八连杯等UHT超高温瞬时灭菌奶和巴氏杀菌奶系列。",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "2015第(87号)",
+          "LicensDocName": "国家税务总局公告",
+          "ValidityFrom": "2015-06-23",
+          "ValidityTo": "9999-12-31",
+          "LicensOffice": "国家税务总局虞城县税务局",
+          "LicensContent": "增值税专用发票（增值税税控系统）最高开票限额审批"
+        },
+        {
+          "LicensDocNo": "虞环审2016(007)",
+          "LicensDocName": "建设项目环境影响评价",
+          "ValidityFrom": "2016-03-23",
+          "ValidityTo": "",
+          "LicensOffice": "虞城县环境保护局",
+          "LicensContent": "河南科迪乳业股份有限公司低温乳品改扩建及冷链物流建设项目环境影响评价"
+        },
+        {
+          "LicensDocNo": "SC10541142500030",
+          "LicensDocName": "食品生产许可",
+          "ValidityFrom": "2016-05-20",
+          "ValidityTo": "2021-05-19",
+          "LicensOffice": "河南省食品药品监督管理局",
+          "LicensContent": "允许经营"
+        },
+        {
+          "LicensDocNo": "豫商食药监(食)许变决字〔2017〕第10号",
+          "LicensDocName": "河南科迪乳业股份有限公司",
+          "ValidityFrom": "2017-08-09",
+          "ValidityTo": "2022-08-08",
+          "LicensOffice": "商丘市食品药品监督管理局",
+          "LicensContent": "变更"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "科迪食品集团股份有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "62.22%",
+          "ShouldCapi": "12755",
+          "ShoudDate": "2011-03-15",
+          "InvestType": "实物",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "河南省农业综合开发公司",
+          "StockType": "法人股东",
+          "StockPercent": "14.63%",
+          "ShouldCapi": "3000",
+          "ShoudDate": "2007-05-05",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "王宇骅",
+          "StockType": "自然人股东",
+          "StockPercent": "5.10%",
+          "ShouldCapi": "1046.4",
+          "ShoudDate": "2008-08-28",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "中国长城资产管理公司",
+          "StockType": "企业法人",
+          "StockPercent": "4.53%",
+          "ShouldCapi": "928",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "上海秉原旭股权投资发展中心(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "3.90%",
+          "ShouldCapi": "800",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "上海小村汉宏创业投资合伙企业(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "3.32%",
+          "ShouldCapi": "680",
+          "ShoudDate": "2011-09-05",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "北京新希望产业投资中心(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "2.44%",
+          "ShouldCapi": "500",
+          "ShoudDate": "2011-09-05",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "上海平易缙元股权投资中心(有限合伙)",
+          "StockType": "合伙企业",
+          "StockPercent": "0.98%",
+          "ShouldCapi": "200",
+          "ShoudDate": "2011-09-05",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张清海",
+          "StockType": "自然人股东",
+          "StockPercent": "0.59%",
+          "ShouldCapi": "121.8",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "黄河源股权投资基金管理(天津)有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "0.49%",
+          "ShouldCapi": "100",
+          "ShoudDate": "2011-09-05",
+          "InvestType": "货币",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "李盛玺",
+          "StockType": "自然人股东",
+          "StockPercent": "0.24%",
+          "ShouldCapi": "50",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "谢进才",
+          "StockType": "自然人股东",
+          "StockPercent": "0.19%",
+          "ShouldCapi": "39.8",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "胡中伟",
+          "StockType": "自然人股东",
+          "StockPercent": "0.17%",
+          "ShouldCapi": "34.8",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "王金良",
+          "StockType": "自然人股东",
+          "StockPercent": "0.16%",
+          "ShouldCapi": "31.8",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "刘新强",
+          "StockType": "自然人股东",
+          "StockPercent": "0.15%",
+          "ShouldCapi": "30",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "王福聚",
+          "StockType": "自然人股东",
+          "StockPercent": "0.11%",
+          "ShouldCapi": "23.2",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "王跃",
+          "StockType": "自然人股东",
+          "StockPercent": "0.09%",
+          "ShouldCapi": "18.56",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "王爱菊",
+          "StockType": "自然人股东",
+          "StockPercent": "0.09%",
+          "ShouldCapi": "18.56",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "宋崇德",
+          "StockType": "自然人股东",
+          "StockPercent": "0.09%",
+          "ShouldCapi": "18.56",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "刘建华",
+          "StockType": "自然人股东",
+          "StockPercent": "0.07%",
+          "ShouldCapi": "13.92",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "魏文灿",
+          "StockType": "自然人股东",
+          "StockPercent": "0.06%",
+          "ShouldCapi": "11.6",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张清良",
+          "StockType": "自然人股东",
+          "StockPercent": "0.06%",
+          "ShouldCapi": "11.6",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张贵春",
+          "StockType": "自然人股东",
+          "StockPercent": "0.06%",
+          "ShouldCapi": "11.6",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张魁众",
+          "StockType": "自然人股东",
+          "StockPercent": "0.06%",
+          "ShouldCapi": "11.6",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "张孟春",
+          "StockType": "自然人股东",
+          "StockPercent": "0.06%",
+          "ShouldCapi": "11.6",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "李学生",
+          "StockType": "自然人股东",
+          "StockPercent": "0.05%",
+          "ShouldCapi": "10.8",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "崔少松",
+          "StockType": "自然人股东",
+          "StockPercent": "0.05%",
+          "ShouldCapi": "10",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "薛奇东",
+          "StockType": "自然人股东",
+          "StockPercent": "0.03%",
+          "ShouldCapi": "5.8",
+          "ShoudDate": "2011-05-29",
+          "InvestType": "股权",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "张枫华",
+          "Job": "董事兼总经理"
+        },
+        {
+          "Name": "张清海",
+          "Job": "董事长"
+        },
+        {
+          "Name": "黄新民",
+          "Job": "董事"
+        },
+        {
+          "Name": "邱洪生",
+          "Job": "董事"
+        },
+        {
+          "Name": "刘新强",
+          "Job": "董事"
+        },
+        {
+          "Name": "苏文忠",
+          "Job": "董事"
+        },
+        {
+          "Name": "赵晖",
+          "Job": "董事"
+        },
+        {
+          "Name": "王莉婷",
+          "Job": "董事"
+        },
+        {
+          "Name": "张永立",
+          "Job": "董事"
+        },
+        {
+          "Name": "高晴",
+          "Job": "监事"
+        },
+        {
+          "Name": "陈青霞",
+          "Job": "监事"
+        },
+        {
+          "Name": "李明",
+          "Job": "监事"
+        },
+        {
+          "Name": "宋昆冈",
+          "Job": "监事"
+        },
+        {
+          "Name": "王修平",
+          "Job": "监事"
+        }
+      ],
+      "Branches": [
+        {
+          "CompanyId": "177355193d2462eabd59750d6f82ea00",
+          "RegNo": "91411425MA3X7FFA99",
+          "Name": "河南科迪乳业股份有限公司常温奶分公司",
+          "BelongOrg": "虞城县市场监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "b3bc6ae88c44e1d22729cc6aff618f34",
+          "RegNo": "914114253959694729",
+          "Name": "河南科迪乳业股份有限公司科迪天然深泉饮用水分公司",
+          "BelongOrg": "虞城县市场监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        }
+      ],
+      "ChangeRecords": [
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "赵晖；张清海*；黄新民；谢进才【退出】；王国丰【退出】；田梦琳【退出】；刘新强；宋昆冈；宋红军【退出】；孔强【退出】；唐征俭【退出】；王修平；陈青霞；张枫华",
+          "AfterContent": "赵晖；张清海*；黄新民；刘新强；宋昆冈；李明【新增】；王莉婷【新增】；王修平；陈青霞；张枫华；高晴【新增】；张永立【新增】；邱洪生【新增】；苏文忠【新增】",
+          "ChangeDate": "2017-09-01"
+        },
+        {
+          "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+          "BeforeContent": "57624.6209",
+          "AfterContent": "109486.779700（+90%）",
+          "ChangeDate": "2017-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+          "BeforeContent": "54680",
+          "AfterContent": "57624.620900（+5.39%）",
+          "ChangeDate": "2017-02-20"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "赵晖；张清海*；黄新民；谢进才；王国丰；田梦琳；刘新强；宋昆冈；宋红军；孔强；唐征俭；王修平；陈青霞；王宇骅【退出】",
+          "AfterContent": "赵晖；张清海*；黄新民；谢进才；王国丰；田梦琳；刘新强；宋昆冈；宋红军；孔强；唐征俭；王修平；陈青霞；张枫华【新增】",
+          "ChangeDate": "2017-02-20"
+        },
+        {
+          "ProjectName": "注册资本变更（注册资金、资金数额等变更）变更",
+          "BeforeContent": "54680",
+          "AfterContent": "57624.620900（+5.39%）",
+          "ChangeDate": "2017-02-16"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）变更",
+          "BeforeContent": "赵晖；张清海*；黄新民；谢进才；王国丰；田梦琳；刘新强；宋昆冈；宋红军；孔强；唐征俭；王修平；陈青霞；王宇骅【退出】",
+          "AfterContent": "赵晖；张清海*；黄新民；谢进才；王国丰；田梦琳；刘新强；宋昆冈；宋红军；孔强；唐征俭；王修平；陈青霞；张枫华【新增】",
+          "ChangeDate": "2017-02-16"
+        },
+        {
+          "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+          "BeforeContent": "赵晖；张清海*；黄新民；谢进才；王国丰；田梦琳；刘新强；宋昆冈；张亚山【退出】；孔强；唐征俭；王修平；陈青霞；王宇骅",
+          "AfterContent": "赵晖；张清海*；黄新民；谢进才；王国丰；田梦琳；刘新强；宋昆冈；宋红军【新增】；孔强；唐征俭；王修平；陈青霞；王宇骅",
+          "ChangeDate": "2016-12-19"
+        },
+        {
+          "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+          "BeforeContent": "27340",
+          "AfterContent": "54680.000000（+100%）",
+          "ChangeDate": "2016-05-20"
+        },
+        {
+          "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+          "BeforeContent": "20500",
+          "AfterContent": "27340.000000（+33.37%）",
+          "ChangeDate": "2015-08-03"
+        },
+        {
+          "ProjectName": "市场主体类型变更",
+          "BeforeContent": "其他股份有限公司(非上市)",
+          "AfterContent": "其他股份有限公司(上市)",
+          "ChangeDate": "2015-08-03"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "www.kedidairy.com"
+          }
+        ],
+        "PhoneNumber": "13781455159",
+        "Email": "373978214@qq.com"
+      },
+      "Industry": {
+        "IndustryCode": "C",
+        "Industry": "制造业",
+        "SubIndustryCode": "15",
+        "SubIndustry": "酒、饮料和精制茶制造业",
+        "MiddleCategoryCode": "152",
+        "MiddleCategory": "饮料制造",
+        "SmallCategoryCode": "1524",
+        "SmallCategory": "含乳饮料和植物蛋白饮料制造"
+      },
+      "Area": {
+        "Province": "河南省",
+        "City": "",
+        "County": ""
+      },
+      "InsuredCount": "126",
+      "EnglishName": "Kedi Dairy (Henan) Co., Ltd.",
+      "PersonScope": "1000-4999人",
+      "KeyNo": "8ee4398f12d55b927531d8808e16b53f",
+      "Name": "河南科迪乳业股份有限公司",
+      "No": "410000100052600",
+      "BelongOrg": "河南省市场监督管理局",
+      "OperName": "张清海",
+      "StartDate": "2005-01-20 00:00:00",
+      "EndDate": "",
+      "Status": "存续（在营、开业、在册）",
+      "Province": "HEN",
+      "UpdatedDate": "2019-07-18 11:10:49",
+      "CreditCode": "91410000770869001P",
+      "RegistCapi": "109486.7797万元人民币",
+      "EconKind": "其他股份有限公司(上市)",
+      "Address": "河南省虞城县产业集聚区工业大道18号",
+      "Scope": "乳制品、乳饮料、饮料的生产与销售(凭许可证经营);从事货物及技术的进出口业务(但国家限定公司经营或禁止进出口的商品及技术除外)。",
+      "TermStart": "2005-01-20 00:00:00",
+      "TeamEnd": "",
+      "CheckDate": "2017-07-10 00:00:00",
+      "OrgNo": "77086900-1",
+      "IsOnStock": "1",
+      "StockNumber": "002770",
+      "StockType": "国内A股",
+      "OriginalName": [
+        {
+          "Name": "河南科迪乳业有限公司",
+          "ChangeDate": ""
+        }
+      ],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/8ee4398f12d55b927531d8808e16b53f.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "20500万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

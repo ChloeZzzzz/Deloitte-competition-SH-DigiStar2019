@@ -1,0 +1,444 @@
+{
+  "OrderNumber": "ECI2019071817353184959610",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-03-06",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2013-03-14",
+        "CaseNo": ""
+      },
+      {
+        "Name": "房屋建筑工程和市政基础设施工程施工许可",
+        "Province": "总局",
+        "Liandate": "2012-06-14",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2012-06-14",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2011-11-25",
+        "CaseNo": "QS4452 0301 4006"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2011-08-19",
+        "CaseNo": "QS4452 0901 1043"
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "普宁市食品药品监督管理局食品生产安全监管股",
+        "Type": null,
+        "Date": "2017-03-27",
+        "Consequence": "正常",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "普宁市食品药品监督管理局食品餐饮安全监管股",
+        "Type": "检查",
+        "Date": "2017-03-27",
+        "Consequence": "正常",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "普宁市食品药品监督管理局食品餐饮安全监管股",
+        "Type": "检查",
+        "Date": "2016-01-11",
+        "Consequence": "正常",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91445200X18195192M",
+        "Name": "广东佳隆食品股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "445281X18195192",
+        "Name": "广东佳隆食品股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "445281X18195192",
+        "Name": "广东佳隆食品股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "445281X18195192",
+        "Name": "广东佳隆食品股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "广东佳隆食品股份有限公司",
+        "Link": "http://www.gdjlfood.com",
+        "ImageUrl": "http://img.qichacha.com/Product/cf2326ee-326d-4346-ab56-0436c5176257.jpg",
+        "Name": "佳隆股份",
+        "Domain": "生活服务",
+        "Tags": "消费",
+        "Description": "佳隆股份是一个调味品品牌，集食品科研开发、生产、销售为一体，旗下拥有佳隆、家丰等自有品牌，涉及鸡粉、鸡精、鸡汁、玉米粳、EAS芥辣及狮球吉士粉等30多种产品，销售网络覆盖全国各省市。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "JY14452810002535",
+        "LicensDocName": "食品经营许可证",
+        "ValidityFrom": "2016-03-25",
+        "ValidityTo": "2021-03-24",
+        "LicensOffice": "普宁市食品药品监督管理局",
+        "LicensContent": "预包装食品"
+      },
+      {
+        "LicensDocNo": "JY34452810010409",
+        "LicensDocName": "食品经营许可证",
+        "ValidityFrom": "2016-09-02",
+        "ValidityTo": "2021-09-01",
+        "LicensOffice": "普宁市食品药品监督管理局",
+        "LicensContent": "热食类"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "人民币普通股",
+        "StockType": "其他投资者",
+        "StockPercent": "53.53%",
+        "ShouldCapi": "50084.038368",
+        "ShoudDate": "",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林平涛",
+        "StockType": "自然人股东",
+        "StockPercent": "17.15%",
+        "ShouldCapi": "16045.97904",
+        "ShoudDate": "",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林长浩",
+        "StockType": "自然人股东",
+        "StockPercent": "8.36%",
+        "ShouldCapi": "7821.830016",
+        "ShoudDate": "",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林长春",
+        "StockType": "自然人股东",
+        "StockPercent": "8.06%",
+        "ShouldCapi": "7541.142336",
+        "ShoudDate": "",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林长青",
+        "StockType": "自然人股东",
+        "StockPercent": "6.82%",
+        "ShouldCapi": "6380.966592",
+        "ShoudDate": "",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "许巧婵",
+        "StockType": "自然人股东",
+        "StockPercent": "6.09%",
+        "ShouldCapi": "5697.959904",
+        "ShoudDate": "",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "赖佩华",
+        "StockType": "自然人股东",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "普宁市泰旺贸易有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "普宁市双春农业科技有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "林平涛",
+        "Job": "董事长"
+      },
+      {
+        "Name": "许巧婵",
+        "Job": "副董事长"
+      },
+      {
+        "Name": "林剑汶",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "陈泽民",
+        "Job": "董事"
+      },
+      {
+        "Name": "林长浩",
+        "Job": "董事"
+      },
+      {
+        "Name": "林冬存",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "陈鸿鑫",
+        "Job": "董事"
+      },
+      {
+        "Name": "林则强",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "李青广",
+        "Job": "董事"
+      },
+      {
+        "Name": "张少芬",
+        "Job": "职工代表监事"
+      },
+      {
+        "Name": "赖延河",
+        "Job": "监事"
+      },
+      {
+        "Name": "赖东鸿",
+        "Job": "监事会主席"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "09aa84a01a56df75e91ec7dfb19110e3",
+        "RegNo": "91445281584668118T",
+        "Name": "广东佳隆食品股份有限公司普侨分公司",
+        "BelongOrg": "普宁市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6a10e4911cdae83161e44ac2259ed917",
+        "RegNo": "91440111MA59BN2G0B",
+        "Name": "广东佳隆食品股份有限公司广州分公司",
+        "BelongOrg": "广东省工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "72f09ac4f1ed624a81e2bff51fe061ef",
+        "RegNo": "91110102669926139F",
+        "Name": "广东佳隆食品股份有限公司北京办事处",
+        "BelongOrg": "北京市工商行政管理局西城分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "89f3aea3c030d0917b1bc0df4ae0a2fa",
+        "RegNo": "91440111MA59BN2G0B",
+        "Name": "广东佳隆食品股份有限公司广州分公司",
+        "BelongOrg": "广州市白云区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9d2ebf584a45ac18fde9949116062f0e",
+        "RegNo": "914452810767489392",
+        "Name": "广东佳隆食品股份有限公司英歌山分公司",
+        "BelongOrg": "广东省揭阳市普宁市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "从事食品研究开发；调味品、罐头、蔬菜制品、食用油、油脂及其制品、粮食加工品、保健食品生产、销售；食品添加剂生产、销售。",
+        "AfterContent": "从事食品研究开发；调味品、罐头、蔬菜制品、食用油、油脂及其制品、粮食加工品、保健食品生产、销售；食品添加剂生产、销售；国内贸易；货物及技术的进出口业务。",
+        "ChangeDate": "2017-12-14"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "66830.400000",
+        "AfterContent": "93562.560000（+40%）",
+        "ChangeDate": "2016-10-12"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "从事食品研究开发；调味品、罐头食品、蔬菜制品(酱腌菜)生产、销售；食品添加剂生产、销售(凭有效许可证批准的项目经营)。",
+        "AfterContent": "从事食品研究开发；调味品、罐头、蔬菜制品、食用油、油脂及其制品、粮食加工品、保健食品生产、销售；食品添加剂生产、销售。",
+        "ChangeDate": "2016-07-01"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "66952.708200",
+        "AfterContent": "66830.400000（-0.18%）",
+        "ChangeDate": "2015-07-02"
+      },
+      {
+        "ProjectName": "股东备案",
+        "BeforeContent": "",
+        "AfterContent": "股东发生备案",
+        "ChangeDate": "2015-07-02"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "从事食品研究开发；调味品、罐头食品生产、销售；食品添加剂生产、销售(凭有效许可证批准的项目经营)。(以上各项,法律、行政法规和国务院决定禁止的项目除外；法律、行政法规和国务院决定限制的项目须取得许可方可经营)。",
+        "AfterContent": "从事食品研究开发；调味品、罐头食品、蔬菜制品(酱腌菜)生产、销售；食品添加剂生产、销售(凭有效许可证批准的项目经营)。",
+        "ChangeDate": "2015-04-30"
+      },
+      {
+        "ProjectName": "股东备案",
+        "BeforeContent": "陈鸿鑫,董事;；方钦雄,独立董事;【退出】；赖延河,监事;；李青广,董事;；林长春,董事,总经理;【退出】；林长浩,董事;；林长青,监事长;；林平涛*,董事长;；王俊亮,独立董事;【退出】；许巧婵,副董事长;；张少芬,职工代表监事;；周创荣,独立董事",
+        "AfterContent": "陈鸿鑫,董事;；陈泽民,董事;【新增】；赖延河,监事;；李青广,董事;；林长浩,董事;；林长浩,总经理;；林长青,监事长;；林冬存,独立董事;【新增】；林平涛*,董事长;；许巧婵,副董事长;；张少芬,职工代表监事;；周创荣,独立董事；庄耀名,独立董事【新增】",
+        "ChangeDate": "2015-04-02"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "28131.390000",
+        "AfterContent": "66952.708200（+138%）",
+        "ChangeDate": "2015-04-02"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "2013-05-28章程修正案",
+        "AfterContent": "章程修正案",
+        "ChangeDate": "2014-08-25"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "28212.840000",
+        "AfterContent": "28131.390000（-0.29%）",
+        "ChangeDate": "2014-08-25"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.gdjlfood.com"
+        }
+      ],
+      "PhoneNumber": "0663-2918011",
+      "Email": "jialong2121@126.com"
+    },
+    "Industry": {
+      "IndustryCode": "M",
+      "Industry": "科学研究和技术服务业",
+      "SubIndustryCode": "73",
+      "SubIndustry": "研究和试验发展",
+      "MiddleCategoryCode": null,
+      "MiddleCategory": null,
+      "SmallCategoryCode": null,
+      "SmallCategory": null
+    },
+    "Area": {
+      "Province": "广东省",
+      "City": "揭阳市",
+      "County": "普宁市"
+    },
+    "InsuredCount": "377",
+    "EnglishName": null,
+    "PersonScope": "500-999人",
+    "KeyNo": "f636fd787420c6b8db6b042c6554bd9a",
+    "Name": "广东佳隆食品股份有限公司",
+    "No": "440000000051799",
+    "BelongOrg": "广东省揭阳市工商行政管理局",
+    "OperName": "林平涛",
+    "StartDate": "2002-05-30 00:00:00",
+    "EndDate": "",
+    "Status": "在营（开业）企业",
+    "Province": "GD",
+    "UpdatedDate": "2019-07-18 11:09:07",
+    "CreditCode": "91445200X18195192M",
+    "RegistCapi": "93562.56万元人民币",
+    "EconKind": "股份有限公司(上市、自然人投资或控股)",
+    "Address": "广东省普宁市池尾工业区上寮园256幢0138号",
+    "Scope": "从事食品研究开发;调味品、罐头、蔬菜制品、食用油、油脂及其制品、粮食加工品、保健食品生产、销售;食品添加剂生产、销售;国内贸易;货物及技术的进出口业务。(依法须经批准的项目,经相关部门批准后方可开展经营活动)〓",
+    "TermStart": "2002-05-30 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2017-12-14 00:00:00",
+    "OrgNo": "X1819519-2",
+    "IsOnStock": "1",
+    "StockNumber": "002495",
+    "StockType": "国内A股",
+    "OriginalName": [],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/f636fd787420c6b8db6b042c6554bd9a.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "66830.4万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

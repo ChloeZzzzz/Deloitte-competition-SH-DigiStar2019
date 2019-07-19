@@ -1,0 +1,1026 @@
+{
+    "OrderNumber": "ECI2019071823162891802588",
+    "Result": {
+      "PermissionInfo": [
+        {
+          "Name": "",
+          "Province": "天津",
+          "Liandate": "2018-03-26",
+          "CaseNo": ""
+        },
+        {
+          "Name": "",
+          "Province": "天津",
+          "Liandate": "2017-08-17",
+          "CaseNo": ""
+        },
+        {
+          "Name": "",
+          "Province": "天津",
+          "Liandate": "2016-05-06",
+          "CaseNo": ""
+        },
+        {
+          "Name": "",
+          "Province": "天津",
+          "Liandate": "2016-05-06",
+          "CaseNo": ""
+        }
+      ],
+      "Penalty": [
+        {
+          "DocNo": "津应急罚[2019]4-001号",
+          "PenaltyType": "锁闭生产车间安全出口",
+          "OfficeName": "天津市应急管理局",
+          "Content": "罚款金额:4万元, 没收金额:0万元",
+          "PenaltyDate": "2019-01-11",
+          "PublicDate": "",
+          "Remark": null
+        }
+      ],
+      "Exceptions": [],
+      "ShiXinItems": [],
+      "ZhiXingItems": [],
+      "MPledge": [],
+      "Liquidation": null,
+      "Pledge": [],
+      "SpotCheck": [],
+      "CompanyTaxCreditItems": [
+        {
+          "No": "91120103103368983M",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司",
+          "Year": "2017",
+          "Level": "A"
+        },
+        {
+          "No": "120103103368983",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司",
+          "Year": "2014",
+          "Level": "A"
+        }
+      ],
+      "CompanyProducts": [
+        {
+          "CompanyName": "天津桂发祥十八街麻花食品股份有限公司",
+          "Link": "http://www.gfx.com.cn",
+          "ImageUrl": "http://img.qichacha.com/Product/96a8f4f2-b96f-4b07-b30f-2a88770fc86a.jpg",
+          "Name": "桂发祥",
+          "Domain": "生活服务",
+          "Tags": "食品饮料,休闲食品,消费",
+          "Description": "桂发祥是一家麻花品牌集团，产品主要包括十八街麻花、糕点以及甘栗、面包、果仁等其他休闲食品，其中麻花品种有六大系列，用户可以在京东、天猫官方旗舰点购买所需产品。旗下品牌包括桂发祥、十八街等。",
+          "Category": ""
+        }
+      ],
+      "PermissionEciInfo": [
+        {
+          "LicensDocNo": "2238869",
+          "LicensDocName": "建筑物外檐、构筑物、围墙和其他设施进行装修、改建、改变的，或者设置各类标志设施的审批",
+          "ValidityFrom": "2014-01-14",
+          "ValidityTo": "2015-01-13",
+          "LicensOffice": "市市容园林委",
+          "LicensContent": "外檐装修、新设牌匾"
+        },
+        {
+          "LicensDocNo": "1200/15020",
+          "LicensDocName": "出口食品生产企业备案证明",
+          "ValidityFrom": "2016-07-14",
+          "ValidityTo": "2020-07-13",
+          "LicensOffice": "天津出入境检验检疫局",
+          "LicensContent": "麻花系列"
+        },
+        {
+          "LicensDocNo": "",
+          "LicensDocName": "津西国税一 许变更准字 (2017) 第138号",
+          "ValidityFrom": "2017-10-26",
+          "ValidityTo": "9999-12-31",
+          "LicensOffice": "天津市河西区国家税务局",
+          "LicensContent": "增值税专用发票（增值税税控系统）最高开票限额审批"
+        }
+      ],
+      "PenaltyCreditChina": [],
+      "Partners": [
+        {
+          "StockName": "其他A股流通股",
+          "StockType": "其他投资者",
+          "StockPercent": "43.23%",
+          "ShouldCapi": "8854.1243",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "天津市桂发祥麻花饮食集团有限公司",
+          "StockType": "企业法人",
+          "StockPercent": "30.35%",
+          "ShouldCapi": "6216.2554",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "中华津点食品投资有限公司",
+          "StockType": "外国(地区)企业",
+          "StockPercent": "13.01%",
+          "ShouldCapi": "2663.5838",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "中华传统食品投资有限公司",
+          "StockType": "外国(地区)企业",
+          "StockPercent": "10.91%",
+          "ShouldCapi": "2234.0365",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        },
+        {
+          "StockName": "全国社会保障基金理事会转持一户",
+          "StockType": "其他投资者",
+          "StockPercent": "2.50%",
+          "ShouldCapi": "512",
+          "ShoudDate": "",
+          "InvestType": "",
+          "InvestName": null,
+          "RealCapi": null,
+          "CapiDate": null
+        }
+      ],
+      "Employees": [
+        {
+          "Name": "吴宏",
+          "Job": "董事长"
+        },
+        {
+          "Name": "李铭祥",
+          "Job": "总经理,董事"
+        },
+        {
+          "Name": "周峰",
+          "Job": "董事"
+        },
+        {
+          "Name": "马洪涛",
+          "Job": "董事"
+        },
+        {
+          "Name": "史岳臣",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "龙剑",
+          "Job": "董事"
+        },
+        {
+          "Name": "张俊民",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "周立群",
+          "Job": "独立董事"
+        },
+        {
+          "Name": "郑海强",
+          "Job": "董事"
+        },
+        {
+          "Name": "孙红",
+          "Job": "监事"
+        },
+        {
+          "Name": "张俊泉",
+          "Job": "监事"
+        },
+        {
+          "Name": "张维淳",
+          "Job": "监事"
+        },
+        {
+          "Name": "庞文魁",
+          "Job": "监事"
+        },
+        {
+          "Name": "赵丽",
+          "Job": "监事会主席"
+        }
+      ],
+      "Branches": [
+        {
+          "CompanyId": "07118eeaf342327586c163e442dde05c",
+          "RegNo": "91120106581307114B",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司辰昌道店",
+          "BelongOrg": "天津市红桥区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "0fa881ef340a55c9e256714d43d8526d",
+          "RegNo": "911201115987295833",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司中北镇店",
+          "BelongOrg": "天津市西青区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "11ac725980679143c6e8f41f5d9af066",
+          "RegNo": "91120103592923983U",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司大营门店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "13943dff7f3b1fcfbae0c95b0b53fee3",
+          "RegNo": "9112010577732870XU",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司胜利路直营店",
+          "BelongOrg": "天津市河北区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "1394a1272379dc288341217e7cae0561",
+          "RegNo": "91120116069872480A",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司滨海新区塘沽金街店",
+          "BelongOrg": "天津市自由贸易试验区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "17422e80933c4161942b504d61e0100f",
+          "RegNo": "911201047643339806",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司古文化街店",
+          "BelongOrg": "天津市南开区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "2384ae5940ec66100977bfdba360e885",
+          "RegNo": "91120113581333400D",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司果园北道店",
+          "BelongOrg": "天津市北辰区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "23a1612397781fb2ddadbf7ba926a357",
+          "RegNo": "91120111566110081M",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司芥园西道直营店",
+          "BelongOrg": "天津市西青区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "2d8aaef74be665dd91a4ada5ac8f8ddf",
+          "RegNo": "91120101575112580R",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司卫津路店",
+          "BelongOrg": "天津市和平区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "2d9041bb02e86a2c589d45af57cf3872",
+          "RegNo": "9112011305207508XM",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司双街店",
+          "BelongOrg": "天津市北辰区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "34445e4f7a510c70abe43193cb03deae",
+          "RegNo": "91120105052064882X",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司建国道店",
+          "BelongOrg": "天津市河北区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "3524c710392e9ec2901080bc9e4c1fc2",
+          "RegNo": "911201105813089260",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司军粮城店",
+          "BelongOrg": "天津市东丽区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "38d6f634fc4ef1d0ccb9d3f19e1ee2bb",
+          "RegNo": "911201025693401819",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司华兴道店",
+          "BelongOrg": "天津市河东区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "4d2dbce1a4afc84675ac36712c8edc1e",
+          "RegNo": "911202225961302869",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司武清一店",
+          "BelongOrg": "天津市武清区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "50533913fadd93cfe87f2e35ad03138f",
+          "RegNo": "911201045594951395",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司王顶堤店",
+          "BelongOrg": "天津市南开区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "53065d8136a2af92ff47594f1e2b8746",
+          "RegNo": "911201055813205972",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司幸福道店",
+          "BelongOrg": "天津市河北区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "5917550a04bce454ea935c4fd2aaba83",
+          "RegNo": "91120102581323042B",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司中山门店",
+          "BelongOrg": "天津市河东区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "5ab1d820f1925753fe4bc1ff41bbb4ea",
+          "RegNo": "911201030520898281",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司银河购物中心店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "5b903be922ad49e5f81d2c3bb09e8747",
+          "RegNo": "120101000017809",
+          "Name": "天津市桂发祥十八街麻花总店有限公司和平一店",
+          "BelongOrg": "天津市和平区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "5d51c715e5d90d7b17a4b71dbfcec612",
+          "RegNo": "911201038033305136",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司十八街麻花总店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "604fb011ce967f6abea7ebc703b8929d",
+          "RegNo": "370100100021563",
+          "Name": "天津市桂发祥十八街麻花总店有限公司济南店",
+          "BelongOrg": "济南市工商行政管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "64e0a4efbf733bec5cf83d7f2d8d2d72",
+          "RegNo": "91120106586410233N",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司东北角店",
+          "BelongOrg": "天津市红桥区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "65ff721f7709a8c93af8be3f7624512a",
+          "RegNo": "9112010108657352XW",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司南京路店",
+          "BelongOrg": "天津市和平区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "699851ecb50a4dc336c4ece2c46481ef",
+          "RegNo": "9112010371291672XY",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司下瓦房店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "6aa4a041298a67068657a18bb817729f",
+          "RegNo": "91120106586420140G",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司西站店",
+          "BelongOrg": "天津市红桥区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "70e611ed30669e0cabf406da692eb4da",
+          "RegNo": "9112010658326906XY",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司本溪路店",
+          "BelongOrg": "天津市红桥区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "71fd0fd1f0dc50397f4dd68891d4e6a1",
+          "RegNo": "91120103746659813Y",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司微山路直营店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "73c1501d02c0bf643122744c2cfc1535",
+          "RegNo": "91120101086573562D",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司慎益大街店",
+          "BelongOrg": "天津市和平区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "73f681005a7c7e18a1ca978056359856",
+          "RegNo": "911201045661062772",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司华苑店",
+          "BelongOrg": "天津市南开区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "782f305378c7bbb69139d99d0b913698",
+          "RegNo": "91120116MA05KXWG5H",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司滨海新区上海道店",
+          "BelongOrg": "天津市滨海新区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "7a96352401d94e8a87574fc9c31e2e5b",
+          "RegNo": "91120104581332408X",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司万德庄店",
+          "BelongOrg": "天津市南开区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "7de3428d9e8ffde44969a9a22d05e583",
+          "RegNo": "911201135961038511",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司宜白路店",
+          "BelongOrg": "天津市北辰区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "7fa04bed921dbb020be4a8b9b8890e5b",
+          "RegNo": "91120104690671759X",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司黄河道店",
+          "BelongOrg": "天津市南开区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "806989a4024bcf8a4439eb37b4965571",
+          "RegNo": "1201011191359",
+          "Name": "天津市桂发祥十八街麻花总店有限公司南市直营店",
+          "BelongOrg": "天津市和平区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "8a304c10e1b1b22b6d03108b2da3e2e4",
+          "RegNo": "911201037972519812",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司气象台路店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "928628ccabbccc91e5e7bec13a1c026f",
+          "RegNo": "91120000MA05KR901G",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司卫津南路店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "9de7617432e87b5ea8890dd754668d6e",
+          "RegNo": "911201060612134487",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司洪湖里店",
+          "BelongOrg": "天津市红桥区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "ad45dd61ea1bbb6e1c4304648f9477cc",
+          "RegNo": "91120104572330603F",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司咸阳路店",
+          "BelongOrg": "天津市南开区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "b81f22ea17b5ca9a0f28e51aa3edbb1e",
+          "RegNo": "1201041009990",
+          "Name": "天津市桂发祥十八街麻花总店有限公司鼓楼店",
+          "BelongOrg": "天津市南开区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "cba4c377608793d69b70c859a1dc9702",
+          "RegNo": "91120101690694344G",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司长春道店",
+          "BelongOrg": "天津市和平区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "d04e00119df59c3ef49f60c77c6dd4d2",
+          "RegNo": "91120103589780459U",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司前进道店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "d94639f245ea869a8bca2f6816078c9b",
+          "RegNo": "91120102581332707Y",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司程林庄路店",
+          "BelongOrg": "天津市河东区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "db2b5688c057ce040ffad9fa5e95845d",
+          "RegNo": "9112022557514913XF",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司蓟县一店",
+          "BelongOrg": "天津市蓟州区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "df2de9cdf9212bc3e38ae2bc422e04cd",
+          "RegNo": "911201165832933185",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司塘沽杭州道店",
+          "BelongOrg": "天津市滨海新区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "e016960e4488ca2b5edff6e9e22cbada",
+          "RegNo": "91120223598731528U",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司静海一店",
+          "BelongOrg": "天津市静海区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "e5987b803521078296fb3686a07ec988",
+          "RegNo": "91120105562675093X",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司狮子林大街直营店",
+          "BelongOrg": "天津市河北区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "e62b55b38d6b7dee8ab21f2afa233fcc",
+          "RegNo": "1201041010309",
+          "Name": "天津市桂发祥十八街麻花总店有限公司王顶堤店",
+          "BelongOrg": "天津市南开区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        },
+        {
+          "CompanyId": "f5a6ecf9740122a1cc682b1ed8946a7c",
+          "RegNo": "911201037440370174",
+          "Name": "天津桂发祥十八街麻花食品股份有限公司南楼店",
+          "BelongOrg": "天津市河西区市场和质量监督管理局",
+          "CreditCode": null,
+          "OperName": null
+        }
+      ],
+      "ChangeRecords": [
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "空;",
+          "AfterContent": "其他A股流通股;【新增】",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "20.0;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "上海海嘉实业投资中心(有限合伙);【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "164.7399;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "9600.0;",
+          "AfterContent": "0.0;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "9.3353;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "138.1728;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "4.3931;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "750.0;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "郑海强;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "30.0;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "85.0;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "1500.0;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "6.5896;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "3061.0127",
+          "AfterContent": "4897.7（+60%）",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "1543.786861",
+          "AfterContent": "2470.058977（+60%）",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "119.0;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "天津市海谐投资有限公司;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "13.0694;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "吴宏*;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "76.0858",
+          "AfterContent": "76.0854",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "40.0;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "3.2948;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "1258.1;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "416.1356;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "75.8875;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "证件号码:******;投资方注册号或机构代码:******;证照号码:******;;",
+          "AfterContent": "证件号码:******;投资方注册号或机构代码:******98W;证照号码:******;;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "15.6942;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "李文凤;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "31.8855;",
+          "AfterContent": "0.0;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "60.0;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "690.976;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "82.3699;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "12800.0",
+          "AfterContent": "20480.0（+60%）",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "李铭祥;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "3789.024;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "1174.603174",
+          "AfterContent": "1879.355469（+60%）",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "徐津生;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "142.9;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "李辉忠;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "788.656459;",
+          "AfterContent": "0.0;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "2.1965;",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "证件号码:******-000-08-11-2;投资方注册号或机构代码:******-000-08-11-2;证照号码:******-000-08-11-2;",
+          "AfterContent": "证件号码:******;投资方注册号或机构代码:1659530;证照号码:******;;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "徐彦珍;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "369.183687;",
+          "AfterContent": "0.0;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "认缴金额(万美元):168.402156;认缴金额(注册币种):1396.2728;;",
+          "AfterContent": "认缴金额(万美元):269.443453;认缴金额(注册币种):2234.0365;;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "阚莉萍;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "9738.9873",
+          "AfterContent": "15582.3（+60%）",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "王善伟;【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "3061.0127;",
+          "AfterContent": "0.0;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "南通凯普德股权投资合伙企业(有限合伙);【退出】",
+          "AfterContent": "空;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "投资人名称(中文):中信资本津点食品投资有限公司;【退出】",
+          "AfterContent": "证件号码:******;投资人名称(中文):中华津点食品投资有限公司;投资方注册号或机构代码:1660225;证照号码:******;;【新增】",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "1157.840146;",
+          "AfterContent": "0.0;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "6538.9873;",
+          "AfterContent": "0.0;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "369.183687",
+          "AfterContent": "590.703508（+60%）",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "注册资本变更",
+          "BeforeContent": "23.9142",
+          "AfterContent": "23.9146",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "68.1145;",
+          "AfterContent": "0.0;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "认缴金额(万美元):200.78153;认缴金额(注册币种):1664.7399;;",
+          "AfterContent": "认缴金额(万美元):321.250443;认缴金额(注册币种):2663.5838;;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "认缴金额(万美元):507.177355;认缴金额(注册币种):4205.1596;;",
+          "AfterContent": "认缴金额(万美元):749.732298;认缴金额(注册币种):6216.2554;;",
+          "ChangeDate": "2018-07-10"
+        },
+        {
+          "ProjectName": "投资人变更",
+          "BeforeContent": "空;",
+          "AfterContent": "全国社会保障基金理事会转持一户;【新增】",
+          "ChangeDate": "2018-07-10"
+        }
+      ],
+      "ContactInfo": {
+        "WebSite": [
+          {
+            "Name": null,
+            "Url": "http://www.gfx.com.cn"
+          }
+        ],
+        "PhoneNumber": "022-88112002",
+        "Email": "guifaxiang@gfxfood.com"
+      },
+      "Industry": {
+        "IndustryCode": "C",
+        "Industry": "制造业",
+        "SubIndustryCode": "14",
+        "SubIndustry": "食品制造业",
+        "MiddleCategoryCode": "141",
+        "MiddleCategory": "焙烤食品制造",
+        "SmallCategoryCode": "1411",
+        "SmallCategory": "糕点、面包制造"
+      },
+      "Area": {
+        "Province": "天津市",
+        "City": "天津市",
+        "County": "河西区"
+      },
+      "InsuredCount": "978",
+      "EnglishName": "Tianjin Guifaxiang Shibajie Twist Fried Cake Food Co.,Ltd.",
+      "PersonScope": "500-999人",
+      "KeyNo": "b9227f773fded5104515bfe8f46880cb",
+      "Name": "天津桂发祥十八街麻花食品股份有限公司",
+      "No": "120103000057396",
+      "BelongOrg": "天津市市场和质量监督管理委员会",
+      "OperName": "吴宏",
+      "StartDate": "1994-09-20 00:00:00",
+      "EndDate": "",
+      "Status": "存续（在营、开业、在册）",
+      "Province": "TJ",
+      "UpdatedDate": "2019-07-18 11:10:00",
+      "CreditCode": "91120103103368983M",
+      "RegistCapi": "20480万元人民币",
+      "EconKind": "股份有限公司(台港澳与境内合资、上市)",
+      "Address": "天津市河西区洞庭路32号",
+      "Scope": "糕点(烘焙类糕点、油炸类糕点、蒸煮类糕点、熟粉类糕点、月饼)生产;预包装食品兼散装食品、乳制品(不含婴幼儿配方奶粉)批发兼零售;工艺品零售;柜台租赁(以上经营范围涉及行业许可的凭许可证件,在有效期限内经营,国家有专项专营规定的按规定办理)***",
+      "TermStart": "1994-09-20 00:00:00",
+      "TeamEnd": "",
+      "CheckDate": "2018-10-15 00:00:00",
+      "OrgNo": "10336898-3",
+      "IsOnStock": "1",
+      "StockNumber": "002820",
+      "StockType": "国内A股",
+      "OriginalName": [
+        {
+          "Name": "天津市桂发祥十八街麻花总店有限公司",
+          "ChangeDate": "2012-09-25"
+        }
+      ],
+      "ImageUrl": "https://co-image.qichacha.com/CompanyImage/b9227f773fded5104515bfe8f46880cb.jpg?x-oss-process=image/resize,w_160",
+      "EntType": "0",
+      "RecCap": "9600万元人民币"
+    },
+    "Status": "200",
+    "Message": "查询成功"
+  }

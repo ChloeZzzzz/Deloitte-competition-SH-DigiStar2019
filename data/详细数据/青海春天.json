@@ -1,0 +1,314 @@
+{
+  "OrderNumber": "ECI2019071823492965407280",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "青海春天药用资源科技股份有限公司",
+        "Province": "总局",
+        "Liandate": "1998-08-28",
+        "CaseNo": ""
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [
+      {
+        "Id": "1edeb14dab195b94536e866358a7a7fb1",
+        "Sourceid": "0",
+        "Name": "青海春天药用资源科技股份有限公司",
+        "Liandate": "2019-06-19",
+        "Anno": "（2019）粤0106执13937号",
+        "ExecuteGov": "广州市天河区人民法院",
+        "Biaodi": "12262700.0",
+        "Status": "",
+        "PartyCardNum": "91630000710****282C",
+        "Updatedate": null
+      },
+      {
+        "Id": "21645b0ce75360d6321bece9e095d60c1",
+        "Sourceid": "0",
+        "Name": "青海贤成矿业股份有限公司",
+        "Liandate": "2019-01-15",
+        "Anno": "（2019）粤01执恢8号",
+        "ExecuteGov": "广州市中级人民法院",
+        "Biaodi": "0",
+        "Status": "",
+        "PartyCardNum": "71040228-2",
+        "Updatedate": null
+      },
+      {
+        "Id": "0ef783b428b3dd32827246d39ac634a61",
+        "Sourceid": "0",
+        "Name": "青海春天药用资源科技股份有限公司",
+        "Liandate": "2018-10-11",
+        "Anno": "（2018）粤03执恢463号",
+        "ExecuteGov": "深圳市中级人民法院",
+        "Biaodi": "111233504.0",
+        "Status": "",
+        "PartyCardNum": "91630000710****282C",
+        "Updatedate": null
+      }
+    ],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [],
+    "CompanyProducts": [
+      {
+        "CompanyName": "青海春天药用资源科技股份有限公司",
+        "Link": "http://www.verygrass.com",
+        "ImageUrl": "http://img.qichacha.com/Product/cfbbfccf-a380-4be9-9995-a8795b039a7b.jpg",
+        "Name": "青海春天",
+        "Domain": "医疗健康",
+        "Tags": "垂直消费,消费,保健品",
+        "Description": "青海春天是一家专注于冬虫夏草产品研发的公司，公司致力于以高科技手段实现珍稀自然资源的合理开发与可持续发展，目前公司主要专注极草5X冬虫夏草系列产品的物理加工、生产及销售。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "无限售条件股份",
+        "StockType": "其他投资者",
+        "StockPercent": "93.75%",
+        "ShouldCapi": "58317.1752",
+        "ShoudDate": "2011-08-25",
+        "InvestType": "货币",
+        "InvestName": "",
+        "RealCapi": "58317.1752",
+        "CapiDate": "2011-08-25"
+      },
+      {
+        "StockName": "有限售条件股份",
+        "StockType": "其他投资者",
+        "StockPercent": "6.25%",
+        "ShouldCapi": "3888.989",
+        "ShoudDate": "2011-08-25",
+        "InvestType": "货币",
+        "InvestName": "",
+        "RealCapi": "3888.989",
+        "CapiDate": "2011-08-25"
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "张雪峰",
+        "Job": "董事长兼总经理"
+      },
+      {
+        "Name": "王富贵",
+        "Job": "董事"
+      },
+      {
+        "Name": "卢义萍",
+        "Job": "董事"
+      },
+      {
+        "Name": "陈定",
+        "Job": "董事"
+      },
+      {
+        "Name": "程友海",
+        "Job": "董事"
+      },
+      {
+        "Name": "钱英",
+        "Job": "董事"
+      },
+      {
+        "Name": "肖融",
+        "Job": "董事"
+      },
+      {
+        "Name": "华彧民",
+        "Job": "监事"
+      },
+      {
+        "Name": "付晓鹏",
+        "Job": "监事"
+      },
+      {
+        "Name": "倪军霞",
+        "Job": "监事"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "f1c5a9551cc1ce64e2421e49510b9980",
+        "RegNo": "914401016813175123",
+        "Name": "青海贤成矿业股份有限公司广州分公司",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "63075.3981",
+        "AfterContent": "58706.074100（-6.93%）",
+        "ChangeDate": "2019-03-18"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "青藏高原天然优势资源的综合开发、利用、生产、销售及咨询服务；其他生物资源开发利用；矿产品加工、销售；经济信息咨询服务；实业投资及开发。(以上范围依法须经批准的项目,经相关部门批准后方可开展经营活动)。****",
+        "AfterContent": "青藏高原天然优势资源的综合开发、利用、生产、销售及咨询服务；其他生物资源开发利用；矿产品加工、销售；经济信息咨询服务；实业投资及开发；药品的销售,保健食品的销售；化妆品的销售,预包装食品(酒、冷藏冷冻食品)兼散装食品的销售；经营国家禁止和指定公司经营以外的进出口商品,经营进出口代理业务；设备租赁。(以上范围依法须经批准的项目,经相关部门批准后方可开展经营活动)。****",
+        "ChangeDate": "2018-05-30"
+      },
+      {
+        "ProjectName": "其他事项备案变更",
+        "BeforeContent": "无",
+        "AfterContent": "001,002,003,004,005,023,033,035,",
+        "ChangeDate": "2018-05-30"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "华彧民；姚欣【退出】；倪军霞；张雪峰*；肖融；陈定；程友海；钱英；王富贵；卢义萍",
+        "AfterContent": "华彧民；付晓鹏【新增】；倪军霞；张雪峰*；肖融；陈定；程友海；钱英；王富贵；卢义萍",
+        "ChangeDate": "2018-05-30"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "华彧民；姚欣；张瑾【退出】；张雪峰*；肖融；陈定；程友海；钱英；王富贵；卢义萍",
+        "AfterContent": "华彧民；姚欣；倪军霞【新增】；张雪峰*；肖融；陈定；程友海；钱英；王富贵；卢义萍",
+        "ChangeDate": "2017-12-08"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "68831.4013",
+        "AfterContent": "63075.398100（-8.36%）",
+        "ChangeDate": "2017-10-16"
+      },
+      {
+        "ProjectName": "名称变更（字号名称、集团名称等）",
+        "BeforeContent": "青海贤成矿业股份有限公司",
+        "AfterContent": "青海春天药用资源科技股份有限公司",
+        "ChangeDate": "2015-06-03"
+      },
+      {
+        "ProjectName": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+        "BeforeContent": "郝立华",
+        "AfterContent": "张雪峰*",
+        "ChangeDate": "2015-06-03"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "西宁市城西区胜利路59号(申宝大厦1118室)",
+        "AfterContent": "青海省西宁经济技术开发区东新路1号",
+        "ChangeDate": "2015-06-03"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "矿产资源、天然气、水泥、水电、火电资源的投资、开发；矿产品、金属及金属材料(不含贵稀金属),建筑材料、化肥、化工产品(不含危险化学品),铁合金、炉料销售；房屋、场地租赁；经济信息咨询服务；实业投资及开发(依法须经批准的项目,经相关部门批准后方可开展经营活动)。***",
+        "AfterContent": "青藏高源天然优势资源的综合开发、利用、生产、销售及咨询服务；其他生物资源开发利用；矿产品加工、销售；经济信息咨询服务；实业投资及开发。(以上范围依法须经批准的项目,经相关部门批准后方可开展经营活动)。****",
+        "ChangeDate": "2015-06-03"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "19892.5752",
+        "AfterContent": "68831.401300（+246.02%）",
+        "ChangeDate": "2015-06-03"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "王富贵；钱英；程友海；陈定；郝立华【退出】；张小峰【退出】；史永宁【退出】；汪雄飞【退出】；王延玲【退出】；张霄雁【退出】",
+        "AfterContent": "卢义萍【新增】；王富贵；钱英；程友海；陈定；肖融【新增】；张雪峰*【新增】；张瑾【新增】；姚欣【新增】；华彧民【新增】",
+        "ChangeDate": "2015-06-03"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "李奕明【退出】；苏继祥【退出】；史永宁；张小锋；钟文波【退出】；郝立华；马海杰【退出】；陈定；李晓冬【退出】；程友海；钱英；王富贵",
+        "AfterContent": "张霄雁【新增】；王延玲【新增】；汪雄飞【新增】；史永宁；张小锋；郝立华；陈定；程友海；钱英；王富贵",
+        "ChangeDate": "2015-05-11"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "矿产资源、天然气、水泥、水电、火电资源的投资、开发(不含矿产资源的勘查、开采)。***",
+        "AfterContent": "矿产资源、天然气、水泥、水电、火电资源的投资、开发；矿产品、金属及金属材料(不含贵稀金属),建筑材料、化肥、化工产品(不含危险化学品),铁合金、炉料销售；房屋、场地租赁；经济信息咨询服务；实业投资及开发(依法须经批准的项目,经相关部门批准后方可开展经营活动)。***",
+        "ChangeDate": "2014-11-04"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "160184.539",
+        "AfterContent": "19892.575200（-87.58%）",
+        "ChangeDate": "2014-11-04"
+      },
+      {
+        "ProjectName": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+        "BeforeContent": "臧静涛",
+        "AfterContent": "郝立华",
+        "ChangeDate": "2014-04-30"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "李晓冬；易永健【退出】；马海杰；臧静涛【退出】；钟文波；裴永红【退出】；王彬【退出】；苏继祥；李奕明；黄绍优【退出】；王汉齐【退出】；田树浩【退出】",
+        "AfterContent": "王富贵【新增】；钱英【新增】；程友海【新增】；李晓冬；陈定【新增】；马海杰；郝立华【新增】；钟文波；张小锋【新增】；史永宁【新增】；苏继祥；李奕明",
+        "ChangeDate": "2014-04-30"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "www.xcky.cn"
+        }
+      ],
+      "PhoneNumber": "0971-8865718",
+      "Email": "962087145@qq.com"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": "17",
+      "SubIndustry": "纺织业",
+      "MiddleCategoryCode": "171",
+      "MiddleCategory": "棉纺织及印染精加工",
+      "SmallCategoryCode": null,
+      "SmallCategory": null
+    },
+    "Area": {
+      "Province": "青海省",
+      "City": "西宁市",
+      "County": ""
+    },
+    "InsuredCount": "6",
+    "EnglishName": null,
+    "PersonScope": " 500-999人",
+    "KeyNo": "569c7c802f4c71854b07dc5bad71b3ca",
+    "Name": "青海春天药用资源科技股份有限公司",
+    "No": "630000100010609",
+    "BelongOrg": "青海省市场监督管理局",
+    "OperName": "张雪峰",
+    "StartDate": "1998-08-28 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "QH",
+    "UpdatedDate": "2019-07-16 10:15:29",
+    "CreditCode": "91630000710402282C",
+    "RegistCapi": "58706.0741万元人民币",
+    "EconKind": "其他股份有限公司(上市)",
+    "Address": "青海省西宁经济技术开发区东新路1号",
+    "Scope": "青藏高原天然优势资源的综合开发、利用、生产、销售及咨询服务;其他生物资源开发利用;矿产品加工、销售;经济信息咨询服务;实业投资及开发;药品的销售,保健食品的销售;化妆品的销售,预包装食品(酒、冷藏冷冻食品)兼散装食品的销售;经营国家禁止和指定公司经营以外的进出口商品,经营进出口代理业务;设备租赁、房屋租赁。(以上范围依法须经批准的项目,经相关部门批准后方可开展经营活动)。****",
+    "TermStart": "1998-08-28 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2019-03-18 00:00:00",
+    "OrgNo": "71040228-2",
+    "IsOnStock": "1",
+    "StockNumber": "600381",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "青海贤成矿业股份有限公司",
+        "ChangeDate": "2015-06-03"
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/569c7c802f4c71854b07dc5bad71b3ca.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "19892.5752万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}
