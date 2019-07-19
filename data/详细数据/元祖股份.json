@@ -1,0 +1,674 @@
+{
+  "OrderNumber": "ECI2019071910174817775083",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2019-01-21",
+        "CaseNo": "SC12431011800369"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2018-04-03",
+        "CaseNo": "jy13101180074316"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2018-02-11",
+        "CaseNo": "jy33101180009168"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2017-09-14",
+        "CaseNo": "c12431011800369"
+      },
+      {
+        "Name": "",
+        "Province": "上海",
+        "Liandate": "2014-03-06",
+        "CaseNo": ""
+      }
+    ],
+    "Penalty": [
+      {
+        "DocNo": "沪监管青处字（2019）第292018005330号",
+        "PenaltyType": "食品案件",
+        "OfficeName": "上海市青浦区市场监督管理局",
+        "Content": "警告",
+        "PenaltyDate": "2019-04-09",
+        "PublicDate": "2019-04-09",
+        "Remark": null
+      },
+      {
+        "DocNo": "沪食药监(青)罚处字[2015]第2720155147号",
+        "PenaltyType": "",
+        "OfficeName": "青浦区市场监督管理局",
+        "Content": "责令改正，给予警告；造成严重后果的，依照食品安全法第八十五条的规定给予处罚；食安法第八十五条：没收违法所得、违法生产经营的食品和用于违法生产经营的工具、设备、原料等物品；违法生产经营的食品货值金额不足一万元的，并处二千元以上五万元以下罚款；货值金额一万元以上的，并处货值金额五倍以上十倍以下罚款；情节严重的，吊销许可证",
+        "PenaltyDate": "2015-09-18",
+        "PublicDate": "2015-09-18",
+        "Remark": null
+      },
+      {
+        "DocNo": "沪食药监（青）罚处字[2015]第2320150098号",
+        "PenaltyType": "食品案件",
+        "OfficeName": "青浦区市场监督管理局",
+        "Content": "/",
+        "PenaltyDate": "2015-05-06",
+        "PublicDate": "2015-05-06",
+        "Remark": null
+      }
+    ],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "青浦区市场监督管理局",
+        "Type": "检查",
+        "Date": "2019-06-18",
+        "Consequence": "要求上海元祖梦果子股份有限公司加强管理，确保安全。",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "913100007416421665",
+        "Name": "上海元祖梦果子股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "913100007416421665",
+        "Name": "上海元祖梦果子股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "913100007416421665",
+        "Name": "上海元祖梦果子股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "310229741642166",
+        "Name": "上海元祖梦果子股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "310229741642166",
+        "Name": "上海元祖梦果子股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "上海元祖梦果子股份有限公司",
+        "Link": "http://www.ganso.com.cn",
+        "ImageUrl": "http://img.qichacha.com/Product/594b7a68-b355-4bb9-8661-ff099f84fd3e.jpg",
+        "Name": "元祖股份",
+        "Domain": "电子商务",
+        "Tags": "电子商务,消费生活,生鲜食品,食品,录像",
+        "Description": "元祖食品是一个各类传统食品，蛋糕，食品礼盒的电子商务平台，致力于为用户提供安全，好吃，便捷的食品购买渠道。隶属于上海元祖梦果子股份有限公司。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "",
+        "LicensDocName": "上海市单用途商业预付费卡备案企业信息    ",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "",
+        "LicensContent": ""
+      },
+      {
+        "LicensDocNo": "310000CAB0023",
+        "LicensDocName": "上海市单用途商业预付费卡备案企业信息    ",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "",
+        "LicensContent": ""
+      },
+      {
+        "LicensDocNo": "沪餐证字2015310118050008",
+        "LicensDocName": "餐饮服务许可证",
+        "ValidityFrom": "2015-02-28",
+        "ValidityTo": "2018-02-27",
+        "LicensOffice": "上海市食药监局",
+        "LicensContent": "食堂:不含熟食卤味 企事业机关食堂"
+      },
+      {
+        "LicensDocNo": "SC12431011800369",
+        "LicensDocName": "",
+        "ValidityFrom": "2016-09-07",
+        "ValidityTo": "2021-04-06",
+        "LicensOffice": "上海市青浦区市场监督管理局",
+        "LicensContent": "124；113"
+      },
+      {
+        "LicensDocNo": "JSZX-2016-46",
+        "LicensDocName": "对企业技术中心的认定",
+        "ValidityFrom": "2016-10-17",
+        "ValidityTo": "2017-12-31",
+        "LicensOffice": "上海市经济和信息化委员会、上海市财政局、上海市国家税务局、上海市地方税务局、上海海关",
+        "LicensContent": "上海市市级企业技术中心"
+      },
+      {
+        "LicensDocNo": "JY13101180074316",
+        "LicensDocName": "食品经营许可",
+        "ValidityFrom": "2017-12-27",
+        "ValidityTo": "2022-12-26",
+        "LicensOffice": "上海市青浦区市场监督管理局",
+        "LicensContent": "01;0101"
+      },
+      {
+        "LicensDocNo": "JY33101180009168",
+        "LicensDocName": "食品经营许可",
+        "ValidityFrom": "2018-02-11",
+        "ValidityTo": "2023-02-10",
+        "LicensOffice": "上海市青浦区市场监督管理局",
+        "LicensContent": "10"
+      },
+      {
+        "LicensDocNo": "青人社工时审2018第0578号",
+        "LicensDocName": "准予企业实行其他工作时间制度决定书",
+        "ValidityFrom": "2018-09-01",
+        "ValidityTo": "2019-08-31",
+        "LicensOffice": "青浦区人力资源和社会保障局",
+        "LicensContent": "根据《关于企业实行不定时工作制和综合计算工时工作制的审批办法》(劳部发[94]503号)的规定，经研究，同意你单位下列岗位人员自2018年09月01日至2019年08月31日期间实行其他工作时间制度:高级管理人员岗位实行不定时工作制。生产部（操作工、班长、保洁、技术员）、计划部、物流部（科员、理货员、仓储班长）、行政部（司机、保洁、厨师、厨工、厨师长、保安、保安班长）、产品技术、电商、品控岗位实行以季为周期的综合计算工时工作制。"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "元祖国际有限公司",
+        "StockType": "外国(地区)企业",
+        "StockPercent": "66.00%",
+        "ShouldCapi": "11879.1",
+        "ShoudDate": "2012-12-24",
+        "InvestType": "货币",
+        "InvestName": "货币,货币,货币,货币",
+        "RealCapi": "308.2309,291.7691,340,10939.1",
+        "CapiDate": "2002-10-24,2004-12-21,2008-08-26,2012-06-30"
+      },
+      {
+        "StockName": "卓傲国际有限公司",
+        "StockType": "其他投资者",
+        "StockPercent": "18.12%",
+        "ShouldCapi": "3262.428",
+        "ShoudDate": "2012-12-24",
+        "InvestType": "货币",
+        "InvestName": "货币,货币",
+        "RealCapi": "258.1581,3004.2699",
+        "CapiDate": "2012-06-14,2012-06-30"
+      },
+      {
+        "StockName": "元祖联合国际有限公司",
+        "StockType": "其他投资者",
+        "StockPercent": "14.98%",
+        "ShouldCapi": "2696.472",
+        "ShoudDate": "2012-12-24",
+        "InvestType": "货币",
+        "InvestName": "货币,货币",
+        "RealCapi": "213.3735,2483.0985",
+        "CapiDate": "2012-06-14,2012-06-30"
+      },
+      {
+        "StockName": "太仓德丰五金制品有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.30%",
+        "ShouldCapi": "54",
+        "ShoudDate": "2012-12-24",
+        "InvestType": "货币",
+        "InvestName": "货币,货币",
+        "RealCapi": "4.2731,49.7269",
+        "CapiDate": "2012-06-14,2012-06-30"
+      },
+      {
+        "StockName": "上海稼大禾贸易有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.30%",
+        "ShouldCapi": "54",
+        "ShoudDate": "2012-12-24",
+        "InvestType": "货币",
+        "InvestName": "货币,货币",
+        "RealCapi": "4.273,49.727",
+        "CapiDate": "2012-06-14,2012-06-30"
+      },
+      {
+        "StockName": "上海闽惠实业发展有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.30%",
+        "ShouldCapi": "54",
+        "ShoudDate": "2012-12-24",
+        "InvestType": "货币",
+        "InvestName": "货币,货币",
+        "RealCapi": "4.2731,49.7269",
+        "CapiDate": "2012-06-14,2012-06-30"
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "张秀琬",
+        "Job": "董事长"
+      },
+      {
+        "Name": "郑慧明",
+        "Job": "董事"
+      },
+      {
+        "Name": "苏嬉萤",
+        "Job": "董事"
+      },
+      {
+        "Name": "陈兴梅",
+        "Job": "董事"
+      },
+      {
+        "Name": "肖淼",
+        "Job": "董事"
+      },
+      {
+        "Name": "沈慧",
+        "Job": "董事"
+      },
+      {
+        "Name": "王名扬",
+        "Job": "董事"
+      },
+      {
+        "Name": "黄彦达",
+        "Job": "董事"
+      },
+      {
+        "Name": "王世铭",
+        "Job": "董事"
+      },
+      {
+        "Name": "李彦",
+        "Job": "监事"
+      },
+      {
+        "Name": "杨子旗",
+        "Job": "监事"
+      },
+      {
+        "Name": "葛爱峰",
+        "Job": "监事"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "009469e07c1e55d8ad181a3acc4a2c17",
+        "RegNo": "310000500216510",
+        "Name": "上海元祖梦果子有限公司闵行店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0d6307a33b87a224d27c0f4f933052df",
+        "RegNo": "310000500220806",
+        "Name": "上海元祖梦果子有限公司桃浦店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1829046f765bd178c18a47fb3b111966",
+        "RegNo": "310115500093484",
+        "Name": "上海元祖梦果子有限公司浦东三店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1beba83385f2254f32b6bcfaca94da40",
+        "RegNo": "310000400553482",
+        "Name": "上海元祖梦果子有限公司卫清西路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1e5f278abc9433834874c13f8a4498e6",
+        "RegNo": "310115500093492",
+        "Name": "上海元祖梦果子有限公司浦东一店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "23de81a10807b164f7efec37007919f6",
+        "RegNo": "310000500215146",
+        "Name": "上海元祖梦果子有限公司长江路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "2829234f9f4fd940f2c9fed5a7e28c7f",
+        "RegNo": "012660",
+        "Name": "上海元祖梦果子有限公司临平路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "29e1e75eadb83b7b51b26b472dffe165",
+        "RegNo": "310000400535456",
+        "Name": "上海元祖梦果子有限公司图们路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "30b41df4f6f584c523cfbb491823c9a1",
+        "RegNo": "310000400551673",
+        "Name": "上海元祖梦果子有限公司淞滨路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "56ca2de1493ba0bff4a62bba7f4e6486",
+        "RegNo": "310000500225184",
+        "Name": "上海元祖梦果子有限公司南翔店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6a76ab0e7bab6849d10bfc6b64d2c815",
+        "RegNo": "310000500226860",
+        "Name": "上海元祖梦果子有限公司共和新路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "73257e0a53cfa2963f58fdabf50954f7",
+        "RegNo": "011878",
+        "Name": "上海元祖梦果子有限公司高桥店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "885cfa7f488a1075a3bf251aa3458e5b",
+        "RegNo": "310000500217051",
+        "Name": "上海元祖梦果子有限公司松江店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8aff6a89e1f1d3c3d4c7ba3181220a88",
+        "RegNo": "210200400060327",
+        "Name": "上海元祖梦果子有限公司大连金三角店",
+        "BelongOrg": "大连市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8caf85d817b087cf3df4ccf537e5e03f",
+        "RegNo": "011814",
+        "Name": "上海元祖梦果子有限公司丰庄路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8e0e973cfb4f225db903cf076f7488bb",
+        "RegNo": "310000400546928",
+        "Name": "上海元祖梦果子有限公司嘉定店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9143c173181e5bb0d576caf341bf9f18",
+        "RegNo": "310000400545265",
+        "Name": "上海元祖梦果子有限公司国和路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "98c2ea06e9872619f6271d8999ec57db",
+        "RegNo": "012535",
+        "Name": "上海元祖梦果子有限公司周浦店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9954887faf35209653c68d5ea390238b",
+        "RegNo": "210200400062566",
+        "Name": "上海元祖梦果子有限公司大连西安路店",
+        "BelongOrg": "大连市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9ead105828a1d853f544b20b1c8a3a0c",
+        "RegNo": "011940",
+        "Name": "上海元祖梦果子有限公司仙霞路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a67edaddb6b1fc8104bd723991d12c46",
+        "RegNo": "011590",
+        "Name": "上海元祖梦果子有限公司昌里店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "aa0b01d7e21c80c7570239c82e5648c4",
+        "RegNo": "210200400015091",
+        "Name": "上海元祖梦果子有限公司大连分公司",
+        "BelongOrg": "大连市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ab8d3e2274af3ec4b41453222be4f89d",
+        "RegNo": "310000400547915",
+        "Name": "上海元祖梦果子有限公司花木店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d40b74c5250668f038698ee340e3a0e9",
+        "RegNo": "310000400547773",
+        "Name": "上海元祖梦果子有限公司安亭店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d5206606d4980b4680afcec74206de38",
+        "RegNo": "310000400546170",
+        "Name": "上海元祖梦果子有限公司奉贤店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d82c1ab670855c95b1e7796f4d860553",
+        "RegNo": "310115500093505",
+        "Name": "上海元祖梦果子有限公司浦东二店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ea1c018d7dde044b7f3c26987301a944",
+        "RegNo": "310000500220855",
+        "Name": "上海元祖梦果子有限公司长岛路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f637e4c3b9bfba61af1a221bc0d056d7",
+        "RegNo": "210200400062228",
+        "Name": "上海元祖梦果子有限公司大连南沙店",
+        "BelongOrg": "大连市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "fe66a32a611c195f04e3a59f1e7e4a1f",
+        "RegNo": "310000400568242",
+        "Name": "上海元祖梦果子有限公司宜川路店",
+        "BelongOrg": "上海市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "徐钲鉴【退出】；王福涨【退出】；刁维仁【退出】；吴传铨【退出】；王珏【退出】；王松男【退出】；庄子祊【退出】；林煜心【退出】",
+        "AfterContent": "郑慧明【新增】；王名扬【新增】；王世铭【新增】；肖淼【新增】；苏嬉萤【新增】；陈兴梅【新增】；沈慧【新增】；黄彦达【新增】",
+        "ChangeDate": "2019-02-02"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "黄嘉慧【退出】；黄素清【退出】；罗春华【退出】",
+        "AfterContent": "杨子旗【新增】；李彦【新增】；葛爱峰【新增】",
+        "ChangeDate": "2019-02-02"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "2017-05-26章程备案",
+        "AfterContent": "2017-08-19章程备案",
+        "ChangeDate": "2018-06-04"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "食品生产:食品流通；食用农产品(稻谷、小麦、玉米除外)、鲜花、工艺品、日用品、烘焙用品及用具、相关配套包装材料的销售,以特许经营方式从事“元祖”“GANSO”品牌的经营活动。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+        "AfterContent": "食品生产；食品流通；食用农产品(稻谷、小麦、玉米除外)、鲜花、工艺品、日用品、烘焙用品及用具、相关配套包装材料的销售,以特许经营方式从事“元祖”“GANSO”品牌的经营活动；自有房屋租赁并提供相关物业管理服务。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+        "ChangeDate": "2018-06-04"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "罗春华；黄素清；陈兴梅【退出】",
+        "AfterContent": "黄嘉慧【新增】；罗春华；黄素清",
+        "ChangeDate": "2018-06-04"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "食品生产:食品流通；鲜花、工艺品、日用品批发及零售,以特许经营方式从事“元祖”“GANSO”品牌的经营活动。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+        "AfterContent": "食品生产:食品流通；食用农产品(稻谷、小麦、玉米除外)、鲜花、工艺品、日用品、烘焙用品及用具、相关配套包装材料的销售,以特许经营方式从事“元祖”“GANSO”品牌的经营活动。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+        "ChangeDate": "2018-01-04"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "2017-05-26章程备案",
+        "AfterContent": "2017-08-19章程备案",
+        "ChangeDate": "2017-09-14"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "生产裱花蛋糕、中西糕点、月饼,销售公司自产产品；以特许经营方式从事“元祖”“GANSO”品牌的经营活动。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+        "AfterContent": "食品生产:食品流通；鲜花、工艺品、日用品批发及零售,以特许经营方式从事“元祖”“GANSO”品牌的经营活动。\n【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+        "ChangeDate": "2017-09-14"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2017-05-26章程备案",
+        "ChangeDate": "2017-06-02"
+      },
+      {
+        "ProjectName": "企业类型变更",
+        "BeforeContent": "股份有限公司(台港澳与境内合资、未上市)",
+        "AfterContent": "股份有限公司(台港澳与境内合资、上市)",
+        "ChangeDate": "2017-06-02"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "18000.0000万人民币",
+        "AfterContent": "24000.0000万人民币（+33.33%）",
+        "ChangeDate": "2017-06-02"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.ganso.com.cn"
+        }
+      ],
+      "PhoneNumber": "021-59755678",
+      "Email": "xtli@ganso.net"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": "14",
+      "SubIndustry": "食品制造业",
+      "MiddleCategoryCode": "141",
+      "MiddleCategory": "焙烤食品制造",
+      "SmallCategoryCode": "1411",
+      "SmallCategory": "糕点、面包制造"
+    },
+    "Area": {
+      "Province": "上海市",
+      "City": "上海市",
+      "County": "青浦区"
+    },
+    "InsuredCount": "532",
+    "EnglishName": "Ganso Co., Ltd.",
+    "PersonScope": "",
+    "KeyNo": "f651551a54d41f03447c506d3c10f142",
+    "Name": "上海元祖梦果子股份有限公司",
+    "No": "310000400312959",
+    "BelongOrg": "上海市市场监督管理局",
+    "OperName": "张秀琬",
+    "StartDate": "2002-08-20 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "SH",
+    "UpdatedDate": "2019-07-18 11:25:04",
+    "CreditCode": "913100007416421665",
+    "RegistCapi": "24000万元人民币",
+    "EconKind": "股份有限公司(台港澳与境内合资、上市)",
+    "Address": "上海市青浦区赵巷镇嘉松中路6088号",
+    "Scope": "食品生产;食品流通;食用农产品(稻谷、小麦、玉米除外)、鲜花、工艺品、日用品、烘焙用品及用具、相关配套包装材料的销售,以特许经营方式从事“元祖”“GANSO”品牌的经营活动;自有房屋租赁并提供相关物业管理服务。【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+    "TermStart": "2002-08-20 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2002-08-20 00:00:00",
+    "OrgNo": "74164216-6",
+    "IsOnStock": "1",
+    "StockNumber": "603886",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "上海元祖梦果子有限公司",
+        "ChangeDate": ""
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/f651551a54d41f03447c506d3c10f142.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "18000万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

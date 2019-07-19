@@ -1,0 +1,1385 @@
+{
+  "OrderNumber": "ECI2019071910110086320935",
+  "Result": {
+    "PermissionInfo": [],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "长沙市统计局",
+        "Type": "抽查",
+        "Date": "2017-06-27",
+        "Consequence": "正常",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "湖南省工商行政管理局",
+        "Type": "检查",
+        "Date": "2015-12-16",
+        "Consequence": "正常",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "430102587034065",
+        "Name": "湖南盐业股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "湖南盐业股份有限公司",
+        "Link": "http://www.hnsc.cc/",
+        "ImageUrl": "http://img.qichacha.com/Product/5fc18172-5a9f-4326-b215-a65d723d6cd2.jpg",
+        "Name": "湖南盐业",
+        "Domain": "其他",
+        "Tags": "化工,非TMT",
+        "Description": "湖南盐业是一家盐类产品研发商，该公司主要生产食用盐、日化盐、工业盐、其他盐四大种类，具体包括海盐、果蔬清洗盐、碘酸钾、工业无水硫酸钠等，同时公司还生产包装产品等。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "SP4301021210037733",
+        "LicensDocName": "食品流通许可证",
+        "ValidityFrom": "2014-10-16",
+        "ValidityTo": "2015-01-11",
+        "LicensOffice": "长沙市工商行政管理局芙蓉分局",
+        "LicensContent": "批发兼零售：预包装食品；乳制品（含婴幼儿配方乳粉）"
+      },
+      {
+        "LicensDocNo": "无",
+        "LicensDocName": "机动车检验合格标志和机动车驾驶证核发、审验—机动车检验合格标志核发",
+        "ValidityFrom": "2015-05-27",
+        "ValidityTo": "",
+        "LicensOffice": "长沙市地方公安交警支队",
+        "LicensContent": ""
+      },
+      {
+        "LicensDocNo": "JY14301000106933",
+        "LicensDocName": "食品经营许可",
+        "ValidityFrom": "2016-04-25",
+        "ValidityTo": "2021-04-24",
+        "LicensOffice": "长沙市食品药品监督管理局",
+        "LicensContent": "预包装食品（不含冷藏冷冻食品）销售;预包装食品（含酒类）销售;婴幼儿配方乳粉销售;"
+      },
+      {
+        "LicensDocNo": "望环批【2016】20号",
+        "LicensDocName": "建设项目环境影响报告书（表）审批及环境保护设施验收（含建设项目发生重大变化和超5年期开工建设的重新审批）",
+        "ValidityFrom": "2016-04-27",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "望城区",
+        "LicensContent": "食用盐提质改造工程——湖南雪天盐业技术开发有限公司2.5万吨/年品种盐改造项目\n"
+      },
+      {
+        "LicensDocNo": "长芙国税 许变更准 〔2017〕 24 号",
+        "LicensDocName": "增值税专用发票（增值税税控系统）最高开票限额审批",
+        "ValidityFrom": "2017-02-21",
+        "ValidityTo": "9999-12-31",
+        "LicensOffice": "芙蓉区",
+        "LicensContent": "对增值税防伪税控系统最高开票限额的审批"
+      },
+      {
+        "LicensDocNo": "长芙国税 许变更准字 〔2018〕 第53 号",
+        "LicensDocName": "增值税专用发票（增值税税控系统）最高开票限额审批",
+        "ValidityFrom": "2018-03-19",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "长沙市芙蓉区国家税务局税源管理一科",
+        "LicensContent": "增值税专用发票（增值税税控系统）最高开票限额审批"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "湖南省轻工盐业集团有限责任公司",
+        "StockType": "企业法人",
+        "StockPercent": "88.8500%",
+        "ShouldCapi": "52056.2931",
+        "ShoudDate": "2011-12-31",
+        "InvestType": "货币",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "湘江产业投资有限责任公司",
+        "StockType": "企业法人",
+        "StockPercent": "6.2964%",
+        "ShouldCapi": "3688.9529",
+        "ShoudDate": "2011-12-31",
+        "InvestType": "货币",
+        "InvestName": "货币",
+        "RealCapi": "3688.9529",
+        "CapiDate": "2011-12-15"
+      },
+      {
+        "StockName": "湖南发展投资集团有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "2.6232%",
+        "ShouldCapi": "1536.8973",
+        "ShoudDate": "2011-12-31",
+        "InvestType": "货币",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "湖南省财信产业基金管理有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "2.2299%",
+        "ShouldCapi": "1306.4625",
+        "ShoudDate": "2011-12-15",
+        "InvestType": "货币",
+        "InvestName": "货币",
+        "RealCapi": "1306.4625",
+        "CapiDate": "2011-12-15"
+      },
+      {
+        "StockName": "湖南轻盐创业投资管理有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.0001%",
+        "ShouldCapi": null,
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "5225.8502",
+        "CapiDate": "2011-12-15"
+      },
+      {
+        "StockName": "贵州盐业(集团)有限责任公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.0001%",
+        "ShouldCapi": null,
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "3266.1564",
+        "CapiDate": "2011-12-15"
+      },
+      {
+        "StockName": "广西壮族自治区盐业公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.0001%",
+        "ShouldCapi": null,
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1959.6938",
+        "CapiDate": "2011-12-15"
+      },
+      {
+        "StockName": "江苏省盐业集团有限责任公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.0001%",
+        "ShouldCapi": null,
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1959.6938",
+        "CapiDate": "2011-12-15"
+      },
+      {
+        "StockName": "广东省盐业集团有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.0001%",
+        "ShouldCapi": null,
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "徐宗云",
+        "Job": "董事兼总经理"
+      },
+      {
+        "Name": "冯传良",
+        "Job": "董事长"
+      },
+      {
+        "Name": "李志勇",
+        "Job": "副董事长"
+      },
+      {
+        "Name": "王哈滨",
+        "Job": "副总经理"
+      },
+      {
+        "Name": "陈全胜",
+        "Job": "副总经理"
+      },
+      {
+        "Name": "石文华",
+        "Job": "董事"
+      },
+      {
+        "Name": "罗玉成",
+        "Job": "董事"
+      },
+      {
+        "Name": "杨平波",
+        "Job": "董事"
+      },
+      {
+        "Name": "李斌",
+        "Job": "董事"
+      },
+      {
+        "Name": "杨胜财",
+        "Job": "董事"
+      },
+      {
+        "Name": "杨正华",
+        "Job": "董事"
+      },
+      {
+        "Name": "刘发云",
+        "Job": "监事"
+      },
+      {
+        "Name": "孙俊",
+        "Job": "监事"
+      },
+      {
+        "Name": "童海",
+        "Job": "监事"
+      },
+      {
+        "Name": "刘小左",
+        "Job": "监事"
+      },
+      {
+        "Name": "陈军",
+        "Job": "监事"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "00785c2bba23a5a232807aab75d747ce",
+        "RegNo": "9143052958899974X4",
+        "Name": "湖南盐业股份有限公司城步县分公司",
+        "BelongOrg": "城步县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "06d43d3d7b4808a2d34dc3c6dacde3ee",
+        "RegNo": "91431025588978340M",
+        "Name": "湖南盐业股份有限公司郴州临武县批发部",
+        "BelongOrg": "临武县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "070ff0571a849e2b4ed78a2428d8dc11",
+        "RegNo": "91430623588966569E",
+        "Name": "湖南盐业股份有限公司华容县分公司",
+        "BelongOrg": "华容县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0974839880d3228835cac4c879702e48",
+        "RegNo": "914304265889760700",
+        "Name": "湖南盐业股份有限公司祁东县分公司",
+        "BelongOrg": "祁东县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0b6c8bb345324701cecb3948ac28c3e8",
+        "RegNo": "91431300588952394L",
+        "Name": "湖南盐业股份有限公司娄底市分公司",
+        "BelongOrg": "娄底市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0c0f81887fbacc910990485f3965c374",
+        "RegNo": "91431024588976636B",
+        "Name": "湖南盐业股份有限公司嘉禾县分公司",
+        "BelongOrg": "嘉禾县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0d801bcbf1ae2f736f65200183800a16",
+        "RegNo": "9143112958897637X3",
+        "Name": "湖南盐业股份有限公司江华瑶族自治县分公司",
+        "BelongOrg": "江华瑶族自治县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0efaacb84825522e346f5d54df271e8d",
+        "RegNo": "91110115MA01HGBE91",
+        "Name": "湖南盐业股份有限公司北京分公司",
+        "BelongOrg": "北京市工商行政管理局大兴分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "124b837ba945c10cd3ab2d4ee01aca28",
+        "RegNo": "91310112MA1GC72B06",
+        "Name": "湖南盐业股份有限公司上海分公司",
+        "BelongOrg": "闵行区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "156432144be07803a8d3dda9bc9a307e",
+        "RegNo": "91430621588965814N",
+        "Name": "湖南盐业股份有限公司岳阳县分公司",
+        "BelongOrg": "岳阳县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1591b3da84056e5efa530a8c11d44813",
+        "RegNo": "91431100587049435A",
+        "Name": "湖南盐业股份有限公司永州市分公司",
+        "BelongOrg": "永州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1843e2704df6b141228341adba22e92d",
+        "RegNo": "91460100MA5T6GFT1N",
+        "Name": "湖南盐业股份有限公司海南分公司",
+        "BelongOrg": "海口市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1d3351a3cac15aa022659c97c6f6a391",
+        "RegNo": "9143012458896298XW",
+        "Name": "湖南盐业股份有限公司宁乡县分公司",
+        "BelongOrg": "宁乡市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1ee4d7b055d301b89239bf23f8ce0a7a",
+        "RegNo": "914303815889671741",
+        "Name": "湖南盐业股份有限公司湘乡市分公司",
+        "BelongOrg": "湘乡市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "218d4a5f2fa0d0eec431df6bd930f1e1",
+        "RegNo": "91430500588953960C",
+        "Name": "湖南盐业股份有限公司邵阳市分公司",
+        "BelongOrg": "邵阳市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "250e1268c1edc0c673dc171e149aca2e",
+        "RegNo": "9143102658897151XK",
+        "Name": "湖南盐业股份有限公司汝城县分公司",
+        "BelongOrg": "汝城县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "275ec5af6300a7fb2f83cee67d44b10d",
+        "RegNo": "91430424588971739E",
+        "Name": "湖南盐业股份有限公司衡东县分公司",
+        "BelongOrg": "衡东县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "28e589df90b469fb0f6cae2cbbb0b621",
+        "RegNo": "914306815889683378",
+        "Name": "湖南盐业股份有限公司汨罗市分公司",
+        "BelongOrg": "汨罗市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "29259974cd122e951270a6787de8a5ed",
+        "RegNo": "91430421588979749X",
+        "Name": "湖南盐业股份有限公司衡阳市分公司西渡批发部",
+        "BelongOrg": "衡阳县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "2da717b9e279e2831f082154931365b2",
+        "RegNo": "91430900588950268C",
+        "Name": "湖南盐业股份有限公司益阳市分公司",
+        "BelongOrg": "益阳市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "30ff9e439004619ebaacc41d51f010c3",
+        "RegNo": "914311215889717983",
+        "Name": "湖南盐业股份有限公司祁阳县分公司",
+        "BelongOrg": "祁阳县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "348071c001b9d64c49e4700a32c7eb9a",
+        "RegNo": "91440101MA5CCDUD5L",
+        "Name": "湖南盐业股份有限公司广东分公司",
+        "BelongOrg": "广州市番禺区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "34d6527dcde3c6990b180498dcaa0fb2",
+        "RegNo": "430923000016366",
+        "Name": "湖南盐业股份有限公司安化县分公司平口批发部",
+        "BelongOrg": "安化县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3528ed5025d0b1d2d48857e677cd8e1a",
+        "RegNo": "9143122358704831X5",
+        "Name": "湖南盐业股份有限公司辰溪县分公司",
+        "BelongOrg": "辰溪县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "37216f05a6f8c5d0847fb66dced00b70",
+        "RegNo": "9143070058895340XX",
+        "Name": "湖南盐业股份有限公司常德市分公司",
+        "BelongOrg": "常德市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3d00dbfd0875b99fd858158196b5bc8f",
+        "RegNo": "91420500MA495QF14A",
+        "Name": "湖南盐业股份有限公司湖北分公司",
+        "BelongOrg": "宜昌市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3e137fd3ca81e36eeb127fbc4314bb87",
+        "RegNo": "91431022588963229J",
+        "Name": "湖南盐业股份有限公司宜章县分公司",
+        "BelongOrg": "宜章县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "437bc77cfd11f50a8f63c8e6afe864f8",
+        "RegNo": "91430524588988979D",
+        "Name": "湖南盐业股份有限公司隆回县分公司",
+        "BelongOrg": "隆回县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "463abd3be7904ca6f9cead7a44170b12",
+        "RegNo": "91431321591009487B",
+        "Name": "湖南盐业股份有限公司双峰县分公司",
+        "BelongOrg": "双峰县工商行政管理和质量技术监督局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "477734c31bd8b870e72529120df5607b",
+        "RegNo": "91430224588974737K",
+        "Name": "湖南盐业股份有限公司茶陵县分公司",
+        "BelongOrg": "茶陵县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4ade0087ff842f34e59f07a969eadda4",
+        "RegNo": "914308225910014264",
+        "Name": "湖南盐业股份有限公司桑植县分公司",
+        "BelongOrg": "桑植县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "51b145139a84f3b2046962b185ce1f85",
+        "RegNo": "914310005870465254",
+        "Name": "湖南盐业股份有限公司郴州市分公司",
+        "BelongOrg": "郴州市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "51ecb19976c7eb34c4d2a4547638a8da",
+        "RegNo": "914305285889813479",
+        "Name": "湖南盐业股份有限公司新宁县分公司",
+        "BelongOrg": "新宁县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5b695c2e93ca5b16453d3c2aff3f1e10",
+        "RegNo": "91431225587049240W",
+        "Name": "湖南盐业股份有限公司会同县分公司",
+        "BelongOrg": "会同县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5c70e9f37e8af36723066901e040f756",
+        "RegNo": "91431227588951316A",
+        "Name": "湖南盐业股份有限公司新晃县分公司",
+        "BelongOrg": "新晃侗族自治县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5ecef55aae506299af1fb4fa60e031f2",
+        "RegNo": "914312265889501459",
+        "Name": "湖南盐业股份有限公司麻阳县分公司",
+        "BelongOrg": "麻阳苗族自治县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "603b11adb51c39ed207c98c3f2f4ece7",
+        "RegNo": "91431322588960116C",
+        "Name": "湖南盐业股份有限公司新化县分公司",
+        "BelongOrg": "新化县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6228af1ae3a70d17caba15c474739a45",
+        "RegNo": "91430923588958278H",
+        "Name": "湖南盐业股份有限公司安化县分公司",
+        "BelongOrg": "安化县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "656b9683b88c3ed16c968c6cf6c4a998",
+        "RegNo": "9143122958895033X9",
+        "Name": "湖南盐业股份有限公司靖州县分公司",
+        "BelongOrg": "靖州苗族侗族自治县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "67d0b2cbbcbce8affcd3cb0a6d77711d",
+        "RegNo": "914301225889531780",
+        "Name": "湖南盐业股份有限公司长沙市分公司",
+        "BelongOrg": "长沙市望城区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6ef19b3e15b16f5ebefd5997c5bbce80",
+        "RegNo": "91431027588970445X",
+        "Name": "湖南盐业股份有限公司桂东县分公司",
+        "BelongOrg": "桂东县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "700a32e3078d4c88db249c63e6ac6d43",
+        "RegNo": "91430400587039923T",
+        "Name": "湖南盐业股份有限公司衡阳市分公司",
+        "BelongOrg": "衡阳市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7358a89a98ac78f02b079a63a02be78f",
+        "RegNo": "914312225889600604",
+        "Name": "湖南盐业股份有限公司沅陵县分公司",
+        "BelongOrg": "沅陵县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7467e05e728f15be3186ccb0baa25a03",
+        "RegNo": "91430600588967924E",
+        "Name": "湖南盐业股份有限公司岳阳市分公司",
+        "BelongOrg": "岳阳市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7558341ef81c87baa977a6aee78da68b",
+        "RegNo": "91320106MA1X91481Y",
+        "Name": "湖南盐业股份有限公司江苏分公司",
+        "BelongOrg": "南京市鼓楼区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "75885bbc08471d48fcee6cdee766ad1f",
+        "RegNo": "9143112658897231XL",
+        "Name": "湖南盐业股份有限公司宁远县分公司",
+        "BelongOrg": "宁远县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "766b7de56ff720cc9c80432ec2a80408",
+        "RegNo": "91130104MA0D6H0K1A",
+        "Name": "湖南盐业股份有限公司河北分公司",
+        "BelongOrg": "桥西区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "767ef04211612773eb3ceeeb596e8604",
+        "RegNo": "914309815889632961",
+        "Name": "湖南盐业股份有限公司沅江市分公司",
+        "BelongOrg": "沅江市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "76fd442e790b13b6315694724b3448d8",
+        "RegNo": "91430921077154454Y",
+        "Name": "湖南盐业股份有限公司南县分公司南洲批发部",
+        "BelongOrg": "南县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "77c887ba4c1fb5c902782361fa34b73d",
+        "RegNo": "91530112MA6NHHKT2F",
+        "Name": "湖南盐业股份有限公司云南分公司",
+        "BelongOrg": "西山区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7986f1cca3d1bfa997319347bd8ff7e6",
+        "RegNo": "914303005889554806",
+        "Name": "湖南盐业股份有限公司湘潭市分公司",
+        "BelongOrg": "湘潭市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7cc2dd40e440b9bed5a5ba15e8cb1525",
+        "RegNo": "9143020058896650X7",
+        "Name": "湖南盐业股份有限公司株洲市分公司",
+        "BelongOrg": "株洲市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7e81c8da2eb5a3c2984250fbb24ad9a0",
+        "RegNo": "91430624588963114U",
+        "Name": "湖南盐业股份有限公司湘阴县分公司",
+        "BelongOrg": "湘阴县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "83ce9447e7244266653cb1d8264f6071",
+        "RegNo": "914307245889529419",
+        "Name": "湖南盐业股份有限公司临澧县分公司",
+        "BelongOrg": "临澧县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "842ced816c0d473638030964f584442f",
+        "RegNo": "91410100MA45REFU5P",
+        "Name": "湖南盐业股份有限公司河南分公司",
+        "BelongOrg": "郑州市市场监督管理局自贸区服务中心",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "84a952038889139952bfa03c34e97783",
+        "RegNo": "91430481588976951Q",
+        "Name": "湖南盐业股份有限公司耒阳市分公司",
+        "BelongOrg": "耒阳市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "86ec58a92b4b33d42af703597c9fa6d9",
+        "RegNo": "91430721588954533T",
+        "Name": "湖南盐业股份有限公司安乡县分公司",
+        "BelongOrg": "安乡县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "870aea6021032bad97c5efde920c8270",
+        "RegNo": "91620102MA73UE5A82",
+        "Name": "湖南盐业股份有限公司甘肃分公司",
+        "BelongOrg": "兰州市工商行政管理局城关分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8b52a5b962ce54871096852bac5bd288",
+        "RegNo": "914305275889817422",
+        "Name": "湖南盐业股份有限公司绥宁县分公司",
+        "BelongOrg": "绥宁县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8d49e741ac727ef6705ad0b31fa2f3ad",
+        "RegNo": "91431281588954023W",
+        "Name": "湖南盐业股份有限公司洪江市分公司",
+        "BelongOrg": "洪江市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "90b3fe196e40e6bc9470f705f090dac8",
+        "RegNo": "91430181588967887Q",
+        "Name": "湖南盐业股份有限公司浏阳市分公司",
+        "BelongOrg": "浏阳市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "92e97cad17efaa0d865b9d1686f44923",
+        "RegNo": "91520102MA6H9HGHXA",
+        "Name": "湖南盐业股份有限公司贵州分公司",
+        "BelongOrg": "贵阳市南明区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "93d55b70212d8c0893a7349cb5bfb069",
+        "RegNo": "91430522588980010H",
+        "Name": "湖南盐业股份有限公司新邵县分公司",
+        "BelongOrg": "新邵县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "95040b1b53ab5204a404fd42bc39c440",
+        "RegNo": "91431081588975043B",
+        "Name": "湖南盐业股份有限公司资兴市分公司",
+        "BelongOrg": "资兴市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "99d94516c9102d3e8bdd52f256e245e9",
+        "RegNo": "91610133MA6X12N72J",
+        "Name": "湖南盐业股份有限公司陕西分公司",
+        "BelongOrg": "西安市工商行政管理局曲江分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a0063459b5c8d1b63d602915cdfedcb5",
+        "RegNo": "9143122458704954X9",
+        "Name": "湖南盐业股份有限公司溆浦县分公司",
+        "BelongOrg": "溆浦县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a50820c4b3623cad41c842858033e6cc",
+        "RegNo": "914312305870491285",
+        "Name": "湖南盐业股份有限公司通道县分公司",
+        "BelongOrg": "通道侗族自治县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a5534ee59dfe3520cfc1a0e875c8789d",
+        "RegNo": "91431381591013814T",
+        "Name": "湖南盐业股份有限公司冷水江市分公司",
+        "BelongOrg": "冷水江市工商行政管理和质量技术监督局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a6804fda116431a2518db82373afa36a",
+        "RegNo": "91510106MA6BKNUP5C",
+        "Name": "湖南盐业股份有限公司四川分公司",
+        "BelongOrg": "金牛区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a7ebc814a4fc5c206d1f8391e73563be",
+        "RegNo": "91120104MA06Q6YK07",
+        "Name": "湖南盐业股份有限公司天津分公司",
+        "BelongOrg": "天津市南开区市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a961d7355f7f1786ad4479172413df9f",
+        "RegNo": "91430281588972483E",
+        "Name": "湖南盐业股份有限公司醴陵市分公司",
+        "BelongOrg": "醴陵市食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "afd28301cfdff826107b1635b6f997a0",
+        "RegNo": "91430800588959561K",
+        "Name": "湖南盐业股份有限公司张家界市分公司",
+        "BelongOrg": "张家界市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b0584c5fff31a485179ced4438fe64f5",
+        "RegNo": "91431122588973195L",
+        "Name": "湖南盐业股份有限公司东安县分公司",
+        "BelongOrg": "东安县工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b17da1f6ad75842345ac1d32c7bb44d1",
+        "RegNo": "91430523588976388L",
+        "Name": "湖南盐业股份有限公司邵阳县分公司",
+        "BelongOrg": "邵阳县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b3d829021cc7ac4cb728ec6af473ae97",
+        "RegNo": "914307815889596091",
+        "Name": "湖南盐业股份有限公司津市市分公司",
+        "BelongOrg": "津市市食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "be29c1d350a1a895f7a162dc817195f4",
+        "RegNo": "91431124588974403A",
+        "Name": "湖南盐业股份有限公司道县分公司",
+        "BelongOrg": "道县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "be90df3e63ce1f2e4113bced0b4ac999",
+        "RegNo": "91431128588975051K",
+        "Name": "湖南盐业股份有限公司新田县分公司",
+        "BelongOrg": "新田县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "bf2d234a95782051994a7ca13e30ee04",
+        "RegNo": "914304825889799849",
+        "Name": "湖南盐业股份有限公司常宁市分公司",
+        "BelongOrg": "常宁市市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c83bd4b3ec81c02f62b03bfc1aa0c64c",
+        "RegNo": "91431200587048344G",
+        "Name": "湖南盐业股份有限公司怀化市分公司",
+        "BelongOrg": "怀化市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c8b532eaea61d86d554302b2b70600b5",
+        "RegNo": "91430821588993882T",
+        "Name": "湖南盐业股份有限公司慈利县分公司",
+        "BelongOrg": "慈利县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c8d8ec791ba8268fa0fd1966e659f9f9",
+        "RegNo": "91330109MA2CET7X1T",
+        "Name": "湖南盐业股份有限公司浙江分公司",
+        "BelongOrg": "杭州市萧山区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d08d2e3d8d0774509b2bb09d8b25be95",
+        "RegNo": "91430400MA4L5XPC8Y",
+        "Name": "湖南盐业股份有限公司衡阳市分公司江东批发部",
+        "BelongOrg": "衡阳市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d1ed0e6b7260b62877febb9ad2569d20",
+        "RegNo": "91431023588974526P",
+        "Name": "湖南盐业股份有限公司永兴县分公司",
+        "BelongOrg": "永兴县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d1f9b78408ed04189abbda2ba9092c10",
+        "RegNo": "91431127588985874M",
+        "Name": "湖南盐业股份有限公司蓝山县分公司",
+        "BelongOrg": "蓝山县工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d24019426b463af29548c99a76ae630c",
+        "RegNo": "91430225588966091L",
+        "Name": "湖南盐业股份有限公司炎陵县分公司",
+        "BelongOrg": "炎陵县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d4dd3d3b9d94a7849a9bceaffb903083",
+        "RegNo": "91430525588984089W",
+        "Name": "湖南盐业股份有限公司洞口县分公司",
+        "BelongOrg": "洞口县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d50b72b78f330c4e32170d3452de6588",
+        "RegNo": "91340111MA2T3DW37T",
+        "Name": "湖南盐业股份有限公司安徽分公司",
+        "BelongOrg": "合肥市包河区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d79939cd7fbfd0ee6f04077daccbdd13",
+        "RegNo": "430923000016358",
+        "Name": "湖南盐业股份有限公司安化县分公司梅城批发部",
+        "BelongOrg": "安化县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e08b4d3cf6c386c7491187dc26feca24",
+        "RegNo": "91430726588957064J",
+        "Name": "湖南盐业股份有限公司石门县分公司",
+        "BelongOrg": "石门县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e14f918a725d0ee13f32ff69b24e3ada",
+        "RegNo": "91430981MA4L3DTN8B",
+        "Name": "湖南盐业股份有限公司沅江市分公司黄茅洲批发部",
+        "BelongOrg": "沅江市市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e224d8391a087fec9c9d39fca62eab48",
+        "RegNo": "91430922588965283N",
+        "Name": "湖南盐业股份有限公司桃江县分公司",
+        "BelongOrg": "桃江县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e24db93b584c362390a00d8151365eaf",
+        "RegNo": "91450103MA5NE3X798",
+        "Name": "湖南盐业股份有限公司广西分公司",
+        "BelongOrg": "南宁市青秀区南湖琅东工商行政管理和质量技术监督所",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e2c5d3dd491a1d7b008471d8f6c2a0ca",
+        "RegNo": "9143072558895893XQ",
+        "Name": "湖南盐业股份有限公司桃源县分公司",
+        "BelongOrg": "桃源县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e2d7b787329dd67e52e9a1bed8084f2e",
+        "RegNo": "914312285889525031",
+        "Name": "湖南盐业股份有限公司芷江县分公司",
+        "BelongOrg": "芷江侗族自治县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e6a101163104eaa6003e4d324b872bef",
+        "RegNo": "91430682588983457R",
+        "Name": "湖南盐业股份有限公司临湘市分公司",
+        "BelongOrg": "临湘市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e79692e94a7e1caef50c1d5e7f78d079",
+        "RegNo": "914302235889718942",
+        "Name": "湖南盐业股份有限公司攸县分公司",
+        "BelongOrg": "攸县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e927c3850ad8ab86f892dab5803888fd",
+        "RegNo": "91430521591000706X",
+        "Name": "湖南盐业股份有限公司邵东县分公司",
+        "BelongOrg": "邵东县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ecc829319dbef2e59081a20f3141de0f",
+        "RegNo": "914310285889729936",
+        "Name": "湖南盐业股份有限公司安仁县分公司",
+        "BelongOrg": "安仁县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f0c4eade2a895f3644231b4bc44bb32f",
+        "RegNo": "9143058158897215XA",
+        "Name": "湖南盐业股份有限公司武冈市分公司",
+        "BelongOrg": "武冈市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f1e2499cd8e5dc043799de5d1554cc26",
+        "RegNo": "914306265889695754",
+        "Name": "湖南盐业股份有限公司平江县分公司",
+        "BelongOrg": "平江县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f56bb7429615b98b0356f84bdb27f2de",
+        "RegNo": "914307235889564408",
+        "Name": "湖南盐业股份有限公司澧县分公司",
+        "BelongOrg": "澧县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f5ce19df72caac53c187c02fe866528d",
+        "RegNo": "91431382591023633L",
+        "Name": "湖南盐业股份有限公司涟源市分公司",
+        "BelongOrg": "涟源市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f90c7240fb0b1f098663de3ca142e491",
+        "RegNo": "914307225889547283",
+        "Name": "湖南盐业股份有限公司汉寿县分公司",
+        "BelongOrg": "汉寿县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "fb48e9e7e662bb728ba00dbcd95f508f",
+        "RegNo": "91431021588973929K",
+        "Name": "湖南盐业股份有限公司桂阳县分公司",
+        "BelongOrg": "桂阳县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "fbb04fd38cde70685a3bc0bb1e1fe0f6",
+        "RegNo": "914307815954601015",
+        "Name": "湖南盐业股份有限公司津市塑料包装厂",
+        "BelongOrg": "津市市食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "fe95dee5070cbab84c4bf5ca20ac80ca",
+        "RegNo": "914311255889757800",
+        "Name": "湖南盐业股份有限公司江永县分公司",
+        "BelongOrg": "江永县食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ff872950ca355d6494beed6d1448f287",
+        "RegNo": "91430921588958569P",
+        "Name": "湖南盐业股份有限公司南县分公司",
+        "BelongOrg": "南县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ffa230ca32320fcc1c77be8af6e0e58a",
+        "RegNo": "914309210771544464",
+        "Name": "湖南盐业股份有限公司南县分公司茅草街批发部",
+        "BelongOrg": "南县市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "杨正华【退出】；李智诚【退出】；王哈滨；陈全胜",
+        "AfterContent": "徐宗云【新增】；王哈滨；陈全胜",
+        "ChangeDate": "2019-05-13"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "杨正华；杨平波；李斌；李志勇；石文华；徐宗云；罗玉成；杨胜财；冯传良*",
+        "AfterContent": "徐宗云；李志勇；杨胜财；杨平波；石文华；杨正华；李斌；冯传良*；罗玉成",
+        "ChangeDate": "2019-05-13"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2019-03-07修改公司经营范围等信息。",
+        "ChangeDate": "2019-03-19"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "从事食盐、工业盐、其他用盐及盐化工产品的分装、批发、配送；预包装食品、乳制品(含婴幼儿配方乳粉)批发兼零售；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产销售；农牧产品、饲料、饲料添加剂氯化钠、建材、化工产品(不含危险化学品)、矿产品的销售；以自有资产进行超市投资及管理(不得从事吸收存款、集资收款、受托贷款、发行票据、发放贷款等国家金融监管及财政信用业务)；工程技术研究与试验发展；新材料、节能技术推广和应用服务；自有房屋租赁(依法须经批准的项目,经有关部门批准后方可开展经营活动)。",
+        "AfterContent": "从事食盐、工业盐、其他用盐及盐化工产品的研发、生产、分装、批发、零售、配送；预包装食品、乳制品(含婴幼儿配方乳粉)批发兼零售；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产销售；农牧产品、饲料、饲料添加剂氯化钠、建材、化工产品(不含危险化学品)、矿产品的销售；以自有资产进行股权投资、超市投资及管理(不得从事吸收存款、集资收款、受托贷款、发行票据、发放贷款等国家金融监管及财政信用业务)；工程技术研究与试验发展；新材料、节能技术推广和应用服务；自有房屋租赁。(依法须经批准的项目,经有关部门批准后方可开展经营活动)",
+        "ChangeDate": "2019-03-19"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2018-10-23章程备案",
+        "ChangeDate": "2018-10-23"
+      },
+      {
+        "ProjectName": "市场主体类型变更",
+        "BeforeContent": "其他股份有限公司(非上市)",
+        "AfterContent": "其他股份有限公司(上市)",
+        "ChangeDate": "2018-06-12"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2018-05-17章程",
+        "ChangeDate": "2018-06-12"
+      },
+      {
+        "ProjectName": "注册资本变更",
+        "BeforeContent": "76775.1148万人民币",
+        "AfterContent": "91775.114800万人民币（+19.54%）",
+        "ChangeDate": "2018-06-12"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "石文华；李志勇；冯传良*；苏德辉【退出】；李斌；熊正德【退出】；杨胜财；郭志宏【退出】；罗建钢【退出】",
+        "AfterContent": "李志勇；石文华；罗玉成【新增】；冯传良*；杨正华【新增】；李斌；徐宗云【新增】；杨平波【新增】；杨胜财",
+        "ChangeDate": "2018-06-12"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "李智诚；康云彪【退出】；王哈滨；陈全胜",
+        "AfterContent": "王哈滨；李智诚；杨正华【新增】；陈全胜",
+        "ChangeDate": "2018-06-12"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "李名辉【退出】；刘发云；童海；周金扬【退出】；彭轶【退出】",
+        "AfterContent": "刘小左【新增】；陈军【新增】；孙俊【新增】；童海；刘发云",
+        "ChangeDate": "2018-06-12"
+      },
+      {
+        "ProjectName": "联络员备案",
+        "BeforeContent": "戴长征 *** 备案手机:******",
+        "AfterContent": "刘昆 *** 备案手机:****** (网上办理)",
+        "ChangeDate": "2018-05-22"
+      },
+      {
+        "ProjectName": "联络员备案",
+        "BeforeContent": "刘健雄 *** 备案手机:******",
+        "AfterContent": "戴长征 *** 备案手机:****** (网上办理)",
+        "ChangeDate": "2018-04-17"
+      },
+      {
+        "ProjectName": "联络员备案",
+        "BeforeContent": "闫胤斌 *** 备案手机:******",
+        "AfterContent": "刘健雄 *** 备案手机:****** (网上办理)",
+        "ChangeDate": "2017-04-14"
+      },
+      {
+        "ProjectName": "分公司/分支机构备案",
+        "BeforeContent": "无",
+        "AfterContent": "湖南盐业股份有限公司株洲市分公司；",
+        "ChangeDate": "2016-05-04"
+      },
+      {
+        "ProjectName": "股东或股份发起人改变姓名或名称变更",
+        "BeforeContent": "湖南发展投资集团有限公司；湖南轻盐创业投资管理有限公司；湘江产业投资有限责任公司；贵州盐业(集团)有限责任公司；湖南财信创业投资有限责任公司【退出】；江苏省盐业集团有限责任公司；广东省盐业集团有限公司；湖南省轻工盐业集团有限责任公司；广西壮族自治区盐业公司",
+        "AfterContent": "湖南发展投资集团有限公司；湖南轻盐创业投资管理有限公司；湘江产业投资有限责任公司；贵州盐业(集团)有限责任公司；湖南省财信产业基金管理有限公司【新增】；江苏省盐业集团有限责任公司；广东省盐业集团有限公司；湖南省轻工盐业集团有限责任公司；广西壮族自治区盐业公司",
+        "ChangeDate": "2016-03-07"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2016-03-04章程第九条",
+        "ChangeDate": "2016-03-07"
+      },
+      {
+        "ProjectName": "股东或股份发起人改变姓名或名称变更",
+        "BeforeContent": "湖南省轻工盐业集团有限责任公司【退出】；湖南轻盐创业投资管理有限公司；湖南发展投资集团有限公司；湖南财信创业投资有限责任公司；湘江产业投资有限责任公司；贵州盐业(集团)有限责任公司；广西壮族自治区盐业公司；江苏省盐业集团有限责任公司",
+        "AfterContent": "湖南省轻工盐业集团有限公司【新增】；湖南轻盐创业投资管理有限公司；湖南发展投资集团有限公司；湖南财信创业投资有限责任公司；湘江产业投资有限责任公司；贵州盐业(集团)有限责任公司；广西壮族自治区盐业公司；江苏省盐业集团有限责任公司",
+        "ChangeDate": "2016-01-20"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2015-12-29章程(9条、17条、)",
+        "ChangeDate": "2016-01-20"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "康云彪；苏德辉【退出】",
+        "AfterContent": "陈全胜【新增】；康云彪；李智诚【新增】；王哈滨【新增】",
+        "ChangeDate": "2016-01-20"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "杨胜财；苏德辉；郭志宏；冯传良*；石文华；李志勇",
+        "AfterContent": "杨胜财；李志勇；冯传良*；郭志宏；石文华；苏德辉；李斌【新增】；罗建钢【新增】；熊正德【新增】",
+        "ChangeDate": "2016-01-20"
+      },
+      {
+        "ProjectName": "股东变更",
+        "BeforeContent": "湘江产业投资有限责任公司；广西壮族自治区盐业公司；江苏省盐业集团有限责任公司；湖南发展投资集团有限公司；湖南轻盐创业投资管理有限公司；湖南财信创业投资有限责任公司；广东省盐业集团有限公司；湖南省轻工盐业集团有限责任公司；贵州盐业(集团)有限责任公司",
+        "AfterContent": "湖南财信创业投资有限责任公司；广西壮族自治区盐业公司；江苏省盐业集团有限责任公司；湖南省轻工盐业集团有限责任公司；湖南轻盐创业投资管理有限公司；湖南发展投资集团有限公司；湘江产业投资有限责任公司；广东省盐业集团有限公司；贵州盐业(集团)有限责任公司",
+        "ChangeDate": "2015-07-24"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "预包装食品、乳制品(含婴幼儿配方乳粉)批发兼零售；子公司盐及盐化工生产经营管理；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产、销售；农牧产品、饲料、饲料添加剂氯化钠、建材、化工产品、矿产品的销售；以自有资产进行超市投资及管理；工程技术研究与试验发展；新材料、节能技术推广和应用服务；自有房屋租赁(依法须经批准的项目,经相关部门批准后方可开展经营活动)。",
+        "AfterContent": "从事食盐、工业盐、其他用盐及盐化工产品的分装、批发、配送；预包装食品、乳制品(含婴幼儿配方乳粉)批发兼零售；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产销售；农牧产品、饲料、饲料添加剂氯化钠、建材、化工产品(不含危险化学品)、矿产品的销售；以自有资产进行超市投资及管理(不得从事吸收存款、集资收款、受托贷款、发行票据、发放贷款等国家金融监管及财政信用业务)；工程技术研究与试验发展；新材料、节能技术推广和应用服务；自有房屋租赁(依法须经批准的项目,经有关部门批准后方可开展经营活动)。",
+        "ChangeDate": "2015-07-24"
+      },
+      {
+        "ProjectName": "注册资本变更",
+        "BeforeContent": "75298.8096万元[人民币]",
+        "AfterContent": "76775.1148万元[人民币]（+1.96%）",
+        "ChangeDate": "2015-07-24"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "从事食盐、工业盐、其他用盐及盐化工产品的分装、批发、配送(有效期至2015年12月14日)；",
+        "AfterContent": "",
+        "ChangeDate": "2015-07-24"
+      },
+      {
+        "ProjectName": "投资人(股权)变更",
+        "BeforeContent": "湖南省轻工盐业集团有限责任公司出资 53438.43600万元 人民币;；湖南轻盐创业投资管理有限公司出资 5225.85020万元 人民币;；湖南发展投资集团有限公司出资 1536.89730万元 人民币;湖南财信创业投资有限责任公司出资 1306.46250万元 人民币;；湘江产业投资有限责任公司出资 3688.95290万元 人民币;；贵州盐业(集团)有限责任公司出资 3266.15640万元 人民币;；广西壮族自治区盐业公司出资 1959.69380万元 人民币;；江苏省盐业集团有限责任公司出资 1959.69380万元 人民币;；广东省盐业集团有限公司出资 2916.66670万元 人民币",
+        "AfterContent": "湖南省轻工盐业集团有限责任公司出资 52056.29310（-1382.143）万元 人民币 ;；湖南轻盐创业投资管理有限公司出资 5225.85020万元 人民币 ;；湖南发展投资集团有限公司出资 1536.89730万元 人民币 ;湖南财信创业投资有限责任公司出资 1306.46250万元 人民币 ;；贵州盐业(集团)有限责任公司出资 3266.15640万元 人民币 ;；广西壮族自治区盐业公司出资 1959.69380万元 人民币 ;；江苏省盐业集团有限责任公司出资 1959.69380万元 人民币 ;；广东省盐业集团有限公司出资 2916.66670万元 人民币 ;；湘江产业投资有限责任公司出资 3688.95290万元 人民币",
+        "ChangeDate": "2015-07-24"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "子公司盐及盐化工生产经营管理；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产、销售；农牧产品、饲料、饲料添加剂氯化钠、建材、化工产品、矿产品的销售；超市投资及管理；工程技术研究与试验发展；新材料、节能技术推广和应用服务；实业投资；自有房屋租赁(依法须经批准的项目,经相关部门批准后方可开展经营活动)。",
+        "AfterContent": "预包装食品、乳制品(含婴幼儿配方乳粉)批发兼零售；子公司盐及盐化工生产经营管理；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产、销售；农牧产品、饲料、饲料添加剂氯化钠、建材、化工产品、矿产品的销售；以自有资产进行超市投资及管理；工程技术研究与试验发展；新材料、节能技术推广和应用服务；自有房屋租赁(依法须经批准的项目,经相关部门批准后方可开展经营活动)。",
+        "ChangeDate": "2015-02-10"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "从事食盐、工业盐、其他用盐及盐化工产品的分装、批发、配送(食盐批发许可证有效期至2014年12月)；预包装食品、乳制品(含婴幼儿配方乳粉)批发兼零售(有效期至2015年1月11日)",
+        "AfterContent": "从事食盐、工业盐、其他用盐及盐化工产品的分装、批发、配送(有效期至2015年12月14日)",
+        "ChangeDate": "2015-02-10"
+      },
+      {
+        "ProjectName": "法定代表人变更",
+        "BeforeContent": "王新松",
+        "AfterContent": "冯传良*",
+        "ChangeDate": "2015-02-10"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "子公司盐及盐化工生产经营管理；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产、销售；国家法律、法规允许的农牧产品、饲料、饲料添加剂氯化钠及化工产品(不含危险品和监控品)、建材、矿产品的销售；超市投资及管理；工程技术研究与试验发展；新材料、节能技术推广和应用服务；法律、法规允许的对外投资；自有房屋租赁。",
+        "AfterContent": "子公司盐及盐化工生产经营管理；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产、销售；农牧产品、饲料、饲料添加剂氯化钠、建材、化工产品、矿产品的销售；超市投资及管理；工程技术研究与试验发展；新材料、节能技术推广和应用服务；实业投资；自有房屋租赁(依法须经批准的项目,经相关部门批准后方可开展经营活动)。",
+        "ChangeDate": "2014-11-21"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "凭本企业许可证书从事食盐、工业盐、其他用盐及盐化工产品的分装、批发、配送(食盐批发许可证有效期至2014年12月),预包装食品批发(含国产酒类,有效期至2015年1月11日)",
+        "AfterContent": "从事食盐、工业盐、其他用盐及盐化工产品的分装、批发、配送(食盐批发许可证有效期至2014年12月)；预包装食品、乳制品(含婴幼儿配方乳粉)批发兼零售(有效期至2015年1月11日)",
+        "ChangeDate": "2014-11-21"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "子公司盐及盐化工生产经营管理；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产、销售；国家法律、法规允许的农牧产品、饲料、建材、化工产品(不含危险品和监控品)、矿产品的销售；超市投资及管理；工程技术研究与试验发展；新材料、节能技术推广和应用服务；法律、法规允许的对外投资；自有房屋租赁。",
+        "AfterContent": "子公司盐及盐化工生产经营管理；塑料制品、包装物料、日杂百货、五金交电、文化用品的生产、销售；国家法律、法规允许的农牧产品、饲料、饲料添加剂氯化钠及化工产品(不含危险品和监控品)、建材、矿产品的销售；超市投资及管理；工程技术研究与试验发展；新材料、节能技术推广和应用服务；法律、法规允许的对外投资；自有房屋租赁。",
+        "ChangeDate": "2014-06-03"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.hnsc.cc"
+        }
+      ],
+      "PhoneNumber": "0731-84449266",
+      "Email": "officer@hnsc.cc"
+    },
+    "Industry": {
+      "IndustryCode": "F",
+      "Industry": "批发和零售业",
+      "SubIndustryCode": "51",
+      "SubIndustry": "批发业",
+      "MiddleCategoryCode": "512",
+      "MiddleCategory": "食品、饮料及烟草制品批发",
+      "SmallCategoryCode": "5125",
+      "SmallCategory": "盐及调味品批发"
+    },
+    "Area": {
+      "Province": "湖南省",
+      "City": "长沙市",
+      "County": "芙蓉区"
+    },
+    "InsuredCount": "1254",
+    "EnglishName": "Hunan Salt Industry Co.,Ltd.",
+    "PersonScope": "",
+    "KeyNo": "54c5e23595f022eb5df31499f43a7bf8",
+    "Name": "湖南盐业股份有限公司",
+    "No": "430000000095166",
+    "BelongOrg": "湖南省市场监督管理局",
+    "OperName": "冯传良",
+    "StartDate": "2011-12-16 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "HUN",
+    "UpdatedDate": "2019-07-18 11:16:45",
+    "CreditCode": "914300005870340659",
+    "RegistCapi": "91775.1148万元人民币",
+    "EconKind": "其他股份有限公司(上市)",
+    "Address": "长沙市芙蓉区建湘路519号",
+    "Scope": "从事食盐、工业盐、其他用盐及盐化工产品的研发、生产、分装、批发、零售、配送;预包装食品、乳制品(含婴幼儿配方乳粉)批发兼零售;塑料制品、包装物料、日杂百货、五金交电、文化用品的生产销售;农牧产品、饲料、饲料添加剂氯化钠、建材、化工产品(不含危险化学品)、矿产品的销售;以自有资产进行股权投资、超市投资及管理(不得从事吸收存款、集资收款、受托贷款、发行票据、发放贷款等国家金融监管及财政信用业务);工程技术研究与试验发展;新材料、节能技术推广和应用服务;自有房屋租赁。(依法须经批准的项目,经有关部门批准后方可开展经营活动)",
+    "TermStart": "2011-12-16 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2019-03-19 00:00:00",
+    "OrgNo": "58703406-5",
+    "IsOnStock": "1",
+    "StockNumber": "600929",
+    "StockType": "国内A股",
+    "OriginalName": [],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/54c5e23595f022eb5df31499f43a7bf8.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "75298.8096万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

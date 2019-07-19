@@ -1,0 +1,451 @@
+{
+  "OrderNumber": "ECI2019071910163083339769",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "福建",
+        "Liandate": "2014-11-25",
+        "CaseNo": "QS3505 2301 0082"
+      },
+      {
+        "Name": "",
+        "Province": "福建",
+        "Liandate": "2014-09-25",
+        "CaseNo": "QS3505 0304 0063"
+      },
+      {
+        "Name": "",
+        "Province": "福建",
+        "Liandate": "2013-06-13",
+        "CaseNo": "QS3505 0306 0001"
+      },
+      {
+        "Name": "",
+        "Province": "福建",
+        "Liandate": "2013-04-21",
+        "CaseNo": "QS3505 0305 0003"
+      },
+      {
+        "Name": "",
+        "Province": "福建",
+        "Liandate": "2012-04-15",
+        "CaseNo": "QS3505 0303 0543"
+      },
+      {
+        "Name": "",
+        "Province": "福建",
+        "Liandate": "",
+        "CaseNo": "QS3505 0307 0002"
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "泉州市食品药品监督管理局泉州经济技术开发区分局",
+        "Type": "抽查",
+        "Date": "2018-08-28",
+        "Consequence": "符合",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "泉州市食品药品监督管理局泉州经济技术开发区分局",
+        "Type": "抽查",
+        "Date": "2018-08-17",
+        "Consequence": "基本符合",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "泉州市食品药品监督管理局泉州经济技术开发区分局",
+        "Type": "检查",
+        "Date": "2018-03-05",
+        "Consequence": "基本符合",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "泉州市食品药品监督管理局泉州经济技术开发区分局",
+        "Type": "检查",
+        "Date": "2017-12-21",
+        "Consequence": "基本符合",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "开发区国土规划局",
+        "Type": "抽查",
+        "Date": "2017-01-17",
+        "Consequence": "正常",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "913500006118811182",
+        "Name": "安记食品股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "913500006118811182",
+        "Name": "安记食品股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "350598611881118",
+        "Name": "安记食品股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "安记食品股份有限公司",
+        "Link": "http://www.anjifood.com",
+        "ImageUrl": "http://img.qichacha.com/Product/5e388043-7f68-481b-a4c8-1291660342f2.jpg",
+        "Name": "安记食品",
+        "Domain": "生活服务",
+        "Tags": "消费",
+        "Description": "安记食品是一家调味品生产销售商，主要产品包括复合调味粉、天然提取物调味料、香辛料、酱类、风味清汤等五大类500多个品种。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "913500006118811182",
+        "LicensDocName": "营业执照",
+        "ValidityFrom": "1995-09-28",
+        "ValidityTo": "",
+        "LicensOffice": "福建省工商行政管理局",
+        "LicensContent": "无"
+      },
+      {
+        "LicensDocNo": "审核表",
+        "LicensDocName": "外商投资企业申请增资事项的审核表",
+        "ValidityFrom": "2016-05-19",
+        "ValidityTo": "",
+        "LicensOffice": "泉州经济技术开发区管理委员会对外贸易经济合作局",
+        "LicensContent": "增资"
+      },
+      {
+        "LicensDocNo": "350502-2016-KF0017",
+        "LicensDocName": "排污许可证",
+        "ValidityFrom": "2016-12-22",
+        "ValidityTo": "2021-12-21",
+        "LicensOffice": "泉州经济技术开发区管理委员会环境保护局",
+        "LicensContent": "废水排放量≤0.72万吨；COD排放浓度限值500mg/L，总量控制0.432吨/年；NH3-N排放浓度限值45mg/L，总量控制0.0576吨/年"
+      },
+      {
+        "LicensDocNo": "JY13505980009462",
+        "LicensDocName": "食品经营许可证",
+        "ValidityFrom": "2018-09-18",
+        "ValidityTo": "2023-09-17",
+        "LicensOffice": "泉州市食品药品监督管理局",
+        "LicensContent": "预包装食品销售（不含冷藏冷冻食品）、热食类食品制售（单位食堂）"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "林肖芳(中国香港)",
+        "StockType": "自然人股东",
+        "StockPercent": "54.00%",
+        "ShouldCapi": "6480",
+        "ShoudDate": "2011-08-24",
+        "InvestType": "货币",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "社会公众股",
+        "StockType": "其他投资者",
+        "StockPercent": "25.00%",
+        "ShouldCapi": "3000",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "东方联合国际投资(香港)有限公司",
+        "StockType": "其他投资者",
+        "StockPercent": "15.00%",
+        "ShouldCapi": "1800",
+        "ShoudDate": "1995-09-28",
+        "InvestType": "货币",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "莆田市康盈投资有限责任公司",
+        "StockType": "企业法人",
+        "StockPercent": "3.75%",
+        "ShouldCapi": "450",
+        "ShoudDate": "1995-09-28",
+        "InvestType": "货币",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "泉州市翔宇投资有限责任公司",
+        "StockType": "企业法人",
+        "StockPercent": "2.25%",
+        "ShouldCapi": "270",
+        "ShoudDate": "1995-09-28",
+        "InvestType": "货币",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "林肖芳",
+        "Job": "董事长,总经理"
+      },
+      {
+        "Name": "林润泽",
+        "Job": "副总经理,董事"
+      },
+      {
+        "Name": "周芬(独立董事)",
+        "Job": "董事"
+      },
+      {
+        "Name": "郭毓俊(独立董事)",
+        "Job": "董事"
+      },
+      {
+        "Name": "宋西顺(独立董事)",
+        "Job": "董事"
+      },
+      {
+        "Name": "林春瑜",
+        "Job": "董事"
+      },
+      {
+        "Name": "周倩",
+        "Job": "董事"
+      },
+      {
+        "Name": "吕婷婷",
+        "Job": "监事"
+      },
+      {
+        "Name": "柯金土",
+        "Job": "监事"
+      },
+      {
+        "Name": "许文瑛",
+        "Job": "监事"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "7fe876faf923578d405de3342341e956",
+        "RegNo": "3505002100074",
+        "Name": "福建省泉州市安记食品有限公司清蒙分公司",
+        "BelongOrg": "泉州市工商行政管理局泉州经济技术开发区分局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "投资总额变更",
+        "BeforeContent": "16800.000000万人民币",
+        "AfterContent": "23520.000000万人民币（+40%）",
+        "ChangeDate": "2019-07-04"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "16800.000000万人民币",
+        "AfterContent": "23520.000000万人民币（+40%）",
+        "ChangeDate": "2019-07-04"
+      },
+      {
+        "ProjectName": "经营场所变更",
+        "BeforeContent": "无",
+        "AfterContent": "福建省泉州经济技术开发区玉狮路69号2.5产业园A栋02号楼办公室103-104、201-204",
+        "ChangeDate": "2018-12-18"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "旧章程",
+        "AfterContent": "2018-08-28章程备案",
+        "ChangeDate": "2018-09-11"
+      },
+      {
+        "ProjectName": "投资总额变更",
+        "BeforeContent": "12000.000000万人民币",
+        "AfterContent": "16800.000000万人民币（+40%）",
+        "ChangeDate": "2018-09-11"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "12000.000000万人民币",
+        "AfterContent": "16800.000000万人民币（+40%）",
+        "ChangeDate": "2018-09-11"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "制造调味品；食品研究开发；调味品进口、批发。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+        "AfterContent": "制造调味品；食品研究开发；调味品进口、批发；糖果、巧克力制造(不含国境口岸)；糕点、糖果及糖批发(不含国境口岸)；固体饮料制造；茶饮料及其他饮料制造；酒、饮料及茶叶批发(不含国境口岸)；酒、饮料及茶叶零售(不含国境口岸)。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+        "ChangeDate": "2018-09-11"
+      },
+      {
+        "ProjectName": "增、补、换照",
+        "BeforeContent": "旧照******************",
+        "AfterContent": "新照******************",
+        "ChangeDate": "2018-06-20"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "旧章程",
+        "AfterContent": "2017-12-14章程备案",
+        "ChangeDate": "2018-03-14"
+      },
+      {
+        "ProjectName": "发起人名称",
+        "BeforeContent": "泉州市翔宇投资有限责任公司；东方联合国际投资(香港)有限公司；莆田市康盈投资有限责任公司；林肖芳*(中国香港)",
+        "AfterContent": "阿拉山口市康盈股权投资有限合伙企业；泉州市翔宇投资有限责任公司；林肖芳*(中国香港)；东方联合国际投资(香港)有限公司",
+        "ChangeDate": "2018-03-14"
+      },
+      {
+        "ProjectName": "联络员备案",
+        "BeforeContent": "黄林建",
+        "AfterContent": "许文瑛",
+        "ChangeDate": "2018-03-14"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "王秀黎【退出】；吕婷婷；柯金土",
+        "AfterContent": "许文瑛【新增】；吕婷婷；柯金土",
+        "ChangeDate": "2018-03-14"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "林肖芳*；李凯【退出】；周倩；尹建平(独立董事)【退出】；张百玲(独立董事)【退出】；卫祥云(独立董事)【退出】；林春瑜",
+        "AfterContent": "林润泽【新增】；宋西顺(独立董事)【新增】；周倩；林肖芳*；周芬(独立董事)【新增】；郭毓俊(独立董事)【新增】；林春瑜",
+        "ChangeDate": "2018-03-14"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "9000.000000万人民币",
+        "AfterContent": "12000.000000万人民币（+33.33%）",
+        "ChangeDate": "2016-08-12"
+      },
+      {
+        "ProjectName": "投资总额变更",
+        "BeforeContent": "9000.000000万人民币",
+        "AfterContent": "12000.000000万人民币（+33.33%）",
+        "ChangeDate": "2016-08-12"
+      },
+      {
+        "ProjectName": "企业类型变更",
+        "BeforeContent": "股份有限公司(台港澳与境内合资、未上市)",
+        "AfterContent": "股份有限公司(台港澳与境内合资、上市)",
+        "ChangeDate": "2016-08-12"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "林奇斌【退出】；吕婷婷；王秀黎",
+        "AfterContent": "王秀黎；吕婷婷；柯金土【新增】",
+        "ChangeDate": "2016-08-12"
+      },
+      {
+        "ProjectName": "增、补、换照",
+        "BeforeContent": "无",
+        "AfterContent": "新照******************",
+        "ChangeDate": "2016-01-25"
+      },
+      {
+        "ProjectName": "联络员备案",
+        "BeforeContent": "",
+        "AfterContent": "黄林建",
+        "ChangeDate": "2016-01-25"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "制造调味品；食品研究开发；调味品进口、批发(食品流通许可证,有效期限至2016年01月19日)。(以上经营范围涉及审批许可项目的,只允许在审批许可的范围和有效期限内从事生产经营)",
+        "AfterContent": "制造调味品；食品研究开发；调味品进口、批发。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+        "ChangeDate": "2014-08-14"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.anjifood.com"
+        }
+      ],
+      "PhoneNumber": "0595-22499222",
+      "Email": "ankee@anjifood.com"
+    },
+    "Industry": {
+      "IndustryCode": "F",
+      "Industry": "批发和零售业",
+      "SubIndustryCode": "51",
+      "SubIndustry": "批发业",
+      "MiddleCategoryCode": "512",
+      "MiddleCategory": "食品、饮料及烟草制品批发",
+      "SmallCategoryCode": "5125",
+      "SmallCategory": "盐及调味品批发"
+    },
+    "Area": {
+      "Province": "福建省",
+      "City": "泉州市",
+      "County": ""
+    },
+    "InsuredCount": "257",
+    "EnglishName": "Anji Foodstuff Co., Ltd.",
+    "PersonScope": "100-499人",
+    "KeyNo": "2433f15d10f4090913077ac97fa1eabd",
+    "Name": "安记食品股份有限公司",
+    "No": "350500400029518",
+    "BelongOrg": "泉州市市场监督管理局",
+    "OperName": "林肖芳",
+    "StartDate": "1995-09-28 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "FJ",
+    "UpdatedDate": "2019-07-18 13:57:22",
+    "CreditCode": "913500006118811182",
+    "RegistCapi": "23520万元人民币",
+    "EconKind": "股份有限公司(台港澳与境内合资、上市)",
+    "Address": "泉州市清濛科技工业区4-9(A)(美泰路)",
+    "Scope": "制造调味品;食品研究开发;调味品进口、批发;糖果、巧克力制造(不含国境口岸);糕点、糖果及糖批发(不含国境口岸);固体饮料制造;茶饮料及其他饮料制造;酒、饮料及茶叶批发(不含国境口岸);酒、饮料及茶叶零售(不含国境口岸)。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+    "TermStart": "1995-09-28 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2019-07-04 00:00:00",
+    "OrgNo": "61188111-8",
+    "IsOnStock": "1",
+    "StockNumber": "603696",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "福建省泉州市安记食品有限公司",
+        "ChangeDate": ""
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/2433f15d10f4090913077ac97fa1eabd.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": ""
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

@@ -1,0 +1,264 @@
+{
+  "OrderNumber": "ECI2019071910093419098285",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2019-04-03",
+        "CaseNo": "JY13101200037316"
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [],
+    "CompanyProducts": [
+      {
+        "CompanyName": "上海妙可蓝多食品科技股份有限公司",
+        "Link": "http://www.groundmilk.com",
+        "ImageUrl": "http://img.qichacha.com/Product/5fe89d50-d96f-487b-9f9f-c42cf20910fa.jpg",
+        "Name": "妙可蓝多",
+        "Domain": "生活服务",
+        "Tags": "食品饮料,奶制品,消费",
+        "Description": "广泽股份是一家奶酪和液态奶品牌集团，旗下拥有“妙可蓝多”、“广泽”、“澳醇牧场”等品牌，为用户提供棒棒奶酪、成长奶酪、三角奶酪、小粒奶酪、新鲜奶酪等特色产品系列，并为餐饮和工业用户提供黄油、稀奶油、炼乳等产品。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "JY13101200037316",
+        "LicensDocName": "",
+        "ValidityFrom": "2017-01-13",
+        "ValidityTo": "2022-01-07",
+        "LicensOffice": "上海市奉贤区市场监督管理局",
+        "LicensContent": "01;0101"
+      },
+      {
+        "LicensDocNo": "奉人社工时审2017第0253号",
+        "LicensDocName": "准予企业实行其他工作时间制度决定书",
+        "ValidityFrom": "2017-05-01",
+        "ValidityTo": "2018-04-30",
+        "LicensOffice": "奉贤区人力资源和社会保障局",
+        "LicensContent": "根据《关于企业实行不定时工作制和综合计算工时工作制的审批办法》(劳部发[94]503号)的规定，经研究，同意你单位高级管理人员、销售、采购、高管司机岗位人员自2017年05月01日至2018年04月30期间实行不定时工作制。"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "普通股",
+        "StockType": "其他投资者",
+        "StockPercent": "100%",
+        "ShouldCapi": "40976.2045",
+        "ShoudDate": "1995-12-06",
+        "InvestType": "货币",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "柴琇",
+        "Job": "董事长兼总经理"
+      },
+      {
+        "Name": "祝成芳",
+        "Job": "董事"
+      },
+      {
+        "Name": "崔海",
+        "Job": "董事"
+      },
+      {
+        "Name": "苏波",
+        "Job": "董事"
+      },
+      {
+        "Name": "白丽君",
+        "Job": "董事"
+      },
+      {
+        "Name": "任松",
+        "Job": "董事"
+      },
+      {
+        "Name": "孙立荣",
+        "Job": "董事"
+      },
+      {
+        "Name": "常秋萍",
+        "Job": "董事"
+      },
+      {
+        "Name": "刘宗尚",
+        "Job": "董事"
+      },
+      {
+        "Name": "邹士学",
+        "Job": "监事"
+      },
+      {
+        "Name": "徐丹",
+        "Job": "监事"
+      },
+      {
+        "Name": "高坤",
+        "Job": "监事"
+      }
+    ],
+    "Branches": [],
+    "ChangeRecords": [
+      {
+        "ProjectName": "名称变更",
+        "BeforeContent": "上海广泽食品科技股份有限公司",
+        "AfterContent": "上海妙可蓝多食品科技股份有限公司",
+        "ChangeDate": "2019-03-04"
+      },
+      {
+        "ProjectName": "章程修正案备案",
+        "BeforeContent": "无",
+        "AfterContent": "2019-01-22章程修正案",
+        "ChangeDate": "2019-03-04"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "祝成芳；任松；苏波；孙立荣；吕厚军【退出】；白丽君；常秋萍；陈运【退出】；柴琇*",
+        "AfterContent": "任松；祝成芳；孙立荣；常秋萍；柴琇*；白丽君；苏波；刘宗尚【新增】；崔海【新增】",
+        "ChangeDate": "2019-03-04"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "徐丹；计平【退出】；高坤",
+        "AfterContent": "徐丹；孙立荣【新增】；常秋萍【新增】；邹士学【新增】；苏波【新增】；高坤",
+        "ChangeDate": "2019-03-04"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "无",
+        "AfterContent": "2018-07-20章程备案",
+        "ChangeDate": "2018-10-17"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "41059.804500万人民币",
+        "AfterContent": "40976.2045万人民币（-0.2%）",
+        "ChangeDate": "2018-10-17"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "40853.804500万人民币",
+        "AfterContent": "41059.8045万人民币（+0.5%）",
+        "ChangeDate": "2018-02-08"
+      },
+      {
+        "ProjectName": "章程修正案备案",
+        "BeforeContent": "2017-06-01章程备案",
+        "AfterContent": "2017-11-30章程修正案",
+        "ChangeDate": "2018-02-08"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "39923.804500万人民币",
+        "AfterContent": "40853.8045万人民币（+2.33%）",
+        "ChangeDate": "2017-06-15"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "2016-12-27章程备案",
+        "AfterContent": "2017-06-01章程备案",
+        "ChangeDate": "2017-06-15"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "刘威【退出】；徐丹；计平",
+        "AfterContent": "高坤【新增】；徐丹；计平",
+        "ChangeDate": "2017-06-15"
+      },
+      {
+        "ProjectName": "章程修正案备案",
+        "BeforeContent": "无",
+        "AfterContent": "2016-12-27章程修正案",
+        "ChangeDate": "2017-02-21"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "米常军；计平；任松【退出】",
+        "AfterContent": "米常军；计平；刘威【新增】；徐丹【新增】",
+        "ChangeDate": "2017-02-21"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "祝成芳；白丽君；柴琇*；苏波；吕厚军；孙立荣；陈陆辉【退出】；孙伊萍【退出】；王磊【退出】",
+        "AfterContent": "祝成芳；吕厚军；白丽君；柴琇*；苏波；孙立荣；任松【新增】；陈运【新增】；常秋萍【新增】",
+        "ChangeDate": "2017-02-21"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.groundmilk.com"
+        }
+      ],
+      "PhoneNumber": "021-50185677",
+      "Email": "ir@milkland.com.cn"
+    },
+    "Industry": {
+      "IndustryCode": "M",
+      "Industry": "科学研究和技术服务业",
+      "SubIndustryCode": "75",
+      "SubIndustry": "科技推广和应用服务业",
+      "MiddleCategoryCode": "759",
+      "MiddleCategory": "其他科技推广服务业",
+      "SmallCategoryCode": "7590",
+      "SmallCategory": "其他科技推广服务业"
+    },
+    "Area": {
+      "Province": "上海市",
+      "City": "上海市",
+      "County": "奉贤区"
+    },
+    "InsuredCount": "229",
+    "EnglishName": null,
+    "PersonScope": "",
+    "KeyNo": "89c2a88235235fd13dc44965adc8fe51",
+    "Name": "上海妙可蓝多食品科技股份有限公司",
+    "No": "310000000165830",
+    "BelongOrg": "上海市市场监督管理局",
+    "OperName": "柴琇",
+    "StartDate": "1988-11-29 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "SH",
+    "UpdatedDate": "2019-07-18 14:06:24",
+    "CreditCode": "91370000164102345T",
+    "RegistCapi": "40976.2045万元人民币",
+    "EconKind": "其他股份有限公司(上市)",
+    "Address": "上海市奉贤区工业路899号8幢",
+    "Scope": "乳制品生产技术领域内的技术开发、技术咨询、技术服务、技术转让,食品流通 。【依法须经批准的项目,经相关部门批准后方可开展经营活动】",
+    "TermStart": "1988-11-29 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "1988-11-29 00:00:00",
+    "OrgNo": "16410234-5",
+    "IsOnStock": "1",
+    "StockNumber": "600882",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "上海广泽食品科技股份有限公司",
+        "ChangeDate": "2019-03-05"
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/89c2a88235235fd13dc44965adc8fe51.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": ""
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

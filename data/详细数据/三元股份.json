@@ -1,0 +1,584 @@
+{
+  "OrderNumber": "ECI2019071910044867264533",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2018-11-30",
+        "CaseNo": "京兴人社工行决字[2018]291"
+      },
+      {
+        "Name": "",
+        "Province": "北京",
+        "Liandate": "2018-11-30",
+        "CaseNo": "京兴人社工行决字【2018】291"
+      },
+      {
+        "Name": "",
+        "Province": "北京",
+        "Liandate": "2018-06-28",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "北京",
+        "Liandate": "2015-08-03",
+        "CaseNo": "京商务资字〔2015〕631号"
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [
+      {
+        "RegisterNo": "221D020003",
+        "RegisterDate": "2002-05-28",
+        "PublicDate": "",
+        "RegisterOffice": "昌平分局",
+        "DebtSecuredAmount": null,
+        "Status": "有效"
+      }
+    ],
+    "Liquidation": null,
+    "Pledge": [
+      {
+        "CompanyId": "97d86689590f1a653888dc3832c998c4",
+        "RegistNo": "4120190066",
+        "Pledgor": "孙玉强",
+        "PledgorNo": null,
+        "Pledgee": "北京三元食品股份有限公司",
+        "PledgeeNo": "91110000600062547M",
+        "PledgedAmount": "485",
+        "RegDate": "2019-03-27",
+        "PublicDate": "2019-03-27",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "97d86689590f1a653888dc3832c998c4",
+        "RegistNo": "91110113101521745Y_0",
+        "Pledgor": "孙玉强",
+        "PledgorNo": "非公示项",
+        "Pledgee": "北京三元食品股份有限公司",
+        "PledgeeNo": "91110000600062547M",
+        "PledgedAmount": "485",
+        "RegDate": "2019-02-20",
+        "PublicDate": "",
+        "Status": "有效"
+      }
+    ],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "北京市工商行政管理局大兴分局",
+        "Type": "抽查",
+        "Date": "2017-10-11",
+        "Consequence": "正常",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91110000600062547M",
+        "Name": "北京三元食品股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "110102600062547",
+        "Name": "北京三元食品股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "110102600062547",
+        "Name": "北京三元食品股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "110102600062547",
+        "Name": "北京三元食品股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "北京三元食品股份有限公司",
+        "Link": "http://www.sanyuan.com.cn",
+        "ImageUrl": "http://img.qichacha.com/Product/94ce53dd-4f0b-469b-987f-378c1a7295a1.jpg",
+        "Name": "三元股份",
+        "Domain": "生活服务",
+        "Tags": "消费",
+        "Description": "三元食品是一家乳制品生产加工综合集团，涵盖酸奶系列、袋装鲜奶系列、奶粉系列、干酪系列及各种乳饮料等产品线，主要为用户提供“三元”、“燕山”、“绿鸟”、“雪凝”等品牌产品，业务覆盖山东、上海、江苏、浙江等地区。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "110000410120838",
+        "LicensDocName": "",
+        "ValidityFrom": "1997-03-13",
+        "ValidityTo": "",
+        "LicensOffice": "北京市工商行政管理局",
+        "LicensContent": "加工乳品、饮料、食品、原材料、保健食品、冷食冷饮；生产乳品机械、食品机械；生产生物工程技术产品（不包括基因产品）；餐饮；自产产品的冷藏运输；开发生物工程技术产品（不包括基因产品）；信息咨询；自有房屋出租；物业管理；安装、修理、租赁自有/剩余乳品机械和设备（非融资租赁）；销售自产产品。"
+      },
+      {
+        "LicensDocNo": "60006254-7",
+        "LicensDocName": "",
+        "ValidityFrom": "2011-10-31",
+        "ValidityTo": "2015-10-30",
+        "LicensOffice": "北京市质量技术监督局",
+        "LicensContent": " "
+      },
+      {
+        "LicensDocNo": "110102600062547",
+        "LicensDocName": "",
+        "ValidityFrom": "2011-11-22",
+        "ValidityTo": "",
+        "LicensOffice": "北京市国家税务局",
+        "LicensContent": " "
+      },
+      {
+        "LicensDocNo": "QS110005010003",
+        "LicensDocName": "",
+        "ValidityFrom": "2014-11-05",
+        "ValidityTo": "2017-03-30",
+        "LicensOffice": "北京市食品药品监督管理局",
+        "LicensContent": " "
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "北京企业(食品)有限公司",
+        "StockType": "外国(地区)企业",
+        "StockPercent": "",
+        "ShouldCapi": "36579",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "社会公众股A股",
+        "StockType": "其他投资者",
+        "StockPercent": "",
+        "ShouldCapi": "28470.8244",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "北京首都农业集团有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "",
+        "ShouldCapi": "23450.1756",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "北京亦庄新城实业有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "东顺兴业股份有限公司",
+        "StockType": "外国(地区)企业",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "常毅",
+        "Job": "董事长"
+      },
+      {
+        "Name": "张学庆",
+        "Job": "副董事长"
+      },
+      {
+        "Name": "陈历俊",
+        "Job": "总经理,董事"
+      },
+      {
+        "Name": "薛刚",
+        "Job": "董事"
+      },
+      {
+        "Name": "郑晓东",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "薛健",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "白金荣",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "闫锋",
+        "Job": "董事"
+      },
+      {
+        "Name": "陈启宇",
+        "Job": "董事"
+      },
+      {
+        "Name": "石振毅",
+        "Job": "监事"
+      },
+      {
+        "Name": "唐燕平",
+        "Job": "监事"
+      },
+      {
+        "Name": "张志宇",
+        "Job": "监事会主席"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "019342e90c6e11a532445402ac93dd2f",
+        "RegNo": "91110108744701416B",
+        "Name": "北京三元食品股份有限公司物业管理分公司",
+        "BelongOrg": "北京市工商行政管理局海淀分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0df8768bd5cdd223c6a5ea2b3d24dc1c",
+        "RegNo": "F02310",
+        "Name": "北京三元食品股份有限公司乳品三厂",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "325705dc1948ee172f03f2194e8c5fe5",
+        "RegNo": "911101157501012575",
+        "Name": "北京三元食品股份有限公司科研开发中心",
+        "BelongOrg": "北京市工商行政管理局大兴分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3570758c078f5add2c6198b16728f226",
+        "RegNo": "110000420047661",
+        "Name": "北京三元食品股份有限公司梅园西便门乳品店",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "35f89ba8270cc3de12c5b8e527a893ca",
+        "RegNo": "91110108726366079L",
+        "Name": "北京三元食品股份有限公司三元鹏兴分公司",
+        "BelongOrg": "北京市工商行政管理局海淀分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3c70c887748a31979f98478311f3f421",
+        "RegNo": "110000420045864",
+        "Name": "北京三元食品股份有限公司第四营销分公司",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4213a550f4c0a413f817494a74536cfe",
+        "RegNo": "005223",
+        "Name": "北京三元食品股份有限公司上海销售分公司",
+        "BelongOrg": "上海市工商局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "424be4941d1b1de995c7d5aa5703a25a",
+        "RegNo": "110000420047014",
+        "Name": "北京三元食品股份有限公司三元广安宾馆",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5ab26f0eb23b5f5ef8658989888eaf5f",
+        "RegNo": "110000420047313",
+        "Name": "北京三元食品股份有限公司梅园台基厂店",
+        "BelongOrg": "北京市工商行政管理局东城分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5f962cfe865c4b17d40e24cfff000a46",
+        "RegNo": "91110112746703490L",
+        "Name": "北京三元食品股份有限公司乳品八厂",
+        "BelongOrg": "北京市工商行政管理局通州分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6c4f9ac383150b7b9234077001cf610a",
+        "RegNo": "110000420056951",
+        "Name": "北京三元食品股份有限公司通州区乳品机械站",
+        "BelongOrg": "北京市工商行政管理局通州分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "79c4e5f6f6e7787c222801e4b2fb9210",
+        "RegNo": "91110102X00068347W",
+        "Name": "北京三元食品股份有限公司营销分公司",
+        "BelongOrg": "北京市工商行政管理局西城分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "81e1687559e14a17ace9e2020a9185df",
+        "RegNo": "110000420023085",
+        "Name": "北京三元食品股份有限公司乳品一厂",
+        "BelongOrg": "北京市工商行政管理局朝阳分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "82c3b82226337d00d2c46eee58f3bd21",
+        "RegNo": "110000420047696",
+        "Name": "北京三元食品股份有限公司梅园三义里店",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "941795517c9d665f826d8ed4edfae044",
+        "RegNo": "91110114X000591848",
+        "Name": "北京三元食品股份有限公司乳品四厂",
+        "BelongOrg": "北京市工商行政管理局昌平分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "980b614dddf27af6ebf538938b447a5e",
+        "RegNo": "002834",
+        "Name": "北京三元食品股份有限公司天津分公司",
+        "BelongOrg": "天津市市场和质量监督管理委员会",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9c2fdf8e5db200a1f4d420614be30e43",
+        "RegNo": "110000420045792",
+        "Name": "北京三元食品股份有限公司第二营销分公司",
+        "BelongOrg": "朝阳分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b2b9fc02fcfbf1a52a12d7e342ec41a9",
+        "RegNo": "110000420045784",
+        "Name": "北京三元食品股份有限公司第一营销分公司",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b662565012ddf29e62796e18239c28e3",
+        "RegNo": "91110105733466836B",
+        "Name": "北京三元食品股份有限公司三元华泰分公司",
+        "BelongOrg": "北京市工商行政管理局朝阳分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c0fdda750cb57dbc5a3cf60bb735bb92",
+        "RegNo": "110000420045805",
+        "Name": "北京三元食品股份有限公司第三营销分公司",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e0703735baeb5a8a1007dea93598b11b",
+        "RegNo": "F02312",
+        "Name": "北京三元食品股份有限公司乳品五厂",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e94fa0f8b6b299711e73677132b83f66",
+        "RegNo": "F02419",
+        "Name": "北京三元食品股份有限公司乳品六厂",
+        "BelongOrg": "北京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f66b14719a8d0825cf64f20830aa20e7",
+        "RegNo": "110000420050823",
+        "Name": "北京三元食品股份有限公司华冠分公司",
+        "BelongOrg": "北京市工商行政管理局海淀分局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "经营范围",
+        "BeforeContent": "加工乳品、饮料、食品、原材料、保健食品、冷食冷饮；生产乳品机械、食品机械；生产生物工程技术产品(不包括基因产品)；餐饮；自产产品的冷藏运输；开发生物工程技术产品(不包括基因产品)；信息咨询；自有房屋出租；物业管理；安装、修理、租赁自有/剩余乳品机械和设备(非融资租赁)；销售自产产品；货物进出口。销售食品销售食品销售食品以及依法须经批准的项目,经相关部门批准后依批准的内容开展经营活动。",
+        "AfterContent": "加工乳品、饮料、食品、原材料、保健食品、冷食冷饮；生产乳品机械、食品机械；生产生物工程技术产品(不包括基因产品)；餐饮；自产产品的冷藏运输；开发生物工程技术产品(不包括基因产品)；信息咨询；自有房屋出租；物业管理；安装、修理、租赁自有/剩余乳品机械和设备(非融资租赁)；销售自产产品；货物进出口；组织文化艺术交流活动；会议服务；教育咨询；展览会票务代理。销售食品以及依法须经批准的项目,经相关部门批准后依批准的内容开展经营活动。",
+        "ChangeDate": "2017-09-12"
+      },
+      {
+        "ProjectName": "董事（理事）、经理、监事",
+        "BeforeContent": "常毅*,董事长；张学庆,副董事长；陈历俊,董事；陈启宇,董事；薛刚,董事；闫锋,董事；白金荣,独立董事；郑晓东,独立董事；薛健,独立董事；陈历俊,总经理；王涛,监事会主席【退出】；石振毅,监事；唐燕平,监事",
+        "AfterContent": "常毅*,董事长；张学庆,副董事长；陈历俊,董事；陈启宇,董事；闫锋,董事；薛刚,董事；白金荣,独立董事；郑晓东,独立董事；薛健,独立董事；陈历俊,总经理；张志宇,监事会主席【新增】；石振毅,监事；唐燕平,监事",
+        "ChangeDate": "2017-09-12"
+      },
+      {
+        "ProjectName": "经营范围",
+        "BeforeContent": "加工乳品、饮料、食品、原材料、保健食品、冷食冷饮；生产乳品机械、食品机械；生产生物工程技术产品(不包括基因产品)；餐饮；自产产品的冷藏运输；开发生物工程技术产品(不包括基因产品)；信息咨询；自有房屋出租；物业管理；安装、修理、租赁自有/剩余乳品机械和设备(非融资租赁)；销售自产产品。依法须经批准的项目,经相关部门批准后依批准的内容开展经营活动。",
+        "AfterContent": "加工乳品、饮料、食品、原材料、保健食品、冷食冷饮；生产乳品机械、食品机械；生产生物工程技术产品(不包括基因产品)；餐饮；自产产品的冷藏运输；开发生物工程技术产品(不包括基因产品)；信息咨询；自有房屋出租；物业管理；安装、修理、租赁自有/剩余乳品机械和设备(非融资租赁)；销售自产产品；货物进出口。销售食品销售食品销售食品以及依法须经批准的项目,经相关部门批准后依批准的内容开展经营活动。",
+        "ChangeDate": "2016-12-16"
+      },
+      {
+        "ProjectName": "董事（理事）、经理、监事",
+        "BeforeContent": "常毅*,董事长；张学庆,副董事长；陈启宇,董事；薛刚,董事；常玲,董事【退出】；张福平,董事【退出】；白金荣,独立董事；宋建中,独立董事【退出】；薛健,独立董事；陈历俊,总经理；王涛,监事会主席；石振毅,监事；唐燕平,监事",
+        "AfterContent": "常毅*,董事长；张学庆,副董事长；陈历俊,董事；陈启宇,董事；薛刚,董事；闫锋,董事【新增】；白金荣,独立董事；郑晓东,独立董事【新增】；薛健,独立董事；陈历俊,总经理；王涛,监事会主席；石振毅,监事；唐燕平,监事",
+        "ChangeDate": "2016-12-16"
+      },
+      {
+        "ProjectName": "法定代表人",
+        "BeforeContent": "张福平",
+        "AfterContent": "常毅*",
+        "ChangeDate": "2015-10-16"
+      },
+      {
+        "ProjectName": "董事（理事）、经理、监事",
+        "BeforeContent": "张福平,董事长；薛刚,董事；常玲,董事；常毅*,董事；张学庆,董事；陈启宇,董事；白金荣,独立董事；薛健,独立董事；宋建中,独立董事；常毅*,总经理；王涛,监事会主席；唐燕平,监事；石振毅,监事",
+        "AfterContent": "常毅*,董事长；张学庆,副董事长；陈启宇,董事；薛刚,董事；常玲,董事；张福平,董事；白金荣,独立董事；宋建中,独立董事；薛健,独立董事；陈历俊,总经理【新增】；王涛,监事会主席；石振毅,监事；唐燕平,监事",
+        "ChangeDate": "2015-10-16"
+      },
+      {
+        "ProjectName": "注册资本",
+        "BeforeContent": "88500",
+        "AfterContent": "149755.7426（+69.22%）",
+        "ChangeDate": "2015-09-01"
+      },
+      {
+        "ProjectName": "董事（理事）、经理、监事",
+        "BeforeContent": "张福平,董事长；张立昌,董事【退出】；王钤,董事【退出】；薛刚,董事；常毅*,董事；常玲,董事；周立,独立董事【退出】；王振如,独立董事【退出】；宋建中,独立董事；常毅*,总经理；王涛,监事会主席；唐燕平,监事；李萍,监事【退出】",
+        "AfterContent": "张福平,董事长；薛刚,董事；常玲,董事；常毅*,董事；张学庆,董事【新增】；陈启宇,董事【新增】；白金荣,独立董事【新增】；薛健,独立董事【新增】；宋建中,独立董事；常毅*,总经理；王涛,监事会主席；唐燕平,监事；石振毅,监事【新增】",
+        "ChangeDate": "2015-09-01"
+      },
+      {
+        "ProjectName": "股东出资变更",
+        "BeforeContent": "",
+        "AfterContent": "北京企业(食品)有限公司,外商投资企业;【新增】；社会公众股A股,其他非自然人投资者;【新增】；北京首都农业集团有限公司,企业法人;【新增】；北京亦庄新城实业有限公司,企业法人;【新增】；东顺兴业股份有限公司,外商投资企业;【新增】",
+        "ChangeDate": "2014-02-28"
+      },
+      {
+        "ProjectName": "董事（理事）、经理、监事",
+        "BeforeContent": "张福平,董事长；钮立平,董事【退出】；王京,董事【退出】；徐建忠,董事【退出】；常毅*,董事；范学珊,董事【退出】；韩宇,独立董事【退出】；朱秀岩,独立董事【退出】；高亮英,独立董事【退出】；常毅*,总经理；张春荣,监事会主席【退出】；张俊,监事【退出】；桑悦昌,监事【退出】",
+        "AfterContent": "张福平,董事长；张立昌,董事【新增】；王钤,董事【新增】；薛刚,董事【新增】；常毅*,董事；常玲,董事【新增】；周立,独立董事【新增】；王振如,独立董事【新增】；宋建中,独立董事【新增】；常毅*,总经理；王涛,监事会主席【新增】；唐燕平,监事【新增】；李萍,监事【新增】",
+        "ChangeDate": "2013-12-03"
+      },
+      {
+        "ProjectName": "住所",
+        "BeforeContent": "北京市海淀区西二旗中路29号",
+        "AfterContent": "北京市大兴区瀛海瀛昌街8号",
+        "ChangeDate": "2011-10-14"
+      },
+      {
+        "ProjectName": "董事（理事）、经理、监事",
+        "BeforeContent": "张福平,董事长；钮立平,董事；王京,董事；徐建忠,董事；范学珊,董事；韩宇,独立董事；朱秀岩,独立董事；高亮英,独立董事；桑悦昌,监事；张春荣,监事；张俊,监事",
+        "AfterContent": "张福平,董事长；钮立平,董事；王京,董事；徐建忠,董事；常毅*,董事【新增】；范学珊,董事；韩宇,独立董事；朱秀岩,独立董事；高亮英,独立董事；常毅*,总经理【新增】；张春荣,监事会主席；张俊,监事；桑悦昌,监事",
+        "ChangeDate": "2011-10-14"
+      },
+      {
+        "ProjectName": "经营范围",
+        "BeforeContent": "加工乳品、饮料、食品、原材料、保健食品、冷食冷饮；生产乳品机械、食品机械；住宿(限广安宾馆经营)；生产生物工程技术产品(不包括基因产品)；餐饮；自产产品的冷藏运输。开发生物工程技术产品(不包括基因产品)；信息咨询；自有房屋出租；物业管理；安装、修理、租赁自有/剩余乳品机械和设备(非融资租赁)；销售自产产品；以特许经营方式从事商业活动。",
+        "AfterContent": "加工乳品、饮料、食品、原材料、保健食品、冷食冷饮；生产乳品机械、食品机械；生产生物工程技术产品(不包括基因产品)；餐饮；自产产品的冷藏运输。开发生物工程技术产品(不包括基因产品)；信息咨询；自有房屋出租；物业管理；安装、修理、租赁自有/剩余乳品机械和设备(非融资租赁)；销售自产产品。",
+        "ChangeDate": "2010-10-25"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.sanyuan.com.cn"
+        }
+      ],
+      "PhoneNumber": "010-56306666",
+      "Email": "sanyuan@sanyuan.com.cn"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": "14",
+      "SubIndustry": "食品制造业",
+      "MiddleCategoryCode": "144",
+      "MiddleCategory": "乳制品制造",
+      "SmallCategoryCode": null,
+      "SmallCategory": null
+    },
+    "Area": {
+      "Province": "北京市",
+      "City": "北京市",
+      "County": "大兴区"
+    },
+    "InsuredCount": "861",
+    "EnglishName": "Beijing Sanyuan Foods Co., Ltd.",
+    "PersonScope": " 5000-9999人",
+    "KeyNo": "97d86689590f1a653888dc3832c998c4",
+    "Name": "北京三元食品股份有限公司",
+    "No": "110000410120838",
+    "BelongOrg": "北京市工商行政管理局大兴分局",
+    "OperName": "常毅",
+    "StartDate": "1997-03-13 00:00:00",
+    "EndDate": "",
+    "Status": "开业",
+    "Province": "BJ",
+    "UpdatedDate": "2019-07-18 11:17:56",
+    "CreditCode": "91110000600062547M",
+    "RegistCapi": "149755.7426万元人民币",
+    "EconKind": "股份有限公司(中外合资、上市)",
+    "Address": "北京市大兴区瀛海瀛昌街8号",
+    "Scope": "加工乳品、饮料、食品、原材料、保健食品、冷食冷饮;生产乳品机械、食品机械;生产生物工程技术产品(不包括基因产品);餐饮;自产产品的冷藏运输;开发生物工程技术产品(不包括基因产品);信息咨询;自有房屋出租;物业管理;安装、修理、租赁自有/剩余乳品机械和设备(非融资租赁);销售自产产品;货物进出口;组织文化艺术交流活动;会议服务;教育咨询;展览会票务代理。(销售食品以及依法须经批准的项目,经相关部门批准后依批准的内容开展经营活动。)",
+    "TermStart": "1997-03-13 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2017-09-12 00:00:00",
+    "OrgNo": "60006254-7",
+    "IsOnStock": "1",
+    "StockNumber": "600429",
+    "StockType": "国内A股",
+    "OriginalName": [],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/97d86689590f1a653888dc3832c998c4.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "88500万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

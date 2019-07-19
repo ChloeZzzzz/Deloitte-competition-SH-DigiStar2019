@@ -1,0 +1,519 @@
+{
+  "OrderNumber": "ECI2019071910010043709911",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "江苏",
+        "Liandate": "2018-04-20",
+        "CaseNo": "镇人社工许【2018】17号"
+      },
+      {
+        "Name": "",
+        "Province": "江苏",
+        "Liandate": "2017-04-05",
+        "CaseNo": "镇人社工许【2017】11号"
+      },
+      {
+        "Name": "",
+        "Province": "江苏",
+        "Liandate": "2016-07-08",
+        "CaseNo": ""
+      }
+    ],
+    "Penalty": [
+      {
+        "DocNo": "镇徒住建罚字20184号",
+        "PenaltyType": "",
+        "OfficeName": "镇江市丹徒区住房和城乡建设局",
+        "Content": "罚款1.780555万元",
+        "PenaltyDate": "2018-04-06",
+        "PublicDate": "2018-12-05",
+        "Remark": null
+      }
+    ],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "230200201800000010",
+        "Pledgor": "齐齐哈尔市金龙酿造有限责任公司",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062C",
+        "PledgedAmount": "1500",
+        "RegDate": "2018-07-04",
+        "PublicDate": "2018-07-04",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "140000201800000085",
+        "Pledgor": "镇江砚耘农产品有限公司",
+        "PledgorNo": "非公示项",
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062C",
+        "PledgedAmount": "200",
+        "RegDate": "2018-06-22",
+        "PublicDate": "2018-06-22",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321121000168",
+        "Pledgor": "纪正怀",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062Ｃ",
+        "PledgedAmount": "208.8",
+        "RegDate": "2018-06-06",
+        "PublicDate": "2018-06-06",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321121000167",
+        "Pledgor": "袁金如",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062Ｃ",
+        "PledgedAmount": "81",
+        "RegDate": "2018-06-06",
+        "PublicDate": "2018-06-06",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321121000166",
+        "Pledgor": "戴定胜",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062Ｃ",
+        "PledgedAmount": "60",
+        "RegDate": "2018-06-04",
+        "PublicDate": "2018-06-04",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321121000165",
+        "Pledgor": "凌柏川",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062Ｃ",
+        "PledgedAmount": "114.6",
+        "RegDate": "2018-06-04",
+        "PublicDate": "2018-06-04",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321121000164",
+        "Pledgor": "朱建辉",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062Ｃ",
+        "PledgedAmount": "60",
+        "RegDate": "2018-06-04",
+        "PublicDate": "2018-06-04",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321100001071",
+        "Pledgor": "镇江恒源生物科技有限公司",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062C",
+        "PledgedAmount": "900",
+        "RegDate": "2018-05-17",
+        "PublicDate": "2018-05-17",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321121000112",
+        "Pledgor": "贾彭辉",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "",
+        "PledgedAmount": "20",
+        "RegDate": "2015-10-28",
+        "PublicDate": "2015-10-28",
+        "Status": "有效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321322000202",
+        "Pledgor": "周良洪",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062C",
+        "PledgedAmount": "250",
+        "RegDate": "2016-04-22",
+        "PublicDate": "2018-04-11",
+        "Status": "无效"
+      },
+      {
+        "CompanyId": "7e39d730d3a09c817c6089cbb423ba09",
+        "RegistNo": "321322000201",
+        "Pledgor": "陆传淦",
+        "PledgorNo": null,
+        "Pledgee": "江苏恒顺醋业股份有限公司",
+        "PledgeeNo": "91321100608834062C",
+        "PledgedAmount": "125",
+        "RegDate": "2016-04-22",
+        "PublicDate": "2018-04-11",
+        "Status": "无效"
+      }
+    ],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91321100608834062C",
+        "Name": "江苏恒顺醋业股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "91321100608834062C",
+        "Name": "江苏恒顺醋业股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "91321100608834062C",
+        "Name": "江苏恒顺醋业股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "江苏恒顺醋业股份有限公司",
+        "Link": "http://www.zjhengshun.com",
+        "ImageUrl": "http://img.qichacha.com/Product/e471acf8-15d4-407e-b8e4-ac9e5df2d994.jpg",
+        "Name": "恒顺醋业",
+        "Domain": "生活服务",
+        "Tags": "消费",
+        "Description": "恒顺醋业是一家调味品生产商，涵盖色醋、白醋、料酒、酱类、酱油、麻油、酱菜等七大品类系列产品。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "3200/17043",
+        "LicensDocName": "",
+        "ValidityFrom": "2016-09-30",
+        "ValidityTo": "2020-09-29",
+        "LicensOffice": "江苏检验检疫局",
+        "LicensContent": "食醋"
+      },
+      {
+        "LicensDocNo": "3200/17020",
+        "LicensDocName": "",
+        "ValidityFrom": "2016-09-30",
+        "ValidityTo": "2020-09-29",
+        "LicensOffice": "江苏检验检疫局",
+        "LicensContent": "酱腌菜"
+      },
+      {
+        "LicensDocNo": "镇人社工许【2017】11号",
+        "LicensDocName": "",
+        "ValidityFrom": "2017-04-05",
+        "ValidityTo": "2017-10-31",
+        "LicensOffice": "镇江市人力资源和社会保障局",
+        "LicensContent": "综合计算工时工作制和不定时工作制"
+      },
+      {
+        "LicensDocNo": "JY13211210024798",
+        "LicensDocName": "食品经营许可证",
+        "ValidityFrom": "2017-10-25",
+        "ValidityTo": "2022-10-24",
+        "LicensOffice": "镇江丹徒区市场监督管理局",
+        "LicensContent": "预包装食品（不含冷藏冷冻食品）销售，散装食品（不含冷藏冷冻食品）销售。"
+      },
+      {
+        "LicensDocNo": "镇人社工许〔2018〕17号",
+        "LicensDocName": "准予实行特殊工时工作制许可决定书",
+        "ValidityFrom": "2017-11-01",
+        "ValidityTo": "2018-10-31",
+        "LicensOffice": "镇江市人力资源和社会保障局",
+        "LicensContent": "准予实行特殊工时工作制"
+      },
+      {
+        "LicensDocNo": "建字第3211122018000065号",
+        "LicensDocName": "建设工程规划许可证",
+        "ValidityFrom": "2018-04-08",
+        "ValidityTo": "",
+        "LicensOffice": "镇江市规划局",
+        "LicensContent": "1#仓库"
+      },
+      {
+        "LicensDocNo": "建字第3211122018000271号",
+        "LicensDocName": "建设工程规划许可证",
+        "ValidityFrom": "2018-10-19",
+        "ValidityTo": "",
+        "LicensOffice": "镇江市规划局",
+        "LicensContent": "体验馆"
+      },
+      {
+        "LicensDocNo": "建字第3211122018000280号~281号",
+        "LicensDocName": "建设工程规划许可证",
+        "ValidityFrom": "2018-10-24",
+        "ValidityTo": "",
+        "LicensOffice": "镇江市规划局",
+        "LicensContent": "联合包装车间、高架库、醋醅车间"
+      },
+      {
+        "LicensDocNo": "SC13132111200090",
+        "LicensDocName": "食品生产许可证",
+        "ValidityFrom": "2018-12-04",
+        "ValidityTo": "2020-12-30",
+        "LicensOffice": "镇江市食品药品监督管理局",
+        "LicensContent": "准予许可"
+      },
+      {
+        "LicensDocNo": "JY33211210040686",
+        "LicensDocName": "食品经营许可证",
+        "ValidityFrom": "2019-01-03",
+        "ValidityTo": "2024-01-02",
+        "LicensOffice": "镇江市丹徒区市场监督管理局宜城分局",
+        "LicensContent": "热食类食品制售"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "江苏恒顺集团公司",
+        "StockType": "企业法人",
+        "StockPercent": "61.69%",
+        "ShouldCapi": "7843.5",
+        "ShoudDate": "1998-12-18",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "其它内资股东(社会流通股)",
+        "StockType": "其他投资者",
+        "StockPercent": "31.46%",
+        "ShouldCapi": "4000",
+        "ShoudDate": "1998-12-18",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "镇江广玉兰宾馆",
+        "StockType": "企业法人",
+        "StockPercent": "1.71%",
+        "ShouldCapi": "217.87",
+        "ShoudDate": "1998-12-18",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "镇江市豆制品厂",
+        "StockType": "企业法人",
+        "StockPercent": "1.71%",
+        "ShouldCapi": "217.87",
+        "ShoudDate": "1998-12-18",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "镇江生宝药业有限责任公司",
+        "StockType": "企业法人",
+        "StockPercent": "1.71%",
+        "ShouldCapi": "217.87",
+        "ShoudDate": "1998-12-18",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "镇江市牛奶公司",
+        "StockType": "企业法人",
+        "StockPercent": "1.71%",
+        "ShouldCapi": "217.87",
+        "ShoudDate": "1998-12-18",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "李国权",
+        "Job": "董事兼总经理"
+      },
+      {
+        "Name": "张玉宏",
+        "Job": "董事长"
+      },
+      {
+        "Name": "聂旭东",
+        "Job": "副董事长"
+      },
+      {
+        "Name": "任永平",
+        "Job": "董事"
+      },
+      {
+        "Name": "史丽萍",
+        "Job": "董事"
+      },
+      {
+        "Name": "高云海",
+        "Job": "董事"
+      },
+      {
+        "Name": "杨永忠",
+        "Job": "董事"
+      },
+      {
+        "Name": "杨晓康",
+        "Job": "董事"
+      },
+      {
+        "Name": "卫祥云",
+        "Job": "董事"
+      },
+      {
+        "Name": "李忠明",
+        "Job": "监事"
+      },
+      {
+        "Name": "王仁贵",
+        "Job": "其他人员"
+      },
+      {
+        "Name": "杨玉春",
+        "Job": "其他人员"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "68d46dffe5a97aeb01d79cb56ef2bea8",
+        "RegNo": "2110001201295",
+        "Name": "江苏恒顺醋业股份有限公司辽阳分公司",
+        "BelongOrg": "辽阳市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "60273.800000",
+        "AfterContent": "78355.940000（+30%）",
+        "ChangeDate": "2019-03-19"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "食醋、酱油、酱菜、复合调味料、调味剂、粮油制品、饮料、色酒的生产、销售；副食品生产、销售；保健食品生产:恒顺牌恒顺胶囊(委托镇江恒顺生物工程有限公司生产)；粮食收购；预包装食品兼散装食品的批发与零售(商品类别限食品流通许可备案核定范围)；调味品研发服务、技术转让服务、技术咨询服务；软件开发服务、软件咨询服务、软件测试服务；信息系统集成；包装设计、展示设计、广告设计、创意策划、文印晒图服务；商标和著作权转让服务；知识产权服务；会议展览服务；食品机械加工销售；自营和代理各类商品及技术的进出口业务(国家限定企业经营或禁止进出口的商品和技术除外)。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+        "AfterContent": "生产销售食醋、酱油、酱菜、复合调味料、调味剂等系列调味品；副食品、粮油制品、饮料、色酒、恒顺牌恒顺胶囊及相关保健食品的生产、销售；粮食收购；预包装食品兼散装食品的批发与零售；调味品研发服务、技术转让服务、技术咨询服务；软件开发服务、软件咨询服务、软件测试服务；信息系统集成；网上贸易代理；包装设计、展示设计、广告设计、创意策划、文印晒图服务；商标和著作权转让服务；知识产权服务；会议展览服务；食品机械加工销售；自营和代理各类商品及技术的进出口业务(国家限定企业经营或禁止进出口的商品和技术除外)；普通货物运输。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+        "ChangeDate": "2017-12-15"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "30136.900000",
+        "AfterContent": "60273.800000（+100%）",
+        "ChangeDate": "2016-07-08"
+      },
+      {
+        "ProjectName": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+        "BeforeContent": "叶有伟",
+        "AfterContent": "张玉宏*",
+        "ChangeDate": "2014-11-26"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "食醋、酱油、酱菜、复合调味料、调味剂、粮油制品、饮料、色酒的生产、销售；副食品生产、销售；保健食品生产:恒顺牌恒顺胶囊(委托镇江恒顺生物工程有限公司生产)；粮食收购；预包装食品兼散装食品的批发与零售(商品类别限食品流通许可备案核定范围)。技术咨询服务；食品机械加工销售；自营和代理各类商品及技术的进出口业务(国家限定企业经营或禁止进出口的商品和技术除外)。",
+        "AfterContent": "食醋、酱油、酱菜、复合调味料、调味剂、粮油制品、饮料、色酒的生产、销售；副食品生产、销售；保健食品生产:恒顺牌恒顺胶囊(委托镇江恒顺生物工程有限公司生产)；粮食收购；预包装食品兼散装食品的批发与零售(商品类别限食品流通许可备案核定范围)；调味品研发服务、技术转让服务、技术咨询服务；软件开发服务、软件咨询服务、软件测试服务；信息系统集成；包装设计、展示设计、广告设计、创意策划、文印晒图服务；商标和著作权转让服务；知识产权服务；会议展览服务；食品机械加工销售；自营和代理各类商品及技术的进出口业务(国家限定企业经营或禁止进出口的商品和技术除外)。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+        "ChangeDate": "2014-11-26"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "镇江市丹徒新城广园路66号",
+        "AfterContent": "镇江市丹徒新城恒顺大道66号",
+        "ChangeDate": "2014-11-26"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "25430.000000",
+        "AfterContent": "30136.900000（+18.51%）",
+        "ChangeDate": "2014-05-22"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.zjhengshun.com"
+        }
+      ],
+      "PhoneNumber": "0511-85307777",
+      "Email": "jiangsuhengshun@163.com"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": "14",
+      "SubIndustry": "食品制造业",
+      "MiddleCategoryCode": "146",
+      "MiddleCategory": "调味品、发酵制品制造",
+      "SmallCategoryCode": null,
+      "SmallCategory": null
+    },
+    "Area": {
+      "Province": "江苏省",
+      "City": "镇江市",
+      "County": "丹徒区"
+    },
+    "InsuredCount": "1348",
+    "EnglishName": "Jiangsu Hengshun Vinegar-industry Co., Ltd.",
+    "PersonScope": "5000-9999人",
+    "KeyNo": "7e39d730d3a09c817c6089cbb423ba09",
+    "Name": "江苏恒顺醋业股份有限公司",
+    "No": "320000000013558",
+    "BelongOrg": "镇江市工商行政管理局",
+    "OperName": "张玉宏",
+    "StartDate": "1993-02-05 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "JS",
+    "UpdatedDate": "2019-07-18 14:04:41",
+    "CreditCode": "91321100608834062C",
+    "RegistCapi": "78355.94万元人民币",
+    "EconKind": "股份有限公司(上市)",
+    "Address": "镇江市丹徒新城恒顺大道66号",
+    "Scope": "生产销售食醋、酱油、酱菜、复合调味料、调味剂等系列调味品;副食品、粮油制品、饮料、色酒、恒顺牌恒顺胶囊及相关保健食品的生产、销售;粮食收购;预包装食品兼散装食品的批发与零售;调味品研发服务、技术转让服务、技术咨询服务;软件开发服务、软件咨询服务、软件测试服务;信息系统集成;网上贸易代理;包装设计、展示设计、广告设计、创意策划、文印晒图服务;商标和著作权转让服务;知识产权服务;会议展览服务;食品机械加工销售;自营和代理各类商品及技术的进出口业务(国家限定企业经营或禁止进出口的商品和技术除外);普通货物运输。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+    "TermStart": "1993-02-05 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2019-03-19 00:00:00",
+    "OrgNo": "60883406-2",
+    "IsOnStock": "1",
+    "StockNumber": "600305",
+    "StockType": "国内A股",
+    "OriginalName": [],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/7e39d730d3a09c817c6089cbb423ba09.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "60273.8万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

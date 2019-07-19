@@ -1,0 +1,504 @@
+{
+  "OrderNumber": "ECI2019071910074426993542",
+  "Result": {
+    "PermissionInfo": [],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91540000219667563J",
+        "Name": "梅花生物科技集团股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "梅花生物科技集团股份有限公司",
+        "Link": "http://www.meihuagrp.com",
+        "ImageUrl": "http://img.qichacha.com/Product/49bb3445-ee0b-41a2-b561-a57c35fcdb67.jpg",
+        "Name": "梅花生物",
+        "Domain": "医疗健康",
+        "Tags": "医疗健康,生物",
+        "Description": "梅花集团是全球领先的氨基酸营养健康解决方案提供商。公司通过为全球50多个国家和地区多家知名客户提供各类氨基酸产品及使用解决方案，让全世界用户享有技术的全方位沟通。公司成立于2002年，全称“梅花生物科技集团股份有限公司”，2009年完成股份制改造，2010年底在沪市A股上市，总部位于河北省廊坊市。\n梅花集团拥有生物发酵行业中最完整的、最长的产业链和配套设施，通过全系列的研、产、供、销服务，灵活满足全球不同客户的差异化需求以及快速创新的追求，专注于打造生物发酵和生物制药的高端产业平台。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "无",
+        "LicensDocName": "自理企业",
+        "ValidityFrom": "2013-12-19",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "西藏自治区检验检疫管理局",
+        "LicensContent": "无"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "孟庆山",
+        "StockType": "自然人股东",
+        "StockPercent": "33.74%",
+        "ShouldCapi": "85410.3033",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "85410.3033",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "社会公众股",
+        "StockType": "其他投资者",
+        "StockPercent": "16.87%",
+        "ShouldCapi": "42716.6803",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "42716.6803",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "胡继军",
+        "StockType": "自然人股东",
+        "StockPercent": "14.59%",
+        "ShouldCapi": "36939.4122",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "36939.4122",
+        "CapiDate": "2013-02-26"
+      },
+      {
+        "StockName": "建信基金管理有限公司责任公司",
+        "StockType": "法人股东",
+        "StockPercent": "5.67%",
+        "ShouldCapi": "14353",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "14353",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "杨维永",
+        "StockType": "自然人股东",
+        "StockPercent": "3.11%",
+        "ShouldCapi": "7881.0526",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "7881.0526",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "王爱军",
+        "StockType": "自然人股东",
+        "StockPercent": "2.82%",
+        "ShouldCapi": "7131.6274",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "7131.6274",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "南京瑞森投资管理合伙企业(有限合伙)",
+        "StockType": "合伙企业",
+        "StockPercent": "2.57%",
+        "ShouldCapi": "6517",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "6517",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "昆明盈鑫叁壹投资中心(有限合伙)",
+        "StockType": "合伙企业",
+        "StockPercent": "2.52%",
+        "ShouldCapi": "6380",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "6380",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "李宝骏",
+        "StockType": "自然人股东",
+        "StockPercent": "2.29%",
+        "ShouldCapi": "5802.0019",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "5802.0019",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "梁宇擘",
+        "StockType": "自然人股东",
+        "StockPercent": "2.12%",
+        "ShouldCapi": "5366.8518",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "5366.8518",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "上海海通证券资产管理有限公司",
+        "StockType": "法人股东",
+        "StockPercent": "1.89%",
+        "ShouldCapi": "4780",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "4780",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "汇添富基金管理有限公司",
+        "StockType": "法人股东",
+        "StockPercent": "1.89%",
+        "ShouldCapi": "4780",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "4780",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "王洪山",
+        "StockType": "自然人股东",
+        "StockPercent": "1.73%",
+        "ShouldCapi": "4375.6765",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "4375.6765",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "宿迁恩贝股权投资基金(有限合伙)",
+        "StockType": "法人股东",
+        "StockPercent": "1.26%",
+        "ShouldCapi": "3189",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "3189",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "何君",
+        "StockType": "自然人股东",
+        "StockPercent": "0.93%",
+        "ShouldCapi": "2344.9758",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "2344.9758",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "王加琪",
+        "StockType": "自然人股东",
+        "StockPercent": "0.78%",
+        "ShouldCapi": "1982.3507",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1982.3507",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "郭振群",
+        "StockType": "自然人股东",
+        "StockPercent": "0.76%",
+        "ShouldCapi": "1934.0006",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1934.0006",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "潘耀冬",
+        "StockType": "自然人股东",
+        "StockPercent": "0.74%",
+        "ShouldCapi": "1885.6506",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1885.6506",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "杨维英",
+        "StockType": "自然人股东",
+        "StockPercent": "0.74%",
+        "ShouldCapi": "1885.6506",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1885.6506",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "王友山",
+        "StockType": "自然人股东",
+        "StockPercent": "0.72%",
+        "ShouldCapi": "1813.1256",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1813.1256",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "高红臣",
+        "StockType": "自然人股东",
+        "StockPercent": "0.51%",
+        "ShouldCapi": "1281.2754",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1281.2754",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "刘爱萍",
+        "StockType": "自然人股东",
+        "StockPercent": "0.47%",
+        "ShouldCapi": "1184.5754",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1184.5754",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "常利斌",
+        "StockType": "自然人股东",
+        "StockPercent": "0.46%",
+        "ShouldCapi": "1160.4004",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1160.4004",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "蔡文强",
+        "StockType": "自然人股东",
+        "StockPercent": "0.41%",
+        "ShouldCapi": "1039.5253",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1039.5253",
+        "CapiDate": "2013-03-26"
+      },
+      {
+        "StockName": "刘森芝",
+        "StockType": "自然人股东",
+        "StockPercent": "0.40%",
+        "ShouldCapi": "1015.3503",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1015.3503",
+        "CapiDate": "2013-03-26"
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "何君",
+        "Job": "董事兼总经理"
+      },
+      {
+        "Name": "王爱军",
+        "Job": "董事长"
+      },
+      {
+        "Name": "梁宇博",
+        "Job": "董事"
+      },
+      {
+        "Name": "常利斌",
+        "Job": "监事"
+      },
+      {
+        "Name": "杨雪梅",
+        "Job": "监事"
+      },
+      {
+        "Name": "崔丽芝",
+        "Job": "监事"
+      },
+      {
+        "Name": "罗青华",
+        "Job": "其他人员"
+      },
+      {
+        "Name": "郭春明",
+        "Job": "其他人员"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "c199630065f13fdccddfdfb388991472",
+        "RegNo": "131000500005200",
+        "Name": "梅花生物科技集团股份有限公司霸州分公司",
+        "BelongOrg": "廊坊市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "cbdb0bbf074fa52ac58e18c08e1830d1",
+        "RegNo": "131000500006737",
+        "Name": "梅花生物科技集团股份有限公司廊坊分公司",
+        "BelongOrg": "廊坊市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "310822.6603",
+        "AfterContent": "310817.503800",
+        "ChangeDate": "2019-03-07"
+      },
+      {
+        "ProjectName": "实收资本变更",
+        "BeforeContent": "253149.4867",
+        "AfterContent": "310822.6603（+22.78%）",
+        "ChangeDate": "2018-08-07"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "李勇刚(其他人员)【退出】；王爱军*(董事长)；罗青华(其他人员)；郭春明(其他人员)；何君(董事兼总经理)；梁宇博(董事)；常利斌(监事)；崔丽芝(监事)；杨雪梅(监事)",
+        "AfterContent": "王爱军*(董事长)；罗青华(其他人员)；郭春明(其他人员)；何君(董事兼总经理)；梁宇博(董事)；常利斌(监事)；崔丽芝(监事)；杨雪梅(监事)",
+        "ChangeDate": "2018-08-07"
+      },
+      {
+        "ProjectName": "市场主体类型变更",
+        "BeforeContent": "股份有限公司(中外合资、上市)",
+        "AfterContent": "其他股份有限公司(上市)",
+        "ChangeDate": "2018-08-07"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "253149.4867",
+        "AfterContent": "310822.6603（+22.78%）",
+        "ChangeDate": "2018-08-07"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "社会公众股:*%；孟庆山:*%；杨维永:*%；王爱军*:*%；王洪山:*%；何君:*%；杨维英:*%；蔡文强:*%；建信基金管理有限公司责任公司:*%；南京瑞森投资管理合伙企业(有限合伙):*%；上海海通证券资产管理有限公司:*%；汇添富基金管理有限公司:*%；宿迁恩贝股权投资基金(有限合伙):*%；胡继军:*%；香港鼎晖生物科技有限公司:*%【退出】；新天域生化科技投资有限公司:*%【退出】；李宝骏:*%；梁宇擘:*%；王加琪:*%；郭振群:*%；潘耀冬:*%；王友山:*%；高红臣:*%；刘爱萍:*%；常利斌:*%；刘森芝:*%；昆明盈鑫叁壹投资中心(有限合伙):*%",
+        "AfterContent": "社会公众股:*%；孟庆山:*%；杨维永:*%；王爱军*:*%；王洪山:*%；何君:*%；杨维英:*%；蔡文强:*%；建信基金管理有限公司责任公司:*%；南京瑞森投资管理合伙企业(有限合伙):*%；上海海通证券资产管理有限公司:*%；汇添富基金管理有限公司:*%；宿迁恩贝股权投资基金(有限合伙):*%；胡继军:*%；李宝骏:*%；梁宇擘:*%；王加琪:*%；郭振群:*%；潘耀冬:*%；王友山:*%；高红臣:*%；刘爱萍:*%；常利斌:*%；刘森芝:*%；昆明盈鑫叁壹投资中心(有限合伙):*%",
+        "ChangeDate": "2018-08-07"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "拉萨市金珠西路189号",
+        "AfterContent": "拉萨市金珠西路158号阳光新城11幢5号",
+        "ChangeDate": "2018-01-19"
+      },
+      {
+        "ProjectName": "联络员备案",
+        "BeforeContent": "无",
+        "AfterContent": "石磊",
+        "ChangeDate": "2017-07-12"
+      },
+      {
+        "ProjectName": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+        "BeforeContent": "孟庆山",
+        "AfterContent": "王爱军*",
+        "ChangeDate": "2017-07-12"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "李勇刚；陈晋蓉【退出】；王爱军*；崔卫国【退出】；谢方【退出】；刘森芝【退出】；何君；梁宇擘【退出】",
+        "AfterContent": "王爱军*；李勇刚；罗青华【新增】；常利斌【新增】；崔丽芝【新增】；何君；梁宇博【新增】；郭春明【新增】；杨雪梅【新增】",
+        "ChangeDate": "2017-07-12"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）变更",
+        "BeforeContent": "李勇刚；陈晋蓉【退出】；王爱军*；崔卫国【退出】；谢方【退出】；刘森芝【退出】；何君；赵广钤【退出】；孟庆山【退出】；王欣【退出】；隋学军【退出】；石维忱【退出】；宋卫【退出】；梁宇擘【退出】",
+        "AfterContent": "王爱军*；李勇刚；罗青华【新增】；常利斌【新增】；崔丽芝【新增】；何君；梁宇博【新增】；郭春明【新增】；杨雪梅【新增】",
+        "ChangeDate": "2017-07-12"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "许可经营项目:生产味精[谷氨酸钠(99%味精)](许可证有效期至2016年4月1日)；预包装食品的批发兼零售(许可证有效期限至:2016年4月26日)；一般经营项目:对氨基酸系列产品、生物多糖系列产品、饲料添加剂系列产品、添加剂预混合饲料、鸡精、变性淀粉、饴糖、葡萄糖、食用植物油、单一饲料、谷氨酰胺、肌醇、菲汀、调味品、调味汤料、呈味核苷酸二钠、纳他霉素、5-肌苷酸二钠、5-鸟苷酸二钠、黄原胶、化工原料、(危险化学品除外)、鸟苷、香精香料的投资(取得许可审批后方可从事生产经营)；货物进出口、技术进出口。(上述范围中,国家法律、行政法规和国务院决定规定必须报经批准的,凭许可证在有效期内经营)",
+        "AfterContent": "生产味精；预包装食品的批发兼零售；对氨基酸系列产品、生物多糖系列产品、饲料添加剂系列产品、添加剂预混合饲料、鸡精、变性淀粉、饴糖、葡萄糖、食用植物油、单一饲料、谷氨酰胺、肌醇、菲汀、调味品、调味汤料、呈味核苷酸二钠、纳他霉素、5-肌苷酸二钠、5-鸟苷酸二钠、黄原胶、化工原料、(危险化学品除外)、鸟苷、香精香料的投资(取得许可审批后方可从事生产经营)；货物进出口、技术进出口。【依法须经批准的项目,经相关部门批准后方可开展经营活动】。",
+        "ChangeDate": "2016-07-29"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.meihuagrp.com"
+        }
+      ],
+      "PhoneNumber": "0891-6159899",
+      "Email": "304500205@qq.com"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": "14",
+      "SubIndustry": "食品制造业",
+      "MiddleCategoryCode": "146",
+      "MiddleCategory": "调味品、发酵制品制造",
+      "SmallCategoryCode": "1461",
+      "SmallCategory": "味精制造"
+    },
+    "Area": {
+      "Province": "西藏自治区",
+      "City": "拉萨市",
+      "County": ""
+    },
+    "InsuredCount": "318",
+    "EnglishName": null,
+    "PersonScope": "",
+    "KeyNo": "1b8721f465d9cc4cbf6faa74881cd7cf",
+    "Name": "梅花生物科技集团股份有限公司",
+    "No": "540000400000032",
+    "BelongOrg": "西藏自治区市场监督管理局",
+    "OperName": "王爱军",
+    "StartDate": "1995-02-09 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "XZ",
+    "UpdatedDate": "2019-07-16 10:22:55",
+    "CreditCode": "91540000219667563J",
+    "RegistCapi": "310817.5038万元人民币",
+    "EconKind": "其他股份有限公司(上市)",
+    "Address": "拉萨市金珠西路158号阳光新城11幢5号",
+    "Scope": "生产味精;预包装食品的批发兼零售;对氨基酸系列产品、生物多糖系列产品、饲料添加剂系列产品、添加剂预混合饲料、鸡精、变性淀粉、饴糖、葡萄糖、食用植物油、单一饲料、谷氨酰胺、肌醇、菲汀、调味品、调味汤料、呈味核苷酸二钠、纳他霉素、5-肌苷酸二钠、5-鸟苷酸二钠、黄原胶、化工原料、(危险化学品除外)、鸟苷、香精香料的投资(取得许可审批后方可从事生产经营);货物进出口、技术进出口。【依法须经批准的项目,经相关部门批准后方可开展经营活动】。",
+    "TermStart": "1995-02-09 00:00:00",
+    "TeamEnd": "2055-02-08 00:00:00",
+    "CheckDate": "2019-03-07 00:00:00",
+    "OrgNo": "21966756-3",
+    "IsOnStock": "1",
+    "StockNumber": "600873",
+    "StockType": "国内A股",
+    "OriginalName": [],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/1b8721f465d9cc4cbf6faa74881cd7cf.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "310822.6603万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}
