@@ -1,0 +1,537 @@
+{
+  "OrderNumber": "ECI2019071910070227834491",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2018-05-31",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2018-03-22",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2018-03-15",
+        "CaseNo": "中山国税开许准字〔2018〕第211号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2018-02-28",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-12-26",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-11-22",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-10-18",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-09-25",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-09-12",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-09-07",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-08-24",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-07-21",
+        "CaseNo": "中人防核[2017]50号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-05-18",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-05-04",
+        "CaseNo": "中人防规2017050029号"
+      },
+      {
+        "Name": "",
+        "Province": "贵州",
+        "Liandate": "2017-02-22",
+        "CaseNo": "中山市采字【2017】0222003号"
+      },
+      {
+        "Name": "",
+        "Province": "贵州",
+        "Liandate": "2017-02-22",
+        "CaseNo": "中山市采字【2017】0222004号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-12-13",
+        "CaseNo": "JN20161529"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-09-05",
+        "CaseNo": "中山国税开许准〔2016〕744号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-06-20",
+        "CaseNo": ""
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [
+      {
+        "CompanyId": "62f3f999164f6694990387e8b75c0099",
+        "RegistNo": "A1600053800\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "Pledgor": "东莞市虎门金鸾商业发展有限公司",
+        "PledgorNo": "非公示项",
+        "Pledgee": "中炬高新技术实业（集团）股份有限公司",
+        "PledgeeNo": "",
+        "PledgedAmount": "10738.5264",
+        "RegDate": "2016-11-06",
+        "PublicDate": "",
+        "Status": "无效"
+      },
+      {
+        "CompanyId": "62f3f999164f6694990387e8b75c0099",
+        "RegistNo": "A1600022813\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "Pledgor": "东莞市虎门金鸾商业发展有限公司",
+        "PledgorNo": "非公示项",
+        "Pledgee": "中炬高新技术实业（集团）股份有限公司",
+        "PledgeeNo": "",
+        "PledgedAmount": "10738.5264",
+        "RegDate": "2016-03-04",
+        "PublicDate": "",
+        "Status": "无效"
+      },
+      {
+        "CompanyId": "62f3f999164f6694990387e8b75c0099",
+        "RegistNo": "A1500077038\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "Pledgor": "东莞市虎门金鸾商业发展有限公司",
+        "PledgorNo": "非公示项",
+        "Pledgee": "中炬高新技术实业（集团）股份有限公司",
+        "PledgeeNo": "",
+        "PledgedAmount": "10738.5264",
+        "RegDate": "2016-01-28",
+        "PublicDate": "",
+        "Status": "无效"
+      },
+      {
+        "CompanyId": "62f3f999164f6694990387e8b75c0099",
+        "RegistNo": "A1400354373\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "Pledgor": "东莞市虎门金鸾商业发展有限公司",
+        "PledgorNo": "非公示项",
+        "Pledgee": "中炬高新技术实业（集团）股份有限公司",
+        "PledgeeNo": "",
+        "PledgedAmount": "10738.5264",
+        "RegDate": "2015-03-19",
+        "PublicDate": "",
+        "Status": "无效"
+      }
+    ],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91442000190357106Y",
+        "Name": "中炬高新技术实业(集团)股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "91442000190357106Y",
+        "Name": "中炬高新技术实业(集团)股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "442000190357106",
+        "Name": "中炬高新技术实业(集团)股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "中炬高新技术实业(集团)股份有限公司",
+        "Link": "http://www.jonjee.com",
+        "ImageUrl": "http://img.qichacha.com/Product/47b7a429-f0f9-4aeb-b302-c70cb61cdff3.jpg",
+        "Name": "中炬高新",
+        "Domain": "金融",
+        "Tags": "金融,物流仓储,汽车配件,食品,健康,绿色,汽配,航运,精细化工",
+        "Description": "中炬高新是一家综合性企业，产业涉及电子信息、健康食品、汽车配件、精细化工等领域，成功开发中炬高新产业园、中炬汽配工业园、中国绿色健康食品产业基地；此外公司还涉及房地产、航运服务业等领域的投资开发。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "GH271212016010024",
+        "LicensDocName": "中炬高新商住小区（1、2号商业楼）",
+        "ValidityFrom": "2016-02-03",
+        "ValidityTo": "",
+        "LicensOffice": "中山市城乡规划局",
+        "LicensContent": ""
+      },
+      {
+        "LicensDocNo": "粤卫环证字[2016]第2040W00167号",
+        "LicensDocName": "一般卫生许可新办",
+        "ValidityFrom": "2016-06-20",
+        "ValidityTo": "2020-06-20",
+        "LicensOffice": "中山市卫生和计划生育局",
+        "LicensContent": "二次供水#"
+      },
+      {
+        "LicensDocNo": "空",
+        "LicensDocName": "卫生许可",
+        "ValidityFrom": "2016-06-20",
+        "ValidityTo": "2020-06-20",
+        "LicensOffice": "中山市卫生和计划生育局",
+        "LicensContent": "二次供水"
+      },
+      {
+        "LicensDocNo": "中山国税开 许准 〔2016〕 744 号",
+        "LicensDocName": "对增值税防伪税控系统最高开票限额的审批",
+        "ValidityFrom": "2016-09-05",
+        "ValidityTo": "",
+        "LicensOffice": "中山市国家税务局火炬高技术产业开发区税务分局",
+        "LicensContent": "对增值税防伪税控系统最高开票限额的审批"
+      },
+      {
+        "LicensDocNo": "中山市采字【2017】0222004号",
+        "LicensDocName": "广东省林木采伐许可证",
+        "ValidityFrom": "2017-02-22",
+        "ValidityTo": "2017-08-21",
+        "LicensOffice": "中山市林业局",
+        "LicensContent": "广珠轻轨两侧树木修剪"
+      },
+      {
+        "LicensDocNo": "中山市采字【2017】0222003号",
+        "LicensDocName": "广东省林木采伐许可证",
+        "ValidityFrom": "2017-02-22",
+        "ValidityTo": "2017-08-21",
+        "LicensOffice": "中山市林业局",
+        "LicensContent": "广珠轻轨两侧树木修剪"
+      },
+      {
+        "LicensDocNo": "中人防规2017050029号",
+        "LicensDocName": "中炬高新商住小区D地块项目",
+        "ValidityFrom": "2017-05-04",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "中山市人防办",
+        "LicensContent": "防空地下室规划方案审查"
+      },
+      {
+        "LicensDocNo": "271212017050003",
+        "LicensDocName": "中炬高新商住小区D地块项目",
+        "ValidityFrom": "2017-05-18",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "中山市城乡规划局",
+        "LicensContent": "办理建筑工程建设工程规划许可证"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "流通股",
+        "StockType": "自然人股东",
+        "StockPercent": "100%",
+        "ShouldCapi": "79663.7194",
+        "ShoudDate": "",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "中国工商银行信托投资公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "中山火炬高新技术产业(集团)公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "中山市信联房地产投资公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "中国工商银行广东省信托投资公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "中国信达信托投资公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "中山市设备租赁公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "中国工商银行北京市信托投资公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "中山市建设实业公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "熊炜",
+        "Job": "董事长"
+      },
+      {
+        "Name": "刘社梅",
+        "Job": "副董事长"
+      },
+      {
+        "Name": "李常谨",
+        "Job": "总经理,董事"
+      },
+      {
+        "Name": "李东君",
+        "Job": "董事"
+      },
+      {
+        "Name": "桂水发",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "程禹斌",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "江华",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "邓春华",
+        "Job": "董事"
+      },
+      {
+        "Name": "于爱莲",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "欧阳泽生",
+        "Job": "董事"
+      },
+      {
+        "Name": "田炳信",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "郭毅航",
+        "Job": "监事"
+      },
+      {
+        "Name": "陈劲涛",
+        "Job": "监事"
+      },
+      {
+        "Name": "张晓虹",
+        "Job": "监事会主席"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "43edf6c2fa679eabe26e98ed1c79fd9b",
+        "RegNo": "4420001014691",
+        "Name": "中炬高新技术实业(集团)股份有限公司中炬旅店",
+        "BelongOrg": "中山市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "47806f0fe7dcbc9b987dabda4840a137",
+        "RegNo": "91110108669949162Q",
+        "Name": "中炬高新技术实业(集团)股份有限公司北京办事处",
+        "BelongOrg": "北京市工商行政管理局海淀分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "bfa79fa6ad07c9c82378e522329ab860",
+        "RegNo": "442000000333832",
+        "Name": "中炬高新技术实业(集团)股份有限公司物业管理分公司",
+        "BelongOrg": "中山市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "法定代表人变更",
+        "BeforeContent": "熊炜*",
+        "AfterContent": "陈琳",
+        "ChangeDate": "2018-12-19"
+      },
+      {
+        "ProjectName": "经营范围变更",
+        "BeforeContent": "城市基础设施的投资,房地产经营,物业管理,二次供水服务,高新技术产业投资开发,实业投资,设备租赁,技术咨询,信息咨询。销售:工业生产资料(不含金银、小轿车及危险化学品),百货,五金、交电、化工(不含危险化学品),针、纺织品,建筑材料。自营和代理除国家组织统一联合经营的出口商品和国家实行核定公司经营的进口商品以外的其它商品及技术的进出口业务,经营进料加工和“三来一补”业务,经营对销贸易和转口贸易(按[99]外经贸政审函字588号文经营)。〓",
+        "AfterContent": "城市基础设施的投资,房地产开发,物业管理,二次供水服务,高新技术产业投资开发,实业投资,设备租赁,技术咨询,信息咨询。销售:工业生产资料(不含金银、小轿车及危险化学品),百货,五金、交电、化工(不含危险化学品),针、纺织品,建筑材料。自营和代理除国家组织统一联合经营的出口商品和国家实行核定公司经营的进口商品以外的其它商品及技术的进出口业务,经营进料加工和“三来一补”业务,经营对销贸易和转口贸易(按[99]外经贸政审函字588号文经营)。(依法须经批准的项目,经相关部门批准后方可开展经营活动。)",
+        "ChangeDate": "2017-05-22"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.jonjee.com"
+        }
+      ],
+      "PhoneNumber": "0760-85596818",
+      "Email": "jonjee@jonjee.com"
+    },
+    "Industry": {
+      "IndustryCode": "L",
+      "Industry": "租赁和商务服务业",
+      "SubIndustryCode": "72",
+      "SubIndustry": "商务服务业",
+      "MiddleCategoryCode": "723",
+      "MiddleCategory": "法律服务",
+      "SmallCategoryCode": "7239",
+      "SmallCategory": "其他法律服务"
+    },
+    "Area": {
+      "Province": "广东省",
+      "City": "中山市",
+      "County": ""
+    },
+    "InsuredCount": null,
+    "EnglishName": null,
+    "PersonScope": "",
+    "KeyNo": "62f3f999164f6694990387e8b75c0099",
+    "Name": "中炬高新技术实业(集团)股份有限公司",
+    "No": "440000000000276",
+    "BelongOrg": "广东省市场监督管理局",
+    "OperName": "熊炜",
+    "StartDate": "1993-01-16 00:00:00",
+    "EndDate": "",
+    "Status": "迁出",
+    "Province": "GD",
+    "UpdatedDate": "2019-07-16 21:09:03",
+    "CreditCode": "91442000190357106Y",
+    "RegistCapi": "79663.7194万元人民币",
+    "EconKind": "股份有限公司(上市、国有控股)",
+    "Address": "中山市中山火炬高技术产业开发区",
+    "Scope": "城市基础设施的投资,房地产经营,物业管理,二次供水服务,高新技术产业投资开发,实业投资,设备租赁,技术咨询,信息咨询。销售:工业生产资料(不含金银、小轿车及危险化学品),百货,五金、交电、化工(不含危险化学品),针、纺织品,建筑材料。自营和代理除国家组织统一联合经营的出口商品和国家实行核定公司经营的进口商品以外的其它商品及技术的进出口业务,经营进料加工和“三来一补”业务,经营对销贸易和转口贸易(按[99]外经贸政审函字588号文经营)。〓",
+    "TermStart": "1993-01-16 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2010-09-26 00:00:00",
+    "OrgNo": "19035710-6",
+    "IsOnStock": "1",
+    "StockNumber": "600872",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "中山火炬高新技术实业股份有限公司",
+        "ChangeDate": ""
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/62f3f999164f6694990387e8b75c0099.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "79663.7194万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

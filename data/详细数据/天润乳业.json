@@ -1,0 +1,456 @@
+{
+  "OrderNumber": "ECI2019071910035634456039",
+  "Result": {
+    "PermissionInfo": [],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [],
+    "CompanyProducts": [
+      {
+        "CompanyName": "新疆天润乳业股份有限公司",
+        "Link": "",
+        "ImageUrl": "http://img.qichacha.com/Product/1832caff-56ee-4e91-88f5-d0d26e8ebacc.jpg",
+        "Name": "天润乳业",
+        "Domain": "生活服务",
+        "Tags": "消费",
+        "Description": "天润乳业是一个乳制品品牌，集奶牛养殖、乳品生产、科研开发、市场营销为一体，旗下拥有天润、盖瑞、佳丽等自有品牌，产品涉及牛初乳、液态奶、发酵乳、含乳饮料及乳制品等品类共50多个品种。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "乌经国 许准字 〔2018〕 第174 号",
+        "LicensDocName": "增值税专用发票（增值税税控系统）最高开票限额审批",
+        "ValidityFrom": "2018-01-23",
+        "ValidityTo": "9999-12-31",
+        "LicensOffice": "国家税务总局乌鲁木齐经济技术开发区(头屯河区)税务局",
+        "LicensContent": "根据《中华人民共和国行政许可法》第三十二条第一款第五项的规定，决定准予你（单位）取得增值税专用发票（增值税税控系统）最高开票限额审批行政许可"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "新疆石河子造纸厂",
+        "StockType": "法人股东",
+        "StockPercent": "94.74%",
+        "ShouldCapi": "4752",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "其他",
+        "RealCapi": "4752",
+        "CapiDate": "1999-12-30"
+      },
+      {
+        "StockName": "新疆教育出版社",
+        "StockType": "法人股东",
+        "StockPercent": "2.63%",
+        "ShouldCapi": "132",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "132",
+        "CapiDate": "1999-12-30"
+      },
+      {
+        "StockName": "新疆出版印刷集团公司",
+        "StockType": "法人股东",
+        "StockPercent": "1.32%",
+        "ShouldCapi": "66",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "66",
+        "CapiDate": "1999-12-30"
+      },
+      {
+        "StockName": "新疆生产建设兵团印刷厂",
+        "StockType": "法人股东",
+        "StockPercent": "0.66%",
+        "ShouldCapi": "33",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "33",
+        "CapiDate": "1999-12-30"
+      },
+      {
+        "StockName": "新疆石河子白杨酒厂",
+        "StockType": "法人股东",
+        "StockPercent": "0.66%",
+        "ShouldCapi": "33",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "33",
+        "CapiDate": "1999-12-30"
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "胡刚",
+        "Job": "董事兼总经理"
+      },
+      {
+        "Name": "刘让",
+        "Job": "董事长"
+      },
+      {
+        "Name": "罗瑶",
+        "Job": "董事"
+      },
+      {
+        "Name": "牛耕",
+        "Job": "董事"
+      },
+      {
+        "Name": "敖兵",
+        "Job": "董事"
+      },
+      {
+        "Name": "王慧玲",
+        "Job": "董事"
+      },
+      {
+        "Name": "候晓勤",
+        "Job": "董事"
+      },
+      {
+        "Name": "邵惠玲",
+        "Job": "董事"
+      },
+      {
+        "Name": "倪晓滨",
+        "Job": "董事"
+      },
+      {
+        "Name": "冯育菠",
+        "Job": "监事"
+      },
+      {
+        "Name": "梁春英",
+        "Job": "监事"
+      },
+      {
+        "Name": "丁建新",
+        "Job": "监事会主席"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "0c4fbf5f35733af501afb55323d407c7",
+        "RegNo": "650100130007184",
+        "Name": "新疆天宏纸业股份有限公司乌鲁木齐分公司",
+        "BelongOrg": "乌鲁木齐市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "2214a35c2dc19ca14a29029b5f53b1f1",
+        "RegNo": "6201001200738",
+        "Name": "新疆天宏纸业股份有限公司兰州分公司",
+        "BelongOrg": "兰州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "447cb4b626b87d459481c0962512ddd0",
+        "RegNo": "659001140000543",
+        "Name": "新疆天宏纸业股份有限公司新安镇东泉农场",
+        "BelongOrg": "石河子工商行政管理局下野地分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6c770f5ecb9dea586ec75adb09559a9e",
+        "RegNo": "6590011990134",
+        "Name": "新疆天宏纸业股份有限公司石河子分公司",
+        "BelongOrg": "",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7a387404783b19177b0f0fb32536c3d6",
+        "RegNo": "4201061300161",
+        "Name": "新疆天宏纸业股份有限公司武汉分公司",
+        "BelongOrg": "武汉市武昌区工商行政管理和质量技术监督局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "cc6996f36fbbaeac57d7f88f3cb7875d",
+        "RegNo": "659001140000844",
+        "Name": "新疆天宏纸业股份有限公司天宏商贸城",
+        "BelongOrg": "石河子工商行政管理局城区分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e39b6840645598485e7fe012c97be850",
+        "RegNo": "5101061900231",
+        "Name": "新疆天宏纸业股份有限公司成都分公司",
+        "BelongOrg": "成都市金牛工商局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ee7e5719bb0672d92a4ac692bba0d2d0",
+        "RegNo": "3201001512460",
+        "Name": "新疆天宏纸业股份有限公司南京分公司",
+        "BelongOrg": "江苏省南京市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f2040781a7750c5f72dff2cb4d924e12",
+        "RegNo": "4401111200787",
+        "Name": "新疆天宏纸业股份有限公司广州分公司",
+        "BelongOrg": "广州市白云区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "实收资本变更",
+        "BeforeContent": "8638.9415",
+        "AfterContent": "20711.4418（+139.75%）",
+        "ChangeDate": "2018-08-29"
+      },
+      {
+        "ProjectName": "企业从业人数变更",
+        "BeforeContent": "0",
+        "AfterContent": "52",
+        "ChangeDate": "2018-08-29"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "10355.7209",
+        "AfterContent": "20711.4418（+100%）",
+        "ChangeDate": "2018-08-29"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "经营范围: 无   乳业投资及管理；畜牧业投资及管理；饲料加工、销售；农作物种植、加工；有机肥生产、销售；机械设备加工、维修；自营和代理各类商品和技术的进出口(国家限定公司经营和禁止进出口的商品和技术除外)；物业管理；房屋租赁；装饰装潢材料的销售。行业代码: 1320",
+        "AfterContent": "经营范围: 乳业投资及管理；畜牧业投资及管理；乳和乳制品的加工与销售；饲料加工、销售；农作物种植、加工；有机肥生产、销售；机械设备加工、维修；自营和代理各类商品和技术的进出口(国家限定公司经营和禁止进出口的商品和技术除外)；物业管理；房屋租赁；装饰装潢材料的销售。行业代码: 1320",
+        "ChangeDate": "2018-01-10"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "8638.9415",
+        "AfterContent": "10355.7209（+19.87%）",
+        "ChangeDate": "2015-09-09"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "经营范围: 饲料加工、销售；农作物种植、加工；有机肥生产、销售；机械设备加工、维修；自营和代理各类商品和技术的进出口(国家限定公司经营和禁止进出口的商品和技术除外)；物业管理；房屋租赁；装饰装潢材料的销售。行业代码: 1320",
+        "AfterContent": "经营范围: 无   乳业投资及管理；畜牧业投资及管理；饲料加工、销售；农作物种植、加工；有机肥生产、销售；机械设备加工、维修；自营和代理各类商品和技术的进出口(国家限定公司经营和禁止进出口的商品和技术除外)；物业管理；房屋租赁；装饰装潢材料的销售。行业代码: 1320",
+        "ChangeDate": "2014-05-28"
+      },
+      {
+        "ProjectName": "名称变更",
+        "BeforeContent": "新疆天宏纸业股份有限公司",
+        "AfterContent": "新疆天润乳业股份有限公司",
+        "ChangeDate": "2013-12-31"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "8016",
+        "AfterContent": "8638.9415（+7.77%）",
+        "ChangeDate": "2013-12-31"
+      },
+      {
+        "ProjectName": "法定代表人(负责人、董事长、首席代表)变更",
+        "BeforeContent": "李侠",
+        "AfterContent": "刘让*",
+        "ChangeDate": "2013-12-31"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "经营范围: 许可经营项目:造纸。一般经营项目:纸制品及纸料加工、销售；化工产品(有毒除外)、印刷物资的销售；机械加工；物业管理；造纸原料的开发；自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外；废纸收购；碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售；农作物种植及销售；房屋租赁；机械租赁；混凝土外加剂的生产及销售。行业代码: 2200",
+        "AfterContent": "经营范围: 许可经营项目:无。一般经营项目:饲料加工、销售；农作物种植、加工；有机肥生产、销售；机械设备加工、维修；自营和代理各类商品和技术的进出口(国家限定公司经营和禁止进出口的商品和技术除外)；物业管理；房屋租赁；装饰装潢材料的销售。行业代码: 1320",
+        "ChangeDate": "2013-12-31"
+      },
+      {
+        "ProjectName": "住所(营业场所、地址)变更",
+        "BeforeContent": "住所：****",
+        "AfterContent": "住所：****号； 邮政编码: 830088； 电话: ******-3930001； 住所：****",
+        "ChangeDate": "2013-12-31"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "经营范围: 许可经营项目:造纸。一般经营项目:纸制品及纸料加工、销售；化工产品(有毒除外)、印刷物资的销售；机械加工；物业管理；造纸原料的开发；自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外；废纸收购；碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售；农作物种植及销售；房屋租赁；机械租赁。行业代码: 2200",
+        "AfterContent": "经营范围: 许可经营项目:造纸。一般经营项目:纸制品及纸料加工、销售；化工产品(有毒除外)、印刷物资的销售；机械加工；物业管理；造纸原料的开发；自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外；废纸收购；碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售；农作物种植及销售；房屋租赁；机械租赁；混凝土外加剂的生产及销售。行业代码: 2200",
+        "ChangeDate": "2011-07-14"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "经营范围: 许可经营项目:造纸。一般经营项目:纸制品及纸料加工、销售。化工产品(有毒除外)、印刷物资的销售。机械加工。物业管理。造纸原料的开发。自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外.废纸收购.碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售。农作物种植及销售。行业代码: 2200",
+        "AfterContent": "经营范围: 许可经营项目:造纸。一般经营项目:纸制品及纸料加工、销售；化工产品(有毒除外)、印刷物资的销售；机械加工；物业管理；造纸原料的开发；自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外；废纸收购；碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售；农作物种植及销售；房屋租赁；机械租赁。行业代码: 2200",
+        "ChangeDate": "2011-05-24"
+      },
+      {
+        "ProjectName": "法定代表人(负责人、董事长、首席代表)变更",
+        "BeforeContent": "赵磊",
+        "AfterContent": "李侠",
+        "ChangeDate": "2010-06-08"
+      },
+      {
+        "ProjectName": "法定代表人(负责人、董事长、首席代表)变更",
+        "BeforeContent": "王东升",
+        "AfterContent": "赵磊",
+        "ChangeDate": "2010-01-27"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "经营范围: 造纸。纸制品及纸料加工、销售。化工产品(有毒除外)、印刷物资的销售。机械加工。物业管理。造纸原料的开发。自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外.废纸收购.碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售。农作物种植及销售。行业代码: 1300",
+        "AfterContent": "经营范围: 许可经营项目:造纸。一般经营项目:纸制品及纸料加工、销售。化工产品(有毒除外)、印刷物资的销售。机械加工。物业管理。造纸原料的开发。自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外.废纸收购.碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售。农作物种植及销售。行业代码: 1300",
+        "ChangeDate": "2010-01-27"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "经营范围: 造纸。纸制品及纸料加工、销售。化工产品(有毒除外)、印刷物资的销售。机械加工。物业管理。造纸原料的开发。自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外.废纸收购.碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售。行业代码: 1300",
+        "AfterContent": "经营范围: 造纸。纸制品及纸料加工、销售。化工产品(有毒除外)、印刷物资的销售。机械加工。物业管理。造纸原料的开发。自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外.废纸收购.碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售。农作物种植及销售。行业代码: 1300",
+        "ChangeDate": "2009-04-27"
+      },
+      {
+        "ProjectName": "法定代表人(负责人、董事长、首席代表)变更",
+        "BeforeContent": "王世超",
+        "AfterContent": "王东升",
+        "ChangeDate": "2008-12-23"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "经营范围: 造纸。纸制品及纸料加工、销售。化工产品(有毒除外)、印刷物资的销售。机械加工。物业管理。造纸原料的开发。自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外.废纸收购.主要产品: 0行业代码: 1300",
+        "AfterContent": "经营范围: 造纸。纸制品及纸料加工、销售。化工产品(有毒除外)、印刷物资的销售。机械加工。物业管理。造纸原料的开发。自营和代理各类商品和技术的进出口,但国家限定公司经营和禁止进出口的商品和技术除外.废纸收购.碱木素、木质素磺酸盐、有机肥、黏合剂的生产、销售。行业代码: 1300",
+        "ChangeDate": "2008-10-29"
+      },
+      {
+        "ProjectName": "营业期限(有效期限、驻在期限)变更",
+        "BeforeContent": "1999-12-30",
+        "AfterContent": "19991230",
+        "ChangeDate": "2005-08-22"
+      },
+      {
+        "ProjectName": "营业期限(有效期限、驻在期限)变更",
+        "BeforeContent": "2010-12-30",
+        "AfterContent": "******",
+        "ChangeDate": "2005-08-22"
+      },
+      {
+        "ProjectName": "营业期限(有效期限、驻在期限)变更",
+        "BeforeContent": "1999-12-30",
+        "AfterContent": "19991230",
+        "ChangeDate": "2005-01-10"
+      },
+      {
+        "ProjectName": "经营范围(业务范围)变更",
+        "BeforeContent": "",
+        "AfterContent": "0",
+        "ChangeDate": "2005-01-10"
+      },
+      {
+        "ProjectName": "营业期限(有效期限、驻在期限)变更",
+        "BeforeContent": "2010-12-30",
+        "AfterContent": "******",
+        "ChangeDate": "2005-01-10"
+      },
+      {
+        "ProjectName": "法定代表人(负责人、董事长、首席代表)变更",
+        "BeforeContent": "李国民",
+        "AfterContent": "王世超",
+        "ChangeDate": "2005-01-07"
+      },
+      {
+        "ProjectName": "营业期限(有效期限、驻在期限)变更",
+        "BeforeContent": "1999-12-30",
+        "AfterContent": "19991230",
+        "ChangeDate": "2005-01-07"
+      },
+      {
+        "ProjectName": "营业期限(有效期限、驻在期限)变更",
+        "BeforeContent": "2010-12-30",
+        "AfterContent": "******",
+        "ChangeDate": "2005-01-07"
+      },
+      {
+        "ProjectName": "营业期限(有效期限、驻在期限)变更",
+        "BeforeContent": "1999-12-30",
+        "AfterContent": "19991230",
+        "ChangeDate": "2003-03-07"
+      },
+      {
+        "ProjectName": "营业期限(有效期限、驻在期限)变更",
+        "BeforeContent": "2010-12-30",
+        "AfterContent": "******",
+        "ChangeDate": "2003-03-07"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.xjtrry.com"
+        }
+      ],
+      "PhoneNumber": "0991-3970710",
+      "Email": "Zqb600419@126.com"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": null,
+      "SubIndustry": null,
+      "MiddleCategoryCode": null,
+      "MiddleCategory": null,
+      "SmallCategoryCode": null,
+      "SmallCategory": null
+    },
+    "Area": {
+      "Province": "新疆维吾尔自治区",
+      "City": "乌鲁木齐市",
+      "County": "头屯河区"
+    },
+    "InsuredCount": "52",
+    "EnglishName": null,
+    "PersonScope": "",
+    "KeyNo": "3e9d341fda14b335cf318f15a3e68d6a",
+    "Name": "新疆天润乳业股份有限公司",
+    "No": "650000040000482",
+    "BelongOrg": "新疆生产建设兵团市场监督管理局",
+    "OperName": "刘让",
+    "StartDate": "1999-12-30 00:00:00",
+    "EndDate": "",
+    "Status": "开业",
+    "Province": "XJ",
+    "UpdatedDate": "2019-07-16 10:25:00",
+    "CreditCode": "91650000718902425H",
+    "RegistCapi": "20711.4418万元人民币",
+    "EconKind": "股份有限公司(上市、国有控股)",
+    "Address": "新疆乌鲁木齐经济技术开发区(头屯河区)乌昌公路2702号",
+    "Scope": "乳业投资及管理;畜牧业投资及管理;乳和乳制品的加工与销售;饲料加工、销售;农作物种植、加工;有机肥生产、销售;机械设备加工、维修;自营和代理各类商品和技术的进出口(国家限定公司经营和禁止进出口的商品和技术除外);物业管理;房屋租赁;装饰装潢材料的销售。",
+    "TermStart": "1999-12-30 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2018-08-29 00:00:00",
+    "OrgNo": "71890242-5",
+    "IsOnStock": "1",
+    "StockNumber": "600419",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "新疆天宏纸业股份有限公司",
+        "ChangeDate": "2013-12-31"
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/3e9d341fda14b335cf318f15a3e68d6a.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "8638.9415万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

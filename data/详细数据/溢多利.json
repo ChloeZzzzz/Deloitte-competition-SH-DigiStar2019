@@ -1,0 +1,507 @@
+{
+  "OrderNumber": "ECI2019071909584269109197",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-12-07",
+        "CaseNo": "粤饲添(2014)H03001"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-07-07",
+        "CaseNo": "粤饲添字(2017)182263"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-01-13",
+        "CaseNo": "粤饲添字(2017)182262"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-09-28",
+        "CaseNo": "粤饲添字(2016)182260"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-09-28",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-08-29",
+        "CaseNo": "(香洲)2016-028"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-08-15",
+        "CaseNo": "粤饲添字(2016)182254"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-06-28",
+        "CaseNo": "粤饲添字(2016)182252"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-03-17",
+        "CaseNo": "珠香环建[2016]23号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-01-20",
+        "CaseNo": "(香洲)2016-003"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-01-20",
+        "CaseNo": "粤饲添字(2016)182231-(2016)182241"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2015-12-04",
+        "CaseNo": "粤饲添字(2015)182196-(2015)182230"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2015-01-29",
+        "CaseNo": "建字第(香洲)2015-010号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2014-03-20",
+        "CaseNo": "临建字第(香洲)2014-020号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2013-10-16",
+        "CaseNo": "珠香环建[2013]48号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2013-04-01",
+        "CaseNo": "建字第(香洲)2013-010号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2011-07-21",
+        "CaseNo": "珠香环建【2011】130号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2011-03-31",
+        "CaseNo": "珠香环建表［2011］72号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2010-10-28",
+        "CaseNo": "建字第(香洲)2010-090号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2010-03-12",
+        "CaseNo": "珠香环建表[2010]78号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2009-12-03",
+        "CaseNo": "珠香环建表［2009］438号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2009-12-03",
+        "CaseNo": "珠香环建表［2009］439号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2009-12-03",
+        "CaseNo": "珠香环建表［2009］437号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2008-12-18",
+        "CaseNo": "珠金环〔2008〕33号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2002-02-22",
+        "CaseNo": "珠440400019844"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "1991-09-02",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "",
+        "CaseNo": "珠香环建［2015］36号"
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [
+      {
+        "CompanyId": "fbb833258a92e0a0eab2a46b17a9ddd8",
+        "RegistNo": "410500201500000030",
+        "Pledgor": "广东溢多利生物科技股份有限公司",
+        "PledgorNo": "非公示项",
+        "Pledgee": "中国银行股份有限公司珠海分行",
+        "PledgeeNo": "91440400X17503368W",
+        "PledgedAmount": "835",
+        "RegDate": "2015-12-18",
+        "PublicDate": "2019-05-10",
+        "Status": "无效"
+      }
+    ],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91440400617514036C",
+        "Name": "广东溢多利生物科技股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "91440400617514036C",
+        "Name": "广东溢多利生物科技股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "440402617514036",
+        "Name": "广东溢多利生物科技股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "440402617514036",
+        "Name": "广东溢多利生物科技股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "440401617514036",
+        "Name": "广东溢多利生物科技股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "广东溢多利生物科技股份有限公司",
+        "Link": "http://www.yiduoli.com",
+        "ImageUrl": "http://img.qichacha.com/Product/bcafb399-e72c-4504-a6b0-71bed3d1a143.jpg",
+        "Name": "溢多利",
+        "Domain": "医疗健康",
+        "Tags": "医疗",
+        "Description": "广东溢多利生物科技股份有限公司是我国第一家饲用酶制剂生产企业.自1991年成立以来,一直从事饲用酶制剂的研发、生产和销售,目前是国内最大的饲用酶制剂生产商.公司核心产品为饲用酶制剂,包括饲用复合酶、饲用植酸酶和饲用木聚糖酶等.目前,公司已成功研发出其他工业酶制剂,如造纸用酶制剂、纺织用酶制剂等作为核心产品的有益补充.此外,公司产品中还包括少量其他饲料添加剂和兽药中药等.\r\n 公司主要产品为饲用酶制剂,从行业监管和产品上下游关系分,公司产品处于饲料行业的上游,产品主要添加到各类饲料厂的饲料中,因此,划入饲料行业中的饲料添加剂种类;从产品工艺性质分,由于酶制剂的生产都需要发酵(包括固体发酵与液体发酵)的过程,因此,属于发酵或工业酶制剂行业;在现代学科和工业分类中,酶工程、发酵工程都属于生物工程(生物技术)的范畴,因此,属于生物产业中的生物制造业,生物产业是我国七大战略性新兴产业之一。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "粤饲添(2014)H03001",
+        "LicensDocName": "饲料添加剂生产许可证",
+        "ValidityFrom": "2014-03-20",
+        "ValidityTo": "2019-03-19",
+        "LicensOffice": "广东省农业厅",
+        "LicensContent": "混合型饲料添加剂生产许可证审批"
+      },
+      {
+        "LicensDocNo": "粤饲添字(2015)182196-(2015)182230",
+        "LicensDocName": "饲料添加剂、添加剂预混合饲料产品批准文号核准",
+        "ValidityFrom": "2015-12-04",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "广东省农业厅",
+        "LicensContent": ""
+      },
+      {
+        "LicensDocNo": "粤饲添字(2016)182231-(2016)182241",
+        "LicensDocName": "饲料添加剂、添加剂预混合饲料产品批准文号核准",
+        "ValidityFrom": "2016-01-20",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "广东省农业厅",
+        "LicensContent": ""
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "社会公众股",
+        "StockType": "其他投资者",
+        "StockPercent": "87.26%",
+        "ShouldCapi": "35492.3968",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "珠海市金大地投资有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "12.02%",
+        "ShouldCapi": "4890.6398",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "大连万海金浪水产有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.37%",
+        "ShouldCapi": "150",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "珠海经济特区金丰达有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.37%",
+        "ShouldCapi": "150",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "深圳市东方数码港科技开发有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "深圳市嘉信福实业发展有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0%",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "陈少美",
+        "Job": "董事长兼总经理"
+      },
+      {
+        "Name": "冯国华",
+        "Job": "副总经理"
+      },
+      {
+        "Name": "杨得坡",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "伍超群",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "周德荣",
+        "Job": "董事"
+      },
+      {
+        "Name": "秦强",
+        "Job": "董事"
+      },
+      {
+        "Name": "李洪兵",
+        "Job": "董事"
+      },
+      {
+        "Name": "赵然笋",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "邓波卿",
+        "Job": "董事"
+      },
+      {
+        "Name": "刘冬雪",
+        "Job": "董事"
+      },
+      {
+        "Name": "朴希春",
+        "Job": "监事"
+      },
+      {
+        "Name": "代清影",
+        "Job": "监事"
+      },
+      {
+        "Name": "冯丹",
+        "Job": "监事会主席"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "61fb8fb1f5b0f795845dc1c9dc9b0059",
+        "RegNo": "91430781MA4L2G77XL",
+        "Name": "广东溢多利生物科技股份有限公司常德分公司",
+        "BelongOrg": "津市市食品药品工商质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f7e896a25ec9d40bf834be897a01e7c6",
+        "RegNo": "3401002501557",
+        "Name": "广东溢多利生物科技股份有限公司合肥办事处",
+        "BelongOrg": "合肥市包河区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "",
+        "BeforeContent": "13558.512200",
+        "AfterContent": "40675.536600",
+        "ChangeDate": "2016-11-22"
+      },
+      {
+        "ProjectName": "",
+        "BeforeContent": "10254.058200",
+        "AfterContent": "13558.512200",
+        "ChangeDate": "2016-09-27"
+      },
+      {
+        "ProjectName": "股东备案",
+        "BeforeContent": "杨得坡,独立董事;；秦强,董事;；伍超群,独立董事;；冯丹,监事会主席;；桂庆锋,监事;；冯国华,董事兼副总经理;；邓波卿,董事;；陈少美*,董事长兼总经理;；赵然笋,独立董事;；罗长财,监事",
+        "AfterContent": "杨得坡,；独立董事;；秦强,；董事;；伍超群,；独立董事;；冯丹,；监事会主席;；邓波卿,；董事;；陈少美*,；董事长兼总经理;；赵然笋,；独立董事;；周德荣,董事;李洪兵,董事;刘冬雷,董事;代清影,监事;朴希春,监事;冯国华,副总经理;；周德荣,；；；；董事会秘书",
+        "ChangeDate": "2016-09-26"
+      },
+      {
+        "ProjectName": "",
+        "BeforeContent": "9160.000000",
+        "AfterContent": "10254.058200",
+        "ChangeDate": "2015-03-24"
+      },
+      {
+        "ProjectName": "",
+        "BeforeContent": "4580.000000",
+        "AfterContent": "9160.000000",
+        "ChangeDate": "2014-10-10"
+      },
+      {
+        "ProjectName": "企业类型变更",
+        "BeforeContent": "1229",
+        "AfterContent": "1219",
+        "ChangeDate": "2014-03-28"
+      },
+      {
+        "ProjectName": "企业类型",
+        "BeforeContent": "其他股份有限公司(非上市)",
+        "AfterContent": "其他股份有限公司(上市)",
+        "ChangeDate": "2014-03-28"
+      },
+      {
+        "ProjectName": "",
+        "BeforeContent": "3900.000000",
+        "AfterContent": "4580.000000",
+        "ChangeDate": "2014-03-28"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "www.yiduoli.com.cn"
+        }
+      ],
+      "PhoneNumber": null,
+      "Email": null
+    },
+    "Industry": {
+      "IndustryCode": "D",
+      "Industry": "电力、热力、燃气及水生产和供应业",
+      "SubIndustryCode": "44",
+      "SubIndustry": "电力、热力生产和供应业",
+      "MiddleCategoryCode": "442",
+      "MiddleCategory": "电力供应",
+      "SmallCategoryCode": "4420",
+      "SmallCategory": "电力供应"
+    },
+    "Area": {
+      "Province": "广东省",
+      "City": "珠海市",
+      "County": ""
+    },
+    "InsuredCount": "206",
+    "EnglishName": "Guangdong Vtr Bio-Tech Co., Ltd.",
+    "PersonScope": "",
+    "KeyNo": "0f2a47ba0b8be424c22d0c9df5138f0e",
+    "Name": "广东溢多利生物科技股份有限公司",
+    "No": "440400000182998",
+    "BelongOrg": "珠海市工商行政管理局",
+    "OperName": "陈少美",
+    "StartDate": "1991-09-03 00:00:00",
+    "EndDate": "",
+    "Status": "在营（开业）企业",
+    "Province": "GD",
+    "UpdatedDate": "2019-07-18 11:11:22",
+    "CreditCode": "91440400617514036C",
+    "RegistCapi": "40675.5366万元人民币",
+    "EconKind": "其他股份有限公司(上市)",
+    "Address": "广东省珠海市南屏高科技工业区屏北一路8号",
+    "Scope": "生产及销售酶制剂、饲料添加剂、添加剂预混合饲料、兽药散剂。(以上需行政许可的项目,凭许可证经营,法律法规禁止的不得经营)根据《珠海经济特区商事登记条例》,经营范围不属登记事项。以下经营范围信息由商事主体提供,该商事主体对信息的真实性、合法性负责:(依法须经批准的项目,经相关部门批准后方可开展经营活动)〓",
+    "TermStart": "1991-09-03 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2016-11-23 00:00:00",
+    "OrgNo": "61751403-6",
+    "IsOnStock": "1",
+    "StockNumber": "300381",
+    "StockType": "国内A股",
+    "OriginalName": [],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/0f2a47ba0b8be424c22d0c9df5138f0e.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "10254.0582万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

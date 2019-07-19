@@ -1,0 +1,2185 @@
+{
+  "OrderNumber": "ECI2019071910170949923281",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "特殊工时审批",
+        "Province": "总局",
+        "Liandate": "2016-03-08",
+        "CaseNo": "沈人社工时许【2016】75号"
+      },
+      {
+        "Name": "食品生产许可",
+        "Province": "总局",
+        "Liandate": "2016-01-26",
+        "CaseNo": "SC12421011100284"
+      },
+      {
+        "Name": "特殊工时审批",
+        "Province": "总局",
+        "Liandate": "2015-03-04",
+        "CaseNo": "沈人社工时许【2015】87号"
+      },
+      {
+        "Name": "企业开业登记注册",
+        "Province": "总局",
+        "Liandate": "1997-01-23",
+        "CaseNo": ""
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91210100242588126L",
+        "Name": "桃李面包股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "91210100242588126L",
+        "Name": "桃李面包股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "210103242588126",
+        "Name": "沈阳桃李面包股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "91210100242588126L",
+        "Name": "沈阳桃李面包股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "桃李面包股份有限公司",
+        "Link": "http://www.tolybread.cn",
+        "ImageUrl": "http://img.qichacha.com/Product/cc073a31-a737-4625-9ef6-068904859c52.jpg",
+        "Name": "桃李面包",
+        "Domain": "生活服务",
+        "Tags": "消费生活,烘焙,食品,食品安全,股票,面包",
+        "Description": "沈阳桃李面包股份有限公司（以下简称“公司”，股票代码603866，股票简称“桃李面包”）的前身为沈阳市桃李食品有限公司，成立于1997年1月23日，公司现行注册资本为45,012.6万元，主要经营面包及糕点、月饼，是一家致力于烘焙食品生产、加工、销售的综合性公司。经过多年的耕耘和积累，公司核心产品面包及糕点所使用的桃李品牌已成长为跨区域的全国知名面包品牌。\n自成立以来，公司一直保持稳健的发展步伐，规模不断壮大。截至 2016年6月30日，公司已在东北、华北、华东、西南、西北等14个中心城市及周边地区建立起12万多个零售终端，其中包括许多大型商超，如家乐福、沃尔玛、大润发、北京华联、华润万家等国内外知名连锁超市。\n公司采用“中央工厂 批发”的经营模式，致力于为消费者提供高性价比的产品，不断开发口味各异、种类多样的产品，全面满足消费者不断变化的需求。桃李面包新鲜、味美，营养丰富，公司根据国人的饮食习惯和营养结构标准，精心烘焙出令消费者满意的面包，为消费者带来持续的味蕾享受。\n民以食为天，食以安为先，食品安全已经成为关乎国计民生的头等大事，公司作为烘焙行业的领头羊，始终把质量和信誉视为公司的生命。公司通过了ISO9001质量管理体系及ISO22000食品安全管理体系的认证，从欧美日等烘焙行业领先的国家引进先进设备，成立技术研发部不断学习、研发烘焙新技术；此外公司精选行业内优质的原料供应商，并在生产、配送、销售等各个环节上严把质量关，为消费者构筑起一道坚实的食品安全屏障。\n好品质赢得市场，好口碑赢得信誉。公司及桃李品牌先后荣获“中国烘焙最具竞争力十大品牌”、“中国焙烤食品糖制品行业百强企业”、“辽宁省著名商标”、“2013年度中国焙烤食品行业十强企业”等殊荣。\n公司将继续以“为社会提供高性价比的产品，让更多的人爱上面包”为使命，以市场需求为导向，充分抓住国民经济快速发展和消费升级的良好机遇，逐步建立并完善布局合理、高效运营的生产基地，满足国内重点市场的消费需求，提升公司品牌影响力，奠定公司在中国面包行业的龙头地位。公司愿将最新鲜的产品、最优质的服务奉献给广大消费者，让更多的人爱上面包。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "沈人社工时许【2015】87号",
+        "LicensDocName": "特殊工时审批",
+        "ValidityFrom": "2015-03-04",
+        "ValidityTo": "2016-03-03",
+        "LicensOffice": "沈阳市人力资源和社会保障局",
+        "LicensContent": "特殊工时制度"
+      },
+      {
+        "LicensDocNo": "SC12421011100284",
+        "LicensDocName": "食品生产许可",
+        "ValidityFrom": "2016-01-26",
+        "ValidityTo": "2021-01-25",
+        "LicensOffice": "沈阳市食品药品监督管理局",
+        "LicensContent": "糕点"
+      },
+      {
+        "LicensDocNo": "沈人社工时许【2016】75号",
+        "LicensDocName": "特殊工时审批",
+        "ValidityFrom": "2016-03-08",
+        "ValidityTo": "2017-03-07",
+        "LicensOffice": "沈阳市人力资源和社会保障局",
+        "LicensContent": "综合计算和不定时工时"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "增资",
+        "StockType": "其他投资者",
+        "StockPercent": "62.9630%",
+        "ShouldCapi": "25507.14",
+        "ShoudDate": "2007-07-02,2015-12-22,2017-12-27",
+        "InvestType": "货币",
+        "InvestName": null,
+        "RealCapi": "25507.14",
+        "CapiDate": "2007-07-02"
+      },
+      {
+        "StockName": "吴学群",
+        "StockType": "自然人股东",
+        "StockPercent": "11.6367%",
+        "ShouldCapi": "4714.1763",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "4714.1763",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吴志刚",
+        "StockType": "自然人股东",
+        "StockPercent": "7.9587%",
+        "ShouldCapi": "3224.1705",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "3224.1705",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吴学亮",
+        "StockType": "自然人股东",
+        "StockPercent": "7.0829%",
+        "ShouldCapi": "2869.3962",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "2869.3962",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "盛雅莉",
+        "StockType": "自然人股东",
+        "StockPercent": "5.0623%",
+        "ShouldCapi": "2050.8059",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "2050.8059",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "盛利",
+        "StockType": "自然人股东",
+        "StockPercent": "1.4079%",
+        "ShouldCapi": "570.3571",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "570.3571",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "盛雅萍",
+        "StockType": "自然人股东",
+        "StockPercent": "1.2400%",
+        "ShouldCapi": "502.3587",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "502.3587",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "盛龙",
+        "StockType": "自然人股东",
+        "StockPercent": "1.2392%",
+        "ShouldCapi": "502.0187",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "502.0187",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "林元",
+        "StockType": "自然人股东",
+        "StockPercent": "0.1217%",
+        "ShouldCapi": "49.3",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "49.3",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "孙广喜",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0755%",
+        "ShouldCapi": "30.6",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "30.6",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "关立新",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0629%",
+        "ShouldCapi": "25.5",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "25.5",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "肖蜀岩",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0608%",
+        "ShouldCapi": "24.65",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "24.65",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李燕",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0504%",
+        "ShouldCapi": "20.4",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "20.4",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "苏爱英",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0504%",
+        "ShouldCapi": "20.4",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "20.4",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "祁冉",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0504%",
+        "ShouldCapi": "20.4",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "20.4",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "谭秀坤",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0504%",
+        "ShouldCapi": "20.4",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "20.4",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吴学锋",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0420%",
+        "ShouldCapi": "17",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "17",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "惠文成",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0420%",
+        "ShouldCapi": "17",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "17",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "郑培珂",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0378%",
+        "ShouldCapi": "15.3",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "15.3",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王亮",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0336%",
+        "ShouldCapi": "13.6",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "13.6",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "孙志刚",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0336%",
+        "ShouldCapi": "13.6",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "13.6",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吕娜",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0336%",
+        "ShouldCapi": "13.6",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "13.6",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "于庆阳",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0294%",
+        "ShouldCapi": "11.9",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "11.9",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "赵国庆",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0294%",
+        "ShouldCapi": "11.9",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "11.9",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "盛杰",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0283%",
+        "ShouldCapi": "11.4466",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "11.4466",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "于海相",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0210%",
+        "ShouldCapi": "8.5",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "8.5",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "赵安华",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0210%",
+        "ShouldCapi": "8.5",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "8.5",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "林基春",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0210%",
+        "ShouldCapi": "8.5",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "8.5",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "杨勇",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0210%",
+        "ShouldCapi": "8.5",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "8.5",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "祝胜鑫",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0189%",
+        "ShouldCapi": "7.65",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "7.65",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "黄岩",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0168%",
+        "ShouldCapi": "6.8",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "6.8",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘萍",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0168%",
+        "ShouldCapi": "6.8",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "6.8",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "陈雪冬",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0168%",
+        "ShouldCapi": "6.8",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "6.8",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李红",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0168%",
+        "ShouldCapi": "6.8",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "6.8",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "冯国胜",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0168%",
+        "ShouldCapi": "6.8",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "6.8",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吴志道",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0126%",
+        "ShouldCapi": "5.1",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "5.1",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "郑世军",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0126%",
+        "ShouldCapi": "5.1",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "5.1",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘伟",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0126%",
+        "ShouldCapi": "5.1",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "5.1",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘继峰",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0126%",
+        "ShouldCapi": "5.1",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "5.1",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李云辉",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0126%",
+        "ShouldCapi": "5.1",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "5.1",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "周伟星",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0105%",
+        "ShouldCapi": "4.25",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "4.25",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "陈晨",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0097%",
+        "ShouldCapi": "3.91",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "3.91",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王崇梅",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0084%",
+        "ShouldCapi": "3.4",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "3.4",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王君",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0084%",
+        "ShouldCapi": "3.4",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "3.4",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "孙丽",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0084%",
+        "ShouldCapi": "3.4",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "3.4",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘秀芹",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0063%",
+        "ShouldCapi": "2.55",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "2.55",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王革",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0063%",
+        "ShouldCapi": "2.55",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "2.55",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "朱述华",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "马秀娟",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吕长恩",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "纪利",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘慧珍",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "肖虎",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "程立顺",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "曹万坤",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "陈秘东",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘建松",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "张志兵",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "高广学",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘喜昌",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘晓阳",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "于媛",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李艳辉",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李闯",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "代军文",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "曲慧",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘爽",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王瑰玮",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "孙海亮",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "金库",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "盖秀兰",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "陈林",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "高原",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "费智慧",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吴静怡",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李佩东",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "滕飞",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "赵飞",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0042%",
+        "ShouldCapi": "1.7",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.7",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "周大燕",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0038%",
+        "ShouldCapi": "1.53",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.53",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "蔡广强",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘天华",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李海伟",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王继印",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李妍",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "栾宏宇",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "黄素娥",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "张金发",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "徐月伦",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李铁",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "孙一",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "蒙明安",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李晓龙",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0034%",
+        "ShouldCapi": "1.36",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.36",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "樊力",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0029%",
+        "ShouldCapi": "1.19",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.19",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王福亮",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0029%",
+        "ShouldCapi": "1.19",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.19",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘宏",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0029%",
+        "ShouldCapi": "1.19",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.19",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "孙颖",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0025%",
+        "ShouldCapi": "1.02",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.02",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "寇树军",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0025%",
+        "ShouldCapi": "1.02",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.02",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "翟红涛",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0025%",
+        "ShouldCapi": "1.02",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.02",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "钱晓翠",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0025%",
+        "ShouldCapi": "1.02",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.02",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "邰清云",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0025%",
+        "ShouldCapi": "1.02",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "1.02",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "时长春",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吴新如",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "黄桂斌",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "夏培书",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "娄强",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘丽",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "逯建伟",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "郭志成",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "黄理邦",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王永刚",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "于麒子",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "周克勤",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李玉军",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "韩德全",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李洪梅",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "刘大明",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "郑丹",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "高萍",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "孙滨",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "韩福平",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李斌",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "付炜林",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "常国旺",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "孙继继",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "于海燕",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王宏艳",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李平",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王海斌",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0021%",
+        "ShouldCapi": "0.85",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.85",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "李美君",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0017%",
+        "ShouldCapi": "0.68",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.68",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "吕锟",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0017%",
+        "ShouldCapi": "0.68",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.68",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "姜德华",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0017%",
+        "ShouldCapi": "0.68",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.68",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王丹",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0017%",
+        "ShouldCapi": "0.68",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.68",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "谷雨",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0017%",
+        "ShouldCapi": "0.68",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.68",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "于瑞朋",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0013%",
+        "ShouldCapi": "0.51",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.51",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "董金生",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0013%",
+        "ShouldCapi": "0.51",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.51",
+        "CapiDate": "2011-06-25"
+      },
+      {
+        "StockName": "王鹏",
+        "StockType": "自然人股东",
+        "StockPercent": "0.0013%",
+        "ShouldCapi": "0.51",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "0.51",
+        "CapiDate": "2011-06-25"
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "吴学亮",
+        "Job": "董事长"
+      },
+      {
+        "Name": "黄宇",
+        "Job": "董事"
+      },
+      {
+        "Name": "盛龙",
+        "Job": "董事"
+      },
+      {
+        "Name": "宋长发",
+        "Job": "董事"
+      },
+      {
+        "Name": "吴非",
+        "Job": "董事"
+      },
+      {
+        "Name": "刘澄清",
+        "Job": "董事"
+      },
+      {
+        "Name": "吴学东",
+        "Job": "董事"
+      },
+      {
+        "Name": "盛雅莉",
+        "Job": "董事"
+      },
+      {
+        "Name": "付尧",
+        "Job": "监事"
+      },
+      {
+        "Name": "陶晓迎",
+        "Job": "监事"
+      },
+      {
+        "Name": "吴学群",
+        "Job": ""
+      },
+      {
+        "Name": "王双",
+        "Job": "监事会主席"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "1c93f0aba7556d07762b8e510f530ca4",
+        "RegNo": "91210114MA0P4Q4409",
+        "Name": "沈阳桃李面包股份有限公司城东湖营业部",
+        "BelongOrg": "沈阳市于洪区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "2127d29893649c8f489f1ff49f9c289f",
+        "RegNo": "91210112313154916A",
+        "Name": "沈阳桃李面包股份有限公司浑南营业部",
+        "BelongOrg": "沈阳市浑南区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "33c8bfd91b7d216de7a8768eeb9a2d65",
+        "RegNo": "94460011",
+        "Name": "沈阳市桃李食品有限公司长春办事处",
+        "BelongOrg": "长春市工商行政管理局南关分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "36d77b07f76622a4a63fa58acb035c43",
+        "RegNo": "91210103671963844P",
+        "Name": "沈阳桃李面包股份有限公司沈河营业部",
+        "BelongOrg": "沈阳市沈河区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "465f7e914ecccf662fe5e2de4da3a06e",
+        "RegNo": "91210111564686570J",
+        "Name": "沈阳桃李面包股份有限公司食品加工三厂",
+        "BelongOrg": "沈阳市苏家屯区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "509799d806efbb8ccfc1b5f6c42ead43",
+        "RegNo": "912101145783722307",
+        "Name": "沈阳桃李面包股份有限公司于洪营业部",
+        "BelongOrg": "沈阳市于洪区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "568b39ce1cb9279f2f2ba393d56e3a21",
+        "RegNo": "91210104667194720Y",
+        "Name": "沈阳桃李面包股份有限公司大东营业部",
+        "BelongOrg": "沈阳市大东区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "57e1c92a7997ab39cc744726dec83238",
+        "RegNo": "9121011170200062X2",
+        "Name": "沈阳桃李面包股份有限公司食品加工厂",
+        "BelongOrg": "沈阳市苏家屯区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "67466922fe879fec3b94a47d759b1b6c",
+        "RegNo": "91210111MA0P449U51",
+        "Name": "沈阳桃李面包股份有限公司苏家屯营业部",
+        "BelongOrg": "沈阳市苏家屯区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9114233787f747d03bff9ed32ffb961b",
+        "RegNo": "91210111691961168N",
+        "Name": "沈阳桃李面包股份有限公司食品加工二厂",
+        "BelongOrg": "沈阳市苏家屯区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ad5fe13009e8ed8b493ae2d944f76af7",
+        "RegNo": "912101056719678102",
+        "Name": "沈阳桃李面包股份有限公司皇姑营业部",
+        "BelongOrg": "沈阳市皇姑区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "aef42a33a8ae91ad10ea11f1cbc18d75",
+        "RegNo": "2101002200067",
+        "Name": "沈阳市桃李食品有限公司沈河销售部",
+        "BelongOrg": "沈阳市沈河区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b4dc0ecc9c5dadfac5b8a1fc841960c5",
+        "RegNo": "9121011405717604XB",
+        "Name": "沈阳桃李面包股份有限公司沈新路营业部",
+        "BelongOrg": "沈阳市于洪区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c99525f0f97cb9f4013a37754e0e7a90",
+        "RegNo": "912101053131964620",
+        "Name": "沈阳桃李面包股份有限公司塔湾营业部",
+        "BelongOrg": "沈阳市皇姑区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "dd5af69e13563c9ff2fe94732968c6d3",
+        "RegNo": "91210104071520353L",
+        "Name": "沈阳桃李面包股份有限公司望花营业部",
+        "BelongOrg": "沈阳市大东区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "dfc94adab83c391060e19faf0e56d97f",
+        "RegNo": "91210113MA0P548J4K",
+        "Name": "沈阳桃李面包股份有限公司大学城营业部",
+        "BelongOrg": "沈阳市沈北新区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e14e01a44d9d195b397480f69833fd4c",
+        "RegNo": "912101066671965238",
+        "Name": "沈阳桃李面包股份有限公司铁西营业部",
+        "BelongOrg": "沈阳市铁西区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e6e6739bc2de6596e0ac87b5de8b5969",
+        "RegNo": "91210102071541779R",
+        "Name": "沈阳桃李面包股份有限公司和平营业部",
+        "BelongOrg": "沈阳市和平区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f8c01668231b47bf0e472430486ec38b",
+        "RegNo": "2101002200236",
+        "Name": "沈阳市桃李食品有限公司皇姑销售部",
+        "BelongOrg": "沈阳市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "47062.6",
+        "AfterContent": "65887.64（+40%）",
+        "ChangeDate": "2019-05-22"
+      },
+      {
+        "ProjectName": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+        "BeforeContent": "吴志刚",
+        "AfterContent": "吴学亮*",
+        "ChangeDate": "2019-04-17"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "1吴学东董事；2宋长发董事；3吴非董事；4黄宇董事；5刘澄清董事；6付尧监事；7吴志刚董事长【退出】；8曲慧监事【退出】；9吴学亮*董事；10盛龙董事；11关立新监事会主席【退出】；12吴学群董事兼经理",
+        "AfterContent": "1吴学群董事兼经理；2付尧监事；3王双监事会主席【新增】；4吴学亮*董事长；5盛龙董事；6陶晓迎监事【新增】；7吴学东董事；8宋长发董事；9吴非董事；10黄宇董事；11刘澄清董事；12盛雅莉董事【新增】",
+        "ChangeDate": "2019-04-17"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "45012.6",
+        "AfterContent": "47062.6（+4.55%）",
+        "ChangeDate": "2017-12-27"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "1韩福平【退出】；2增资【退出】；3增资【退出】；4李红【退出】；5黄岩【退出】；6陈雪冬【退出】；7刘萍【退出】；8冯国胜【退出】；9刘伟【退出】；10郑世军【退出】；11刘继峰【退出】；12吴志道【退出】；13李云辉【退出】；14周伟星【退出】；15陈晨【退出】；16孙丽【退出】；17吴静怡【退出】；18朱述华【退出】；19周大燕【退出】；20黄素娥【退出】；21李海伟【退出】；22吴学群【退出】；23吴志刚【退出】；24吴学亮*【退出】；25盛雅莉【退出】；26盛龙【退出】；27盛雅萍【退出】；28盛利【退出】；29林元【退出】；30王崇梅【退出】；31王君【退出】；32刘秀芹【退出】；33王革【退出】；34刘喜昌【退出】；35刘晓阳【退出】；36滕飞【退出】；37肖虎【退出】；38李晓龙【退出】；39李铁【退出】；40李妍【退出】；41栾宏宇【退出】；42蒙明安【退出】；43王继印【退出】；44徐月伦【退出】；45蔡广强【退出】；46张金发【退出】；47刘天华【退出】；48孙一【退出】；49王福亮【退出】；50樊力【退出】；51刘宏【退出】；52孙颖【退出】；53翟红涛【退出】；54钱晓翠【退出】；55寇树军【退出】；56邰清云【退出】；57谷雨【退出】；58王鹏【退出】；59董金生【退出】；60于瑞朋【退出】；61盖秀兰【退出】；62刘慧珍【退出】；63刘爽【退出】；64曲慧【退出】；65陈林【退出】；66程立顺【退出】；67代军文【退出】；68纪利【退出】；69金库【退出】；70孙广喜【退出】；71关立新【退出】；72肖蜀岩【退出】；73李燕【退出】；74苏爱英【退出】；75谭秀坤【退出】；76祁冉【退出】；77惠文成【退出】；78郑培珂【退出】；79李闯【退出】；80孙海亮【退出】；81于媛【退出】；82曹万坤【退出】；83高广学【退出】；84李佩东【退出】；85李艳辉【退出】；86吕长恩【退出】；87王海斌【退出】；88王宏艳【退出】；89吴新如【退出】；90常国旺【退出】；91郭志成【退出】；92刘丽【退出】；93李美君【退出】；94姜德华【退出】；95吕锟【退出】；96王丹【退出】；97吕娜【退出】；98马秀娟【退出】；99黄理邦【退出】；100郑丹【退出】；101刘大明【退出】；102付炜林【退出】；103高萍【退出】；104韩德全【退出】；105黄桂斌【退出】；106李平【退出】；107李玉军【退出】；108娄强【退出】；109逯建伟【退出】；110王亮【退出】；111孙志刚【退出】；112吴学锋【退出】；113于庆阳【退出】；114赵国庆【退出】；115于海相【退出】；116杨勇【退出】；117林基春【退出】；118赵安华【退出】；119祝胜鑫【退出】；120王瑰玮【退出】；121张志兵【退出】；122刘建松【退出】；123赵飞【退出】；124陈秘东【退出】；125费智慧【退出】；126高原【退出】；127时长春【退出】；128孙继继【退出】；129王永刚【退出】；130夏培书【退出】；131于海燕【退出】；132于麒子【退出】；133周克勤【退出】；134李斌【退出】；135李洪梅【退出】；136孙滨【退出】；137盛杰【退出】",
+        "AfterContent": "1周克勤【新增】；2李斌【新增】；3李洪梅【新增】；4李平【新增】；5李玉军【新增】；6娄强【新增】；7逯建伟【新增】；8王亮【新增】；9孙志刚【新增】；10吴学锋【新增】；11于庆阳【新增】；12赵国庆【新增】；13于海相【新增】；14杨勇【新增】；15林基春【新增】；16赵安华【新增】；17祝胜鑫【新增】；18王瑰玮【新增】；19张志兵【新增】；20刘喜昌【新增】；21刘晓阳【新增】；22滕飞【新增】；23肖虎【新增】；24李晓龙【新增】；25李铁【新增】；26李妍【新增】；27栾宏宇【新增】；28蒙明安【新增】；29王继印【新增】；30徐月伦【新增】；31蔡广强【新增】；32张金发【新增】；33刘天华【新增】；34孙一【新增】；35王福亮【新增】；36樊力【新增】；37刘宏【新增】；38孙颖【新增】；39翟红涛【新增】；40钱晓翠【新增】；41寇树军【新增】；42邰清云【新增】；43谷雨【新增】；44王鹏【新增】；45董金生【新增】；46于瑞朋【新增】；47盖秀兰【新增】；48刘慧珍【新增】；49刘爽【新增】；50曲慧【新增】；51陈林【新增】；52程立顺【新增】；53代军文【新增】；54纪利【新增】；55金库【新增】；56孙广喜【新增】；57关立新【新增】；58肖蜀岩【新增】；59李燕【新增】；60苏爱英【新增】；61谭秀坤【新增】；62祁冉【新增】；63惠文成【新增】；64郑培珂【新增】；65李闯【新增】；66孙海亮【新增】；67于媛【新增】；68曹万坤【新增】；69高广学【新增】；70李佩东【新增】；71李艳辉【新增】；72吕长恩【新增】；73王海斌【新增】；74王宏艳【新增】；75吴新如【新增】；76常国旺【新增】；77郭志成【新增】；78刘丽【新增】；79李美君【新增】；80姜德华【新增】；81增资【新增】；82吕锟【新增】；83王丹【新增】；84吕娜【新增】；85马秀娟【新增】；86黄理邦【新增】；87郑丹【新增】；88刘大明【新增】；89付炜林【新增】；90高萍【新增】；91韩德全【新增】；92黄桂斌【新增】；93吴学亮*【新增】；94盛雅莉【新增】；95盛龙【新增】；96盛雅萍【新增】；97盛利【新增】；98林元【新增】；99王崇梅【新增】；100王君【新增】；101刘秀芹【新增】；102王革【新增】；103孙丽【新增】；104吴静怡【新增】；105朱述华【新增】；106周大燕【新增】；107黄素娥【新增】；108李海伟【新增】；109吴学群【新增】；110吴志刚【新增】；111李云辉【新增】；112周伟星【新增】；113陈晨【新增】；114刘萍【新增】；115冯国胜【新增】；116吴志道【新增】；117刘伟【新增】；118郑世军【新增】；119刘继峰【新增】；120盛杰【新增】；121韩福平【新增】；122增资【新增】；123增资【新增】；124李红【新增】；125黄岩【新增】；126陈雪冬【新增】；127夏培书【新增】；128于海燕【新增】；129于麒子【新增】；130王永刚【新增】；131刘建松【新增】；132赵飞【新增】；133陈秘东【新增】；134费智慧【新增】；135高原【新增】；136时长春【新增】；137孙继继【新增】；138孙滨【新增】",
+        "ChangeDate": "2017-12-27"
+      },
+      {
+        "ProjectName": "名称变更（字号名称、集团名称等）",
+        "BeforeContent": "沈阳桃李面包股份有限公司",
+        "AfterContent": "桃李面包股份有限公司",
+        "ChangeDate": "2017-03-28"
+      },
+      {
+        "ProjectName": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+        "BeforeContent": "吴学群",
+        "AfterContent": "吴志刚",
+        "ChangeDate": "2016-07-28"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "1吴志刚董事；2谭秀坤董事【退出】；3杨勇监事【退出】；4吴学亮*董事；5盛龙董事；6盛利监事【退出】；7盖秀兰监事【退出】；8吴学群董事长兼经理",
+        "AfterContent": "1吴学东董事【新增】；2宋长发董事【新增】；3吴非董事【新增】；4黄宇董事【新增】；5刘澄清董事【新增】；6付尧监事【新增】；7吴志刚董事长；8曲慧监事【新增】；9关立新监事会主席【新增】；10盛龙董事；11吴学亮*董事；12吴学群董事兼经理",
+        "ChangeDate": "2016-07-28"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "糕点(烘烤类糕点、油炸类糕点、蒸煮类糕点,月饼)生产加工；日用百货批发、零售,农副产品收购。(依法须经批准的项目,经相关部门批准后方可开展经营活动。)",
+        "AfterContent": "糕点(焙烤类糕点、油炸类糕点、蒸煮类糕点,月饼)生产加工,日用百货批发、零售,农副产品收购,企业管理服务、仓储服务(不含危险化学品),市场营销策划。(依法须经批准的项目,经相关部门批准后方可开展经营活动。)",
+        "ChangeDate": "2016-05-30"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "1程立顺；2盛龙；3盛雅萍；4郑丹；5刘大明；6付炜林；7高萍；8蒙明安；9王继印；10徐月伦；11盛利；12韩德全；13于瑞朋；14盖秀兰；15吕锟；16蔡广强【退出】；17张金发【退出】；18刘宏【退出】；19王丹【退出】；20孙颖；21翟红涛；22钱晓翠；23寇树军；24李铁；25李妍；26栾宏宇；27李红；28黄岩；29代军文；30纪利；31金库；32李闯；33刘晓阳；34滕飞；35王海斌；36刘丽；37李美君；38苏爱英；39孙海亮；40林元；41王宏艳；42吴新如；43常国旺；44姜德华；45王君；46吴学亮*；47盛雅莉；48谭秀坤；49祁冉；50惠文成；51郑培珂；52王崇梅；53吴静怡；54朱述华；55吕长恩；56孙丽；57刘慧珍；58周大燕；59邰清云【退出】；60刘秀芹【退出】；61王革【退出】；62刘喜昌【退出】；63陈雪冬【退出】；64于麒子【退出】；65周克勤【退出】；66黄素娥【退出】；67李晓龙；68李海伟；69刘萍；70冯国胜；71刘伟；72郑世军；73李斌【退出】；74李洪梅【退出】；75谷雨【退出】；76郭志成【退出】；77黄理邦【退出】；78孙滨；79王鹏；80吴学群；81董金生；82刘爽；83曲慧；84陈林；85吴志刚；86吴学锋；87于庆阳【退出】；88赵国庆【退出】；89孙广喜【退出】；90关立新【退出】；91肖蜀岩【退出】；92李燕【退出】；93盛杰【退出】；94增资【退出】；95韩福平【退出】；96曹万坤【退出】；97高广学【退出】；98李佩东【退出】；99李艳辉【退出】；100于媛【退出】；101孙继继【退出】；102王永刚【退出】；103夏培书【退出】；104于海燕【退出】；105吕娜【退出】；106王亮【退出】；107刘继峰【退出】；108吴志道【退出】；109孙志刚【退出】；110李云辉【退出】；111周伟星【退出】；112陈晨【退出】；113肖虎【退出】；114马秀娟【退出】；115刘建松【退出】；116黄桂斌【退出】；117于海相【退出】；118杨勇【退出】；119林基春【退出】；120王瑰玮【退出】；121张志兵【退出】；122赵飞【退出】；123陈秘东【退出】；124赵安华【退出】；125祝胜鑫【退出】；126李平【退出】；127李玉军【退出】；128娄强【退出】；129逯建伟【退出】；130刘天华【退出】；131孙一【退出】；132王福亮【退出】；133樊力【退出】；134时长春【退出】；135费智慧【退出】；136高原【退出】",
+        "AfterContent": "1程立顺；2盛龙；3盛雅萍；4郑丹；5刘大明；6付炜林；7高萍；8蒙明安；9王继印；10徐月伦；11盛利；12韩德全；13于瑞朋；14盖秀兰；15吕锟；16王丹【新增】；17蔡广强【新增】；18张金发【新增】；19刘宏【新增】；20孙颖；21翟红涛；22钱晓翠；23寇树军；24李铁；25李妍；26栾宏宇；27李红；28黄岩；29代军文；30纪利；31金库；32李闯；33刘晓阳；34滕飞；35王海斌；36刘丽；37李美君；38苏爱英；39孙海亮；40林元；41王宏艳；42吴新如；43常国旺；44姜德华；45王君；46吴学亮*；47盛雅莉；48谭秀坤；49祁冉；50惠文成；51郑培珂；52王崇梅；53吴静怡；54朱述华；55吕长恩；56孙丽；57刘慧珍；58周大燕；59黄素娥【新增】；60邰清云【新增】；61刘秀芹【新增】；62王革【新增】；63刘喜昌【新增】；64陈雪冬【新增】；65于麒子【新增】；66周克勤【新增】；67李晓龙；68李海伟；69刘萍；70冯国胜；71刘伟；72郑世军；73黄理邦【新增】；74李斌【新增】；75李洪梅【新增】；76谷雨【新增】；77郭志成【新增】；78孙滨；79王鹏；80吴学群；81董金生；82刘爽；83曲慧；84陈林；85吴志刚；86吴学锋；87孙广喜【新增】；88于庆阳【新增】；89赵国庆【新增】；90于海相【新增】；91关立新【新增】；92肖蜀岩【新增】；93李燕【新增】；94盛杰【新增】；95增资【新增】；96增资【新增】；97韩福平【新增】；98曹万坤【新增】；99高广学【新增】；100李佩东【新增】；101李艳辉【新增】；102于媛【新增】；103孙继继【新增】；104王永刚【新增】；105夏培书【新增】；106于海燕【新增】；107吕娜【新增】；108王亮【新增】；109刘继峰【新增】；110吴志道【新增】；111孙志刚【新增】；112李云辉【新增】；113周伟星【新增】；114陈晨【新增】；115肖虎【新增】；116马秀娟【新增】；117刘建松【新增】；118黄桂斌【新增】；119杨勇【新增】；120林基春【新增】；121王瑰玮【新增】；122张志兵【新增】；123赵飞【新增】；124陈秘东【新增】；125费智慧【新增】；126赵安华【新增】；127祝胜鑫【新增】；128李平【新增】；129李玉军【新增】；130娄强【新增】；131逯建伟【新增】；132刘天华【新增】；133孙一【新增】；134王福亮【新增】；135樊力【新增】；136时长春【新增】；137高原【新增】",
+        "ChangeDate": "2016-01-08"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "40511.3400",
+        "AfterContent": "45012.6000（+11.11%）",
+        "ChangeDate": "2016-01-08"
+      },
+      {
+        "ProjectName": "其他事项备案",
+        "BeforeContent": "40511.3400",
+        "AfterContent": "45012.6000",
+        "ChangeDate": "2016-01-08"
+      },
+      {
+        "ProjectName": "期限变更（经营期限、营业期限、驻在期限等变更）",
+        "BeforeContent": "2017-01-23",
+        "AfterContent": "",
+        "ChangeDate": "2016-01-08"
+      },
+      {
+        "ProjectName": "市场主体类型变更",
+        "BeforeContent": "股份有限公司(非上市、自然人投资或控股)",
+        "AfterContent": "股份有限公司(上市、自然人投资或控股)",
+        "ChangeDate": "2016-01-08"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "15004.2000",
+        "AfterContent": "40511.3400（+170%）",
+        "ChangeDate": "2014-09-10"
+      },
+      {
+        "ProjectName": "其他事项备案",
+        "BeforeContent": "15004.2000",
+        "AfterContent": "40511.3400",
+        "ChangeDate": "2014-09-10"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "1陈林【退出】；2程立顺【退出】；3盛龙【退出】；4盛雅萍【退出】；5郑丹【退出】；6刘大明【退出】；7付炜林【退出】；8高萍【退出】；9蒙明安【退出】；10王继印【退出】；11徐月伦【退出】；12盛利【退出】；13韩德全【退出】；14于瑞朋【退出】；15盖秀兰【退出】；16吕锟【退出】；17蔡广强【退出】；18张金发【退出】；19刘宏【退出】；20王丹【退出】；21孙颖【退出】；22翟红涛【退出】；23钱晓翠【退出】；24寇树军【退出】；25李铁【退出】；26李妍【退出】；27栾宏宇【退出】；28李红【退出】；29黄岩【退出】；30代军文【退出】；31纪利【退出】；32金库【退出】；33李闯【退出】；34刘晓阳【退出】；35滕飞【退出】；36王海斌【退出】；37刘丽【退出】；38李美君【退出】；39苏爱英【退出】；40孙海亮【退出】；41林元【退出】；42王宏艳【退出】；43吴新如【退出】；44常国旺【退出】；45姜德华【退出】；46王君【退出】；47吴学亮*【退出】；48盛雅莉【退出】；49谭秀坤【退出】；50祁冉【退出】；51惠文成【退出】；52郑培珂【退出】；53王崇梅【退出】；54吴静怡【退出】；55朱述华【退出】；56吕长恩【退出】；57孙丽【退出】；58刘慧珍【退出】；59周大燕【退出】；60于海燕【退出】；61刘秀芹【退出】；62王革【退出】；63刘喜昌【退出】；64于麒子；65周克勤；66邰清云【退出】；67黄素娥【退出】；68李晓龙【退出】；69李海伟【退出】；70陈雪冬【退出】；71刘萍【退出】；72冯国胜【退出】；73刘伟【退出】；74郑世军【退出】；75李斌【退出】；76李洪梅【退出】；77谷雨【退出】；78郭志成【退出】；79黄理邦【退出】；80孙滨【退出】；81王鹏【退出】；82吴学群【退出】；83董金生【退出】；84刘爽【退出】；85曲慧【退出】；86吴志刚【退出】；87吴学锋【退出】；88于庆阳【退出】；89赵国庆【退出】；90孙广喜【退出】；91关立新【退出】；92肖蜀岩【退出】；93李燕【退出】；94盛杰【退出】；95韩福平；96曹万坤；97高广学；98李佩东；99李艳辉；100于媛；101孙继继；102王永刚；103夏培书；104吕娜【退出】；105王亮【退出】；106刘继峰【退出】；107孙志刚【退出】；108吴志道；109李云辉【退出】；110周伟星【退出】；111陈晨【退出】；112肖虎【退出】；113马秀娟【退出】；114刘建松【退出】；115于海相【退出】；116杨勇【退出】；117林基春【退出】；118王瑰玮【退出】；119张志兵【退出】；120赵飞【退出】；121陈秘东【退出】；122赵安华【退出】；123祝胜鑫【退出】；124黄桂斌【退出】；125李平【退出】；126李玉军【退出】；127娄强【退出】；128刘天华【退出】；129孙一【退出】；130王福亮【退出】；131时长春【退出】；132逯建伟【退出】；133樊力；134费智慧【退出】；135高原【退出】",
+        "AfterContent": "1程立顺【新增】；2盛龙【新增】；3盛雅萍【新增】；4郑丹【新增】；5刘大明【新增】；6付炜林【新增】；7高萍【新增】；8蒙明安【新增】；9王继印【新增】；10徐月伦【新增】；11盛利【新增】；12韩德全【新增】；13于瑞朋【新增】；14盖秀兰【新增】；15吕锟【新增】；16蔡广强【新增】；17张金发【新增】；18刘宏【新增】；19王丹【新增】；20孙颖【新增】；21翟红涛【新增】；22钱晓翠【新增】；23寇树军【新增】；24李铁【新增】；25李妍【新增】；26栾宏宇【新增】；27李红【新增】；28黄岩【新增】；29代军文【新增】；30纪利【新增】；31金库【新增】；32李闯【新增】；33刘晓阳【新增】；34滕飞【新增】；35王海斌【新增】；36刘丽【新增】；37李美君【新增】；38苏爱英【新增】；39孙海亮【新增】；40林元【新增】；41王宏艳【新增】；42吴新如【新增】；43常国旺【新增】；44姜德华【新增】；45王君【新增】；46吴学亮*【新增】；47盛雅莉【新增】；48谭秀坤【新增】；49祁冉【新增】；50惠文成【新增】；51郑培珂【新增】；52王崇梅【新增】；53吴静怡【新增】；54朱述华【新增】；55吕长恩【新增】；56孙丽【新增】；57刘慧珍【新增】；58周大燕【新增】；59邰清云【新增】；60刘秀芹【新增】；61王革【新增】；62刘喜昌【新增】；63陈雪冬【新增】；64于麒子；65周克勤；66黄素娥【新增】；67李晓龙【新增】；68李海伟【新增】；69刘萍【新增】；70冯国胜【新增】；71刘伟【新增】；72郑世军【新增】；73李斌【新增】；74李洪梅【新增】；75谷雨【新增】；76郭志成【新增】；77黄理邦【新增】；78孙滨【新增】；79王鹏【新增】；80吴学群【新增】；81董金生【新增】；82刘爽【新增】；83曲慧【新增】；84陈林【新增】；85吴志刚【新增】；86吴学锋【新增】；87于庆阳【新增】；88赵国庆【新增】；89孙广喜【新增】；90关立新【新增】；91肖蜀岩【新增】；92李燕【新增】；93盛杰【新增】；94增资【新增】；95韩福平；96曹万坤；97高广学；98李佩东；99李艳辉；100于媛；101孙继继；102王永刚；103夏培书；104于海燕【新增】；105吕娜【新增】；106王亮【新增】；107刘继峰【新增】；108吴志道；109孙志刚【新增】；110李云辉【新增】；111周伟星【新增】；112陈晨【新增】；113肖虎【新增】；114马秀娟【新增】；115刘建松【新增】；116黄桂斌【新增】；117于海相【新增】；118杨勇【新增】；119林基春【新增】；120王瑰玮【新增】；121张志兵【新增】；122赵飞【新增】；123陈秘东【新增】；124赵安华【新增】；125祝胜鑫【新增】；126李平【新增】；127李玉军【新增】；128娄强【新增】；129逯建伟【新增】；130刘天华【新增】；131孙一【新增】；132王福亮【新增】；133樊力；134时长春【新增】；135费智慧【新增】；136高原【新增】",
+        "ChangeDate": "2014-09-10"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "糕点(烘烤类糕点、油炸类糕点、蒸煮类糕点,月饼)生产加工,日用百货批发、零售,农副产品收购。",
+        "AfterContent": "糕点(烘烤类糕点、油炸类糕点、蒸煮类糕点,月饼)生产加工；日用百货批发、零售,农副产品收购。(依法须经批准的项目,经相关部门批准后方可开展经营活动。)",
+        "ChangeDate": "2014-09-10"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "1吴志刚董事；2吴学群董事长；3谭秀坤董事；4杨勇监事；5吴学亮*董事；6盛龙董事；7盛利监事；8盖秀兰监事",
+        "AfterContent": "1吴志刚董事；2谭秀坤董事；3杨勇监事；4吴学亮*董事；5盛龙董事；6盛利监事；7盖秀兰监事；8吴学群董事长兼经理",
+        "ChangeDate": "2014-09-10"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "",
+        "AfterContent": "章程",
+        "ChangeDate": "2013-12-09"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "1吴志刚董事；2吴学群董事长；3谭秀坤董事；4杨勇监事；5吴学亮*董事；6盛龙董事；7盛利监事【退出】；8盖秀兰监事",
+        "AfterContent": "1盖秀兰监事；2蔡明福董事【新增】；3关志民董事【新增】；4朱念琳董事【新增】；5李宝玉董事【新增】；6曲慧监事【新增】；7吴志刚董事；8吴学亮*董事；9谭秀坤董事；10杨勇监事；11盛龙董事；12吴学群董事长兼经理",
+        "ChangeDate": "2012-08-03"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "8826.0000",
+        "AfterContent": "15004.2000（+70%）",
+        "ChangeDate": "2011-07-15"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "1李洪梅【退出】；2孙滨【退出】；3王海斌【退出】；4王宏艳【退出】；5吴新如【退出】；6常国旺【退出】；7费智慧【退出】；8郭志成【退出】；9刘丽【退出】；10朱述华【退出】；11王君【退出】；12刘秀芹【退出】；13王革【退出】；14刘喜昌【退出】；15刘晓阳【退出】；16滕飞【退出】；17高原【退出】；18吴静怡【退出】；19周大燕【退出】；20黄素娥【退出】；21李海伟【退出】；22李晓龙【退出】；23李铁；24李妍；25栾宏宇；26蒙明安【退出】；27王继印【退出】；28李燕【退出】；29苏爱英【退出】；30谭秀坤【退出】；31祁冉【退出】；32惠文成【退出】；33郑培珂【退出】；34吴学群【退出】；35吴志刚【退出】；36吴学亮*【退出】；37盛雅莉【退出】；38盛龙【退出】；39盛雅萍【退出】；40盛利；41林元【退出】；42孙广喜【退出】；43关立新【退出】；44肖蜀岩【退出】；45吕娜【退出】；46王亮【退出】；47孙志刚【退出】；48吴学锋【退出】；49于庆阳【退出】；50赵国庆【退出】；51于海相【退出】；52杨勇【退出】；53林基春【退出】；54陈林【退出】；55代军文【退出】；56纪利【退出】；57金库【退出】；58李闯【退出】；59孙海亮【退出】；60于媛【退出】；61曹万坤【退出】；62高广学【退出】；63李佩东【退出】；64李艳辉【退出】；65吕长恩【退出】；66马秀娟【退出】；67王瑰玮【退出】；68肖虎【退出】；69刘慧珍【退出】；70刘爽【退出】；71曲慧【退出】；72徐月伦【退出】；73蔡广强【退出】；74张金发【退出】；75刘天华【退出】；76孙一【退出】；77王福亮【退出】；78樊力【退出】；79刘宏【退出】；80高萍【退出】；81韩德全【退出】；82韩福平【退出】；83黄桂斌【退出】；84李平【退出】；85李玉军【退出】；86娄强【退出】；87逯建伟【退出】；88时长春【退出】；89王永刚【退出】；90夏培书【退出】；91于海燕【退出】；92于麒子【退出】；93董金生【退出】；94于瑞朋【退出】；95盖秀兰【退出】；96赵安华【退出】；97祝胜鑫【退出】；98盛杰【退出】；99李红【退出】；100黄岩【退出】；101陈雪冬【退出】；102刘萍【退出】；103程立顺【退出】；104孙继继【退出】；105周克勤【退出】；106李斌【退出】；107冯国胜【退出】；108刘伟【退出】；109郑世军【退出】；110刘继峰【退出】；111吴志道【退出】；112李云辉【退出】；113李美君【退出】；114姜德华【退出】；115吕锟【退出】；116王丹【退出】；117谷雨【退出】；118王鹏【退出】；119周伟星【退出】；120陈晨【退出】；121孙丽【退出】；122王崇梅【退出】；123孙颖【退出】；124翟红涛【退出】；125钱晓翠【退出】；126寇树军【退出】；127邰清云【退出】；128黄理邦【退出】；129郑丹【退出】；130刘大明【退出】；131付炜林【退出】；132张志兵【退出】；133刘建松【退出】；134赵飞【退出】；135陈秘东【退出】",
+        "AfterContent": "1陈林【新增】；2程立顺【新增】；3盛雅莉【新增】；4盛龙【新增】；5盛雅萍【新增】；6郑丹【新增】；7刘大明【新增】；8付炜林【新增】；9高萍【新增】；10蒙明安【新增】；11王继印【新增】；12徐月伦【新增】；13于瑞朋【新增】；14盖秀兰【新增】；15吕锟【新增】；16蔡广强【新增】；17刘宏【新增】；18王丹【新增】；19孙颖【新增】；20翟红涛【新增】；21钱晓翠【新增】；22寇树军【新增】；23李铁；24李妍；25栾宏宇；26李红【新增】；27黄岩【新增】；28代军文【新增】；29纪利【新增】；30金库【新增】；31李闯【新增】；32刘晓阳【新增】；33滕飞【新增】；34王海斌【新增】；35郭志成【新增】；36刘丽【新增】；37李美君【新增】；38苏爱英【新增】；39孙海亮【新增】；40盛利；41王宏艳【新增】；42吴新如【新增】；43姜德华【新增】；44王君【新增】；45吴学亮*【新增】；46谭秀坤【新增】；47祁冉【新增】；48惠文成【新增】；49林元【新增】；50王崇梅【新增】；51吴静怡【新增】；52李艳辉【新增】；53吕长恩【新增】；54陈晨【新增】；55孙丽【新增】；56朱述华【新增】；57周大燕【新增】；58于海燕【新增】；59刘秀芹【新增】；60王革【新增】；61于麒子【新增】；62周克勤【新增】；63邰清云【新增】；64黄素娥【新增】；65李晓龙【新增】；66刘喜昌【新增】；67李海伟【新增】；68陈雪冬【新增】；69刘萍【新增】；70冯国胜【新增】；71刘伟【新增】；72郑世军【新增】；73李斌【新增】；74常国旺【新增】；75黄理邦【新增】；76李洪梅【新增】；77孙滨【新增】；78谷雨【新增】；79王鹏【新增】；80董金生【新增】；81刘慧珍【新增】；82刘爽【新增】；83曲慧【新增】；84吴学群【新增】；85吴志刚【新增】；86吴学锋【新增】；87于庆阳【新增】；88赵国庆【新增】；89孙广喜【新增】；90关立新【新增】；91肖蜀岩【新增】；92李燕【新增】；93盛杰【新增】；94韩福平【新增】；95曹万坤【新增】；96高广学【新增】；97李佩东【新增】；98于媛【新增】；99孙继继【新增】；100王永刚【新增】；101夏培书【新增】；102吕娜【新增】；103王亮【新增】；104刘继峰【新增】；105孙志刚【新增】；106吴志道【新增】；107李云辉【新增】；108周伟星【新增】；109肖虎【新增】；110韩德全【新增】；111于海相【新增】；112杨勇【新增】；113马秀娟【新增】；114王瑰玮【新增】；115张志兵【新增】；116刘建松【新增】；117赵飞【新增】；118陈秘东【新增】；119林基春【新增】；120赵安华【新增】；121黄桂斌【新增】；122李平【新增】；123李玉军【新增】；124娄强【新增】；125张金发【新增】；126刘天华【新增】；127孙一【新增】；128王福亮【新增】；129逯建伟【新增】；130时长春【新增】；131祝胜鑫【新增】；132樊力【新增】；133郑培珂【新增】；134费智慧【新增】；135高原【新增】",
+        "ChangeDate": "2011-07-15"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "1于庆阳【退出】；2赵国庆【退出】；3于海相【退出】；4杨勇【退出】；5林基春【退出】；6赵安华【退出】；7祝胜鑫【退出】；8盛杰【退出】；9李红【退出】；10纪利【退出】；11金库【退出】；12李闯【退出】；13孙海亮【退出】；14刘伟【退出】；15郑世军【退出】；16刘继峰【退出】；17吴志道【退出】；18孙志刚【退出】；19吴学锋【退出】；20李云辉【退出】；21周伟星【退出】；22陈晨【退出】；23周大燕【退出】；24黄素娥【退出】；25李海伟【退出】；26李晓龙【退出】；27李铁【退出】；28李妍【退出】；29栾宏宇【退出】；30李玉军【退出】；31娄强【退出】；32逯建伟【退出】；33时长春【退出】；34孙继继【退出】；35王永刚【退出】；36夏培书【退出】；37于海燕【退出】；38于麒子【退出】；39周克勤【退出】；40李斌【退出】；41李洪梅【退出】；42孙滨【退出】；43王海斌【退出】；44王宏艳【退出】；45吴新如【退出】；46吴学群【退出】；47孙丽【退出】；48王崇梅【退出】；49王君【退出】；50刘秀芹【退出】；51王革【退出】；52刘喜昌【退出】；53邰清云【退出】；54黄理邦【退出】；55郑丹【退出】；56刘大明【退出】；57付炜林【退出】；58高萍【退出】；59韩德全【退出】；60韩福平【退出】；61黄桂斌【退出】；62李平【退出】；63蒙明安【退出】；64王继印【退出】；65徐月伦【退出】；66蔡广强【退出】；67张金发【退出】；68刘天华【退出】；69常国旺【退出】；70于媛【退出】；71曹万坤【退出】；72陈林【退出】；73程立顺【退出】；74代军文【退出】；75李燕【退出】；76苏爱英【退出】；77谭秀坤【退出】；78祁冉【退出】；79惠文成【退出】；80郑培珂【退出】；81吕娜【退出】；82王亮【退出】；83姜德华【退出】；84吕锟【退出】；85王丹【退出】；86谷雨【退出】；87王鹏【退出】；88董金生【退出】；89于瑞朋【退出】；90盖秀兰【退出】；91郭志成【退出】；92高广学【退出】；93李佩东【退出】；94李艳辉【退出】；95吕长恩【退出】；96马秀娟【退出】；97王瑰玮【退出】；98张志兵【退出】；99吴志刚【退出】；100吴学亮*【退出】；101刘建松【退出】；102赵飞【退出】；103陈秘东【退出】；104费智慧【退出】；105高原【退出】；106吴静怡【退出】；107朱述华【退出】；108黄岩【退出】；109陈雪冬【退出】；110刘萍【退出】；111冯国胜【退出】；112刘晓阳【退出】；113滕飞【退出】；114肖虎【退出】；115刘慧珍【退出】；116刘爽【退出】；117曲慧【退出】；118盛雅莉【退出】；119盛龙【退出】；120盛雅萍【退出】；121盛利【退出】；122林元【退出】；123孙广喜【退出】；124关立新【退出】；125肖蜀岩【退出】；126孙一【退出】；127王福亮【退出】；128樊力【退出】；129刘宏【退出】；130徐平【退出】；131孙颖【退出】；132翟红涛【退出】；133钱晓翠【退出】；134寇树军【退出】；135刘丽【退出】；136李美君【退出】",
+        "AfterContent": "1李洪梅【新增】；2孙滨【新增】；3王海斌【新增】；4王宏艳【新增】；5吴新如【新增】；6常国旺【新增】；7费智慧【新增】；8郭志成【新增】；9刘丽【新增】；10朱述华【新增】；11王君【新增】；12刘秀芹【新增】；13王革【新增】；14刘喜昌【新增】；15刘晓阳【新增】；16滕飞【新增】；17高原【新增】；18吴静怡【新增】；19周大燕【新增】；20黄素娥【新增】；21李海伟【新增】；22李晓龙【新增】；23李铁【新增】；24李妍【新增】；25栾宏宇【新增】；26蒙明安【新增】；27王继印【新增】；28李燕【新增】；29苏爱英【新增】；30谭秀坤【新增】；31祁冉【新增】；32惠文成【新增】；33郑培珂【新增】；34吴学群【新增】；35吴志刚【新增】；36吴学亮*【新增】；37盛雅莉【新增】；38盛龙【新增】；39盛雅萍【新增】；40盛利【新增】；41林元【新增】；42孙广喜【新增】；43关立新【新增】；44肖蜀岩【新增】；45吕娜【新增】；46王亮【新增】；47孙志刚【新增】；48吴学锋【新增】；49于庆阳【新增】；50赵国庆【新增】；51于海相【新增】；52杨勇【新增】；53林基春【新增】；54陈林【新增】；55代军文【新增】；56纪利【新增】；57金库【新增】；58李闯【新增】；59孙海亮【新增】；60于媛【新增】；61曹万坤【新增】；62高广学【新增】；63李佩东【新增】；64李艳辉【新增】；65吕长恩【新增】；66马秀娟【新增】；67王瑰玮【新增】；68肖虎【新增】；69刘慧珍【新增】；70刘爽【新增】；71曲慧【新增】；72徐月伦【新增】；73蔡广强【新增】；74张金发【新增】；75刘天华【新增】；76孙一【新增】；77王福亮【新增】；78樊力【新增】；79刘宏【新增】；80高萍【新增】；81韩德全【新增】；82韩福平【新增】；83黄桂斌【新增】；84李平【新增】；85李玉军【新增】；86娄强【新增】；87逯建伟【新增】；88时长春【新增】；89王永刚【新增】；90夏培书【新增】；91于海燕【新增】；92于麒子【新增】；93董金生【新增】；94于瑞朋【新增】；95盖秀兰【新增】；96赵安华【新增】；97祝胜鑫【新增】；98盛杰【新增】；99李红【新增】；100黄岩【新增】；101陈雪冬【新增】；102刘萍【新增】；103程立顺【新增】；104孙继继【新增】；105周克勤【新增】；106李斌【新增】；107冯国胜【新增】；108刘伟【新增】；109郑世军【新增】；110刘继峰【新增】；111吴志道【新增】；112李云辉【新增】；113李美君【新增】；114姜德华【新增】；115吕锟【新增】；116王丹【新增】；117谷雨【新增】；118王鹏【新增】；119周伟星【新增】；120陈晨【新增】；121孙丽【新增】；122王崇梅【新增】；123孙颖【新增】；124翟红涛【新增】；125钱晓翠【新增】；126寇树军【新增】；127邰清云【新增】；128黄理邦【新增】；129郑丹【新增】；130刘大明【新增】；131付炜林【新增】；132张志兵【新增】；133刘建松【新增】；134赵飞【新增】；135陈秘东【新增】",
+        "ChangeDate": "2010-12-23"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "预包装食品、散装食品、冷冻食品批发、零售(许可证有效期至2011年4月25日)；食品添加剂、日用百货、饮具批发、零售；农副产品收购。",
+        "AfterContent": "糕点(烘烤类糕点、油炸类糕点、蒸煮类糕点,月饼)生产加工,日用百货批发、零售,农副产品收购。",
+        "ChangeDate": "2010-06-02"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "沈阳市沈河区友好街19号",
+        "AfterContent": "沈阳市苏家屯区丁香街176号",
+        "ChangeDate": "2010-06-02"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "8495.1667",
+        "AfterContent": "8826.0000（+3.89%）",
+        "ChangeDate": "2009-12-29"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "1吴学群【退出】；2吴志刚【退出】；3吴学亮*【退出】；4盛雅莉【退出】；5盛龙【退出】；6盛雅萍【退出】；7盛利【退出】",
+        "AfterContent": "1刘萍【新增】；2冯国胜【新增】；3刘伟【新增】；4郑世军【新增】；5刘继峰【新增】；6盛雅莉【新增】；7盛龙【新增】；8盛雅萍【新增】；9盛利【新增】；10孙广喜【新增】；11关立新【新增】；12肖蜀岩【新增】；13李燕【新增】；14盖秀兰【新增】；15吴志道【新增】；16李云辉【新增】；17周伟星【新增】；18陈晨【新增】；19孙丽【新增】；20王崇梅【新增】；21吴学群【新增】；22吴志刚【新增】；23李闯【新增】；24孙海亮【新增】；25于媛【新增】；26曹万坤【新增】；27李佩东【新增】；28李斌【新增】；29李洪梅【新增】；30孙滨【新增】；31李艳辉【新增】；32吕长恩【新增】；33马秀娟【新增】；34王瑰玮【新增】；35李海伟【新增】；36李晓龙【新增】；37李铁【新增】；38李妍【新增】；39栾宏宇【新增】；40蒙明安【新增】；41王继印【新增】；42刘宏【新增】；43徐平【新增】；44孙颖【新增】；45翟红涛【新增】；46吴学亮*【新增】；47王海斌【新增】；48吴新如【新增】；49刘慧珍【新增】；50刘爽【新增】；51曲慧【新增】；52陈林【新增】；53程立顺【新增】；54代军文【新增】；55纪利【新增】；56金库【新增】；57钱晓翠【新增】；58寇树军【新增】；59邰清云【新增】；60黄理邦【新增】；61郑丹【新增】；62常国旺【新增】；63郭志成【新增】；64刘丽【新增】；65李美君【新增】；66姜德华【新增】；67吕锟【新增】；68王丹【新增】；69谷雨【新增】；70王鹏【新增】；71董金生【新增】；72于瑞朋【新增】；73赵安华【新增】；74祝胜鑫【新增】；75盛杰【新增】；76李红【新增】；77黄岩【新增】；78陈雪冬【新增】；79肖虎【新增】；80王宏艳【新增】；81林元【新增】；82高广学【新增】；83于庆阳【新增】；84赵国庆【新增】；85于海相【新增】；86杨勇【新增】；87林基春【新增】；88刘天华【新增】；89孙一【新增】；90王福亮【新增】；91樊力【新增】；92周大燕【新增】；93黄素娥【新增】；94苏爱英【新增】；95谭秀坤【新增】；96刘大明【新增】；97付炜林【新增】；98高萍【新增】；99韩德全【新增】；100韩福平【新增】；101黄桂斌【新增】；102李平【新增】；103李玉军【新增】；104娄强【新增】；105逯建伟【新增】；106时长春【新增】；107孙继继【新增】；108王永刚【新增】；109王君【新增】；110刘秀芹【新增】；111王革【新增】；112刘喜昌【新增】；113刘晓阳【新增】；114滕飞【新增】；115祁冉【新增】；116惠文成【新增】；117郑培珂【新增】；118吕娜【新增】；119王亮【新增】；120孙志刚【新增】；121吴学锋【新增】；122张志兵【新增】；123赵飞【新增】；124陈秘东【新增】；125费智慧【新增】；126高原【新增】；127吴静怡【新增】；128朱述华【新增】；129刘建松【新增】；130徐月伦【新增】；131蔡广强【新增】；132张金发【新增】；133于麒子【新增】；134周克勤【新增】；135夏培书【新增】；136于海燕【新增】",
+        "ChangeDate": "2009-12-29"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "1吴学亮*董事；2盛龙董事；3盛利监事；4吴志刚董事；5吴学群董事长；6谭秀坤董事；7盖秀兰监事；8杨勇监事",
+        "AfterContent": "1盛利监事；2吴志刚董事；3吴学群董事长；4谭秀坤董事；5杨勇监事；6吴学亮*董事；7盛龙董事；8盖秀兰监事",
+        "ChangeDate": "2009-12-29"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "1吴志刚；2吴学群",
+        "AfterContent": "1吴学群；2吴志刚；3吴学亮*【新增】；4盛雅莉【新增】；5盛龙【新增】；6盛雅萍【新增】；7盛利【新增】",
+        "ChangeDate": "2009-06-18"
+      },
+      {
+        "ProjectName": "实收资本变更",
+        "BeforeContent": "5366.0000",
+        "AfterContent": "8495.1667（+58.31%）",
+        "ChangeDate": "2009-06-18"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "1吴志刚董事；2吴学群董事长；3谭秀坤董事；4苏爱英董事【退出】；5林元董事【退出】；6盖秀兰监事；7杨勇监事",
+        "AfterContent": "1吴学亮*董事【新增】；2盛龙董事【新增】；3盛利监事【新增】；4吴志刚董事；5吴学群董事长；6谭秀坤董事；7盖秀兰监事；8杨勇监事",
+        "ChangeDate": "2009-06-18"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "预包装食品、散装食品、冷冻食品批发、零售(许可证有效期至2011年4月25日)；食品添加剂、日用百货、饮具批发、零售",
+        "AfterContent": "预包装食品、散装食品、冷冻食品批发、零售(许可证有效期至2011年4月25日)；食品添加剂、日用百货、饮具批发、零售；农副产品收购。",
+        "ChangeDate": "2009-01-12"
+      },
+      {
+        "ProjectName": "市场主体类型变更",
+        "BeforeContent": "有限责任公司(自然人投资或控股)",
+        "AfterContent": "股份有限公司(非上市、自然人投资或控股)",
+        "ChangeDate": "2007-07-16"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "3250.0000",
+        "AfterContent": "5366.0000（+65.11%）",
+        "ChangeDate": "2007-07-16"
+      },
+      {
+        "ProjectName": "名称变更（字号名称、集团名称等）",
+        "BeforeContent": "沈阳市桃李食品有限公司",
+        "AfterContent": "沈阳桃李面包股份有限公司",
+        "ChangeDate": "2007-07-16"
+      },
+      {
+        "ProjectName": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+        "BeforeContent": "吴志刚",
+        "AfterContent": "吴学群",
+        "ChangeDate": "2007-07-16"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "预包装食品批发、零售(许可证有效期至2011年4月25日)；食品添加剂、日用百货、饮具批发、零售",
+        "AfterContent": "预包装食品、散装食品、冷冻食品批发、零售(许可证有效期至2011年4月25日)；食品添加剂、日用百货、饮具批发、零售",
+        "ChangeDate": "2007-07-16"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "2000.0000",
+        "AfterContent": "3250.0000（+62.5%）",
+        "ChangeDate": "2007-06-25"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "1吴志刚执行董事；2吴学群董事；3金明学监事【退出】",
+        "AfterContent": "1林元董事【新增】；2吴学群董事长；3谭秀坤董事【新增】；4苏爱英董事【新增】；5盖秀兰监事【新增】；6杨勇监事【新增】；7吴志刚董事",
+        "ChangeDate": "2007-06-25"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "糕点、定型包装食品批发、零售；食品添加剂、日用百货、饮具批发、零售",
+        "AfterContent": "预包装食品批发、零售(许可证有效期至2011年4月25日)；食品添加剂、日用百货、饮具批发、零售",
+        "ChangeDate": "2007-04-27"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "沈阳市和平区同泽南街139甲号",
+        "AfterContent": "沈阳市沈河区友好街19号",
+        "ChangeDate": "2007-04-27"
+      },
+      {
+        "ProjectName": "期限变更（经营期限、营业期限、驻在期限等变更）",
+        "BeforeContent": "2007-01-23",
+        "AfterContent": "2017-01-23",
+        "ChangeDate": "2007-01-09"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "面包、糕点加工、制作；方便食品、糕点、果酱、副食品、食品添加剂、日用百货、饮具批发、零售",
+        "AfterContent": "糕点、定型包装食品批发、零售；食品添加剂、日用百货、饮具批发、零售",
+        "ChangeDate": "2005-08-26"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "沈阳市和平区同泽南街135号甲",
+        "AfterContent": "沈阳市和平区同泽南街139甲号",
+        "ChangeDate": "2005-08-23"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "1沈阳市桃李食品有限公司【退出】；2吴学群；3吴志刚",
+        "AfterContent": "1吴学群；2吴志刚",
+        "ChangeDate": "2005-03-16"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "50.0000",
+        "AfterContent": "2000.0000（+3900%）",
+        "ChangeDate": "2005-03-16"
+      },
+      {
+        "ProjectName": "实收资本变更",
+        "BeforeContent": "",
+        "AfterContent": "50.0000",
+        "ChangeDate": "1999-03-05"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "沈阳市和平区南四马路23号",
+        "AfterContent": "沈阳市和平区同泽南街135号甲",
+        "ChangeDate": "1999-03-05"
+      },
+      {
+        "ProjectName": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+        "BeforeContent": "",
+        "AfterContent": "1沈阳市桃李食品有限公司;【新增】；2吴学群;【新增】；3吴志刚;【新增】",
+        "ChangeDate": "1999-03-05"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "1吴志刚",
+        "AfterContent": "1吴志刚执行董事；2吴学群董事【新增】；3金明学监事【新增】",
+        "ChangeDate": "1999-03-05"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "方便食品、糕点、果酱、副食品、日用百货、炊具批发、零售",
+        "AfterContent": "面包、糕点加工、制作；方便食品、糕点、果酱、副食品、食品添加剂、日用百货、饮具批发、零售",
+        "ChangeDate": "1998-06-09"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.tolybread.cn/index.php"
+        }
+      ],
+      "PhoneNumber": "024-22817166",
+      "Email": "210100000034995@lnpost.cn"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": "14",
+      "SubIndustry": "食品制造业",
+      "MiddleCategoryCode": "141",
+      "MiddleCategory": "焙烤食品制造",
+      "SmallCategoryCode": "1411",
+      "SmallCategory": "糕点、面包制造"
+    },
+    "Area": {
+      "Province": "辽宁省",
+      "City": "沈阳市",
+      "County": "苏家屯区"
+    },
+    "InsuredCount": "18",
+    "EnglishName": null,
+    "PersonScope": " 1000人以上",
+    "KeyNo": "80b9758f7dc8d149c0324741faa2a48f",
+    "Name": "桃李面包股份有限公司",
+    "No": "210100000034995",
+    "BelongOrg": "沈阳市市场监督管理局",
+    "OperName": "吴学亮",
+    "StartDate": "1997-01-23 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "LN",
+    "UpdatedDate": "2019-07-18 10:22:27",
+    "CreditCode": "91210100242588126L",
+    "RegistCapi": "65887.64万元人民币",
+    "EconKind": "股份有限公司(上市、自然人投资或控股)",
+    "Address": "沈阳市苏家屯区丁香街176号",
+    "Scope": "糕点(焙烤类糕点、油炸类糕点、蒸煮类糕点,月饼)生产加工,日用百货批发、零售,农副产品收购,企业管理服务、仓储服务(不含危险化学品),市场营销策划。(依法须经批准的项目,经相关部门批准后方可开展经营活动。)",
+    "TermStart": "1997-01-23 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2019-05-22 00:00:00",
+    "OrgNo": "24258812-6",
+    "IsOnStock": "1",
+    "StockNumber": "603866",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "沈阳桃李面包股份有限公司",
+        "ChangeDate": "2017-03-28"
+      },
+      {
+        "Name": "沈阳市桃李食品有限公司",
+        "ChangeDate": "2007-07-16"
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/80b9758f7dc8d149c0324741faa2a48f.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "45012.6万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

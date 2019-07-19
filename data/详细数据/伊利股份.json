@@ -1,0 +1,1581 @@
+{
+  "OrderNumber": "ECI2019071910102311185595",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2018-05-17",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2018-04-09",
+        "CaseNo": "n1500201800018"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2018-04-03",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2018-01-16",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2017-11-10",
+        "CaseNo": "开国许准字〔2017〕第234号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2017-09-27",
+        "CaseNo": "土左发改审字【2017】第133号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2017-06-28",
+        "CaseNo": "呼环政批字[2017]68号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2017-05-26",
+        "CaseNo": "呼环政验字[2017]19号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2017-04-11",
+        "CaseNo": "呼环政批字[2017]37号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2017-01-09",
+        "CaseNo": "呼经信审字〔2017〕2号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2017-01-06",
+        "CaseNo": "土左住建发【2017】3号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2016-11-29",
+        "CaseNo": "呼环政批字[2016]103号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2016-10-11",
+        "CaseNo": "土左发改审字【2016】第166号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2016-08-29",
+        "CaseNo": "呼环政批字[2016]87号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2016-08-04",
+        "CaseNo": "JY31501210004012"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2016-08-04",
+        "CaseNo": "JY31501210004029"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2016-07-14",
+        "CaseNo": "呼发改审批字[2016]173号"
+      },
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2016-04-20",
+        "CaseNo": "呼环政批字[2016]36号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2016-01-26",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2015-12-01",
+        "CaseNo": "呼经信审字〔2016〕11号"
+      },
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2015-11-09",
+        "CaseNo": "呼环政验字[2015]24号"
+      },
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2015-04-09",
+        "CaseNo": "呼环政批字[2015]29号"
+      },
+      {
+        "Name": "",
+        "Province": "内蒙古",
+        "Liandate": "2015-03-30",
+        "CaseNo": "呼经信审字〔2015〕19号"
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [
+      {
+        "Id": "eb6a41c13ba029172c620a347fb262db1",
+        "Sourceid": "0",
+        "Name": "内蒙古伊利实业集团股份有限公司",
+        "Liandate": "2019-04-25",
+        "Anno": "（2019）冀0104执1557号",
+        "ExecuteGov": "石家庄市桥西区人民法院",
+        "Biaodi": "275852",
+        "Status": "",
+        "PartyCardNum": "91150000114****263Y",
+        "Updatedate": null
+      },
+      {
+        "Id": "93df9450b007705c9d0d5e9ee24f8a2f1",
+        "Sourceid": "0",
+        "Name": "内蒙古伊利实业集团股份有限公司",
+        "Liandate": "2019-04-04",
+        "Anno": "(2019)内01执123号",
+        "ExecuteGov": "呼和浩特市中级人民法院",
+        "Biaodi": "8980142",
+        "Status": "",
+        "PartyCardNum": "91150000114****263Y",
+        "Updatedate": null
+      }
+    ],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "土默特左旗住房和城乡建设局",
+        "Type": "检查",
+        "Date": "2017-07-07",
+        "Consequence": "正常",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "150117114124263",
+        "Name": "内蒙古伊利实业集团股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "91150000114124263Y",
+        "Name": "内蒙古伊利实业集团股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "150117114124263",
+        "Name": "内蒙古伊利实业集团股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "150117114124263",
+        "Name": "内蒙古伊利实业集团股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "150117114124263",
+        "Name": "内蒙古伊利实业集团股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "内蒙古伊利实业集团股份有限公司",
+        "Link": "http://www.yili.com",
+        "ImageUrl": "http://img.qichacha.com/Product/bcaff87d-ef56-4b38-baf2-2657c9d774a8.jpg",
+        "Name": "伊利股份",
+        "Domain": "生活服务",
+        "Tags": "消费生活,奶粉,奶制品,团队优秀,奶茶,营养,会员",
+        "Description": "内蒙古伊利实业集团股份有限公司是目前中国规模最大、产品线最全的乳业领军者，也是唯一一家同时符合奥运及世博标准、先后为奥运会及世博会提供乳制品的中国企业。伊利集团由液态奶、冷饮、奶粉、酸奶和原奶五大事业部组成，全国所属分公司及子公司130多个，旗下拥有雪糕、冰淇淋、奶粉、奶茶粉、无菌奶、酸奶、奶酪等1000多个产品品种。            在50余年尤其是近10年的发展过程中，伊利始终致力于生产100%安全、100%健康的乳制品，为消费者带来最适合中国人体质的营养，并以世界最高的生产标准严格要求自己，为消费者追求健康体魄和幸福生活服务。            其中，伊利金典有机奶、营养舒化奶、畅轻酸奶、金领冠婴幼儿配方奶粉和巧乐兹冰淇淋等产品因其回味无穷的独特口感和科学合理的营养价值倍受市场认可，成为消费者心目中最受欢迎的“明星产品”。伊利对品质的执着追求也让市场和消费者见证了来自草原雄鹰腾飞的卓越历程。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "呼环政批字[2016]103号",
+        "LicensDocName": "建设项目环境影响批复",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市环境保护局",
+        "LicensContent": "伊利食品科研与发展中心建设项目"
+      },
+      {
+        "LicensDocNo": "呼环政批字[2017]37号",
+        "LicensDocName": "建设项目环境影响批复",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市环境保护局",
+        "LicensContent": "新建原辅料库房建设项目"
+      },
+      {
+        "LicensDocNo": "JY31501210004012",
+        "LicensDocName": "内蒙古伊利实业集团股份有限公司（金海职工餐厅）",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市土默特左旗食品药品监督管理局",
+        "LicensContent": "热食类食品制售***"
+      },
+      {
+        "LicensDocNo": "呼经信审字〔2016〕11号",
+        "LicensDocName": "关于内蒙古伊利实业集团股份有限公司乳制品检测检验质量全程管控平台项目备案的批复",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "经信委审批办",
+        "LicensContent": "技术改造"
+      },
+      {
+        "LicensDocNo": "呼环政批字[2017]68号",
+        "LicensDocName": "建设项目环境影响批复",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市环境保护局",
+        "LicensContent": "金川厂新建叉车充电室项目"
+      },
+      {
+        "LicensDocNo": "SC10515019900380",
+        "LicensDocName": "食品生产许可证",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市食品药品监督管理局",
+        "LicensContent": "乳制品、饮料、冷冻饮品"
+      },
+      {
+        "LicensDocNo": "呼环政验字[2017]19号",
+        "LicensDocName": "建设项目竣工环境保护验收批复",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市环境保护局",
+        "LicensContent": "新建200m2化学品库房项目"
+      },
+      {
+        "LicensDocNo": "JY31501210004029",
+        "LicensDocName": "内蒙古伊利实业集团股份有限公司",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市土默特左旗食品药品监督管理局",
+        "LicensContent": "热食类食品制售***"
+      },
+      {
+        "LicensDocNo": "呼经信审字〔2015〕19号",
+        "LicensDocName": "呼和浩特市经济和信息化委员会\n关于内蒙古伊利实业集团股份有限公司乳制品生产自动化技术改造项目备案的批复\n",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市经济和信息化委员会",
+        "LicensContent": "备案"
+      },
+      {
+        "LicensDocNo": "呼环政批字[2016]87号",
+        "LicensDocName": "建设项目环境影响报告书（表）的审批",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市环境保护局",
+        "LicensContent": "新建200m2化学品库房项目"
+      },
+      {
+        "LicensDocNo": "呼发改审批字[2016]173号",
+        "LicensDocName": "备案",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼市发改委",
+        "LicensContent": "总建筑面积35578.5平方米，包括综合管理区6949.1平方米、档案信息中心10890平方米、餐厅楼6198.4平方米、伊利财务共享中心11511平方米、岗亭30平方米。"
+      },
+      {
+        "LicensDocNo": "呼环政批字[2017]113号",
+        "LicensDocName": "建设项目环境影响批复",
+        "ValidityFrom": "",
+        "ValidityTo": "",
+        "LicensOffice": "呼和浩特市环境保护局",
+        "LicensContent": "MBR中水系统项目"
+      },
+      {
+        "LicensDocNo": "",
+        "LicensDocName": "政府主管部门批文",
+        "ValidityFrom": "2016-05-24",
+        "ValidityTo": "",
+        "LicensOffice": "巴彦淖尔市经济和信息化委员会",
+        "LicensContent": "关于内蒙古伊利实业集团股份有限公司关于巴彦淖尔伊利日处理300吨常温酸奶生产线扩建项目节能评估报告的批复"
+      },
+      {
+        "LicensDocNo": "2018-2244",
+        "LicensDocName": "计量标准",
+        "ValidityFrom": "2017-08-20",
+        "ValidityTo": "2021-08-19",
+        "LicensOffice": "内蒙古质监局",
+        "LicensContent": "天平检定装置"
+      },
+      {
+        "LicensDocNo": "2018-2243",
+        "LicensDocName": "计量标准",
+        "ValidityFrom": "2017-08-20",
+        "ValidityTo": "2021-08-19",
+        "LicensOffice": "内蒙古质监局",
+        "LicensContent": "移液器检定装置"
+      },
+      {
+        "LicensDocNo": "2009-1189",
+        "LicensDocName": "计量标准考核",
+        "ValidityFrom": "2017-08-20",
+        "ValidityTo": "2021-08-19",
+        "LicensOffice": "内蒙古质监局",
+        "LicensContent": "pH（酸度计）检定装置"
+      },
+      {
+        "LicensDocNo": "2018-2242",
+        "LicensDocName": "计量标准",
+        "ValidityFrom": "2017-08-20",
+        "ValidityTo": "2021-08-19",
+        "LicensOffice": "内蒙古质监局",
+        "LicensContent": "压力变送器检定装置"
+      },
+      {
+        "LicensDocNo": "2009-1190",
+        "LicensDocName": "计量标准考核",
+        "ValidityFrom": "2017-08-20",
+        "ValidityTo": "2021-08-19",
+        "LicensOffice": "内蒙古质监局",
+        "LicensContent": "离心式试验机检定装置"
+      },
+      {
+        "LicensDocNo": "2018-2245",
+        "LicensDocName": "计量标准考核",
+        "ValidityFrom": "2017-08-20",
+        "ValidityTo": "2021-08-19",
+        "LicensOffice": "内蒙古质监局",
+        "LicensContent": "温湿度计（表）检定装置"
+      },
+      {
+        "LicensDocNo": "2018 009号易建",
+        "LicensDocName": "民用建筑人防许可证",
+        "ValidityFrom": "2018-05-17",
+        "ValidityTo": "",
+        "LicensOffice": "土默特左旗住房和城乡建设局",
+        "LicensContent": "交易地建设费：8.2950万元"
+      },
+      {
+        "LicensDocNo": "150121201805170101",
+        "LicensDocName": "建设工程施工许可证",
+        "ValidityFrom": "2018-05-17",
+        "ValidityTo": "",
+        "LicensOffice": "土默特左旗住房和城乡建设局",
+        "LicensContent": "规模：2765㎡     合同价格：1319.38万元"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "无限售条件的流通股股东",
+        "StockType": "企业法人",
+        "StockPercent": "84.85%",
+        "ShouldCapi": "158734.1454",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币",
+        "RealCapi": "158734.1454",
+        "CapiDate": "2008-06-04"
+      },
+      {
+        "StockName": "有限售条件流通股股东",
+        "StockType": "企业法人",
+        "StockPercent": "15.15%",
+        "ShouldCapi": "28351.6546",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": "货币,货币",
+        "RealCapi": "1130.4046,27221.25",
+        "CapiDate": "2013-01-07"
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "潘刚",
+        "Job": "董事长,总经理"
+      },
+      {
+        "Name": "胡利平",
+        "Job": "董事"
+      },
+      {
+        "Name": "肖斌",
+        "Job": "董事"
+      },
+      {
+        "Name": "刘春海",
+        "Job": "董事"
+      },
+      {
+        "Name": "赵成霞",
+        "Job": "董事"
+      },
+      {
+        "Name": "张心灵",
+        "Job": "董事"
+      },
+      {
+        "Name": "吕刚",
+        "Job": "董事"
+      },
+      {
+        "Name": "高宏",
+        "Job": "董事"
+      },
+      {
+        "Name": "张俊平",
+        "Job": "董事"
+      },
+      {
+        "Name": "高德步",
+        "Job": "董事"
+      },
+      {
+        "Name": "闫俊荣",
+        "Job": "董事"
+      },
+      {
+        "Name": "詹亦文",
+        "Job": "监事"
+      },
+      {
+        "Name": "李建强",
+        "Job": "监事"
+      },
+      {
+        "Name": "王彩云",
+        "Job": "监事"
+      },
+      {
+        "Name": "彭和平",
+        "Job": "监事"
+      },
+      {
+        "Name": "王晓刚",
+        "Job": "监事会主席"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "00ac10f86bcda824bbc4ec4e31539e6b",
+        "RegNo": "91360102593794861U",
+        "Name": "内蒙古伊利实业集团股份有限公司南昌市第一分公司",
+        "BelongOrg": "南昌市东湖区市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0104d2911de05a5afa3f8c78bed67ea6",
+        "RegNo": "911301045935655163",
+        "Name": "内蒙古伊利实业集团股份有限公司石家庄第一分公司",
+        "BelongOrg": "桥西区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "01cd747ff88ea707d0cbee179092d731",
+        "RegNo": "140105160005749",
+        "Name": "内蒙古伊利实业集团股份有限公司太原分公司",
+        "BelongOrg": "太原市工商行政管理局小店分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "02990b7519949967e87be81dd8720531",
+        "RegNo": "450200000015577",
+        "Name": "内蒙古伊利实业集团股份有限公司柳州分公司",
+        "BelongOrg": "柳州市柳南区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "055aa0e8d9d586ffd1130b8b01062601",
+        "RegNo": "91500107599233838X",
+        "Name": "内蒙古伊利实业集团股份有限公司重庆第一分公司",
+        "BelongOrg": "重庆市工商行政管理局九龙坡区分局高新区局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0a4e337f1688bdf132945b4e38709015",
+        "RegNo": "2109002400095",
+        "Name": "内蒙古伊利实业集团股份有限公司阜新分公司",
+        "BelongOrg": "阜新市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0cee91a445f507bdbed3923e29ce9356",
+        "RegNo": "1302241200054",
+        "Name": "内蒙古伊利实业集团股份有限公司滦南原奶分公司",
+        "BelongOrg": "滦南县工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0d1621b78fb948d8aa9adf0f2a81de55",
+        "RegNo": "91150000701476239T",
+        "Name": "内蒙古伊利实业集团股份有限公司冷饮事业部",
+        "BelongOrg": "呼和浩特市工商行政管理局金山经济技术开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "106e35b6303e7a9f962a88a7de2e34c2",
+        "RegNo": "91440300764987079X",
+        "Name": "内蒙古伊利实业集团股份有限公司深圳分公司",
+        "BelongOrg": "深圳市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "13944ea6634fa61fcf5c4e1b68f201d0",
+        "RegNo": "91320211799056653L",
+        "Name": "内蒙古伊利实业集团股份有限公司无锡分公司",
+        "BelongOrg": "无锡市滨湖区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "149af545929472337ea4b7355dc7219a",
+        "RegNo": "81418205-0",
+        "Name": "内蒙古伊利实业股份有限公司伊利面包房",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1707a84b3c819018cfd0601e9bcbb531",
+        "RegNo": "232303100002069",
+        "Name": "内蒙古伊利实业集团股份有限公司肇东奶粉分公司",
+        "BelongOrg": "黑龙江省肇东市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "18d7284755523423d1aa4e6ff68915a1",
+        "RegNo": "1501041500301",
+        "Name": "内蒙古伊利实业集团股份有限公司包装厂",
+        "BelongOrg": "呼和浩特市工商行政管理局玉泉分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1f30219c93fbfc7f0928ff0a55d92967",
+        "RegNo": "81415991-8",
+        "Name": "内蒙古伊利实业股份有限公司呼伦南路冷饮批发部",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "20868dc610ec85f57942d89e2b8e4e72",
+        "RegNo": "1521001201825",
+        "Name": "内蒙古伊利实业股份有限公司呼伦贝尔盟分公司",
+        "BelongOrg": "呼伦贝尔市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "20913a60a224cdf85a234c7265c88c92",
+        "RegNo": "150208000020725",
+        "Name": "内蒙古伊利实业集团股份有限公司包头原奶分公司",
+        "BelongOrg": "包头稀土高新技术产业开发区食品药品监督和工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "2091c9360f977f361cda7d83f2d8f5ba",
+        "RegNo": "460100000059954",
+        "Name": "内蒙古伊利实业集团股份有限公司海南分公司",
+        "BelongOrg": "海口市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "215409be43a3e53a339d8a4a4017d3c3",
+        "RegNo": "1502021005168",
+        "Name": "内蒙古伊利实业股份有限公司包头分公司",
+        "BelongOrg": "包头市工商行政管理局东河区分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "27824b0ac71ddb020470ca145f02dba6",
+        "RegNo": "1501002850207",
+        "Name": "内蒙古伊利实业集团股份有限公司供应分公司",
+        "BelongOrg": "呼和浩特市工商行政管理局金川开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "2ba9a175f017ed346161ee54601af302",
+        "RegNo": "911401055953020234",
+        "Name": "内蒙古伊利实业集团股份有限公司太原第二分公司",
+        "BelongOrg": "太原市小店区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "305e59ae0a8124a315a0b91063e313bf",
+        "RegNo": "912200005894956076",
+        "Name": "内蒙古伊利实业集团股份有限公司吉林省分公司",
+        "BelongOrg": "吉林省市场监督管理厅",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "365265d4cfb4c8dc73562827dc384ce9",
+        "RegNo": "150106000005006",
+        "Name": "内蒙古伊利实业集团股份有限公司土左旗分公司",
+        "BelongOrg": "土默特左旗",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "371444f3cfc7de273f1263758f03d96f",
+        "RegNo": "81418502-4",
+        "Name": "内蒙古伊利实业集团股份有限公司奶食品二厂",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "39f874637dfd4487e5dc90bfb67fc7cc",
+        "RegNo": "1526001031012",
+        "Name": "内蒙古伊利实业集团股份有限公司乌盟原奶分公司",
+        "BelongOrg": "乌兰察布市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3d0318139adb3a784227d537dbae8cd6",
+        "RegNo": "911501917201013287",
+        "Name": "内蒙古伊利实业集团股份有限公司动力环保分公司",
+        "BelongOrg": "呼和浩特市工商行政管理局金川开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3f7531e106f967708766b520074adb39",
+        "RegNo": "210102100004000",
+        "Name": "内蒙古伊利实业集团股份有限公司沈阳分公司",
+        "BelongOrg": "沈阳市和平区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3fd0c5bc30ccb79a6d3cd44b706bac79",
+        "RegNo": "130104300000824",
+        "Name": "内蒙古伊利实业集团股份有限公司石家庄分公司",
+        "BelongOrg": "桥西区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4439c934e27164898c29780616c2a902",
+        "RegNo": "91370203591298311M",
+        "Name": "内蒙古伊利实业集团股份有限公司青岛第一分公司",
+        "BelongOrg": "青岛市市北区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "44bdcad266a0514745261e4abbd4976e",
+        "RegNo": "91230110591913556C",
+        "Name": "内蒙古伊利实业集团股份有限公司哈尔滨第一分公司",
+        "BelongOrg": "哈尔滨市南岗区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "44ded60bac3838098a5d2d2ed86f7390",
+        "RegNo": "912101035941177742",
+        "Name": "内蒙古伊利实业集团股份有限公司沈阳第一分公司",
+        "BelongOrg": "沈阳市沈河区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "47ed76375a41833b4a67839cc379a333",
+        "RegNo": "370203119037975",
+        "Name": "内蒙古伊利实业集团股份有限公司青岛分公司",
+        "BelongOrg": "青岛市工商行政管理局市北区分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4874a0357f75781002fbc7681dfb77d9",
+        "RegNo": "91210204588095329W",
+        "Name": "内蒙古伊利实业集团股份有限公司大连第一分公司",
+        "BelongOrg": "大连市沙河口区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4b64596860e508d80eb2ac84a11ca2b1",
+        "RegNo": "310115001231058",
+        "Name": "内蒙古伊利实业集团股份有限公司上海浦东分公司",
+        "BelongOrg": "浦东新区市场监管局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4c3ea5c4d3aea4b7029246b9362677af",
+        "RegNo": "1501001501626",
+        "Name": "内蒙古伊利实业集团股份有限公司面包厂",
+        "BelongOrg": "呼和浩特市工商行政管理局玉泉分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4cd19dc6d496cca8143749e86741c271",
+        "RegNo": "1502021002088",
+        "Name": "内蒙古伊利实业集团股份有限公司包头乳品厂",
+        "BelongOrg": "包头市工商行政管理局东河区分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4fb78ac20581fe108a7cd30fe8c88884",
+        "RegNo": "6101001301370",
+        "Name": "内蒙古伊利实业集团股份有限公司西安原奶分公司",
+        "BelongOrg": "西安市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5056cba9600ff1e2a3d3d05f66071e7f",
+        "RegNo": "81418201-8",
+        "Name": "内蒙古伊利实业股份有限公司物资经销公司",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "52e74dfec0bbcdc5f79ad47715696524",
+        "RegNo": "630102090009818",
+        "Name": "内蒙古伊利实业集团股份有限公司西宁分公司",
+        "BelongOrg": "西宁市城东区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "53ef61db94739de7aed25897c825cad8",
+        "RegNo": "91231282746972527R",
+        "Name": "内蒙古伊利实业集团股份有限公司肇东畜牧分公司",
+        "BelongOrg": "肇东市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "551d93e47c35afd00aa7fcbdfa54a42f",
+        "RegNo": "360100120007145",
+        "Name": "内蒙古伊利实业集团股份有限公司南昌分公司",
+        "BelongOrg": "南昌市市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "560e3710948d611c9c5f2ab16799f55e",
+        "RegNo": "91310000833963039R",
+        "Name": "内蒙古伊利实业集团股份有限公司上海分公司",
+        "BelongOrg": "自由贸易试验区市场监管局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "56e95bd7058b072a881b69b97d858ace",
+        "RegNo": "9135010005841883XK",
+        "Name": "内蒙古伊利实业集团股份有限公司福建省分公司",
+        "BelongOrg": "福州市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "578b59c6d50b883b0fda91cad825a407",
+        "RegNo": "1501232500015",
+        "Name": "内蒙古伊利实业集团股份有限公司和林第二分公司",
+        "BelongOrg": "和林格尔县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5a688e926099b161d2d6d072374063a9",
+        "RegNo": "500107300021231",
+        "Name": "内蒙古伊利实业集团股份有限公司重庆分公司",
+        "BelongOrg": "重庆市工商行政管理局九龙坡区分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5c3638dd088a11e53f15b586db4c70ef",
+        "RegNo": "91120102725731310R",
+        "Name": "内蒙古伊利实业集团股份有限公司天津分公司",
+        "BelongOrg": "天津市河东区市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5c5d821e1c78925d50df58a341133cf8",
+        "RegNo": "3502001802902",
+        "Name": "内蒙古伊利实业集团股份有限公司厦门分公司",
+        "BelongOrg": "厦门市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5ecdfab1148fdd79c10a15dc16579837",
+        "RegNo": "370285119018302",
+        "Name": "内蒙古伊利实业集团股份有限公司莱西分公司",
+        "BelongOrg": "莱西市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5ed042df352c52b0ac9677630d0e7a65",
+        "RegNo": "150291000041895",
+        "Name": "内蒙古伊利实业集团股份有限公司包头分公司",
+        "BelongOrg": "包头稀土高新技术产业开发区食品药品监督和工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6412236bc8e187ba5fa3a17cfbef9d12",
+        "RegNo": "911501005851798343",
+        "Name": "内蒙古伊利实业集团股份有限公司金山分公司",
+        "BelongOrg": "呼和浩特市工商行政管理局金山经济技术开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "66074fbf5fd3e253c4956d80659b2f84",
+        "RegNo": "450107000008361",
+        "Name": "内蒙古伊利实业集团股份有限公司南宁分公司",
+        "BelongOrg": "南宁市西乡塘区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6a3c1bee5b06af3b50f73fbeb7992ea6",
+        "RegNo": "620103000003774",
+        "Name": "内蒙古伊利实业集团股份有限公司兰州分公司",
+        "BelongOrg": "兰州市工商行政管理局七里河分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6b02fff5c97d507b01021cc964991ad2",
+        "RegNo": "520102000380034",
+        "Name": "内蒙古伊利实业集团股份有限公司贵阳分公司",
+        "BelongOrg": "贵阳市南明区工商局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6e6e5d60e0c7e36eb504125a8a3e26cf",
+        "RegNo": "350100100013640",
+        "Name": "内蒙古伊利实业集团股份有限公司福州分公司",
+        "BelongOrg": "福州市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6e9b2431b8301a6b19bbbb51ead02736",
+        "RegNo": "152827000004664",
+        "Name": "内蒙古伊利实业集团股份有限公司巴彦淖尔分公司",
+        "BelongOrg": "杭锦后旗市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7501c828000ccd24c7e278d6f08045f6",
+        "RegNo": "91610104726309779B",
+        "Name": "内蒙古伊利实业集团股份有限公司西安分公司",
+        "BelongOrg": "西安市工商行政管理局莲湖分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "769e5d8f0df29663922c3f963ac588ae",
+        "RegNo": "230107100015870",
+        "Name": "内蒙古伊利实业集团股份有限公司哈尔滨分公司",
+        "BelongOrg": "哈尔滨市香坊区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "76a5c23eb38a03080900fc1e90724e05",
+        "RegNo": "81418204-2",
+        "Name": "内蒙古伊利实业股份有限公司工贸公司",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "76f8a1aeeaf4b488ad10bd02bfd970ea",
+        "RegNo": "91110228802981533P",
+        "Name": "内蒙古伊利实业集团股份有限公司北京乳品厂",
+        "BelongOrg": "北京市工商行政管理局密云分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7a1c4563d9d6e55c96a70480bb63dd0b",
+        "RegNo": "6500001902557",
+        "Name": "内蒙古伊利实业集团股份有限公司乌鲁木齐分公司",
+        "BelongOrg": "新疆维吾尔自治区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7a8cbabac5c0d7025231c12605d67440",
+        "RegNo": "5101241900509",
+        "Name": "内蒙古伊利实业集团股份有限公司郫县分公司",
+        "BelongOrg": "郫县工商局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7ff98d3a123ce7e283cea28354d90c9f",
+        "RegNo": "3703041901867",
+        "Name": "内蒙古伊利实业集团股份有限公司淄博分公司",
+        "BelongOrg": "博山区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "811cd0d26c576804f854779a23ff454c",
+        "RegNo": "9153011105220606XU",
+        "Name": "内蒙古伊利实业集团股份有限公司云南分公司",
+        "BelongOrg": "西山区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8218fa4c11cda974597bb7796351e89d",
+        "RegNo": "441900000471061",
+        "Name": "内蒙古伊利实业集团股份有限公司东莞分公司",
+        "BelongOrg": "广东省东莞市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "878fa2ec0e25df43348861741fd981c5",
+        "RegNo": "91520102598371489C",
+        "Name": "内蒙古伊利实业集团股份有限公司贵阳第一分公司",
+        "BelongOrg": "贵阳市南明区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "88e911a5ec67ef113b4f6e1ad4a14ca5",
+        "RegNo": "370705119001094",
+        "Name": "内蒙古伊利实业集团股份有限公司潍坊分公司",
+        "BelongOrg": "潍坊市奎文区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "89880d3e06b2cfd7a928dc6f22a1e8b5",
+        "RegNo": "210204000022330",
+        "Name": "内蒙古伊利实业集团股份有限公司大连分公司",
+        "BelongOrg": "大连市沙河口区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8a574558d2a910c8234db7fad83c65c8",
+        "RegNo": "91230624702733364K",
+        "Name": "内蒙古伊利实业集团股份有限公司杜尔伯特分公司",
+        "BelongOrg": "杜尔伯特蒙古族自治县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8f56ac7dcdfd8ca87d043ba2f1b584d6",
+        "RegNo": "1101061309070",
+        "Name": "内蒙古伊利实业股份有限公司北京食品销售分公司",
+        "BelongOrg": "北京市工商行政管理局丰台分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "92bc3f436e7e53494dccc8c2b1b8c85e",
+        "RegNo": "81419712-1",
+        "Name": "内蒙古伊利实业股份有限公司金川奶粉厂",
+        "BelongOrg": "呼和浩特市工商行政管理局金川开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9b40b1f97d4f9eeaf41dbc033877f7f1",
+        "RegNo": "1521031200226",
+        "Name": "内蒙古伊利实业集团股份有限公司扎兰屯原奶分公司",
+        "BelongOrg": "扎兰屯市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9dbb0197795d8dd7eb87d7bee7f262e2",
+        "RegNo": "1406211600190",
+        "Name": "内蒙古伊利实业集团股份有限公司山西朔州原奶分公司",
+        "BelongOrg": "山阴县工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9eda051b2f4b2d01e7d7177a97ae897a",
+        "RegNo": "640106100001166",
+        "Name": "内蒙古伊利实业集团股份有限公司银川分公司",
+        "BelongOrg": "银川市市场监督管理局金凤分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a3fc8b22dd3fea4b59b6ed18cbb9fb0d",
+        "RegNo": "81418203-4",
+        "Name": "内蒙古伊利实业股份有限公司清真糕点厂",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a4a3bda229a34d08229a561bb39c0398",
+        "RegNo": "1504001001509",
+        "Name": "内蒙古伊利实业集团股份有限公司赤峰原奶分公司",
+        "BelongOrg": "赤峰市工商行政管理局元宝山区分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a83d3b9f0374b025db299ad74897d778",
+        "RegNo": "91330106788264684Q",
+        "Name": "内蒙古伊利实业集团股份有限公司杭州分公司",
+        "BelongOrg": "杭州市西湖区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a895a73223e88766b742a65ef7a60c67",
+        "RegNo": "81418190-4",
+        "Name": "内蒙古伊利实业股份有限公司商业分公司",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a922738b719eb91c2c13bc299d92becb",
+        "RegNo": "91450103596871877G",
+        "Name": "内蒙古伊利实业集团股份有限公司南宁第一分公司",
+        "BelongOrg": "南宁市青秀区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "afaafa78d4733ad26996bd5531670ba7",
+        "RegNo": "230624100000776",
+        "Name": "内蒙古伊利实业集团股份有限公司杜尔伯特奶粉销售分公司",
+        "BelongOrg": "杜尔伯特蒙古族自治县市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b0105688221b9c00c14b153f81140f24",
+        "RegNo": "81418193-9",
+        "Name": "内蒙古伊利实业股份有限公司汽车机械修理厂",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b16bfb2cf82ad0f66c47602284d15c31",
+        "RegNo": "2202001305793",
+        "Name": "内蒙古伊利实业集团股份有限公司吉林市分公司",
+        "BelongOrg": "吉林市工商行政管理局吉林经济开发区分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b470401980dba221e01a84985100fc8e",
+        "RegNo": "81418679-1",
+        "Name": "内蒙古伊利实业股份有限公司物资贸易公司",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ba93e2278644dc4a677e61c711cb3cca",
+        "RegNo": "911500007014693541",
+        "Name": "内蒙古伊利实业集团股份有限公司原奶事业部",
+        "BelongOrg": "呼和浩特市工商行政管理局金山经济技术开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "bd1d5a8eeee852f9251507513216c21e",
+        "RegNo": "91110105802928388M",
+        "Name": "内蒙古伊利实业集团股份有限公司北京分公司",
+        "BelongOrg": "北京市工商行政管理局朝阳分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "bf47ecac9c37afa47f9ecffa77c4f9e6",
+        "RegNo": "91620103599535633E",
+        "Name": "内蒙古伊利实业集团股份有限公司兰州第一分公司",
+        "BelongOrg": "兰州市工商行政管理局安宁分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c0a9a4099df04200e95c0d9381d37de8",
+        "RegNo": "440602000114962",
+        "Name": "内蒙古伊利实业集团股份有限公司佛山分公司",
+        "BelongOrg": "佛山市禅城区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c877f413f3b0fbdea539578bfec75989",
+        "RegNo": "81418195-5",
+        "Name": "内蒙古伊利实业股份有限公司乳粉厂",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c8b2d01c8a0a89cd3f3fe57522233d0b",
+        "RegNo": "1310001205044",
+        "Name": "内蒙古伊利实业集团股份有限公司廊坊原奶分公司",
+        "BelongOrg": "廊坊经济开发区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "cb00930d3de30247cd54bc50a5529b8b",
+        "RegNo": "110115009377456",
+        "Name": "内蒙古伊利实业集团股份有限公司北京大兴分公司",
+        "BelongOrg": "大兴分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "cccb1dcf1bccd1737463f1689a1ef063",
+        "RegNo": "370100100030250",
+        "Name": "内蒙古伊利实业集团股份有限公司济南分公司",
+        "BelongOrg": "济南市历下区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ce426258fc0a1ace8c86f4b27dcd3fce",
+        "RegNo": "130582300001437",
+        "Name": "内蒙古伊利实业集团股份有限公司沙河分公司",
+        "BelongOrg": "沙河市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d0e6611265ca31add3b404911a3277c7",
+        "RegNo": "9143010059104432XA",
+        "Name": "内蒙古伊利实业集团股份有限公司长沙分公司",
+        "BelongOrg": "长沙市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d1dccc637f8b8e3bf172f4fd98c59123",
+        "RegNo": "81418192-0",
+        "Name": "内蒙古伊利实业股份有限公司回民奶食品厂",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d39fdf7f6ad13cc6bfae20c09b91e94c",
+        "RegNo": "530100000023700",
+        "Name": "内蒙古伊利实业集团股份有限公司昆明分公司",
+        "BelongOrg": "昆明市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "dc179389c4ae282ba6f04c7ff0f6405f",
+        "RegNo": "1201031008385",
+        "Name": "内蒙古伊利实业集团股份有限公司天津乳品厂",
+        "BelongOrg": "天津市河西区市场和质量监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "de6e5a5d7866f8f34754370c8a0ff68b",
+        "RegNo": "510100000164429",
+        "Name": "内蒙古伊利实业集团股份有限公司成都分公司",
+        "BelongOrg": "成都市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e2e48e54b5a6b3036e77c05d8a2e5ec2",
+        "RegNo": "1501232500014",
+        "Name": "内蒙古伊利实业集团股份有限公司和林第一分公司",
+        "BelongOrg": "和林格尔县工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e32d4785a9aeff921b74f6cb8f7219ac",
+        "RegNo": "913701025899307529",
+        "Name": "内蒙古伊利实业集团股份有限公司济南第二分公司",
+        "BelongOrg": "济南市历下区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e5c1fdf94252c957624bbd1bd9c487e7",
+        "RegNo": "91320106780657694C",
+        "Name": "内蒙古伊利实业集团股份有限公司南京分公司",
+        "BelongOrg": "南京市鼓楼区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e853fc9b0ef9bc9d08e3ef0f8ffcd781",
+        "RegNo": "370600119043402",
+        "Name": "内蒙古伊利实业集团股份有限公司烟台分公司",
+        "BelongOrg": "烟台市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "eb19f9ec64f52cbebdff7b3d26d450de",
+        "RegNo": "1525022000487",
+        "Name": "内蒙古伊利实业集团股份有限公司锡林浩特分公司",
+        "BelongOrg": "锡林浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "eba88bdccee6b4139f068aec544b6b23",
+        "RegNo": "91410105594885634C",
+        "Name": "内蒙古伊利实业集团股份有限公司郑州第一分公司",
+        "BelongOrg": "郑州市金水区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "eca34211de78676d4b295ec60e2664a2",
+        "RegNo": "911509267722423418",
+        "Name": "内蒙古伊利实业集团股份有限公司乌兰察布乳品厂",
+        "BelongOrg": "察哈尔右翼前旗工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "edca71cc644baf7fbe3208d6608cfea1",
+        "RegNo": "911500007014760441",
+        "Name": "内蒙古伊利实业集团股份有限公司液态奶事业部",
+        "BelongOrg": "呼和浩特市工商行政管理局金山经济技术开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "edd5a2ecb5cb461848afee1ce6f1580c",
+        "RegNo": "81418202-6",
+        "Name": "内蒙古伊利实业股份有限公司清真冷饮一厂",
+        "BelongOrg": "呼和浩特市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ee207d8dabb74753c27b68aa0e2ec04c",
+        "RegNo": "91150000670676050P",
+        "Name": "内蒙古伊利实业集团股份有限公司饮料分公司",
+        "BelongOrg": "呼和浩特市工商行政管理局金山经济技术开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ee59fcfa8aeb4b07063e4f6bf1b248a8",
+        "RegNo": "220000000117963",
+        "Name": "内蒙古伊利实业集团股份有限公司长春分公司",
+        "BelongOrg": "吉林省工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ee8b7c5d2293199b2c9f3e5d421cba9f",
+        "RegNo": "330200000052455",
+        "Name": "内蒙古伊利实业集团股份有限公司宁波分公司",
+        "BelongOrg": "宁波市江北区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f1976085b9d56eba4f96270f7b75a57c",
+        "RegNo": "91150000701469493P",
+        "Name": "内蒙古伊利实业集团股份有限公司奶粉事业部",
+        "BelongOrg": "呼和浩特市工商行政管理局金山经济技术开发分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f4880fd75461963a861d928b0fb1efa7",
+        "RegNo": "914201007145859876",
+        "Name": "内蒙古伊利实业集团股份有限公司武汉分公司",
+        "BelongOrg": "武汉市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f5d8064adb8d611946b44686f0ce13dd",
+        "RegNo": "91510104594652355N",
+        "Name": "内蒙古伊利实业集团股份有限公司成都第一分公司",
+        "BelongOrg": "锦江工商局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f5e9d47412d9ac8bbd65cfbef50ab32b",
+        "RegNo": "914401017237679429",
+        "Name": "内蒙古伊利实业集团股份有限公司广州分公司",
+        "BelongOrg": "广州市荔湾区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f94f78bcc73efeeafbdd7b665af9d850",
+        "RegNo": "1521041240003",
+        "Name": "内蒙古伊利实业集团股份有限公司牙克石原奶分公司",
+        "BelongOrg": "牙克石市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f9d1fb69b59c9355489f438ec5d26291",
+        "RegNo": "4419001907557",
+        "Name": "内蒙古伊利实业集团股份有限公司东莞茶山分公司",
+        "BelongOrg": "东莞市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "fac22d78bb3ab24a06bc546b38f1d0a8",
+        "RegNo": "410100300000027",
+        "Name": "内蒙古伊利实业集团股份有限公司郑州分公司",
+        "BelongOrg": "郑州市金水区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "fb68ba4958e26907a34f799d73fa4b36",
+        "RegNo": "1501001500005",
+        "Name": "内蒙古伊利实业集团股份有限公司饲料厂",
+        "BelongOrg": "呼和浩特市工商行政管理局玉泉分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "fe0987b409b16e62f6d3df89c3c03325",
+        "RegNo": "430192000011448",
+        "Name": "内蒙古伊利实业集团股份有限公司湖南省分公司",
+        "BelongOrg": "长沙市工商行政管理局外管分局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "607849.2608万元",
+        "AfterContent": "607812.7608万元（-0.01%）",
+        "ChangeDate": "2018-12-06"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "607900.0108万元",
+        "AfterContent": "607849.2608万元（-0.01%）",
+        "ChangeDate": "2018-02-08"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "肖斌(董事),；彭和平(监事),；高德步(董事),；刘春海(董事),；张心灵(董事),；张文(监事),【退出】；李建强(监事),；胡利平(董事),；王晓刚(董事),；张俊平(董事),；潘刚*(董事长),；闫俊荣(董事),；郭英(监事),；吕刚(董事),；高宏(董事),；詹亦文(监事)",
+        "AfterContent": "肖斌(董事),；彭和平(监事),；高德步(董事),；刘春海(董事),；张心灵(董事),；李建强(监事会主席),；胡利平(董事),；王晓刚(董事),；张俊平(董事),；潘刚*(董事长,总经理),；闫俊荣(董事),；安正文(监事),【新增】；郭英(监事),；吕刚(董事),；高宏(董事),；詹亦文(监事)",
+        "ChangeDate": "2018-02-08"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "肖斌(董事),；彭和平(监事),；高德步(董事),；刘春海(董事),；张心灵(董事),；李建强(监事会主席),；胡利平(董事),；王晓刚(董事),；张俊平(董事),；潘刚*(总经理,董事长),；闫俊荣(董事),；安正文(监事),【退出】；郭英(监事),；吕刚(董事),；高宏(董事),；詹亦文(监事)",
+        "AfterContent": "肖斌(董事),；彭和平(监事),；高德步(董事),；刘春海(董事),；张心灵(董事),；李建强(监事会主席),；胡利平(董事),；王晓刚(董事),；王彩云(监事),【新增】；张俊平(董事),；潘刚*(总经理,董事长),；闫俊荣(董事),；郭英(监事),；吕刚(董事),；高宏(董事),；詹亦文(监事)",
+        "ChangeDate": "2018-02-08"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "肖斌(董事),；彭和平(监事),；高德步(董事),；刘春海(董事),；张心灵(董事),；李建强(监事会主席),；胡利平(董事),；王晓刚(董事),；王彩云(监事),；张俊平(董事),；潘刚*(总经理,董事长),；闫俊荣(董事),；郭英(监事),【退出】；吕刚(董事),；高宏(董事),；詹亦文(监事)",
+        "AfterContent": "肖斌(董事),；彭和平(监事),；高德步(董事),；刘春海(董事),；张心灵(董事),；李建强(监事),；胡利平(董事),；赵成霞(董事),【新增】；王晓刚(监事会主席),；王彩云(监事),；张俊平(董事),；潘刚*(董事长,总经理),；闫俊荣(董事),；吕刚(董事),；高宏(董事),；詹亦文(监事)",
+        "ChangeDate": "2018-02-08"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "606480.0108",
+        "AfterContent": "607900.0108（+0.23%）",
+        "ChangeDate": "2017-06-12"
+      },
+      {
+        "ProjectName": "经营范围变更（含业务范围变更）",
+        "BeforeContent": "许可经营项目:乳制品(含婴幼儿配方乳粉)制造；食品、饮料加工；牲畜,家禽饲养；汽车货物运输；饮食服务(仅限集体食堂)；本企业产的乳制品、食品,饮料；乳制品及乳品原料；预包装食品的销售. 一般经营项目:农畜产品及饲料加工,经销食品、饮料加工设备、生产销售包装材料及包装用品、五金工具、化工产品(专营除外)、农副产品,日用百货,畜禽产品,饲料；进口:本企业生产、科研所需的原辅材料,机械设备,仪器仪表及零配件；经营本企业自产产品及相关技术的出口业务；机器设备修理劳务(除专营)和设备备件销售(除专营)业务；玩具的生产与销售；复配食品添加剂的制造和销售(取得许可证后方可经营)。(依法须经批准的项目,经相关部门批准后方可开展经营活动。)",
+        "AfterContent": "许可经营项目:无 一般经营项目:乳制品(含婴幼儿配方乳粉)制造；特殊医学用途配方食品的生产、销售(取得许可证后方可经营)；食品、饮料加工；牲畜,家禽饲养；汽车货物运输；饮食服务(仅限集体食堂)；本企业产的乳制品、食品,饮料；乳制品及乳品原料；预包装食品的销售.农畜产品及饲料加工,经销食品、饮料加工设备、生产销售包装材料及包装用品、五金工具、化工产品(专营除外)、农副产品,日用百货,畜禽产品,饲料；进口:本企业生产、科研所需的原辅材料,机械设备,仪器仪表及零配件；经营本企业自产产品及相关技术的出口业务；机器设备修理劳务(除专营)和设备备件销售(除专营)业务；玩具的生产与销售；复配食品添加剂的制造和销售(取得许可证后方可经营)。(依法须经批准的项目,经相关部门批准后方可开展经营活动。)",
+        "ChangeDate": "2017-06-12"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "高德步；高宏；胡利平；李建强；刘春海；吕刚；潘刚*；彭和平；王瑞生【退出】；王晓刚；杨金国【退出】；詹亦文；张俊平；张文；张心灵；赵成霞【退出】",
+        "AfterContent": "高德步；高宏；郭英【新增】；胡利平；李建强；刘春海；吕刚；潘刚*；彭和平；王晓刚；肖斌【新增】；詹亦文；张俊平；张文；张心灵；闫俊荣【新增】",
+        "ChangeDate": "2017-06-12"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "612874.2066",
+        "AfterContent": "606480.0108（-1.04%）",
+        "ChangeDate": "2016-09-07"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "",
+        "AfterContent": "1",
+        "ChangeDate": "2016-09-07"
+      },
+      {
+        "ProjectName": "地址变更（住所地址、经营场所、驻在地址等变更）",
+        "BeforeContent": "",
+        "AfterContent": "内蒙古自治区呼和浩特市金山开发区金山大街1号",
+        "ChangeDate": "2016-09-07"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "204291.4",
+        "AfterContent": "612874.2066（+200%）",
+        "ChangeDate": "2015-06-24"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "陈力华【退出】；高德步；高宏；胡利平；李建强；刘春海；潘刚*；彭和平；王瑞生；王晓刚；王振坤【退出】；杨金国；詹亦文；张文；张心灵；赵成霞",
+        "AfterContent": "高德步；高宏；胡利平；李建强；刘春海；吕刚【新增】；潘刚*；彭和平；王瑞生；王晓刚；杨金国；詹亦文；张俊平【新增】；张文；张心灵；赵成霞",
+        "ChangeDate": "2015-06-24"
+      },
+      {
+        "ProjectName": "联络员备案",
+        "BeforeContent": "姓名:\n 身份证",
+        "AfterContent": "姓名:胡海霞",
+        "ChangeDate": "2014-10-23"
+      },
+      {
+        "ProjectName": "注册资本变更（注册资金、资金数额等变更）",
+        "BeforeContent": "187085.8",
+        "AfterContent": "204291.4（+9.2%）",
+        "ChangeDate": "2014-07-21"
+      },
+      {
+        "ProjectName": "高级管理人员备案（董事、监事、经理等）",
+        "BeforeContent": "陈力华；高德步；高宏；胡利平；李建强；刘春海；刘江南【退出】；刘忠元【退出】；潘刚*；王瑞生；王晓刚；王玉华【退出】；王振坤；杨金国；张文；赵成霞",
+        "AfterContent": "陈力华；高德步；高宏；胡利平；李建强；刘春海；潘刚*；彭和平【新增】；王瑞生；王晓刚；王振坤；杨金国；詹亦文【新增】；张文；张心灵【新增】；赵成霞",
+        "ChangeDate": "2014-07-21"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.yili.com"
+        }
+      ],
+      "PhoneNumber": "400-816-9999",
+      "Email": "yljw@yili.com"
+    },
+    "Industry": {
+      "IndustryCode": "F",
+      "Industry": "批发和零售业",
+      "SubIndustryCode": "51",
+      "SubIndustry": "批发业",
+      "MiddleCategoryCode": "512",
+      "MiddleCategory": "食品、饮料及烟草制品批发",
+      "SmallCategoryCode": "5124",
+      "SmallCategory": "肉、禽、蛋、奶及水产品批发"
+    },
+    "Area": {
+      "Province": "内蒙古自治区",
+      "City": "呼和浩特市",
+      "County": ""
+    },
+    "InsuredCount": "26201",
+    "EnglishName": "Inner Mongolia Yili Industrial Group Co.,Ltd",
+    "PersonScope": "1000人以上",
+    "KeyNo": "39f9e16a0ec03c7591cb2b721d103d32",
+    "Name": "内蒙古伊利实业集团股份有限公司",
+    "No": "150000000001703",
+    "BelongOrg": "呼和浩特市工商行政管理局",
+    "OperName": "潘刚",
+    "StartDate": "1993-06-04 00:00:00",
+    "EndDate": "",
+    "Status": "存续（在营、开业、在册）",
+    "Province": "NMG",
+    "UpdatedDate": "2019-07-18 12:18:05",
+    "CreditCode": "91150000114124263Y",
+    "RegistCapi": "607812.7608万元人民币",
+    "EconKind": "其他股份有限公司(上市)(1219)",
+    "Address": "内蒙古自治区呼和浩特市金山开发区金山大街1号",
+    "Scope": "许可经营项目:无 一般经营项目:乳制品(含婴幼儿配方乳粉)制造;特殊医学用途配方食品的生产、销售(取得许可证后方可经营);食品、饮料加工;牲畜,家禽饲养;汽车货物运输;饮食服务(仅限集体食堂);本企业产的乳制品、食品,饮料;乳制品及乳品原料;预包装食品的销售.农畜产品及饲料加工,经销食品、饮料加工设备、生产销售包装材料及包装用品、五金工具、化工产品(专营除外)、农副产品,日用百货,畜禽产品,饲料;进口:本企业生产、科研所需的原辅材料,机械设备,仪器仪表及零配件;经营本企业自产产品及相关技术的出口业务;机器设备修理劳务(除专营)和设备备件销售(除专营)业务;玩具的生产与销售;复配食品添加剂的制造和销售(取得许可证后方可经营)",
+    "TermStart": "1993-06-04 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2018-12-10 00:00:00",
+    "OrgNo": "11412426-3",
+    "IsOnStock": "1",
+    "StockNumber": "600887",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "内蒙古伊利实业股份有限公司",
+        "ChangeDate": ""
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/39f9e16a0ec03c7591cb2b721d103d32.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "187085.8万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

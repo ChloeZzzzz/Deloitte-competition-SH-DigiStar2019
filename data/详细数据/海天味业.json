@@ -1,0 +1,381 @@
+{
+  "OrderNumber": "ECI2019071910141842778101",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2011-10-31",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2011-05-23",
+        "CaseNo": "佛-10090"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2000-04-08",
+        "CaseNo": ""
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "禅城区市场监督管理局",
+        "Type": null,
+        "Date": "2017-03-20",
+        "Consequence": "该单位违反《特种设备安全法》规定，使用的特种设备未按照安全技术规范的要求及时申报并接受检验。",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "市档案局",
+        "Type": null,
+        "Date": "2015-11-09",
+        "Consequence": "正常",
+        "Remark": null
+      },
+      {
+        "No": null,
+        "ExecutiveOrg": "佛山市档案局",
+        "Type": null,
+        "Date": "2015-11-09",
+        "Consequence": "正常",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91440600722448755D",
+        "Name": "佛山市海天调味食品股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "440601722448755",
+        "Name": "佛山市海天调味食品股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "440601722448755",
+        "Name": "佛山市海天调味食品股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "440604722448755",
+        "Name": "佛山市海天调味食品股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "佛山市海天调味食品股份有限公司",
+        "Link": "http://www.haitian-food.com",
+        "ImageUrl": "http://img.qichacha.com/Product/9d657ec1-2f3e-43d5-8f41-32a1c959612d.jpg",
+        "Name": "海天味业",
+        "Domain": "生活服务",
+        "Tags": "消费",
+        "Description": "海天味业是一个调味品品牌集团，专注于调味品的加工和销售，主要产品涵盖酱油、调味酱、蚝油、鸡精鸡粉、味精、调味汁等多个系列，旗下拥有海天和广中皇两个自主品牌，通过天猫、京东等平台进行发售。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "佛-10090",
+        "LicensDocName": "台港澳人员在内地就业许可",
+        "ValidityFrom": "2011-05-23",
+        "ValidityTo": "2012-05-23",
+        "LicensOffice": "佛山市人力资源和社会保障局",
+        "LicensContent": ""
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "广东海天集团股份有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "58.13%",
+        "ShouldCapi": "157318.8221",
+        "ShoudDate": "2014-05-20",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "其他限售流通股股东",
+        "StockType": "其他投资者",
+        "StockPercent": "31.79%",
+        "ShouldCapi": "86044.5097",
+        "ShoudDate": "2014-05-20",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "无限售流通股股东",
+        "StockType": "其他投资者",
+        "StockPercent": "9.96%",
+        "ShouldCapi": "26946",
+        "ShoudDate": "2014-05-20",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "佛山市海鹏贸易发展有限公司",
+        "StockType": "企业法人",
+        "StockPercent": "0.12%",
+        "ShouldCapi": "315.2682",
+        "ShoudDate": "2014-05-20",
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "孙占利",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "晁罡",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "陈军阳",
+        "Job": "董事"
+      },
+      {
+        "Name": "吴振兴",
+        "Job": "董事"
+      },
+      {
+        "Name": "朱滔",
+        "Job": "独立董事"
+      },
+      {
+        "Name": "叶燕桥",
+        "Job": "董事"
+      },
+      {
+        "Name": "陈伯林",
+        "Job": "监事"
+      },
+      {
+        "Name": "黄文彪",
+        "Job": ""
+      },
+      {
+        "Name": "庞康",
+        "Job": ""
+      },
+      {
+        "Name": "程雪",
+        "Job": ""
+      },
+      {
+        "Name": "李金勇",
+        "Job": ""
+      },
+      {
+        "Name": "文志州",
+        "Job": ""
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "4577184f4a92ada16bab7dd31f2b7ed4",
+        "RegNo": "91440600725981678Y",
+        "Name": "佛山市海天调味食品股份有限公司大榄加工场",
+        "BelongOrg": "佛山市南海区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "64b9ce9333fcf4ccdc68cba54b05872d",
+        "RegNo": "914406003381760703",
+        "Name": "佛山市海天调味食品股份有限公司食品专营店",
+        "BelongOrg": "佛山市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "894da070904530e787762fa5d62cb4b7",
+        "RegNo": "91440600056772552U",
+        "Name": "佛山市海天调味食品股份有限公司荷城专营店",
+        "BelongOrg": "佛山市高明区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a6f7076e62230f061339f60f92a3317b",
+        "RegNo": "914406000553737368",
+        "Name": "佛山市海天调味食品股份有限公司祖庙专营店",
+        "BelongOrg": "佛山市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a8dd9269a0c7080c61be1338195a940b",
+        "RegNo": "440600000029229",
+        "Name": "佛山市海天调味食品股份有限公司文庆专营店",
+        "BelongOrg": "佛山市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "270120.670000",
+        "AfterContent": "270036.934000（-0.03%）",
+        "ChangeDate": "2018-12-28"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "270495.070000",
+        "AfterContent": "270120.670000（-0.14%）",
+        "ChangeDate": "2017-11-07"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "270624.600000",
+        "AfterContent": "270495.070000（-0.05%）",
+        "ChangeDate": "2016-10-26"
+      },
+      {
+        "ProjectName": "股东备案",
+        "BeforeContent": "陈伯林,监事;；陈军阳,董事;；程雪,董事,副总经理(董事会聘任);；杜日成,独立董事;；何云,独立董事;；黄文彪,董事,副总经理(董事会聘任);；黎旭晖,董事,副总经理(董事会聘任);【退出】；李金勇,职工监事;；庞康*,董事长(董事会选举),总经理(董事会聘任);；文志州,监事会主席(监事会选举);；叶燕桥,董事;；朱滔,独立董事",
+        "AfterContent": "陈伯林,监事;；陈军阳,董事;；程雪,董事,副总经理(董事会聘任);；杜日成,独立董事;；何云,独立董事;；黄文彪,董事,副总经理(董事会聘任);；李金勇,职工监事;；庞康*,董事长(董事会选举),总经理(董事会聘任);；文志州,监事会主席(监事会选举);；吴振兴,董事;【新增】；叶燕桥,董事;；朱滔,独立董事",
+        "ChangeDate": "2015-10-27"
+      },
+      {
+        "ProjectName": "股东备案",
+        "BeforeContent": "陈伯林,监事;；陈军阳,董事;；程雪,董事,副总经理(董事会聘任);；杜日成,独立董事;；何云,独立董事;；黄文彪,董事,副总经理(董事会聘任);；黎旭晖,董事,副总经理(董事会聘任);；李金勇,职工监事;；吕惠聪,独立董事;【退出】；庞康*,董事长(董事会选举),总经理(董事会聘任);；文志州,监事会主席(监事会选举);；叶燕桥,董事",
+        "AfterContent": "陈伯林,监事;；陈军阳,董事;；程雪,董事,副总经理(董事会聘任);；杜日成,独立董事;；何云,独立董事;；黄文彪,董事,副总经理(董事会聘任);；黎旭晖,董事,副总经理(董事会聘任);；李金勇,职工监事;；庞康*,董事长(董事会选举),总经理(董事会聘任);；文志州,监事会主席(监事会选举);；叶燕桥,董事；朱滔,独立董事【新增】",
+        "ChangeDate": "2015-10-27"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "270644.4000",
+        "AfterContent": "270624.6000（-0.01%）",
+        "ChangeDate": "2015-10-27"
+      },
+      {
+        "ProjectName": "股东备案",
+        "BeforeContent": "陈伯林,监事;；陈军阳,董事;；程雪,董事,副总经理(董事会聘任);；杜日成,独立董事;；何云,独立董事;；黄文彪,董事,副总经理(董事会聘任);；黎旭晖,董事,副总经理(董事会聘任);；吕惠聪,独立董事;；庞康*,董事长(董事会选举),总经理(董事会聘任);；文志州,监事会主席(监事会选举);；吴振兴,职工监事;【退出】；叶燕桥,董事",
+        "AfterContent": "陈伯林,监事;；陈军阳,董事;；程雪,董事,副总经理(董事会聘任);；杜日成,独立董事;；何云,独立董事;；黄文彪,董事,副总经理(董事会聘任);；黎旭晖,董事,副总经理(董事会聘任);；李金勇,职工监事;【新增】；吕惠聪,独立董事;；庞康*,董事长(董事会选举),总经理(董事会聘任);；文志州,监事会主席(监事会选举);；叶燕桥,董事",
+        "ChangeDate": "2015-05-14"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "150358.0000",
+        "AfterContent": "270644.4000（+80%）",
+        "ChangeDate": "2015-05-14"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "149700.0000",
+        "AfterContent": "150358.0000（+0.44%）",
+        "ChangeDate": "2015-01-06"
+      },
+      {
+        "ProjectName": "股东备案",
+        "BeforeContent": "",
+        "AfterContent": "股东发生备案",
+        "ChangeDate": "2014-06-27"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "2012-01-12",
+        "AfterContent": "章程",
+        "ChangeDate": "2014-06-27"
+      },
+      {
+        "ProjectName": "股东备案",
+        "BeforeContent": "陈伯林,监事;；陈军阳,董事;；程雪,董事,副总经理(董事会聘任);；杜日成,独立董事;；何云,独立董事;；黄文彪,董事,副总经理(董事会聘任);；黎旭晖,董事,副总经理(董事会聘任);；吕惠聪,独立董事;；庞康*,董事长(董事会选举),总经理(董事会聘任);；王丽杰,职工监事;【退出】；文志州,监事会主席(监事会选举);；叶燕桥,董事",
+        "AfterContent": "陈伯林,监事;；陈军阳,董事;；程雪,董事,副总经理(董事会聘任);；杜日成,独立董事;；何云,独立董事;；黄文彪,董事,副总经理(董事会聘任);；黎旭晖,董事,副总经理(董事会聘任);；吕惠聪,独立董事;；庞康*,董事长(董事会选举),总经理(董事会聘任);；文志州,监事会主席(监事会选举);；吴振兴,职工监事;【新增】；叶燕桥,董事",
+        "ChangeDate": "2014-06-27"
+      },
+      {
+        "ProjectName": "注册资本(金)变更",
+        "BeforeContent": "74850.0000",
+        "AfterContent": "149700.0000（+100%）",
+        "ChangeDate": "2014-06-27"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "http://www.haitian-food.com"
+        }
+      ],
+      "PhoneNumber": "0757-82832023",
+      "Email": "huyl@haday.cn"
+    },
+    "Industry": {
+      "IndustryCode": "C",
+      "Industry": "制造业",
+      "SubIndustryCode": "14",
+      "SubIndustry": "食品制造业",
+      "MiddleCategoryCode": "146",
+      "MiddleCategory": "调味品、发酵制品制造",
+      "SmallCategoryCode": "1462",
+      "SmallCategory": "酱油、食醋及类似制品制造"
+    },
+    "Area": {
+      "Province": "广东省",
+      "City": "佛山市",
+      "County": ""
+    },
+    "InsuredCount": "2246",
+    "EnglishName": "Foshan Haitian Flavouring and Food Company Ltd.",
+    "PersonScope": " 5000-9999人",
+    "KeyNo": "9990e0a3cb50c08a9d8962808e06fa12",
+    "Name": "佛山市海天调味食品股份有限公司",
+    "No": "440600400000729",
+    "BelongOrg": "佛山市市场监督管理局",
+    "OperName": "庞康",
+    "StartDate": "2000-04-08 00:00:00",
+    "EndDate": "",
+    "Status": "在营（开业）企业",
+    "Province": "GD",
+    "UpdatedDate": "2019-07-18 11:19:51",
+    "CreditCode": "91440600722448755D",
+    "RegistCapi": "270036.934万元人民币",
+    "EconKind": "其他股份有限公司(上市)",
+    "Address": "佛山市文沙路16号",
+    "Scope": "生产经营调味品、豆制品、食品、饮料、包装材料;农副产品的加工;货物、技术进出口;信息咨询服务;批发兼零售预包装食品。(以上经营项目需凭许可文件经营的,凭有效的许可文件经营)(依法须经批准的项目,经相关部门批准后方可开展经营活动)〓",
+    "TermStart": "2000-04-08 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2018-12-28 00:00:00",
+    "OrgNo": "72244875-5",
+    "IsOnStock": "1",
+    "StockNumber": "603288",
+    "StockType": "国内A股",
+    "OriginalName": [],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/9990e0a3cb50c08a9d8962808e06fa12.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "150358万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}

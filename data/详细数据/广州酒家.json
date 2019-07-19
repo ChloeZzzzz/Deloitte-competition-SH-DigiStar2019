@@ -1,0 +1,2989 @@
+{
+  "OrderNumber": "ECI2019071910122635954578",
+  "Result": {
+    "PermissionInfo": [
+      {
+        "Name": "",
+        "Province": "总局",
+        "Liandate": "2018-08-10",
+        "CaseNo": "梯粤A01056304"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-10-31",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-08-29",
+        "CaseNo": "jy24401000001727"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-08-29",
+        "CaseNo": "JY24401000001727"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-05-25",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2017-05-02",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-09-22",
+        "CaseNo": ""
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-05-16",
+        "CaseNo": "穗(越)环管验[2016]40号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2016-04-08",
+        "CaseNo": "穗(天)环管影[2016]84号"
+      },
+      {
+        "Name": "",
+        "Province": "广东",
+        "Liandate": "2015-12-30",
+        "CaseNo": "穗(越)环管影[2015]147号"
+      }
+    ],
+    "Penalty": [],
+    "Exceptions": [],
+    "ShiXinItems": [],
+    "ZhiXingItems": [],
+    "MPledge": [],
+    "Liquidation": null,
+    "Pledge": [],
+    "SpotCheck": [
+      {
+        "No": null,
+        "ExecutiveOrg": "广州市工商行政管理局荔湾分局西华所",
+        "Type": "抽查",
+        "Date": "2017-10-24",
+        "Consequence": "未发现问题",
+        "Remark": null
+      }
+    ],
+    "CompanyTaxCreditItems": [
+      {
+        "No": "91440101633208952W",
+        "Name": "广州酒家集团股份有限公司",
+        "Year": "2018",
+        "Level": "A"
+      },
+      {
+        "No": "440103633208952",
+        "Name": "广州酒家集团股份有限公司",
+        "Year": "2017",
+        "Level": "A"
+      },
+      {
+        "No": "91440101633208952W",
+        "Name": "广州酒家集团股份有限公司",
+        "Year": "2016",
+        "Level": "A"
+      },
+      {
+        "No": "440103633208952",
+        "Name": "广州酒家集团股份有限公司",
+        "Year": "2015",
+        "Level": "A"
+      },
+      {
+        "No": "440103633208952",
+        "Name": "广州酒家集团股份有限公司",
+        "Year": "2014",
+        "Level": "A"
+      }
+    ],
+    "CompanyProducts": [
+      {
+        "CompanyName": "广州酒家集团股份有限公司",
+        "Link": "http://www.gzr.com.cn",
+        "ImageUrl": "http://img.qichacha.com/Product/1abdf8f7-3956-4dee-9e29-d4f0aa046668.jpg",
+        "Name": "广州酒家",
+        "Domain": "生活服务",
+        "Tags": "消费生活,餐饮,餐饮品牌,食品,中餐",
+        "Description": "广州酒家专注于广式粤菜、食品工业的研发、生产和销售，公司主营业务为食品制造和餐饮服务。",
+        "Category": ""
+      }
+    ],
+    "PermissionEciInfo": [
+      {
+        "LicensDocNo": "穗(越)环管影[2015]147号",
+        "LicensDocName": "建设项目环境影响评价文件审批",
+        "ValidityFrom": "2015-12-30",
+        "ValidityTo": "",
+        "LicensOffice": "广州市越秀区环境保护局",
+        "LicensContent": "关于广州酒家集团股份有限公司环市东分公司建设项目环境影响报告表的批复"
+      },
+      {
+        "LicensDocNo": "穗公越消验字〔2016〕第0002号",
+        "LicensDocName": "广州酒家环市东世贸店装修工程",
+        "ValidityFrom": "2016-01-05",
+        "ValidityTo": "2016-12-08",
+        "LicensOffice": "广州市公安局越秀区公安分局交通防火大队",
+        "LicensContent": "关于广州酒家环市东世贸店内部装修建设工程消防验收不合格的意见广州酒家集团股份有限公司：依据《中华人民共和国消防法》和《建设工程消防监督管理规定》的规定，我局对你单位申报的广州酒家环市东世贸店内部装修建设工程（受理凭证号：穗公越消验凭字[2015]第0349号）进行了消防验收。　　该工程位于广州市越秀区环市东路371-375号世贸大厦（地上共34层，高114.2米,属一类高层民用建筑）第六层第二防火分区,装修面积1642平方米，装修后作餐饮使用，设置有室内消火栓给水系统、火灾自动报警系统、自动喷水灭火系统和机械排烟系统等消防设施。根据国家工程建设消防技术标准、《建设工程消防验收评定规则》和《建设工程消防设计审核意见书》（穗公越消审字[2015]第0369号），经资料审查、现场抽样检查和功能测试，意见如下：　　一、综合评定该工程消防验收不合格。    该工程未竣工，不符合消防验收条件，申报竣工资料与现场实际情况不相符，依据现行《建设工程消防验收评定规则》第5.2条、第5.3条、第6.4条判定为不合格。　　二、以上问题，你单位应按照现行消防技术规范及我局“穗公越消审字[2015]第0369号”审核意见书的要求进行整改，整改合格后再向我局重新申报消防验收"
+      },
+      {
+        "LicensDocNo": "穗公越消审字〔2016〕第0019号",
+        "LicensDocName": "广州酒家环市东世贸店装修工程",
+        "ValidityFrom": "2016-01-21",
+        "ValidityTo": "2016-12-08",
+        "LicensOffice": "广州市公安局越秀区公安分局交通防火大队",
+        "LicensContent": "关于同意广州酒家环市东世贸店内部装修建设工程消防设计的审核意见广州酒家集团股份有限公司：　　依据《中华人民共和国消防法》和《建设工程消防监督管理规定》的规定，以及《建筑设计防火规范》（GB 50016-2014）、《建筑内部装修设计防火规范》（GB50222-95，2001年版）等国家现行消防技术标准，我局对你单位报送的广州酒家环市东世贸店室内装修建设工程（穗公越消审凭字[2016]第0005号）消防设计（由广州禅林装饰设计有限公司、广州新利堡消防工程有限公司设计）进行了审核。该工程位于广州市越秀区环市东路371-375号世贸大厦；所在建筑地上34层，建筑高度114.2m，属一类高层民用建筑。装修部位为第六层第二防火分区，装修面积1642平方米，装修后作餐饮使用。设置有室内消火栓给水系统、自动喷水灭火系统、火灾自动报警系统和机械排烟系统等消防设施。顶棚装修材料为埃特板等燃烧性能等级为A级的材料，地面装修材料为地砖、地毯等燃烧性能为B1级以上的材料，墙面装修材料为阻燃墙布、玻璃等燃烧性能等级为B1级以上的材料进行装饰。经审核，认为该工程消防设计符合消防法规和国家工程建设消防技术标准要求，同意该工程消防设计，并提出意见如下：　　一、你单位选用的建筑"
+      },
+      {
+        "LicensDocNo": "穗公越消验字〔2016〕第0051号",
+        "LicensDocName": "广州酒家环市东世贸店装修工程",
+        "ValidityFrom": "2016-02-25",
+        "ValidityTo": "2016-12-08",
+        "LicensOffice": "广州市公安局越秀区公安分局交通防火大队",
+        "LicensContent": "关于广州酒家环市东世贸店内部装修建设工程消防验收合格的意见广州酒家集团股份有限公司：　　依据《中华人民共和国消防法》和《建设工程消防监督管理规定》的规定，我局对你单位申报的广州酒家环市东世贸店内部装修建设工程（受理凭证号：穗公越消验凭字[2016]第0033号）进行了消防验收。　　该工程位于广州市越秀区环市东路371-375号世贸大厦；所在建筑地上34层，建筑高度114.2m,属一类高层民用建筑。装修部位为第六层第二防火分区，装修面积1642平方米,装修后作餐饮使用，设置有室内消火栓给水系统、火灾自动报警系统、自动喷水灭火系统和机械排烟系统等消防设施。根据国家工程建设消防技术标准、《建设工程消防验收评定规则》和《建设工程消防设计审核意见书》（穗公越消审字[2016]第0019号），经资料审查、现场抽样检查和功能测试，大厦原有的室内消火栓给水系统、自动喷水灭火系统、火灾自动报警系统和机械排烟系统动作基本正常，意见如下：　　一、综合评定该工程消防验收合格。　　二、工程投入使用后，你单位应加强建筑消防设施维护保养，保证完好有效；要建立健全消防安全制度，落实消防安全责任制，确保安全。　　三、工程如需扩建、改建(含室内装修、建筑保温、用"
+      },
+      {
+        "LicensDocNo": "穗(天)环管影[2016]84号",
+        "LicensDocName": "建设项目环境影响评价文件审批",
+        "ValidityFrom": "2016-04-08",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "广州市天河区环境保护局",
+        "LicensContent": "关于广州酒家集团股份有限公司黄埔大道分公司建设项目环境影响报告表的批复"
+      },
+      {
+        "LicensDocNo": "穗(越)环管验[2016]40号",
+        "LicensDocName": "建设项目防治污染设施验收",
+        "ValidityFrom": "2016-05-16",
+        "ValidityTo": "",
+        "LicensOffice": "广州市越秀区环境保护局",
+        "LicensContent": "关于广州酒家集团股份有限公司环市东分公司建设项目竣工环保验收意见的函"
+      },
+      {
+        "LicensDocNo": "JY24401000001727",
+        "LicensDocName": "食品经营许可",
+        "ValidityFrom": "2017-08-29",
+        "ValidityTo": "2022-08-28",
+        "LicensOffice": "广州市食品药品监督管理局",
+        "LicensContent": "预包装食品销售（含冷藏冷冻食品）;食品经营管理"
+      },
+      {
+        "LicensDocNo": "穗水节水许准〔2018〕70号",
+        "LicensDocName": "调整用水计划审批",
+        "ValidityFrom": "2018-06-28",
+        "ValidityTo": "",
+        "LicensOffice": "广州市水务局",
+        "LicensContent": "2018年7-12月用水计划调整为12267立方米、12267立方米、12267立方米、12267立方米、12267立方米、12267立方米。"
+      },
+      {
+        "LicensDocNo": "梯粤A01056304",
+        "LicensDocName": "特种设备使用登记证",
+        "ValidityFrom": "2018-08-10",
+        "ValidityTo": "2099-12-31",
+        "LicensOffice": "天河区市场和质量监督管理局",
+        "LicensContent": "电梯使用登记变更"
+      },
+      {
+        "LicensDocNo": "穗天住建排证许准〔2019〕16号",
+        "LicensDocName": "准予行政许可决定书",
+        "ValidityFrom": "2019-01-29",
+        "ValidityTo": "2024-01-28",
+        "LicensOffice": "广州市天河区住房和建设水务局",
+        "LicensContent": "项目排水在满足《污水综合排放标准》(GB8978)与《污水排入城镇下水道水质标准》(GB/T31962-2015)的水质要求后方可向猎德污水处理系统管网排放。"
+      },
+      {
+        "LicensDocNo": "穗天住建排证许准〔2019〕22号",
+        "LicensDocName": "准予行政许可决定书",
+        "ValidityFrom": "2019-02-23",
+        "ValidityTo": "2024-02-22",
+        "LicensOffice": "广州市天河区住房和建设水务局",
+        "LicensContent": "项目排水在满足《污水综合排放标准》(GB8978)与《污水排入城镇下水道水质标准》(GB/T31962-2015)的水质要求后方可向猎德污水处理系统管网排放。"
+      }
+    ],
+    "PenaltyCreditChina": [],
+    "Partners": [
+      {
+        "StockName": "李兆民",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "温敬星",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陆汉",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈宝芝",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "张少红",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁燊志",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黄建和",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李杏娟",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "顾月珍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何国安",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "阮应东",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "张丽珍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "胡桂英",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何笑芳",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何玉琼",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "丁明",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林霭贞",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "刘润屏",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "曾永添",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "吴超华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黄洁贞",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "蔡肇达",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "龙启昌",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈国华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "卢妙琼",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈雪芳",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "汪焕洋",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何兆强",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "徐伟兵",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "关锦庆",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "王培基",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "顾月兰",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "许惠明",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "关瑜琨",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林世纲",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "凌康",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁就宽",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "范聘威",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈伟彪",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李少娟",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "范秀玲",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁健流",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "温弍秧",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "关振华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "邓桂珍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何焕群",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈笑鸿",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "谢永宽",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "慕容庆",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁少娴",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "彭秀琴",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "朱丽娟",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李瑞卿",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "蔡婉丽",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黄少华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李三妹",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "苏绮华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "欧阳玉远",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "叶艳萍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "卢爱华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈惠娟",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林洁镛",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁兆镠",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何灶波",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈建雄",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李国英",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "周锦富",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "张丽冰",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何兆良",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "郑明坤",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "徐秀卿",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何健清",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何家驹",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "萨筱娟",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黎江帆",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈慧贞",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "老汉全",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "伍健华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "姜小文",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "董珩",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "王禄桐",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何广健",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "朱伟强",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "卢佩华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "区杏女",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "邓惠光",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "庾祝先",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁惠芳",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何汉球",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何伟晖",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "文炽权",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁兆光",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "江翠凤",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "丘国安",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "苏洁贞",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "冯敬添",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "区顺斌",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "关顺昌",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "谭永安",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "董瑞珍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈炎华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "杜恩樑",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "熊浩森",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "郑忠智",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李锦华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁志高",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "汤耀平",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "蔡桂珍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁焕枝",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "余翠鸣",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林杏绮",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "蔡玉莲",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "刘剑雄",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "潘剑华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "周玉珍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "谭瑞英",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "潘永泰",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黎国新",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "吕锦嫦",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "蔡福",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "罗庆辉",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "吴少玲",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李就欢",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "廖德荣",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何紫桃",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "魏红云",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "吴自贵",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "韦兴顺",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "霍玉珍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "冼绍霖",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "林志忠",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "唐惠卿",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黄佩好",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "杨金玉",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "谢沛明",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "关凤燕",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "郭丽华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "冯雪卿",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "吴家威",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "成树明",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "蔡洁容",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何润伟",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "邵景超",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "赵利平",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黎焕爱",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黄锡炎",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李锦瑛",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "潘振辉",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "赖宝贞",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "冯永强",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "谢成雄",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李映霞",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "张劲",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈锦财",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "杨爱萍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "于绍辉",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黎明艳",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黎惠莲",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "郭伟雄",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "金炎生",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "李喜今",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "唐锦荣",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "崔伟平",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "何耀宗",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "廖锦强",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黄振华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "康志能",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "单秀莲",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "夏卫棉",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "王顺美",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黄金凤",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "余少芳",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "温祈福",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "张志荣",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "冯丽珍",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "陈满华",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "唐炳权",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁梓程",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "覃保南",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "冯绮文",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "黄英明",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "梁润好",
+        "StockType": "自然人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      },
+      {
+        "StockName": "广州市人民政府国有资产监督管理委员会",
+        "StockType": "法人股东",
+        "StockPercent": "",
+        "ShouldCapi": "",
+        "ShoudDate": null,
+        "InvestType": "",
+        "InvestName": null,
+        "RealCapi": null,
+        "CapiDate": null
+      }
+    ],
+    "Employees": [
+      {
+        "Name": "徐伟兵",
+        "Job": "董事长兼总经理"
+      },
+      {
+        "Name": "李进一",
+        "Job": "董事"
+      },
+      {
+        "Name": "吴家威",
+        "Job": "董事"
+      },
+      {
+        "Name": "楚延林",
+        "Job": "董事"
+      },
+      {
+        "Name": "曹庸",
+        "Job": "董事"
+      },
+      {
+        "Name": "沈肇章",
+        "Job": "董事"
+      },
+      {
+        "Name": "谢康",
+        "Job": "董事"
+      },
+      {
+        "Name": "郭伟雄",
+        "Job": "监事"
+      },
+      {
+        "Name": "陈浩源",
+        "Job": "监事"
+      },
+      {
+        "Name": "张琼",
+        "Job": "监事"
+      }
+    ],
+    "Branches": [
+      {
+        "CompanyId": "031868daaf47b6b85bb7d97cfd33daa6",
+        "RegNo": "91440101691531723X",
+        "Name": "广州酒家集团股份有限公司体育东分公司",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "033baaf2f95693f8a8878b38b8b6768e",
+        "RegNo": "4401261200775",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司市桥站分店",
+        "BelongOrg": "广州市番禺区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "039fe8cb4fc0c8363d3ba6f5a971b542",
+        "RegNo": "4401061201360",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司岗顶分店",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0452560db8b6b55bf1934cec897c0312",
+        "RegNo": "91440101327536341U",
+        "Name": "广州酒家集团股份有限公司江畔红楼分公司",
+        "BelongOrg": "广州市荔湾区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "05a6cae6e8001b3f65f06276b453cabe",
+        "RegNo": "4401011203394",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司公园前食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0b299a98aa1617068f30d0a20c052cfc",
+        "RegNo": "4401111200867",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司松柏利口福分店",
+        "BelongOrg": "广州市工商行政管理局白云分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0bd276cbf555fcb83a65a0fea2298238",
+        "RegNo": "4401011402769",
+        "Name": "广州酒家企业集团天河食品商店",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "0ec566b4ce0d45fe9a7ed6991073925c",
+        "RegNo": "4401011200728",
+        "Name": "广州酒家企业集团有限公司第一分店",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1dfc9aaeb62075088cafa0900ffadf30",
+        "RegNo": "4401041200802",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司东山口站商场",
+        "BelongOrg": "广州市越秀区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1ec59d5ad15c23294627d38f0be86b63",
+        "RegNo": "91440101MA5ANM545G",
+        "Name": "广州酒家集团股份有限公司白云机场分公司",
+        "BelongOrg": "广州市工商行政管理局机场分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1f3ec25fdffc6e07ed3e62aa56d8db9c",
+        "RegNo": "4401041200807",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司烈士陵园站商场",
+        "BelongOrg": "广州市工商行政管理局越秀分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "1fe8467ad49315f8da4bc4e34329c42b",
+        "RegNo": "91440101569778650Q",
+        "Name": "广州酒家集团股份有限公司白云分公司",
+        "BelongOrg": "广州市白云区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "241c71dbdbd85313159b80097e547872",
+        "RegNo": "4401032007106",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司芳村站商场",
+        "BelongOrg": "广州市荔湾区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "24eaa455260f01cf769eb840981136e4",
+        "RegNo": "4401061201361",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司石牌桥分店",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "2565a513d0abd8818fc584b34aa43b30",
+        "RegNo": "4401041200426",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司西门口站商场",
+        "BelongOrg": "广州市工商行政管理局越秀分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "26bce3e5187b38e20c6c82f9276ba74d",
+        "RegNo": "4401042005246",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司公园前站商场",
+        "BelongOrg": "广州市工商行政管理局越秀分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "313a631e7930dd36174f7f8bd0e4c84c",
+        "RegNo": "4401031200445",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司黄沙站商店",
+        "BelongOrg": "广州市荔湾区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "332d984a006005282100ccd5a5e9d6bf",
+        "RegNo": "4401061201359",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司林和西分店",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3797075ed8afa660353d4bc89fbc584a",
+        "RegNo": "4401011402772",
+        "Name": "广州酒家企业集团工业大道超级商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "39a9118bf640729f28ce9242dba849e6",
+        "RegNo": "890481044",
+        "Name": "广州酒家企业集团食品商店",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3bc9654418b2cf0f553d52eeffa9e23b",
+        "RegNo": "4401041200803",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司农讲所站商场",
+        "BelongOrg": "广州市工商行政管理局越秀分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "3c067a9662f66129db8b634353769038",
+        "RegNo": "4401031200446",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司长寿站商店",
+        "BelongOrg": "广州市荔湾区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "402c78f9de08b58bd24a352791064abb",
+        "RegNo": "91440101074631761Q",
+        "Name": "广州酒家集团股份有限公司逸景分公司",
+        "BelongOrg": "广州市海珠区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "445cf39bd02e7fd56eab66ccfd56e4b7",
+        "RegNo": "4401011200729",
+        "Name": "广州酒家企业集团有限公司第二分店",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4814915e8f8af6b680d33278fa42b191",
+        "RegNo": "4401061201362",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司五山分店",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "4b4cf8dc22664685fb2fa3aa1b7c5022",
+        "RegNo": "91440101MA59E7544P",
+        "Name": "广州酒家集团股份有限公司昌岗中分公司",
+        "BelongOrg": "广州市海珠区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "552a8de1db964488330fed74947d2d7c",
+        "RegNo": "91440101327536413L",
+        "Name": "广州酒家集团股份有限公司东山分公司",
+        "BelongOrg": "广州市越秀区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "571ec66d6e538f99aa1faf9ff8af0c14",
+        "RegNo": "4401011308863",
+        "Name": "广州酒家企业集团贸易公司",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "596a9909dc20a435c579f106e20a7015",
+        "RegNo": "91440101797396996P",
+        "Name": "广州酒家集团股份有限公司百福广场管理分公司",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5a77d153bd6c31fa73055df5b5708dc7",
+        "RegNo": "4401011201949",
+        "Name": "广州酒家企业集团利口福食品有限公司昌岗路食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5ee4465d3c5475f77cb4a9491e272c19",
+        "RegNo": "91440101691531731Q",
+        "Name": "广州酒家集团股份有限公司五羊分公司",
+        "BelongOrg": "广州市越秀区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5f0d1deb3b4a4c26cdd984aad80dc4e7",
+        "RegNo": "4401051200913",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司赤岗塔分店",
+        "BelongOrg": "广州市海珠区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "5ff9ea9c70bc6b540704395d295a63ef",
+        "RegNo": "4401011201588",
+        "Name": "广州酒家企业集团利口福食品有限公司新港西食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "663d5e7d56ce4b0f0ac8e62db32953ab",
+        "RegNo": "4401011203397",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司东山口食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "684463c9472bc40322a532572e12cb5f",
+        "RegNo": "91440101304305911G",
+        "Name": "广州酒家集团股份有限公司中央厨房分公司",
+        "BelongOrg": "广州市番禺区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6a651c4d4b6e7ba5efd9cca95941fcab",
+        "RegNo": "4401032007103",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司花地湾站商场",
+        "BelongOrg": "广州市荔湾区市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6ba02179a9a0e421a0014ccb563ff72f",
+        "RegNo": "4401061201358",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司天河客运站分店",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "6c71de6e95f49a2a1e9d3d9ae5ccafc6",
+        "RegNo": "4401011402770",
+        "Name": "广州酒家企业集团食品厂",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "75f25fe7379b76369e7872907e05cb86",
+        "RegNo": "9144010159833491X9",
+        "Name": "广州酒家集团股份有限公司电子商务分公司",
+        "BelongOrg": "广州市荔湾区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "79078955098f29ab03cc99a1fe6fb851",
+        "RegNo": "4401041200801",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司杨箕站商场",
+        "BelongOrg": "广州市越秀区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "7e3007b1a994ac58618372555b2b16be",
+        "RegNo": "91440101MA59A9CQ2D",
+        "Name": "广州酒家集团股份有限公司环市东分公司",
+        "BelongOrg": "广州市越秀区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "81b5f5f1a6e977eb53cf12871f183754",
+        "RegNo": "91440101327536376E",
+        "Name": "广州酒家集团股份有限公司南昆山分公司",
+        "BelongOrg": "广州市增城区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "8b25773431830929c452a8424df8a407",
+        "RegNo": "4401051200914",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司大塘分店",
+        "BelongOrg": "广州市海珠区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9878831bbb4a0b9067c63b5962fa8836",
+        "RegNo": "91440101072139511Q",
+        "Name": "广州酒家集团股份有限公司临江大道分公司",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "9fdd01a4623295c44e6514bb23d8fffc",
+        "RegNo": "91440101691531758G",
+        "Name": "广州酒家集团股份有限公司文昌分公司",
+        "BelongOrg": "广州市荔湾区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a5175406dcd21f164bb6e28dbde4b803",
+        "RegNo": "91440101691531846Y",
+        "Name": "广州酒家集团股份有限公司滨江西分公司",
+        "BelongOrg": "广州市海珠区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "a7407decad86e198ef81b44b7b3ab295",
+        "RegNo": "91440101579973505G",
+        "Name": "广州酒家集团股份有限公司越华分公司",
+        "BelongOrg": "广州市越秀区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "b6ee468d4bb8af2a679015793c7ad41c",
+        "RegNo": "4401011200727",
+        "Name": "广州酒家企业集团有限公司第三分店",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "bdf1e75bce978cd899a4ee33ccd8b2af",
+        "RegNo": "4401011203396",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司陈家祠食品商场",
+        "BelongOrg": "广州市市场监督管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "be762accb7a71535e142609db5962378",
+        "RegNo": "4401011201925",
+        "Name": "广州酒家企业集团利口福食品有限公司长寿西食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c04ee498af2ff02b160b72cabb2e24a2",
+        "RegNo": "4401061200969",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司体育西站商场",
+        "BelongOrg": "广州市工商行政管理局天河分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c4abee08b4e71394578751cfcd7c4dc7",
+        "RegNo": "4401011203395",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司东站食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c6bc13985481953332a366b32f00859c",
+        "RegNo": "4401031200447",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司陈家祠站商店",
+        "BelongOrg": "广州市工商行政管理局荔湾分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c6f55bccb3b5a58c90b121e6449711f0",
+        "RegNo": "91440101MA59D679XN",
+        "Name": "广州酒家集团股份有限公司黄埔大道分公司",
+        "BelongOrg": "广州市天河区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "c9529697862a071882ee0138ba35dc47",
+        "RegNo": "4401261200774",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司厦滘站分店",
+        "BelongOrg": "广州市番禺区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "ca1407a9f845c3bae1082ee9efd273e0",
+        "RegNo": "4401061200967",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司广州东站商场",
+        "BelongOrg": "广州市工商行政管理局天河分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d4b371029c12cd052ad74d899d2877ff",
+        "RegNo": "4401011200123",
+        "Name": "广州酒家企业集团利口福食品有限公司下九路食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d5769dd673950e600b3c17ff894e5dcd",
+        "RegNo": "4401061200968",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司体育中心商场",
+        "BelongOrg": "广州市工商行政管理局天河分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "d5cc4d9dab235be22677105ddc3f6e6f",
+        "RegNo": "4401032007105",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司西塱站商场",
+        "BelongOrg": "广州市荔湾区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "e50372738b5888cf286a860c907e37c1",
+        "RegNo": "4401032007104",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司坑口站商场",
+        "BelongOrg": "广州市荔湾区工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "eb837c134d26afd3202d51e781937eb0",
+        "RegNo": "4401011203392",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司体育西食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "eed0c93003cace881d87c4234f5247d7",
+        "RegNo": "4401261200777",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司大学城北站分店",
+        "BelongOrg": "广州市工商行政管理局番禺分局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f0e8a2354f1655debb67dc35b6e8baa1",
+        "RegNo": "4401261200131",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司大西食品商场",
+        "BelongOrg": "广州市工商行政管理局",
+        "CreditCode": null,
+        "OperName": null
+      },
+      {
+        "CompanyId": "f8b8c5969ff61404015d31ae03320892",
+        "RegNo": "4401021200788",
+        "Name": "广州酒家企业集团利口福(番禺)食品有限公司东华东利口福分店",
+        "BelongOrg": "广州市工商行政管理局越秀分局",
+        "CreditCode": null,
+        "OperName": null
+      }
+    ],
+    "ChangeRecords": [
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "王润培【退出】；王晓华【退出】；吴家威；徐伟兵*；杨荣明【退出】；楚延林；刘映红【退出】",
+        "AfterContent": "沈肇章【新增】；曹庸【新增】；李进一【新增】；谢康【新增】；楚延林；吴家威；徐伟兵*",
+        "ChangeDate": "2019-03-28"
+      },
+      {
+        "ProjectName": "企业类型变更",
+        "BeforeContent": "股份有限公司(非上市、国有控股)",
+        "AfterContent": "股份有限公司(上市、国有控股)",
+        "ChangeDate": "2017-10-26"
+      },
+      {
+        "ProjectName": "资金数额变更",
+        "BeforeContent": "35399.6184 (单位:万元)",
+        "AfterContent": "40399.6184 (单位:万元)（+14.12%）",
+        "ChangeDate": "2017-10-26"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "章程备案(变更前)",
+        "AfterContent": "准予章程备案",
+        "ChangeDate": "2017-10-26"
+      },
+      {
+        "ProjectName": "具体经营项目申报",
+        "BeforeContent": "企业管理服务(涉及许可经营项目的除外)；收藏品零售(国家专营专控的除外)；工艺美术品零售；会议及展览服务；餐饮管理；商品批发贸易(许可审批类商品除外)；场地租赁(不含仓储)；商品零售贸易(许可审批类商品除外)；房屋租赁；物业管理；互联网商品销售(许可审批类商品除外)；互联网商品零售(许可审批类商品除外)；停车场经营；冷冻肉批发；冷冻肉零售；干果、坚果批发；干果、坚果零售；冷库租赁服务；糕点、面包制造(不含现场制售)(仅限分支机构经营)；烟草制品零售(仅限分支机构经营)；预包装食品批发(仅限分支机构经营)；非酒精饮料、茶叶批发(仅限分支机构经营)；中餐服务(仅限分支机构经营)；预包装食品零售(仅限分支机构经营)；酒类零售(仅限分支机构经营)；增值电信服务(业务种类以《增值电信业务经营许可证》载明内容为准)；糕点、面包零售(仅限分支机构经营)；酒类批发(仅限分支机构经营)；非酒精饮料及茶叶零售(仅限分支机构经营)；中央厨房(具体经营项目以《餐饮服务许可证》载明为准)(仅限分支机构经营)",
+        "AfterContent": "企业管理服务(涉及许可经营项目的除外)；收藏品零售(国家专营专控的除外)；工艺美术品零售；会议及展览服务；餐饮管理；商品批发贸易(许可审批类商品除外)；场地租赁(不含仓储)；商品零售贸易(许可审批类商品除外)；房屋租赁；物业管理；互联网商品销售(许可审批类商品除外)；互联网商品零售(许可审批类商品除外)；停车场经营；冷冻肉批发；冷冻肉零售；干果、坚果批发；干果、坚果零售；冷库租赁服务；糕点、面包制造(不含现场制售)(仅限分支机构)；烟草制品零售(仅限分支机构)；预包装食品批发(仅限分支机构)；非酒精饮料、茶叶批发(仅限分支机构)；中餐服务(仅限分支机构)；预包装食品零售(仅限分支机构)；酒类零售(仅限分支机构)；增值电信服务(业务种类以《增值电信业务经营许可证》载明内容为准)；糕点、面包零售(仅限分支机构)；酒类批发(仅限分支机构)；非酒精饮料及茶叶零售(仅限分支机构)；中央厨房(具体经营项目以《餐饮服务许可证》载明为准)；冷冻饮品及食用冰制造(仅限分支机构)；冷热饮品制售(仅限分支机构)；散装食品批发(仅限分支机构)；散装食品零售(仅限分支机构)",
+        "ChangeDate": "2017-10-26"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "楚延林,董事,选举, ;；高兆祥,监事,选举, ;【退出】；郭伟雄,监事,选举, ;；吉力,监事会主席,选举, ;【退出】；刘映红,董事,选举, ;；王润培,董事,选举, ;；王晓华,董事,选举, ;；吴家威,董事,选举, ;；徐伟兵*,董事长兼经理,选举,是;；杨荣明,董事,选举, ;",
+        "AfterContent": "陈浩源,监事,选举, ;【新增】；楚延林,董事,选举, ;；郭伟雄,监事,选举, ;；刘映红,董事,选举, ;；王润培,董事,选举, ;；王晓华,董事,选举, ;；吴家威,董事,选举, ;；徐伟兵*,董事长兼经理,选举,是;；杨荣明,董事,选举, ;；张琼,监事会主席,选举, ;【新增】",
+        "ChangeDate": "2017-10-26"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "楚延林(董事);；高兆祥(监事);；郭伟雄(监事);；吉力(监事会主席);；林杏绮(董事长);；刘映红(董事);；王润培(董事);【退出】；王晓华(董事);【退出】；吴家威(董事);【退出】；徐伟兵*(董事兼经理);【退出】；杨荣明(董事);【退出】",
+        "AfterContent": "蔡福(其他人员);【新增】；蔡桂珍(其他人员);【新增】；蔡洁容(其他人员);【新增】；蔡婉丽(其他人员);【新增】；蔡玉莲(其他人员);【新增】；蔡肇达(其他人员);【新增】；陈宝芝(其他人员);【新增】；陈国华(其他人员);【新增】；陈慧贞(其他人员);【新增】；陈惠娟(其他人员);【新增】；陈建雄(其他人员);【新增】；陈锦财(其他人员);【新增】；陈满华(其他人员);【新增】；陈伟彪(其他人员);【新增】；陈笑鸿(其他人员);【新增】；陈雪芳(其他人员);【新增】；陈炎华(其他人员);【新增】；成树明(其他人员);【新增】；楚延林(董事);；崔伟平(其他人员);【新增】；单秀莲(其他人员);【新增】；邓桂珍(其他人员);【新增】；邓惠光(其他人员);【新增】；丁明(其他人员);【新增】；董瑞珍(其他人员);【新增】；董珩(其他人员);【新增】；杜恩樑(其他人员);【新增】；范聘威(其他人员);【新增】；范秀玲(其他人员);【新增】；冯敬添(其他人员);【新增】；冯丽珍(其他人员);【新增】；冯雪卿(其他人员);【新增】；冯永强(其他人员);【新增】；冯绮文(其他人员);【新增】；高兆祥(监事);；顾月兰(其他人员);【新增】；顾月珍(其他人员);【新增】；关凤燕(其他人员);【新增】；关锦庆(其他人员);【新增】；关顺昌(其他人员);【新增】；关振华(其他人员);【新增】；关瑜琨(其他人员);【新增】；郭丽华(其他人员);【新增】；郭伟雄(监事);；何广健(其他人员);【新增】；何国安(其他人员);【新增】；何汉球(其他人员);【新增】；何焕群(其他人员);【新增】；何家驹(其他人员);【新增】；何健清(其他人员);【新增】；何润伟(其他人员);【新增】；何伟晖(其他人员);【新增】；何笑芳(其他人员);【新增】；何耀宗(其他人员);【新增】；何玉琼(其他人员);【新增】；何灶波(其他人员);【新增】；何兆良(其他人员);【新增】；何兆强(其他人员);【新增】；何紫桃(其他人员);【新增】；胡桂英(其他人员);【新增】；黄建和(其他人员);【新增】；黄洁贞(其他人员);【新增】；黄金凤(其他人员);【新增】；黄佩好(其他人员);【新增】；黄少华(其他人员);【新增】；黄锡炎(其他人员);【新增】；黄英明(其他人员);【新增】；黄振华(其他人员);【新增】；霍玉珍(其他人员);【新增】；吉力(监事会主席);；姜小文(其他人员);【新增】；江翠凤(其他人员);【新增】；金炎生(其他人员);【新增】；康志能(其他人员);【新增】；赖宝贞(其他人员);老汉全(其他人员);【新增】；黎国新(其他人员);【新增】；黎焕爱(其他人员);【新增】；黎惠莲(其他人员);【新增】；黎江帆(其他人员);【新增】；黎明艳(其他人员);【新增】；李国英(其他人员);【新增】；李锦华(其他人员);【新增】；李锦瑛(其他人员);【新增】；李就欢(其他人员);【新增】；李瑞卿(其他人员);【新增】；李三妹(其他人员);【新增】；李少娟(其他人员);【新增】；李喜今(其他人员);【新增】；李杏娟(其他人员);【新增】；李映霞(其他人员);【新增】；李兆民(其他人员);【新增】；梁燊志(其他人员);【新增】；梁焕枝(其他人员);【新增】；梁惠芳(其他人员);【新增】；梁健流(其他人员);【新增】；梁就宽(其他人员);【新增】；梁润好(其他人员);【新增】；梁少娴(其他人员);【新增】；梁兆光(其他人员);【新增】；梁兆镠(其他人员);【新增】；梁志高(其他人员);【新增】；梁梓程(董事);【新增】；廖德荣(其他人员);【新增】；廖锦强(其他人员);【新增】；林洁镛(其他人员);【新增】；林世纲(其他人员);【新增】；林杏绮(董事长);；林志忠(其他人员);【新增】；林霭贞(其他人员);【新增】；凌康(其他人员);【新增】；刘剑雄(其他人员);【新增】；刘润屏(其他人员);【新增】；刘映红(董事);；龙启昌(其他人员);【新增】；卢爱华(其他人员);【新增】；卢妙琼(其他人员);【新增】；卢佩华(其他人员);【新增】；陆汉(其他人员);【新增】；吕锦嫦(其【新增】",
+        "ChangeDate": "2017-05-24"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "楚延林,董事,选举, ;；高兆祥,监事,选举, ;；郭伟雄,监事,选举, ;；吉力,监事会主席,选举, ;；林杏绮,董事长,选举, ;【退出】；刘映红,董事,选举, ;【退出】；王润培,董事,选举, ;【退出】；王晓华,董事,选举, ;【退出】；吴家威,董事,选举, ;【退出】；徐伟兵*,董事兼经理,选举,是;【退出】；杨荣明,董事,选举, ;【退出】",
+        "AfterContent": "蔡福,其他人员,, ;【新增】；蔡桂珍,其他人员,, ;【新增】；蔡洁容,其他人员,, ;【新增】；蔡婉丽,其他人员,, ;【新增】；蔡玉莲,其他人员,, ;【新增】；蔡肇达,其他人员,, ;【新增】；陈宝芝,其他人员,, ;【新增】；陈国华,其他人员,, ;【新增】；陈慧贞,其他人员,, ;【新增】；陈惠娟,其他人员,, ;【新增】；陈建雄,其他人员,, ;【新增】；陈锦财,其他人员,, ;【新增】；陈满华,其他人员,, ;【新增】；陈伟彪,其他人员,, ;【新增】；陈笑鸿,其他人员,, ;【新增】；陈雪芳,其他人员,, ;【新增】；陈炎华,其他人员,, ;【新增】；成树明,其他人员,, ;【新增】；楚延林,董事,选举, ;；崔伟平,其他人员,, ;【新增】；单秀莲,其他人员,, ;【新增】；邓桂珍,其他人员,, ;【新增】；邓惠光,其他人员,, ;【新增】；丁明,其他人员,, ;【新增】；董瑞珍,其他人员,, ;【新增】；董珩,其他人员,, ;【新增】；杜恩樑,其他人员,, ;【新增】；范聘威,其他人员,, ;【新增】；范秀玲,其他人员,, ;【新增】；冯敬添,其他人员,, ;【新增】；冯丽珍,其他人员,, ;【新增】；冯雪卿,其他人员,, ;【新增】；冯永强,其他人员,, ;【新增】；冯绮文,其他人员,, ;【新增】；高兆祥,监事,选举, ;；顾月兰,其他人员,, ;【新增】；顾月珍,其他人员,, ;【新增】；关凤燕,其他人员,, ;【新增】；关锦庆,其他人员,, ;【新增】；关顺昌,其他人员,, ;【新增】；关振华,其他人员,, ;【新增】；关瑜琨,其他人员,, ;【新增】；郭丽华,其他人员,, ;【新增】；郭伟雄,监事,选举, ;；何广健,其他人员,, ;【新增】；何国安,其他人员,, ;【新增】；何汉球,其他人员,, ;【新增】；何焕群,其他人员,, ;【新增】；何家驹,其他人员,, ;【新增】；何健清,其他人员,, ;【新增】；何润伟,其他人员,, ;【新增】；何伟晖,其他人员,, ;【新增】；何笑芳,其他人员,, ;【新增】；何耀宗,其他人员,, ;【新增】；何玉琼,其他人员,, ;【新增】；何灶波,其他人员,, ;【新增】；何兆良,其他人员,, ;【新增】；何兆强,其他人员,, ;【新增】；何紫桃,其他人员,, ;【新增】；胡桂英,其他人员,, ;【新增】；黄建和,其他人员,, ;【新增】；黄洁贞,其他人员,, ;【新增】；黄金凤,其他人员,, ;【新增】；黄佩好,其他人员,, ;【新增】；黄少华,其他人员,, ;【新增】；黄锡炎,其他人员,, ;【新增】；黄英明,其他人员,, ;【新增】；黄振华,其他人员,, ;【新增】；霍玉珍,其他人员,, ;【新增】；吉力,监事会主席,选举, ;；姜小文,其他人员,, ;【新增】；江翠凤,其他人员,, ;【新增】；金炎生,其他人员,, ;【新增】；康志能,其他人员,, ;【新增】；赖宝贞,其他人员,, ;老汉全,其他人员,, ;【新增】；黎国新,其他人员,, ;【新增】；黎焕爱,其他人员,, ;【新增】；黎惠莲,其他人员,, ;【新增】；黎江帆,其他人员,, ;【新增】；黎明艳,其他人员,, ;【新增】；李国英,其他人员,, ;【新增】；李锦华,其他人员,, ;【新增】；李锦瑛,其他人员,, ;【新增】；李就欢,其他人员,, ;【新增】；李瑞卿,其他人员,, ;【新增】；李三妹,其他人员,, ;【新增】；李少娟,其他人员,, ;【新增】；李喜今,其他人员,, ;【新增】；李杏娟,其他人员,, ;【新增】；李映霞,其他人员,, ;【新增】；李兆民,其他人员,, ;【新增】；梁燊志,其他人员,, ;【新增】；梁焕枝,其他人员,, ;【新增】；梁惠芳,其他人员,, ;【新增】；梁健流,其他人员,, ;【新增】；梁就宽,其他人员,, ;【新增】；梁润好,其他人员,, ;【新增】；梁少娴,其他人员,, ;【新增】；梁兆光,其他人员,, ;【新增】；梁兆镠,其他人员,, ;【新增】；梁志高,其他人员,, ;【新增】；梁梓程,董事,选举, ;【新增】；廖德荣,其他人员,, ;【新增】；廖锦强,其他人员,, ;【新增】；林洁镛,【新增】",
+        "ChangeDate": "2017-05-24"
+      },
+      {
+        "ProjectName": "组织机构备案",
+        "BeforeContent": "楚延林,董事,选举, ；高兆祥,监事,选举, ；郭伟雄,监事,选举, ；吉力,监事会主席,选举, ；林杏绮,董事长,选举, ；刘映红,董事,选举, ；王润培,董事,选举, ；王晓华,董事,选举, ；吴家威,董事,选举, ；徐伟兵*,董事兼经理,选举,是；杨荣明,董事,选举, ",
+        "AfterContent": "楚延林,董事,选举, ；高兆祥,监事,选举, ；郭伟雄,监事,选举, ；吉力,监事会主席,选举, ；刘映红,董事,选举, ；王润培,董事,选举, ；王晓华,董事,选举, ；吴家威,董事,选举, ；徐伟兵*,董事长兼经理,选举,是；杨荣明,董事,选举, ",
+        "ChangeDate": "2017-05-24"
+      },
+      {
+        "ProjectName": "具体经营项目申报",
+        "BeforeContent": "商品批发贸易(许可审批类商品除外)；商品零售贸易(许可审批类商品除外)；餐饮管理；企业管理服务(涉及许可经营项目的除外)；场地租赁(不含仓储)；会议及展览服务；工艺美术品零售(限分支机构)；收藏品零售(国家专营专控的除外)(限分支机构)；物业管理(限分支机构)；增值电信服务；糕点、面包制造(不含现场制售)(限分支机构)；预包装食品批发(限分支机构)；预包装食品零售(限分支机构)；酒类零售(限分支机构)；非酒精饮料、茶叶批发(限分支机构)；烟草制品零售(限分支机构)；中餐服务(限分支机构)",
+        "AfterContent": "企业管理服务(涉及许可经营项目的除外)；收藏品零售(国家专营专控的除外)；工艺美术品零售；会议及展览服务；餐饮管理；商品批发贸易(许可审批类商品除外)；场地租赁(不含仓储)；商品零售贸易(许可审批类商品除外)；房屋租赁；物业管理；互联网商品销售(许可审批类商品除外)；互联网商品零售(许可审批类商品除外)；停车场经营；冷冻肉批发；冷冻肉零售；干果、坚果批发；干果、坚果零售；冷库租赁服务；糕点、面包制造(不含现场制售)(仅限分支机构经营)；烟草制品零售(仅限分支机构经营)；预包装食品批发(仅限分支机构经营)；非酒精饮料、茶叶批发(仅限分支机构经营)；中餐服务(仅限分支机构经营)；预包装食品零售(仅限分支机构经营)；酒类零售(仅限分支机构经营)；增值电信服务(业务种类以《增值电信业务经营许可证》载明内容为准)；糕点、面包零售(仅限分支机构经营)；酒类批发(仅限分支机构经营)；非酒精饮料及茶叶零售(仅限分支机构经营)；中央厨房(具体经营项目以《餐饮服务许可证》载明为准)(仅限分支机构经营)",
+        "ChangeDate": "2017-05-02"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "章程备案(变更前)",
+        "AfterContent": "准予章程备案",
+        "ChangeDate": "2017-05-02"
+      },
+      {
+        "ProjectName": "法定代表人变更",
+        "BeforeContent": "林杏绮",
+        "AfterContent": "徐伟兵*",
+        "ChangeDate": "2016-09-19"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "章程备案(变更前)",
+        "AfterContent": "准予章程备案",
+        "ChangeDate": "2016-09-19"
+      },
+      {
+        "ProjectName": "财务负责人",
+        "BeforeContent": "李立令",
+        "AfterContent": "卢加",
+        "ChangeDate": "2016-09-19"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "楚延林(董事);；高兆祥(监事);；郭伟雄(监事);；吉力(监事会主席);；林杏绮(董事长);；刘映红(董事);；王润培(董事);【退出】；王晓华(董事);【退出】；吴家威(董事);【退出】；徐伟兵*(经理);【退出】；杨荣明(董事);【退出】",
+        "AfterContent": "蔡福(其他人员);【新增】；蔡桂珍(其他人员);【新增】；蔡洁容(其他人员);【新增】；蔡婉丽(其他人员);【新增】；蔡玉莲(其他人员);【新增】；蔡肇达(其他人员);【新增】；陈宝芝(其他人员);【新增】；陈国华(其他人员);【新增】；陈慧贞(其他人员);【新增】；陈惠娟(其他人员);【新增】；陈建雄(其他人员);【新增】；陈锦财(其他人员);【新增】；陈满华(其他人员);【新增】；陈伟彪(其他人员);【新增】；陈笑鸿(其他人员);【新增】；陈雪芳(其他人员);【新增】；陈炎华(其他人员);【新增】；成树明(其他人员);【新增】；楚延林(董事);；崔伟平(其他人员);【新增】；单秀莲(其他人员);【新增】；邓桂珍(其他人员);【新增】；邓惠光(其他人员);【新增】；丁明(其他人员);【新增】；董瑞珍(其他人员);【新增】；董珩(其他人员);【新增】；杜恩樑(其他人员);【新增】；范聘威(其他人员);【新增】；范秀玲(其他人员);【新增】；冯敬添(其他人员);【新增】；冯丽珍(其他人员);【新增】；冯雪卿(其他人员);【新增】；冯永强(其他人员);【新增】；冯绮文(其他人员);【新增】；高兆祥(监事);；顾月兰(其他人员);【新增】；顾月珍(其他人员);【新增】；关凤燕(其他人员);【新增】；关锦庆(其他人员);【新增】；关顺昌(其他人员);【新增】；关振华(其他人员);【新增】；关瑜琨(其他人员);【新增】；郭丽华(其他人员);【新增】；郭伟雄(监事);；何广健(其他人员);【新增】；何国安(其他人员);【新增】；何汉球(其他人员);【新增】；何焕群(其他人员);【新增】；何家驹(其他人员);【新增】；何健清(其他人员);【新增】；何润伟(其他人员);【新增】；何伟晖(其他人员);【新增】；何笑芳(其他人员);【新增】；何耀宗(其他人员);【新增】；何玉琼(其他人员);【新增】；何灶波(其他人员);【新增】；何兆良(其他人员);【新增】；何兆强(其他人员);【新增】；何紫桃(其他人员);【新增】；胡桂英(其他人员);【新增】；黄建和(其他人员);【新增】；黄洁贞(其他人员);【新增】；黄金凤(其他人员);【新增】；黄佩好(其他人员);【新增】；黄少华(其他人员);【新增】；黄锡炎(其他人员);【新增】；黄英明(其他人员);【新增】；黄振华(其他人员);【新增】；霍玉珍(其他人员);【新增】；吉力(监事会主席);；姜小文(其他人员);【新增】；江翠凤(其他人员);【新增】；金炎生(其他人员);【新增】；康志能(其他人员);【新增】；赖宝贞(其他人员);老汉全(其他人员);【新增】；黎国新(其他人员);【新增】；黎焕爱(其他人员);【新增】；黎惠莲(其他人员);【新增】；黎江帆(其他人员);【新增】；黎明艳(其他人员);【新增】；李国英(其他人员);【新增】；李锦华(其他人员);【新增】；李锦瑛(其他人员);【新增】；李就欢(其他人员);【新增】；李瑞卿(其他人员);【新增】；李三妹(其他人员);【新增】；李少娟(其他人员);【新增】；李喜今(其他人员);【新增】；李杏娟(其他人员);【新增】；李映霞(其他人员);【新增】；李兆民(其他人员);【新增】；梁燊志(其他人员);【新增】；梁焕枝(其他人员);【新增】；梁惠芳(其他人员);【新增】；梁健流(其他人员);【新增】；梁就宽(其他人员);【新增】；梁润好(其他人员);【新增】；梁少娴(其他人员);【新增】；梁兆光(其他人员);【新增】；梁兆镠(其他人员);【新增】；梁志高(其他人员);【新增】；梁梓程(董事);【新增】；廖德荣(其他人员);【新增】；廖锦强(其他人员);【新增】；林洁镛(其他人员);【新增】；林世纲(其他人员);【新增】；林杏绮(董事长);；林志忠(其他人员);【新增】；林霭贞(其他人员);【新增】；凌康(其他人员);【新增】；刘剑雄(其他人员);【新增】；刘润屏(其他人员);【新增】；刘映红(董事);；龙启昌(其他人员);【新增】；卢爱华(其他人员);【新增】；卢妙琼(其他人员);【新增】；卢佩华(其他人员);【新增】；陆汉(其他人员);【新增】；吕锦嫦(其【新增】",
+        "ChangeDate": "2016-09-19"
+      },
+      {
+        "ProjectName": "组织机构备案",
+        "BeforeContent": "楚延林,董事,选举, ；高兆祥,监事,选举, ；郭伟雄,监事,选举, ；吉力,监事会主席,选举, ；林杏绮,董事长,选举,是；刘映红,董事,选举, ；王润培,董事,选举, ；王晓华,董事,选举, ；吴家威,董事,选举, ；徐伟兵*,经理,, ；杨荣明,董事,选举, ",
+        "AfterContent": "楚延林,董事,选举, ；高兆祥,监事,选举, ；郭伟雄,监事,选举, ；吉力,监事会主席,选举, ；林杏绮,董事长,选举, ；刘映红,董事,选举, ；王润培,董事,选举, ；王晓华,董事,选举, ；吴家威,董事,选举, ；徐伟兵*,董事兼经理,选举,是；杨荣明,董事,选举, ",
+        "ChangeDate": "2016-09-19"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "楚延林,董事,选举, ;；高兆祥,监事,选举, ;；郭伟雄,监事,选举, ;；吉力,监事会主席,选举, ;；林杏绮,董事长,选举,是;【退出】；刘映红,董事,选举, ;【退出】；王润培,董事,选举, ;【退出】；王晓华,董事,选举, ;【退出】；吴家威,董事,选举, ;【退出】；徐伟兵*,经理,, ;【退出】；杨荣明,董事,选举, ;【退出】",
+        "AfterContent": "蔡福,其他人员,, ;【新增】；蔡桂珍,其他人员,, ;【新增】；蔡洁容,其他人员,, ;【新增】；蔡婉丽,其他人员,, ;【新增】；蔡玉莲,其他人员,, ;【新增】；蔡肇达,其他人员,, ;【新增】；陈宝芝,其他人员,, ;【新增】；陈国华,其他人员,, ;【新增】；陈慧贞,其他人员,, ;【新增】；陈惠娟,其他人员,, ;【新增】；陈建雄,其他人员,, ;【新增】；陈锦财,其他人员,, ;【新增】；陈满华,其他人员,, ;【新增】；陈伟彪,其他人员,, ;【新增】；陈笑鸿,其他人员,, ;【新增】；陈雪芳,其他人员,, ;【新增】；陈炎华,其他人员,, ;【新增】；成树明,其他人员,, ;【新增】；楚延林,董事,选举, ;；崔伟平,其他人员,, ;【新增】；单秀莲,其他人员,, ;【新增】；邓桂珍,其他人员,, ;【新增】；邓惠光,其他人员,, ;【新增】；丁明,其他人员,, ;【新增】；董瑞珍,其他人员,, ;【新增】；董珩,其他人员,, ;【新增】；杜恩樑,其他人员,, ;【新增】；范聘威,其他人员,, ;【新增】；范秀玲,其他人员,, ;【新增】；冯敬添,其他人员,, ;【新增】；冯丽珍,其他人员,, ;【新增】；冯雪卿,其他人员,, ;【新增】；冯永强,其他人员,, ;【新增】；冯绮文,其他人员,, ;【新增】；高兆祥,监事,选举, ;；顾月兰,其他人员,, ;【新增】；顾月珍,其他人员,, ;【新增】；关凤燕,其他人员,, ;【新增】；关锦庆,其他人员,, ;【新增】；关顺昌,其他人员,, ;【新增】；关振华,其他人员,, ;【新增】；关瑜琨,其他人员,, ;【新增】；郭丽华,其他人员,, ;【新增】；郭伟雄,监事,选举, ;；何广健,其他人员,, ;【新增】；何国安,其他人员,, ;【新增】；何汉球,其他人员,, ;【新增】；何焕群,其他人员,, ;【新增】；何家驹,其他人员,, ;【新增】；何健清,其他人员,, ;【新增】；何润伟,其他人员,, ;【新增】；何伟晖,其他人员,, ;【新增】；何笑芳,其他人员,, ;【新增】；何耀宗,其他人员,, ;【新增】；何玉琼,其他人员,, ;【新增】；何灶波,其他人员,, ;【新增】；何兆良,其他人员,, ;【新增】；何兆强,其他人员,, ;【新增】；何紫桃,其他人员,, ;【新增】；胡桂英,其他人员,, ;【新增】；黄建和,其他人员,, ;【新增】；黄洁贞,其他人员,, ;【新增】；黄金凤,其他人员,, ;【新增】；黄佩好,其他人员,, ;【新增】；黄少华,其他人员,, ;【新增】；黄锡炎,其他人员,, ;【新增】；黄英明,其他人员,, ;【新增】；黄振华,其他人员,, ;【新增】；霍玉珍,其他人员,, ;【新增】；吉力,监事会主席,选举, ;；姜小文,其他人员,, ;【新增】；江翠凤,其他人员,, ;【新增】；金炎生,其他人员,, ;【新增】；康志能,其他人员,, ;【新增】；赖宝贞,其他人员,, ;老汉全,其他人员,, ;【新增】；黎国新,其他人员,, ;【新增】；黎焕爱,其他人员,, ;【新增】；黎惠莲,其他人员,, ;【新增】；黎江帆,其他人员,, ;【新增】；黎明艳,其他人员,, ;【新增】；李国英,其他人员,, ;【新增】；李锦华,其他人员,, ;【新增】；李锦瑛,其他人员,, ;【新增】；李就欢,其他人员,, ;【新增】；李瑞卿,其他人员,, ;【新增】；李三妹,其他人员,, ;【新增】；李少娟,其他人员,, ;【新增】；李喜今,其他人员,, ;【新增】；李杏娟,其他人员,, ;【新增】；李映霞,其他人员,, ;【新增】；李兆民,其他人员,, ;【新增】；梁燊志,其他人员,, ;【新增】；梁焕枝,其他人员,, ;【新增】；梁惠芳,其他人员,, ;【新增】；梁健流,其他人员,, ;【新增】；梁就宽,其他人员,, ;【新增】；梁润好,其他人员,, ;【新增】；梁少娴,其他人员,, ;【新增】；梁兆光,其他人员,, ;【新增】；梁兆镠,其他人员,, ;【新增】；梁志高,其他人员,, ;【新增】；梁梓程,董事,选举, ;【新增】；廖德荣,其他人员,, ;【新增】；廖锦强,其他人员,, ;【新增】；林洁镛,【新增】",
+        "ChangeDate": "2016-09-19"
+      },
+      {
+        "ProjectName": "董事备案",
+        "BeforeContent": "王晓华,董事,选举,-;【退出】；陈婉仪,监事会主席,选举,-;【退出】；楚延林,董事,选举,-;；冯健敏,监事,选举,-;【退出】；王润培,董事,选举,-;【退出】；吴家威,董事,选举,-;【退出】；彭澎,董事,选举,-;【退出】；林杏绮,董事长兼经理,选举,是;【退出】；郭伟雄,监事,选举,-;；吴裕英,董事,选举,-;【退出】",
+        "AfterContent": "蔡福,其他人员,, ;【新增】；蔡桂珍,其他人员,, ;【新增】；蔡洁容,其他人员,, ;【新增】；蔡婉丽,其他人员,, ;【新增】；蔡玉莲,其他人员,, ;【新增】；蔡肇达,其他人员,, ;【新增】；陈宝芝,其他人员,, ;【新增】；陈国华,其他人员,, ;【新增】；陈慧贞,其他人员,, ;【新增】；陈惠娟,其他人员,, ;【新增】；陈建雄,其他人员,, ;【新增】；陈锦财,其他人员,, ;【新增】；陈满华,其他人员,, ;【新增】；陈伟彪,其他人员,, ;【新增】；陈笑鸿,其他人员,, ;【新增】；陈雪芳,其他人员,, ;【新增】；陈炎华,其他人员,, ;【新增】；成树明,其他人员,, ;【新增】；楚延林,董事,选举, ;；崔伟平,其他人员,, ;【新增】；单秀莲,其他人员,, ;【新增】；邓桂珍,其他人员,, ;【新增】；邓惠光,其他人员,, ;【新增】；丁明,其他人员,, ;【新增】；董瑞珍,其他人员,, ;【新增】；董珩,其他人员,, ;【新增】；杜恩樑,其他人员,, ;【新增】；范聘威,其他人员,, ;【新增】；范秀玲,其他人员,, ;【新增】；冯敬添,其他人员,, ;【新增】；冯丽珍,其他人员,, ;【新增】；冯雪卿,其他人员,, ;【新增】；冯永强,其他人员,, ;【新增】；冯绮文,其他人员,, ;【新增】；高兆祥,监事,选举, ;【新增】；顾月兰,其他人员,, ;【新增】；顾月珍,其他人员,, ;【新增】；关凤燕,其他人员,, ;【新增】；关锦庆,其他人员,, ;【新增】；关顺昌,其他人员,, ;【新增】；关振华,其他人员,, ;【新增】；关瑜琨,其他人员,, ;【新增】；郭丽华,其他人员,, ;【新增】；郭伟雄,监事,选举, ;；何广健,其他人员,, ;【新增】；何国安,其他人员,, ;【新增】；何汉球,其他人员,, ;【新增】；何焕群,其他人员,, ;【新增】；何家驹,其他人员,, ;【新增】；何健清,其他人员,, ;【新增】；何润伟,其他人员,, ;【新增】；何伟晖,其他人员,, ;【新增】；何笑芳,其他人员,, ;【新增】；何耀宗,其他人员,, ;【新增】；何玉琼,其他人员,, ;【新增】；何灶波,其他人员,, ;【新增】；何兆良,其他人员,, ;【新增】；何兆强,其他人员,, ;【新增】；何紫桃,其他人员,, ;【新增】；胡桂英,其他人员,, ;【新增】；黄建和,其他人员,, ;【新增】；黄洁贞,其他人员,, ;【新增】；黄金凤,其他人员,, ;【新增】；黄佩好,其他人员,, ;【新增】；黄少华,其他人员,, ;【新增】；黄锡炎,其他人员,, ;【新增】；黄英明,其他人员,, ;【新增】；黄振华,其他人员,, ;【新增】；霍玉珍,其他人员,, ;【新增】；吉力,监事会主席,选举, ;【新增】；姜小文,其他人员,, ;【新增】；江翠凤,其他人员,, ;【新增】；金炎生,其他人员,, ;【新增】；康志能,其他人员,, ;【新增】；赖宝贞,其他人员,, ;老汉全,其他人员,, ;【新增】；黎国新,其他人员,, ;【新增】；黎焕爱,其他人员,, ;【新增】；黎惠莲,其他人员,, ;【新增】；黎江帆,其他人员,, ;【新增】；黎明艳,其他人员,, ;【新增】；李国英,其他人员,, ;【新增】；李锦华,其他人员,, ;【新增】；李锦瑛,其他人员,, ;【新增】；李就欢,其他人员,, ;【新增】；李瑞卿,其他人员,, ;【新增】；李三妹,其他人员,, ;【新增】；李少娟,其他人员,, ;【新增】；李喜今,其他人员,, ;【新增】；李杏娟,其他人员,, ;【新增】；李映霞,其他人员,, ;【新增】；李兆民,其他人员,, ;【新增】；梁燊志,其他人员,, ;【新增】；梁焕枝,其他人员,, ;【新增】；梁惠芳,其他人员,, ;【新增】；梁健流,其他人员,, ;【新增】；梁就宽,其他人员,, ;【新增】；梁润好,其他人员,, ;【新增】；梁少娴,其他人员,, ;【新增】；梁兆光,其他人员,, ;【新增】；梁兆镠,其他人员,, ;【新增】；梁志高,其他人员,, ;【新增】；梁梓程,董事,选举, ;【新增】；廖德荣,其他人员,, ;【新增】；廖锦强,其他人员,, ;【新增】；林洁镛,【新增】",
+        "ChangeDate": "2016-08-09"
+      },
+      {
+        "ProjectName": "监事备案",
+        "BeforeContent": "王晓华,董事,选举,-;；陈婉仪,监事会主席,选举,-;【退出】；楚延林,董事,选举,-;；冯健敏,监事,选举,-;【退出】；王润培,董事,选举,-;；吴家威,董事,选举,-;；彭澎,董事,选举,-;【退出】；林杏绮,董事长兼经理,选举,是;；郭伟雄,监事,选举,-;；吴裕英,董事,选举,-;【退出】",
+        "AfterContent": "楚延林,董事,选举, ;；高兆祥,监事,选举, ;【新增】；郭伟雄,监事,选举, ;；吉力,监事会主席,选举, ;【新增】；林杏绮,董事长,选举,是;；刘映红,董事,选举, ;【新增】；王润培,董事,选举, ;；王晓华,董事,选举, ;；吴家威,董事,选举, ;；徐伟兵*,经理,聘用, ;【新增】；杨荣明,董事,选举, ;【新增】",
+        "ChangeDate": "2016-08-09"
+      },
+      {
+        "ProjectName": "财务负责人",
+        "BeforeContent": "财务负责人(变更前)",
+        "AfterContent": "李立令",
+        "ChangeDate": "2016-05-06"
+      },
+      {
+        "ProjectName": "章程备案",
+        "BeforeContent": "章程备案(变更前)",
+        "AfterContent": "准予章程备案",
+        "ChangeDate": "2015-05-26"
+      },
+      {
+        "ProjectName": "资金数额变更",
+        "BeforeContent": "17699.8092 (单位:万元)",
+        "AfterContent": "35399.6184 (单位:万元)（+100%）",
+        "ChangeDate": "2015-05-26"
+      }
+    ],
+    "ContactInfo": {
+      "WebSite": [
+        {
+          "Name": null,
+          "Url": "https://guangzhoujiujia.tmall.com"
+        }
+      ],
+      "PhoneNumber": "020-81388138",
+      "Email": "81380985@qq.com"
+    },
+    "Industry": {
+      "IndustryCode": "H",
+      "Industry": "住宿和餐饮业",
+      "SubIndustryCode": "62",
+      "SubIndustry": "餐饮业",
+      "MiddleCategoryCode": "621",
+      "MiddleCategory": "正餐服务",
+      "SmallCategoryCode": "6210",
+      "SmallCategory": "正餐服务"
+    },
+    "Area": {
+      "Province": "广东省",
+      "City": "广州市",
+      "County": "荔湾区"
+    },
+    "InsuredCount": "68",
+    "EnglishName": "Guangzhou Restaurant Enterprise Group Co.,Ltd.",
+    "PersonScope": "5000-9999人",
+    "KeyNo": "8bbd5600ee23fcdfd02ea9eadb18ef2a",
+    "Name": "广州酒家集团股份有限公司",
+    "No": "440101000002318",
+    "BelongOrg": "广州市市场监督管理局",
+    "OperName": "徐伟兵",
+    "StartDate": "1992-05-11 00:00:00",
+    "EndDate": "",
+    "Status": "在营（开业）企业",
+    "Province": "GD",
+    "UpdatedDate": "2019-07-18 11:19:32",
+    "CreditCode": "91440101633208952W",
+    "RegistCapi": "40399.6184万元人民币",
+    "EconKind": "股份有限公司",
+    "Address": "广州市荔湾区中山七路50号西门口广场写字楼第12层(自编层第13层)全层单元",
+    "Scope": "企业管理服务(涉及许可经营项目的除外);收藏品零售(国家专营专控的除外);工艺美术品零售;会议及展览服务;餐饮管理;商品批发贸易(许可审批类商品除外);场地租赁(不含仓储);商品零售贸易(许可审批类商品除外);房屋租赁;物业管理;互联网商品销售(许可审批类商品除外);互联网商品零售(许可审批类商品除外);停车场经营;冷冻肉批发;冷冻肉零售;干果、坚果批发;干果、坚果零售;冷库租赁服务;糕点、面包制造(不含现场制售)(仅限分支机构);烟草制品零售(仅限分支机构);预包装食品批发(仅限分支机构);非酒精饮料、茶叶批发(仅限分支机构);中餐服务(仅限分支机构);预包装食品零售(仅限分支机构);酒类零售(仅限分支机构);增值电信服务(业务种类以《增值电信业务经营许可证》载明内容为准);糕点、面包零售(仅限分支机构);酒类批发(仅限分支机构);非酒精饮料及茶叶零售(仅限分支机构);中央厨房(具体经营项目以《餐饮服务许可证》载明为准);冷冻饮品及食用冰制造(仅限分支机构);冷热饮品制售(仅限分支机构);散装食品批发(仅限分支机构);散装食品零售(仅限分支机构);",
+    "TermStart": "1992-05-11 00:00:00",
+    "TeamEnd": "",
+    "CheckDate": "2019-03-28 00:00:00",
+    "OrgNo": "63320895-2",
+    "IsOnStock": "1",
+    "StockNumber": "603043",
+    "StockType": "国内A股",
+    "OriginalName": [
+      {
+        "Name": "广州酒家企业集团有限公司",
+        "ChangeDate": "2009-03-23"
+      },
+      {
+        "Name": "广州酒家企业集团",
+        "ChangeDate": "1997-10-30"
+      }
+    ],
+    "ImageUrl": "https://co-image.qichacha.com/CompanyImage/8bbd5600ee23fcdfd02ea9eadb18ef2a.jpg?x-oss-process=image/resize,w_160",
+    "EntType": "0",
+    "RecCap": "17699.8092万元人民币"
+  },
+  "Status": "200",
+  "Message": "查询成功"
+}
