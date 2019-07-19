@@ -1,0 +1,80 @@
+{
+  "OrderNumber": "JUDGEDOC2019071914272841195904",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 4
+  },
+  "Result": [
+    {
+      "Id": "136329099c20dd0b9e75ab759c330f69",
+      "Court": "上海市高级人民法院",
+      "CaseName": "爱普香料集团股份有限公司与中国太平洋财产保险股份有限公司上海分公司保险人代位求偿权纠纷再审民事裁定书",
+      "CaseNo": "（2018）沪民申1136号",
+      "CaseType": "ms",
+      "SubmitDate": "2018-06-30 00:00:00",
+      "UpdateDate": "2018-06-05 00:00:00",
+      "IsProsecutor": true,
+      "IsDefendant": false,
+      "CourtYear": "2018",
+      "CaseRole": "[{\"P\":\"爱普香料集团股份有限公司\",\"R\":\"再审申请人\"},{\"P\":\"上海市广发律师事务所\",\"R\":\"代理律师事务所\"},{\"P\":\"中国太平洋财产保险股份有限公司上海分公司\",\"R\":\"被申请人\"},{\"P\":\"上海信证律师事务所\",\"R\":\"代理律师事务所\"}]",
+      "CourtLevel": "4",
+      "CaseReason": "保险人代位求偿权纠纷",
+      "CaseReasonType": "0109",
+      "CourtMonth": "201806"
+    },
+    {
+      "Id": "d6c4b8b3bbb5b974b58801d6d0e4c85e",
+      "Court": "上海市第二中级人民法院",
+      "CaseName": "中国太平洋财产保险股份有限公司上海分公司与爱普香料集团股份有限公司保险人代位求偿权纠纷二审民事判决书",
+      "CaseNo": "（2018）沪02民终325号",
+      "CaseType": "ms",
+      "SubmitDate": "2018-05-02 00:00:00",
+      "UpdateDate": "2018-04-16 00:00:00",
+      "IsProsecutor": false,
+      "IsDefendant": true,
+      "CourtYear": "2018",
+      "CaseRole": "[{\"P\":\"中国太平洋财产保险股份有限公司上海分公司\",\"R\":\"上诉人（原审被告）\"},{\"P\":\"上海信证律师事务所\",\"R\":\"代理律师事务所\"},{\"P\":\"爱普香料集团股份有限公司\",\"R\":\"被上诉人（原审原告）\"},{\"P\":\"上海市广发律师事务所\",\"R\":\"代理律师事务所\"}]",
+      "CourtLevel": "3",
+      "CaseReason": "保险人代位求偿权纠纷",
+      "CaseReasonType": "0109",
+      "CourtMonth": "201805"
+    },
+    {
+      "Id": "6eebc1dff9bd17c78a9d77762cec4e72",
+      "Court": "广东省高级人民法院",
+      "CaseName": "曾广林与爱普香料集团股份有限公司劳动争议纠纷申请再审民事裁定书",
+      "CaseNo": "（2014）粤高法民申字第778号",
+      "CaseType": "ms",
+      "SubmitDate": "2014-06-30 08:00:00",
+      "UpdateDate": "2014-04-17 08:00:00",
+      "IsProsecutor": false,
+      "IsDefendant": true,
+      "CourtYear": "2014",
+      "CaseRole": "[{\"P\":\"曾广林\",\"R\":\"再审申请人（一审原告二审上诉人）\"},{\"P\":\"爱普香料集团股份有限公司\",\"R\":\"被申请人\"}]",
+      "CourtLevel": "4",
+      "CaseReason": "劳动者争议纠纷",
+      "CaseReasonType": "0007",
+      "CourtMonth": "201406"
+    },
+    {
+      "Id": "506711a9925de80a6194e8298f911148",
+      "Court": "上海市闸北区人民法院",
+      "CaseName": "上海爱普香料有限公司诉上海易昌印刷有限公司、陈某不当得利纠纷案",
+      "CaseNo": "（2009）闸民二（商）初字第198号",
+      "CaseType": "ms",
+      "SubmitDate": "2009-08-20 00:00:00",
+      "UpdateDate": "2009-08-20 00:00:00",
+      "IsProsecutor": true,
+      "IsDefendant": false,
+      "CourtYear": "2009",
+      "CaseRole": "[{\"P\":\"上海爱普香料有限公司\",\"R\":\"原告\"},{\"P\":\"上海市汇业律师事务所\",\"R\":\"代理律师事务所\"},{\"P\":\"上海易昌印刷有限公司\",\"R\":\"被告\"},{\"P\":\"陈某\",\"R\":\"被告\"}]",
+      "CourtLevel": "2",
+      "CaseReason": "不当得利纠纷",
+      "CaseReasonType": "0031",
+      "CourtMonth": "200908"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

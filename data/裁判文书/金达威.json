@@ -1,0 +1,80 @@
+{
+  "OrderNumber": "JUDGEDOC2019071914070894684420",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 4
+  },
+  "Result": [
+    {
+      "Id": "5219e38c92dc27bf60a1dcafe129c15b",
+      "Court": "上海市普陀区人民法院",
+      "CaseName": "刘翔与厦门金达威集团股份有限公司肖像权纠纷一审民事裁定书",
+      "CaseNo": "（2018）沪0107民初14933号",
+      "CaseType": "ms",
+      "SubmitDate": "2018-09-23 00:00:00",
+      "UpdateDate": "2018-08-03 00:00:00",
+      "IsProsecutor": false,
+      "IsDefendant": true,
+      "CourtYear": "2018",
+      "CaseRole": "[{\"P\":\"刘翔\",\"R\":\"原告\"},{\"P\":\"北京国舜律师事务所\",\"R\":\"代理律师事务所\"},{\"P\":\"厦门金达威集团股份有限公司\",\"R\":\"被告\"}]",
+      "CourtLevel": "2",
+      "CaseReason": "肖像权纠纷",
+      "CaseReasonType": "0219",
+      "CourtMonth": "201809"
+    },
+    {
+      "Id": "3faa9bb98209638d7701811274c7b0af",
+      "Court": "厦门市海沧区人民法院",
+      "CaseName": "厦门金达威集团股份有限公司买卖合同纠纷执行案裁定书",
+      "CaseNo": "（2016）闽0205执506号之一",
+      "CaseType": "zx",
+      "SubmitDate": "2016-09-01 08:00:00",
+      "UpdateDate": "2016-08-08 08:00:00",
+      "IsProsecutor": true,
+      "IsDefendant": false,
+      "CourtYear": "2016",
+      "CaseRole": "[{\"P\":\"厦门金达威集团股份有限公司\",\"R\":\"申请执行人\"},{\"P\":\"厦门雷恩工贸有限公司\",\"R\":\"被执行人\"}]",
+      "CourtLevel": "2",
+      "CaseReason": "买卖合同纠纷",
+      "CaseReasonType": "0418",
+      "CourtMonth": "201609"
+    },
+    {
+      "Id": "be50418c4b8756bfde12af3a9b6b04a3",
+      "Court": "厦门市海沧区人民法院",
+      "CaseName": "厦门金达威集团股份有限公司与厦门雷恩工贸有限公司买卖合同纠纷一审民事判决书",
+      "CaseNo": "（2015）海民初字第4306号",
+      "CaseType": "ms",
+      "SubmitDate": "2016-05-13 08:00:00",
+      "UpdateDate": "2016-03-08 08:00:00",
+      "IsProsecutor": true,
+      "IsDefendant": false,
+      "CourtYear": "2016",
+      "CaseRole": "[{\"P\":\"厦门金达威集团股份有限公司\",\"R\":\"原告\"},{\"P\":\"福建秋琴律师事务所\",\"R\":\"代理律师事务所\"},{\"P\":\"厦门雷恩工贸有限公司\",\"R\":\"被告\"},{\"P\":\"福建凌一律师事务所\",\"R\":\"代理律师事务所\"}]",
+      "CourtLevel": "2",
+      "CaseReason": "买卖合同纠纷",
+      "CaseReasonType": "0418",
+      "CourtMonth": "201605"
+    },
+    {
+      "Id": "bec88e235284df03e77a1350991bdf33",
+      "Court": "厦门市海沧区人民法院",
+      "CaseName": "戴正荣与厦门金达威集团股份有限公司劳动争议一审民事判决书",
+      "CaseNo": "（2015）海民初字第1184号",
+      "CaseType": "ms",
+      "SubmitDate": "2015-08-05 08:00:00",
+      "UpdateDate": "2015-06-23 08:00:00",
+      "IsProsecutor": false,
+      "IsDefendant": true,
+      "CourtYear": "2015",
+      "CaseRole": "[{\"P\":\"戴正荣\",\"R\":\"原告\"},{\"P\":\"厦门金达威集团股份有限公司\",\"R\":\"被告\"},{\"P\":\"福建秋琴律师事务所\",\"R\":\"代理律师事务所\"}]",
+      "CourtLevel": "2",
+      "CaseReason": "劳动者争议纠纷",
+      "CaseReasonType": "0007",
+      "CourtMonth": "201508"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

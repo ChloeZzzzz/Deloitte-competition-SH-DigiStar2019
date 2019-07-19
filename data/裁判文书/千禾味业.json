@@ -1,0 +1,46 @@
+{
+  "OrderNumber": "JUDGEDOC2019071913430218226308",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 2
+  },
+  "Result": [
+    {
+      "Id": "f72ba6001b4636f6fd4118a06c205173",
+      "Court": "眉山市东坡区人民法院",
+      "CaseName": "四川东正建设工程有限公司成都分公司、千禾味业食品股份有限公司建设工程合同纠纷一审民事判决书",
+      "CaseNo": "（2018）川1402民初316号",
+      "CaseType": "ms",
+      "SubmitDate": "2018-12-05 00:00:00",
+      "UpdateDate": "2018-03-23 00:00:00",
+      "IsProsecutor": false,
+      "IsDefendant": true,
+      "CourtYear": "2018",
+      "CaseRole": "[{\"P\":\"四川东正建设工程有限公司成都分公司\",\"R\":\"原告\"},{\"P\":\"千禾味业食品股份有限公司\",\"R\":\"被告\"},{\"P\":\"四川维是律师事务所\",\"R\":\"代理律师事务所\"}]",
+      "CourtLevel": "2",
+      "CaseReason": "建设工程合同纠纷",
+      "CaseReasonType": "0036",
+      "CourtMonth": "201812"
+    },
+    {
+      "Id": "7ec6b615e1160d176d769ddd30cb69a7",
+      "Court": "重庆市长寿区人民法院",
+      "CaseName": "张碧蓉与千禾味业食品股份有限公司失业保险待遇纠纷一审民事裁定书",
+      "CaseNo": "（2017）渝0115民初8921号",
+      "CaseType": "ms",
+      "SubmitDate": "2017-12-13 08:00:00",
+      "UpdateDate": "2017-11-16 08:00:00",
+      "IsProsecutor": false,
+      "IsDefendant": true,
+      "CourtYear": "2017",
+      "CaseRole": "[{\"P\":\"张碧蓉\",\"R\":\"原告\"},{\"P\":\"重庆潜卫律师事务所\",\"R\":\"代理律师事务所\"},{\"P\":\"千禾味业食品股份有限公司\",\"R\":\"被告\"},{\"P\":\"四川维是律师事务所\",\"R\":\"代理律师事务所\"}]",
+      "CourtLevel": "2",
+      "CaseReason": "失业保险待遇纠纷",
+      "CaseReasonType": "0337",
+      "CourtMonth": "201712"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

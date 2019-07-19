@@ -1,0 +1,239 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071909422635428672",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 967
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 549
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 1
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 19
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 1
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 3
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 1
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 1
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 2
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 2
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 124
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 221
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 198
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 34
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 55
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 12
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 7
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 29
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 12
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 106
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 715
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 146
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "49d5616b-bb9f-4349-9a85-ff245a315bb1",
+      "NewsId": "b62eb2b8f15a8f4450fef9a9ba192024",
+      "Source": "百家号",
+      "Title": "湖南盐业与湖南邮政签署战略合作协议",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9369946733666749682%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-18 18:18:14",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "湖南邮政,盐邮,中国邮政"
+    },
+    {
+      "Id": "f4276e28-efee-4242-993b-288f5944bdaf",
+      "NewsId": "c7ae05c3ef59b18016118df5f6ce2ca9",
+      "Source": "中华网",
+      "Title": "补碘需因地制宜 湖南盐业为消费者科学补碘助攻",
+      "Url": "http://m.tech.china.com/redian/2019/0716/328699.html",
+      "PublishTime": "2019-07-16 17:42:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "湖南盐业,碘缺乏病,食用盐,消费者,选购"
+    },
+    {
+      "Id": "c5737e43-1c60-47eb-b47b-6a4c1354b9d1",
+      "NewsId": "3e7dc6d2667e9bc8046d131ffb9753ed",
+      "Source": "东方财富网",
+      "Title": "湖南盐业股份有限公司 第三届监事会第八次会议决议公告",
+      "Url": "http://finance.eastmoney.com/a/201907161179735723.html",
+      "PublishTime": "2019-07-16 14:39:00",
+      "EmotionType": "none",
+      "Category": "3600",
+      "NewsTags": "表决"
+    },
+    {
+      "Id": "82b46534-cbb1-4687-85e9-f09e4f040983",
+      "NewsId": "f43d241a2b2145754fec2711ae306f1b",
+      "Source": "新浪网",
+      "Title": "湖南盐业股份有限公司第三届董事会第十一次会议决议公告",
+      "Url": "https://finance.sina.com.cn/roll/2019-07-16/doc-ihytcerm3887090.shtml",
+      "PublishTime": "2019-07-16 04:07:00",
+      "EmotionType": "none",
+      "Category": "3300,3600",
+      "NewsTags": "关联交易,湖南盐业,轻盐晟富,转让,盐化"
+    },
+    {
+      "Id": "e5cc4004-51cb-407e-9c99-484436acef99",
+      "NewsId": "eb2a93ba6c0d8c675f0c3bf18826e2ca",
+      "Source": "东方财富网",
+      "Title": "湖南盐业：促使公司现金回流 拟转让晟富基金18%合伙份额",
+      "Url": "http://finance.eastmoney.com/a/201907151178891083.html",
+      "PublishTime": "2019-07-15 17:15:00",
+      "EmotionType": "none",
+      "Category": "3200,3300,3600,4000",
+      "NewsTags": "轻盐集团,湖南盐业,控股股东,关联交易,1.19"
+    },
+    {
+      "Id": "c9573c99-1cfd-4403-b11b-271241257a4a",
+      "NewsId": "c40b0c59ecab92f353d8af2b539c31f4",
+      "Source": "新浪网",
+      "Title": "湖南盐业(600929.SH)拟转让晟富基金18%的合伙份额予控股股东",
+      "Url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2019-07-15/doc-ihytcitm2232994.shtml",
+      "PublishTime": "2019-07-15 16:54:00",
+      "EmotionType": "none",
+      "Category": "3600",
+      "NewsTags": "合伙,基金,集团"
+    },
+    {
+      "Id": "01ded47b-8802-432e-9a5f-9f5881700aac",
+      "NewsId": "0cb95ed3b5cda08a59814130a2616b73",
+      "Source": "百家号",
+      "Title": "盐改第一股：湖南盐业续写行业发展新篇章",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9398624569594891751%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-15 02:00:21",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "湖南盐业,食盐,加碘,烧碱,流通渠道"
+    },
+    {
+      "Id": "9ec2ed7c-4871-4426-9185-2171b2b3fafc",
+      "NewsId": "7f9074c7621624e0f489982d1cb040fc",
+      "Source": "东方财富网",
+      "Title": "湖南盐业股份有限公司关于聘任董事会秘书的公告",
+      "Url": "http://finance.eastmoney.com/a/201907021166803234.html",
+      "PublishTime": "2019-07-02 14:09:00",
+      "EmotionType": "none",
+      "Category": "1200",
+      "NewsTags": "王哈滨,上海证券交易所,部长,运销,湖南省"
+    },
+    {
+      "Id": "e5d31fe1-307e-4212-b8d9-db3dff73d4c9",
+      "NewsId": "a9afb68cd1a1cae3c7b921e56ff80adf",
+      "Source": "东方财富网",
+      "Title": "湖南盐业股份有限公司第三届董事会第十次会议决议公告",
+      "Url": "http://finance.eastmoney.com/a/201907021166764853.html",
+      "PublishTime": "2019-07-02 13:45:00",
+      "EmotionType": "none",
+      "Category": "1200",
+      "NewsTags": "董事会秘书,表决,聘任,王哈滨,会议"
+    },
+    {
+      "Id": "18d5d94c-d0b6-43f0-b93a-9b32e9e9fcac",
+      "NewsId": "799e560bc28a44afce360e2b4bb8b154",
+      "Source": "中华网",
+      "Title": "哪种食用盐比较好 雪天盐提升食材美味度",
+      "Url": "http://m.tech.china.com/redian/2019/0627/318072.html",
+      "PublishTime": "2019-06-27 17:32:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "雪天盐,湖南盐业,提味,食盐,纯度"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

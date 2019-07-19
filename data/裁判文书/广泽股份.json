@@ -1,0 +1,46 @@
+{
+  "OrderNumber": "JUDGEDOC2019071914253910812884",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 2
+  },
+  "Result": [
+    {
+      "Id": "7ec59c17c8db815522f8d829eb22b080",
+      "Court": "淄博市张店区人民法院",
+      "CaseName": "山东宏源制桶有限公司与上海广泽食品科技股份有限公司分期付款买卖合同纠纷一审民事判决书",
+      "CaseNo": "（2018）鲁0303民初622号",
+      "CaseType": "ms",
+      "SubmitDate": "2019-03-14 00:00:00",
+      "UpdateDate": "2018-03-30 00:00:00",
+      "IsProsecutor": false,
+      "IsDefendant": true,
+      "CourtYear": "2019",
+      "CaseRole": "[{\"P\":\"山东宏源制桶有限公司\",\"R\":\"原告\"},{\"P\":\"山东滨渤律师事务所\",\"R\":\"代理律师事务所\"},{\"P\":\"上海广泽食品科技股份有限公司\",\"R\":\"被告\"}]",
+      "CourtLevel": "2",
+      "CaseReason": "分期付款买卖合同纠纷",
+      "CaseReasonType": "0089",
+      "CourtMonth": "201903"
+    },
+    {
+      "Id": "6b6e9c6cc2b477c25913d5ca3244de0a",
+      "Court": "山东省淄博市中级人民法院",
+      "CaseName": "上海广泽食品科技股份有限公司、山东宏源制桶有限公司分期付款买卖合同纠纷二审民事裁定书",
+      "CaseNo": "（2018）鲁03民终1910号",
+      "CaseType": "ms",
+      "SubmitDate": "2018-08-03 00:00:00",
+      "UpdateDate": "2018-07-17 00:00:00",
+      "IsProsecutor": true,
+      "IsDefendant": false,
+      "CourtYear": "2018",
+      "CaseRole": "[{\"P\":\"上海广泽食品科技股份有限公司\",\"R\":\"上诉人（原审被告）\"},{\"P\":\"山东宏源制桶有限公司\",\"R\":\"被上诉人（原审原告）\"},{\"P\":\"山东滨渤律师事务所\",\"R\":\"代理律师事务所\"}]",
+      "CourtLevel": "3",
+      "CaseReason": "分期付款买卖合同纠纷",
+      "CaseReasonType": "0089",
+      "CourtMonth": "201808"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}
