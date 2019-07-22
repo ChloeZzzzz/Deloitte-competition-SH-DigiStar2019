@@ -7,7 +7,8 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <title>DigiStar Home Site</title>
 
     <style type="text/css">
@@ -16,11 +17,7 @@
                 text-align: center;
                 margin: auto;
             }
-            .carousel{
-                width: 80%;
-                height: 80%;
-                margin: auto;
-            }
+            
     </style>
 
   </head>
@@ -40,41 +37,74 @@
         </li>
       </ul>
     </div>
-  </nav>
+    </nav>
 
-  <br></br>
-  
-  <div>
-    <!-- title -->
-    <hr></hr>
-    <h1>主页</h1>
-    <hr></hr>
-  </div>
+    <br></br>
     
-  <br></br>
+    <div>
+        <!-- title -->
+        <hr></hr>
+        <h1>
+        云南能源投资股份有限公司 
+        <button type="button" class="btn btn-lg btn-success" data-container="body" data-toggle="popover" data-placement="right" data-content="相对安全">90</button>
+        </h1>
+        <hr></hr>
+        <br/>
+    </div>
+    
+    <br></br>
 
-  <!-- carousel -->
-  <div id="briefIntroduction" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="assets/carouselbg1.jpg" class="img-thumbnail" alt="DigiStar小组作品展示">
-      </div>
-      <div class="carousel-item">
-        <a href="product-landing.html"><img src="assets/carouselbg2.jpg" class="img-thumbnail" alt="核心产品"></a>
-      </div>
-      <div class="carousel-item">
-        <a href="about.html"><img src="assets/carouselbg3.jpg" class="img-thumbnail" alt="产品构思"></a>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+        <br/><br/>
+        <img src="" class="img-thumbnail" alt="基本情况" height="300" width="300" /> 
+        <br/><br/>
+        企业基本情况维度
+        </div>
+        <div class="col">
+        <br/><br/>
+        <img src="" class="img-thumbnail" alt="财务状况" height="300" width="300" /> 
+        <br/><br/>
+        企业财务状况维度
+        </div>
+        <div class="w-100"></div>
+        <div class="col">
+        <br/><br/>
+        <img src="" class="img-thumbnail" alt="供应商采购数据" height="300" width="300" /> 
+        <br/><br/>
+        企业供应商维度
+        </div>
+        <div class="col">
+        <br/><br/>
+        <img src="" class="img-thumbnail" alt="投诉数据" height="300" width="300" /> 
+        <br/><br/>
+        消费者投诉维度
+        </div>
+        <div class="w-100"></div>
+        <div class="col">
+        <br/><br/>
+        <img src="" class="img-thumbnail" alt="处罚整改" height="300" width="300" /> 
+        <br/><br/>
+        处罚整改维度
+        </div>
+        <div class="col">
+        <br/><br/>
+        <img src="assets/ynnt2.png" class="img-thumbnail" alt="词云" height="300" width="300" /> 
+        <br/><br/>
+        <img src="assets/ynnt1.png" class="img-thumbnail" alt="饼图" height="300" width="300" />
+        <br/><br/>
+
+        舆情信息维度
+        </div>
       </div>
     </div>
-    <a class="carousel-control-prev" href="#briefIntroduction" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#briefIntroduction" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+
+    <script>
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+    </script>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
