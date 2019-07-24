@@ -5,7 +5,7 @@ Team Member:
 
 王宁 - leader/development: Data wrangling/Product planning
 
-Cindy - Consultant/Product planning
+Cindy - Consultant/Product planning/Testing
 
 吴文璇 - Development: Cloud deployment
 
