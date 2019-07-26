@@ -1,0 +1,128 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <title>企业食品安全风险地图</title>
+    <link rel="stylesheet" href="https://cache.amap.com/lbs/static/main1119.css"/>
+    <link rel="stylesheet" href="https://a.amap.com/jsapi_demos/static/demo-center/css/demo-center.css"/>
+    <style>
+    
+        html, body, #container {
+            height: 100%;
+            width: 100%;
+        }
+        .amap-icon img,
+        .amap-marker-content img{
+            width: 10px;
+            height: 10px;
+        }
+
+        img{
+            width: 5%;
+            height: 5%;
+        }
+
+        div.info{
+            width: 12rem;
+        }
+
+    </style>
+    <script type="text/javascript"
+            src="https://webapi.amap.com/maps?v=1.4.15&key=c30e4a576c0cd6af55d51474f5bcc76b"></script>
+    <script type="text/javascript" src="https://cache.amap.com/lbs/static/addToolbar.js"></script>
+</head>
+<body>
+
+<div id="container"></div>
+<div class="info">
+    <img src="assets/green label.png" alt="绿点" />&nbsp;&nbsp;低风险<br/>
+    <img src="assets/yellow label.png" alt="黄点" />&nbsp;&nbsp;中风险<br/>
+    <img src="assets/red label.png" alt="红点" />&nbsp;&nbsp;高风险<br/>
+</div>
+<script type="text/javascript">
+    //初始化地图对象，加载地图
+    var map = new AMap.Map("container", {resizeEnable: true});
+    var lnglats = [
+    ["黑芝麻",110.449480, 23.038922,63],
+    ["云南能投",102.734550, 25.001376,67],
+    ["三全食品",113.627518, 34.818167,63],
+    ["皇氏集团",108.272012, 22.862599,52],
+    ["双塔食品",120.305937, 37.411471,66],
+    ["佳隆股份",116.142200, 23.302055,80],
+    ["涪陵榨菜",107.402188, 29.722542,60],
+    ["金达威",117.995543, 24.521494,76],
+    ["加加食品",112.562291, 28.289878,58],
+    ["克明面业",112.387623, 29.360584,62],
+    ["麦趣尔",87.290164, 44.006223,68],
+    ["燕塘乳业",113.307934, 23.154518,77],
+    ["科迪乳业",115.815992, 34.384899,49],
+    ["桂发祥",117.247631, 39.063391,85],
+    ["盐津铺子",113.378598, 28.215097,69],
+    ["庄园牧场",104.147640, 35.881851,94],
+    ["汤臣倍健",113.337720, 22.045122,77],
+    ["量子生物",113.1394473, 22.564738,79],
+    ["溢多利",113.4876953, 22.217683,74],
+    ["花园生物",120.2166935, 29.1197669,83],
+    ["上海梅林",121.6243072, 31.248994,59],
+    ["莲花健康",114.8887803, 33.449253,59],
+    ["安琪酵母",111.156911, 30.7044109,67],
+    ["恒顺醋业",119.4784013, 32.1028472,71],
+    ["青海春天",101.8442612, 36.572055,58],
+    ["天润乳业",87.4143673, 43.9466309,65],
+    ["三元股份",116.4192462, 39.7404931,61],
+    ["光明乳业",121.4002173, 31.1841829,54],
+    ["星湖科技",112.4767203, 23.0572929,80],
+    ["中炬高新",113.4396998, 22.5470681,59],
+    ["梅花生物",91.0177143, 29.6450249,61],
+    ["广泽股份",121.5162513, 30.991856,72],
+    ["伊利股份",111.5077882, 40.8169192,60],
+    ["湖南盐业",112.9814643, 28.197921,66],
+    ["爱普股份",121.3319372, 31.4365429,60],
+    ["千禾味业",103.8314013, 30.034567,68],
+    ["广州酒家",113.2543248, 23.125612,69],
+    ["圣达生物",121.0478443, 29.127446,60],
+    ["海天味业",113.1199733, 23.0471869,70],
+    ["安记食品",118.5136386, 24.9037185,73],
+    ["桃李面包",123.3190022, 41.671102,71],
+    ["元祖股份",121.2220583, 31.148673,57]
+    ];
+
+
+    var infoWindow = new AMap.InfoWindow({offset: new AMap.Pixel(0, -30)});
+    for (var i = 0, marker; i < lnglats.length; i++) {
+        if (lnglats[i][3] >= 80) {
+            var marker = new AMap.Marker({
+                icon:"assets/green label.png",
+                position: [lnglats[i][1], lnglats[i][2]],
+                map: map
+            });
+        }
+        else if (lnglats[i][3] < 80 && lnglats[i][3] >= 60) {
+            var marker = new AMap.Marker({
+                icon:"assets/yellow label.png",
+                position: [lnglats[i][1], lnglats[i][2]],
+                map: map
+            });
+        }
+        else {
+            var marker = new AMap.Marker({
+                icon:"assets/red label.png",
+                position: [lnglats[i][1], lnglats[i][2]],
+                map: map
+            });
+        }
+        var page = lnglats[i][0] + ".html"
+        marker.content = "<a href=" + page + ">" + lnglats[i][0] + "</a>";
+        marker.on('click', markerClick);
+        marker.emit('click', {target: marker});
+    }
+    function markerClick(e) {
+        infoWindow.setContent(e.target.content);
+        infoWindow.open(map, e.target.getPosition());
+    }
+    map.setFitView();
+</script>
+</body>
+</html>
