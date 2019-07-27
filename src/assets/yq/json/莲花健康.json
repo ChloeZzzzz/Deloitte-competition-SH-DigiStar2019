@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821082533382186",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 476
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 171
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 1
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 46
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 1
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 8
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 2
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 11
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 4
+        },
+        {
+          "Value": "2900",
+          "Desc": "偷税漏税",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 60
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 139
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 132
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 31
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 18
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 75
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 14
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 16
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 29
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 26
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 80
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 265
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 131
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "c5cb9f0f-3264-4930-b63a-8535f6cd1201",
+      "NewsId": "97aa5a8b630794a3325bb9d3dfbd8661",
+      "Source": "新浪网",
+      "Title": "从行业第一到濒临破产 这些年莲花味精发生了什么？",
+      "Url": "https://finance.sina.com.cn/chanjing/gsnews/2019-07-17/doc-ihytcerm4318708.shtml",
+      "PublishTime": "2019-07-17 17:59:00",
+      "EmotionType": "negative",
+      "Category": "3200,3300,3500",
+      "NewsTags": "莲花健康,易主,行业"
+    },
+    {
+      "Id": "b25e3c40-0dcc-4aba-8bfc-075d773dbf9a",
+      "NewsId": "f97eafdcad8b80eec1d3da261da5d8a7",
+      "Source": "同花顺财经",
+      "Title": "异动股揭秘：重组新规放松借壳限制 *ST莲花触及涨停",
+      "Url": "http://yuanchuang.10jqka.com.cn/20190716/c612533113.shtml",
+      "PublishTime": "2019-07-16 11:09:00",
+      "EmotionType": "none",
+      "Category": "3400",
+      "NewsTags": "ST,后市"
+    },
+    {
+      "Id": "30793e59-4a47-4fb7-906c-6af71e0a8f50",
+      "NewsId": "19b9b2d34e1889fdfc84e96654db077f",
+      "Source": "中国银河证券",
+      "Title": "A股平均股价9.01元 49股股价不足2元",
+      "Url": "http://www.chinastock.com.cn/yhwz_about.do?methodCall=getDetailInfo&docId=6883393",
+      "PublishTime": "2019-07-16 00:00:00",
+      "EmotionType": "none",
+      "Category": "3100",
+      "NewsTags": "ST,0.00,1.10,1.61,1.32"
+    },
+    {
+      "Id": "b52c2423-7b83-4629-9e22-db55d3cfd40d",
+      "NewsId": "f48d2b5ddf25900bbf0a8557e83ee087",
+      "Source": "新京报网",
+      "Title": "莲花味精生死局",
+      "Url": "http://www.bjnews.com.cn/feature/2019/07/15/603608.html",
+      "PublishTime": "2019-07-15 18:42:00",
+      "EmotionType": "negative",
+      "Category": "3200,3300",
+      "NewsTags": "莲花健康,国厚资产,睿康,夏建统,新京报"
+    },
+    {
+      "Id": "974a6a84-4762-4ca0-88c3-13e965d0f4a1",
+      "NewsId": "e1544d05765100f574f1a6c455dd2977",
+      "Source": "东方财富网",
+      "Title": "重整正在进行，多个项目亟待资金注入 莲花健康等待“救世主”",
+      "Url": "http://caifuhao.eastmoney.com/news/20190713092606241724200",
+      "PublishTime": "2019-07-13 09:22:00",
+      "EmotionType": "none",
+      "Category": "3300,3500",
+      "NewsTags": "莲花健康,国厚资产,味精,夏建统,睿康"
+    },
+    {
+      "Id": "336e491b-7e0f-4297-a3af-d0748685364f",
+      "NewsId": "df21ea6c2bb1bb7171f60694f92dc6be",
+      "Source": "证券时报网",
+      "Title": "两市低价股一览 48股股价不足2元",
+      "Url": "http://data.stcn.com/2019/0711/15245314.shtml",
+      "PublishTime": "2019-07-11 16:53:00",
+      "EmotionType": "none",
+      "Category": "3100",
+      "NewsTags": "ST,低价股,0.15,收盘价,电气设备"
+    },
+    {
+      "Id": "60489170-c3bc-4f92-bd3d-6a6f810b6471",
+      "NewsId": "1f34bad1f9dc8db3c1d3d4236ab0aef9",
+      "Source": "中金在线",
+      "Title": "*ST莲花涉民间借贷纠纷 涉案金额为2658.73万",
+      "Url": "http://sc.stock.cnfol.com/ggzixun/20190710/27581601.shtml",
+      "PublishTime": "2019-07-10 18:53:00",
+      "EmotionType": "negative",
+      "Category": "2700,3300",
+      "NewsTags": "借款,广志,货款,焦作市,债权"
+    },
+    {
+      "Id": "49d6be60-ac59-4481-8c8a-dcc570460bc3",
+      "NewsId": "c1f2e8cbb1a7ed43ff162fbdfd5dfe26",
+      "Source": "潮起",
+      "Title": "味精第一股*ST莲花又涉诉讼案 1元甩卖子公司埋祸根…",
+      "Url": "https://www.chaoqi.net/caijing/2019/0710/223392.html",
+      "PublishTime": "2019-07-10 00:00:00",
+      "EmotionType": "negative",
+      "Category": "2700,1200,3100,3200,3300,3600",
+      "NewsTags": "佳能热电,味精,莲花健康,夏建统,大健康"
+    },
+    {
+      "Id": "020dbb21-1ed9-43bd-8c51-55ae65dd18a8",
+      "NewsId": "b6fa675eb551e8cb2f18794973f9af19",
+      "Source": "金融界财经频道",
+      "Title": "莲花健康的“生死劫”：债权人上门逼债 企业内部启动转型",
+      "Url": "http://biz.jrj.com.cn/2019/07/05152027801881.shtml",
+      "PublishTime": "2019-07-05 15:20:00",
+      "EmotionType": "negative",
+      "Category": "3100,3200,3300,3400,3500",
+      "NewsTags": "莲花健康,国厚资产,法院,清偿,债务人"
+    },
+    {
+      "Id": "cf3a2416-8cd0-406f-80e2-11f1ccdefc81",
+      "NewsId": "8d3e649000c6b83b119fd5a6e8795b96",
+      "Source": "食品商务网",
+      "Title": "今日食事热点：伊利海外收购获批、海底捞入驻重庆",
+      "Url": "https://news.21food.cn/35/2841637.html",
+      "PublishTime": "2019-07-05 09:33:00",
+      "EmotionType": "none",
+      "Category": "2900,1100,3100,3300,3400",
+      "NewsTags": "莲花健康,Westland,海底捞,珍肉,农夫山泉"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

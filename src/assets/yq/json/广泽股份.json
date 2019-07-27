@@ -1,0 +1,229 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821205375800542",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 423
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 154
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 27
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 5
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 28
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 107
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 132
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 71
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 2
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 88
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 26
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 5
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 14
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 16
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 47
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 259
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 117
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "907cacd1-7a2f-4f49-873b-b583dfb9b7bc",
+      "NewsId": "cc22ce77815e9b1f25a247fb4bb81792",
+      "Source": "东方财富网",
+      "Title": "上海妙可蓝多食品科技股份有限公司 2019年第二次临时股东大会决议公告",
+      "Url": "http://finance.eastmoney.com/a/201907161179724974.html",
+      "PublishTime": "2019-07-16 14:35:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "表决,议案,可蓝多,董事会秘书,律师事务所"
+    },
+    {
+      "Id": "887af610-eb5c-45cf-8a92-5fd09f131280",
+      "NewsId": "9930544afe180b2328ba189f54d7026b",
+      "Source": "美通社",
+      "Title": "妙可蓝多携手“时尚数字”·你好·未来，众明星共同演绎“奶酪就选 妙可蓝多”",
+      "Url": "https://www.prnasia.com/story/251911-1.shtml",
+      "PublishTime": "2019-07-15 15:55:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "可蓝多,高钙,IP,营养,美味"
+    },
+    {
+      "Id": "7f2af9ed-82e1-4b33-b0f0-b0088eb9a731",
+      "NewsId": "bfeec4067a959bece15fc51df6cd3dcd",
+      "Source": "百家号",
+      "Title": "妙可蓝多不忘初心，砥砺前行",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9728275017592558836%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-09 11:17:23",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "可蓝多,奶酪,原制,乳品,天猫"
+    },
+    {
+      "Id": "5561c9fe-2e4b-4979-a17a-408fd670a141",
+      "NewsId": "9d71e3fee83df2d2f18e15239b6458c8",
+      "Source": "金融界",
+      "Title": "7月8日午盘两市机构大单抢筹40股(名单)",
+      "Url": "http://www.sohu.com/a/325528046_114984",
+      "PublishTime": "2019-07-08 11:30:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "0.166,0.126,0.017,0.025,0.074"
+    },
+    {
+      "Id": "4d64b238-9b6b-4698-a4c1-4edd356826d2",
+      "NewsId": "70fb7f05ca9b3dc19237b1bf89ca0063",
+      "Source": "百家号",
+      "Title": "妙可蓝多陷业绩泥潭，奶酪第一股打脸，柴琇回避什么？",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9898522144025831536%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-05 14:08:32",
+      "EmotionType": "negative",
+      "Category": "3200,3600,3700",
+      "NewsTags": "奶酪,广泽股份,乳业,乳企,净利润"
+    },
+    {
+      "Id": "225deaeb-1cf9-4e20-a90c-d3b9eb61b81a",
+      "NewsId": "5945d2b8b0826df9f03f4c32ea42b900",
+      "Source": "中国网",
+      "Title": "妙可蓝多控股股东柴琇增持计划再延期 实际增持不足目标下限七成",
+      "Url": "http://finance.china.com.cn/news/20190701/5018515.shtml",
+      "PublishTime": "2019-07-01 08:48:00",
+      "EmotionType": "none",
+      "Category": "3400,3600,3700",
+      "NewsTags": "增持计划,可蓝多,奶酪,延期,乳企"
+    },
+    {
+      "Id": "00d92814-4d7c-4bb3-a882-b2acb301402e",
+      "NewsId": "6595202e8857bbd8841063bf872b924b",
+      "Source": "同花顺财经",
+      "Title": "妙可蓝多子公司安置残疾人就业 获政府补助200余万元",
+      "Url": "http://stock.10jqka.com.cn/20190628/c612225408.shtml",
+      "PublishTime": "2019-06-28 17:23:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "可蓝多,奶酪,产品系列,广泽,液态奶"
+    },
+    {
+      "Id": "d349f611-0a6d-4fc1-8b6f-907b207c5d86",
+      "NewsId": "f2eea552eda3e7abc30d3b0033c347f0",
+      "Source": "东方财富网",
+      "Title": "上海妙可蓝多食品科技股份有限公司关于控股股东柴琇女士延期增持公司股份计划的公告",
+      "Url": "http://finance.eastmoney.com/a/201906281164201118.html",
+      "PublishTime": "2019-06-28 15:18:00",
+      "EmotionType": "none",
+      "Category": "3400,3600,3700",
+      "NewsTags": "增持计划,延期,蓝多,审议,食品科技"
+    },
+    {
+      "Id": "15b870e7-9867-4dfe-8ab1-37c2ec6692fd",
+      "NewsId": "f6b1e3a5a40c366cd0c9b54ef90924a1",
+      "Source": "东方财富网",
+      "Title": "上海妙可蓝多食品科技股份有限公司关于召开2019年第二次临时股东大会的通知",
+      "Url": "http://finance.eastmoney.com/a/201906281164126042.html",
+      "PublishTime": "2019-06-28 14:26:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "股东大会,投票系统,蓝多,委托人,议案"
+    },
+    {
+      "Id": "2f42ed9f-1907-480f-9a3e-9d2b28d65bd1",
+      "NewsId": "14b7736a5a5cbcbb6ac1d65ab9bc0517",
+      "Source": "东方财富网",
+      "Title": "上海妙可蓝多食品科技股份有限公司第十届董事会第九次会议决议公告",
+      "Url": "http://finance.eastmoney.com/a/201906281164107522.html",
+      "PublishTime": "2019-06-28 14:18:00",
+      "EmotionType": "none",
+      "Category": "3600,3700",
+      "NewsTags": "可蓝多,审议,议案,证券报,表决"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

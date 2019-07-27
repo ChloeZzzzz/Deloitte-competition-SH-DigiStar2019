@@ -1,0 +1,229 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071909411132575405",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 193
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 54
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 7
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 2
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 7
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 49
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 77
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 21
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 2
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 19
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 5
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 3
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 10
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 5
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 17
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 127
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 49
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "54b5d494-a042-40c5-a3e5-ef5017c0c3c6",
+      "NewsId": "56259ff6543bdee37893dce4db6e5dca",
+      "Source": "同花顺财经",
+      "Title": "梅花生物将于7月18日解禁705.46万股",
+      "Url": "http://news.10jqka.com.cn/20190712/c612496667.shtml",
+      "PublishTime": "2019-07-12 22:31:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "解禁,比例"
+    },
+    {
+      "Id": "294ce415-8015-428f-a960-805c8ff26ef5",
+      "NewsId": "45bc27ecadffc6f5ca2f06771210b724",
+      "Source": "金融界",
+      "Title": "7月3日午盘两市机构大单抢筹40股(名单)",
+      "Url": "http://www.sohu.com/a/324587223_114984",
+      "PublishTime": "2019-07-03 11:30:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "7.14,1.59,9.97,1.125,4.97"
+    },
+    {
+      "Id": "0794634f-fde5-464b-8808-328ccde9e03e",
+      "NewsId": "c638f7774fe59933feeb785f11cb3820",
+      "Source": "东方财富网",
+      "Title": "梅花生物(600873.SH)截至6月底累计回购408.94万股 涉资1989.32万元",
+      "Url": "http://finance.eastmoney.com/a/201907021167124997.html",
+      "PublishTime": "2019-07-02 17:16:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "成交,价格"
+    },
+    {
+      "Id": "abf382db-ca38-4d8d-862f-b8ba5495f78e",
+      "NewsId": "10cd22698b89cb4d566e25084edc261c",
+      "Source": "时讯网",
+      "Title": "中公高科养护科技股份有限公司关于更换持续督导保荐代表人的公告",
+      "Url": "http://www.shixunwan.cn/article/1562022019045001/",
+      "PublishTime": "2019-07-02 06:59:00",
+      "EmotionType": "none",
+      "Category": "1200",
+      "NewsTags": "公开发行股票,中德证券,IPO,持续督导保荐,陈祥"
+    },
+    {
+      "Id": "2e64d0b8-a6b9-4db4-af4a-70d3f982b187",
+      "NewsId": "5d4b9c27cb829720915eee7c60af571e",
+      "Source": "价值中国网",
+      "Title": "消费升级中的调味品产业发展趋势分析",
+      "Url": "http://www.chinavalue.net/Finance/Blog/2019-7-1/1808101.aspx",
+      "PublishTime": "2019-07-01 10:33:00",
+      "EmotionType": "none",
+      "Category": "3200,4000",
+      "NewsTags": "调味品,海天味业,千禾味业,食醋,酱油"
+    },
+    {
+      "Id": "1c2791fd-67d8-4ec9-a8a9-a93ba7ec9d8e",
+      "NewsId": "813b55e71ddff03df41c9057af8f5c58",
+      "Source": "东方财富网",
+      "Title": "农产品加工业成为河北省第三大产业",
+      "Url": "http://finance.eastmoney.com/a/201906191155710461.html",
+      "PublishTime": "2019-06-19 19:45:00",
+      "EmotionType": "positive",
+      "Category": "3200,4000",
+      "NewsTags": "农产品加工,股份有限,龙头企业,集团,信息"
+    },
+    {
+      "Id": "73c4a8b5-8618-4bb9-815b-abd34d4305fe",
+      "NewsId": "e97a7050d3c67d45097c3e516b63c828",
+      "Source": "东方财富网",
+      "Title": "梅花生物(600873.SH)截至5月底累计回购408.94万股 涉资1989.32万元",
+      "Url": "http://finance.eastmoney.com/a/201906031141317019.html",
+      "PublishTime": "2019-06-03 20:05:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "成交,价格,信息"
+    },
+    {
+      "Id": "1fd422a6-6d63-48b6-9267-37e256e2a0ba",
+      "NewsId": "f71907d6928aad2ef8db3f6ae8deff97",
+      "Source": "全景网",
+      "Title": "梅花生物：未来将奉行高分红政策 回馈各方投资者",
+      "Url": "http://www.sohu.com/a/315259782_115124?sec=wd",
+      "PublishTime": "2019-05-20 20:32:00",
+      "EmotionType": "positive",
+      "Category": "3200,3300",
+      "NewsTags": "不低于,估值,西藏,回报,上市公司"
+    },
+    {
+      "Id": "78eceed4-4d36-42fd-b127-b4a759d7708b",
+      "NewsId": "f84ecff2210d55623687239468375786",
+      "Source": "畅行951",
+      "Title": "5月第三周停电信息",
+      "Url": "http://www.sohu.com/a/313072378_99966590?sec=wd",
+      "PublishTime": "2019-05-10 12:33:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "廊坊市,停电,桐柏,开闭,技术开发区"
+    },
+    {
+      "Id": "c1496e20-5ed4-4737-af8b-8cc1dd222392",
+      "NewsId": "1067d4748034d79fdb72b077adfd0339",
+      "Source": "经济视野网",
+      "Title": "科尔沁工业园区实现生态效益和经济效益双赢",
+      "Url": "http://www.jjsy.org.cn/html/city/2019/0510/224279.html",
+      "PublishTime": "2019-05-10 09:02:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "递增,园区,绿色,循环"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

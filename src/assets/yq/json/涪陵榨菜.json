@@ -1,0 +1,244 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071819592915051164",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 566
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 163
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 1
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 5
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 2
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 28
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 1
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 3
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 15
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 304
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 104
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 43
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 11
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 81
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 67
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 2
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 23
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 19
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 73
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 329
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 164
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "91bb7db3-769d-49e1-afde-f0e51482d1d6",
+        "NewsId": "fd71a854111885ec25ae2757d35eb18a",
+        "Source": "每日经济新闻",
+        "Title": "白酒股竟遭跌停！小心避让——道达投资手记",
+        "Url": "http://www.mrjjxw.com/articles/2019-07-17/1354964.html",
+        "PublishTime": "2019-07-17 19:31:00",
+        "EmotionType": "negative",
+        "Category": "3200,3300,5000",
+        "NewsTags": "金种子酒,亏损,耿爽,龙头,加征"
+      },
+      {
+        "Id": "ffa6fd9a-642a-43f2-b7ac-bb92a58c221a",
+        "NewsId": "777beab7f3288bb03b30dc090fc53a38",
+        "Source": "同花顺财经",
+        "Title": "涪陵榨菜：签订国有建设用地使用权出让合同",
+        "Url": "http://stock.10jqka.com.cn/20190717/c612572592.shtml",
+        "PublishTime": "2019-07-17 19:21:00",
+        "EmotionType": "none",
+        "Category": "3300",
+        "NewsTags": "涪陵榨菜,FL2019,生产"
+      },
+      {
+        "Id": "2b1d75ba-b18e-4e08-aa64-64849dab97c2",
+        "NewsId": "09e1919405fb81d30de5d64a4b9f3a9a",
+        "Source": "同花顺财经",
+        "Title": "长城证券：维持食品饮料行业推荐评级",
+        "Url": "http://stock.10jqka.com.cn/20190716/c612533536.shtml",
+        "PublishTime": "2019-07-16 12:34:00",
+        "EmotionType": "none",
+        "Category": "3200,3300",
+        "NewsTags": "食品饮料,通胀,背景,价格,关注"
+      },
+      {
+        "Id": "defbd4af-5db3-4bb9-a3bc-cea225445640",
+        "NewsId": "bd522c8566c669c04169074cd9127c9f",
+        "Source": "同花顺财经",
+        "Title": "2018年中国调味品行业市场概况与发展趋势 头部厂商依靠产地优势树立起产品壁垒",
+        "Url": "http://stock.10jqka.com.cn/20190715/c612515648.shtml",
+        "PublishTime": "2019-07-15 16:56:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "酱油,占比,消费量,酿造"
+      },
+      {
+        "Id": "bf516378-77aa-4c4b-b38d-d2dc191838e9",
+        "NewsId": "bee6035c6b2464fb715bccb7dd48cfb9",
+        "Source": "证券时报网",
+        "Title": "中信建投：茅台中报低于预期，不应过度解读",
+        "Url": "http://www.sohu.com/a/326944793_119666",
+        "PublishTime": "2019-07-15 14:27:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "板块,五粮液,茅台"
+      },
+      {
+        "Id": "6fb5fef0-6ade-4a68-87fb-6a8e3f5e5c6e",
+        "NewsId": "c2dafd18d9c1bc89679bd74efa6b2fd9",
+        "Source": "人民网重庆站",
+        "Title": "涪陵：智能工厂和数字化车间数量居重庆首位",
+        "Url": "http://cq.people.com.cn/n2/2019/0715/c365411-33141986.html",
+        "PublishTime": "2019-07-15 00:00:00",
+        "EmotionType": "positive",
+        "Category": "3200,3300",
+        "NewsTags": "涪陵区,青菜头,生产线,人工,重庆"
+      },
+      {
+        "Id": "83524d1f-db7f-47e4-b401-0a4ca857fa48",
+        "NewsId": "601a7fba76d3f9a5953d8addff4e51aa",
+        "Source": "真相君",
+        "Title": "5毛榨菜的逆袭：3年涨价4次，却越涨卖的越火，做到市值200亿",
+        "Url": "http://www.sohu.com/a/326190715_100193179",
+        "PublishTime": "2019-07-12 00:40:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "涪陵榨菜,涨价,产品,量贩,提价"
+      },
+      {
+        "Id": "d15b5de3-458d-4c26-b0bb-95923747e15e",
+        "NewsId": "3ef1341a64dd3ea2f3dc966c65a46ca6",
+        "Source": "时讯网",
+        "Title": "靠1.4亿的拆迁费，将巨亏500万小厂子逆袭成180亿榨菜帝国？",
+        "Url": "http://www.shixunwan.cn/article/1562845160353001/",
+        "PublishTime": "2019-07-11 19:30:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "涪陵榨菜,拆迁款,酱腌菜,厂子,亏损"
+      },
+      {
+        "Id": "10d673a0-5495-42c0-9613-38e8e63fcd02",
+        "NewsId": "4b2580cf52710450f1be6782f5fed1bf",
+        "Source": "重庆商报",
+        "Title": "渝股点金｜蓝筹股集体承压，重庆啤酒盘中一度逼近跌停",
+        "Url": "https://www.cqcb.com/zhengquan/2019-07-11/1736956_pc.html",
+        "PublishTime": "2019-07-11 16:43:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "有色板块,华龙证券重庆,涪陵榨菜,强势,为宜"
+      },
+      {
+        "Id": "6c0f1e8f-4cb9-4b6f-8bf6-8dbe3f9f61bc",
+        "NewsId": "085c3a73afbd3b4bd84de08c0df8cf76",
+        "Source": "百家号",
+        "Title": "三峡大坝救下一家濒临倒闭企业，如今市值210亿成行业龙头",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9646104145719119439%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-07-11 16:01:48",
+        "EmotionType": "none",
+        "Category": "3200,3500",
+        "NewsTags": "涪陵榨菜,周斌全,拆迁,三峡大坝,担任"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

@@ -1,0 +1,239 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821125223520319",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 726
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 288
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 24
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 5
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 4
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 2
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 3
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 11
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 22
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 158
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 161
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 16
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 8
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 39
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 19
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 4
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 115
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 54
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 46
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 295
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 385
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "2e7ee177-3d96-4eb5-9177-be1515b027a8",
+      "NewsId": "005e169178e518797b46e880b44a2f0e",
+      "Source": "百家号",
+      "Title": "调味品行业 个股上半年增幅较大 抗周期性强",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9427023125162386394%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-16 04:21:59",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "调味品,千禾味业,同比增长,涨幅,星湖科技"
+    },
+    {
+      "Id": "7345ae90-5fe4-46d9-bd73-78b12c87aa88",
+      "NewsId": "0f00ae5b5d990afb30aa318caeca0c94",
+      "Source": "消费日报网",
+      "Title": "恒顺香醋：年产量30万吨的背后",
+      "Url": "http://www.xfrb.com.cn/html/zixun/redianjujiao/563188.html",
+      "PublishTime": "2019-07-16 00:00:00",
+      "EmotionType": "positive",
+      "Category": "4000",
+      "NewsTags": "食醋,制醋,菌种,镇江,调味品"
+    },
+    {
+      "Id": "959b87bf-9707-4d70-9d3d-bbc3a86160a6",
+      "NewsId": "bd522c8566c669c04169074cd9127c9f",
+      "Source": "同花顺财经",
+      "Title": "2018年中国调味品行业市场概况与发展趋势 头部厂商依靠产地优势树立起产品壁垒",
+      "Url": "http://stock.10jqka.com.cn/20190715/c612515648.shtml",
+      "PublishTime": "2019-07-15 16:56:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "酱油,占比,消费量,酿造"
+    },
+    {
+      "Id": "478536a6-5e39-4b87-8f5f-77746d0c0aa5",
+      "NewsId": "40e55d150936a722e99f83af59351c77",
+      "Source": "时讯网",
+      "Title": "“中华老字号”名录大全",
+      "Url": "http://www.shixunwan.cn/article/1562958753553001/",
+      "PublishTime": "2019-07-13 03:07:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "注册商标,股份有限,酒业,上海,集团"
+    },
+    {
+      "Id": "29e63edc-6d1a-45f2-9dba-83672bb5b6b8",
+      "NewsId": "d993a7106922945f55a1dccc56627a1e",
+      "Source": "创头条",
+      "Title": "2019年调味品行业发展趋势 ",
+      "Url": "http://www.ctoutiao.com/2077098.html",
+      "PublishTime": "2019-07-11 18:47:00",
+      "EmotionType": "positive",
+      "Category": "3200,5000",
+      "NewsTags": "品类,老干妈,经销商,小包装,营销"
+    },
+    {
+      "Id": "b28f4dfa-54f6-4363-ba36-a7c3f29508e9",
+      "NewsId": "f7df0e87651e28a384be7fac5f846d9d",
+      "Source": "百家号",
+      "Title": "7月8日券商晨会研报汇编",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9748294882424732599%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-08 08:47:51",
+      "EmotionType": "positive",
+      "Category": "3200,3300",
+      "NewsTags": "中报,半导体,估值,国产,受益"
+    },
+    {
+      "Id": "be2c54d0-d95c-4bcb-a86a-ea1052d022e0",
+      "NewsId": "b16b5a6a0ef962efc6157b62dbc9559b",
+      "Source": "微信公众号",
+      "Title": "【食品饮料-恒顺醋业(600305)】范劲松、熊欣慰（研究助理）：深度报告：历久弥新，龙头启航-20",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562541462&src=3&ver=1&signature=ODDVBaXyXlKQzYdqLub9*Brvb2mnxpo29yeYmytt8T0NyDd3MjoeAPBnejkabh2sOEdDRr2uyGqmXbNr8*2s69X2zQC7YGT2tFfUlTbiGdSPxG4OlkxGFd84hY1TJ-syghIWSFwcY24bCvJ1b8js5NSA8Slxc166ijipWkxFzEY=",
+      "PublishTime": "2019-07-08 07:15:38",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "调味品,恒顺醋业,提价,增长,华东"
+    },
+    {
+      "Id": "4c642d67-35c6-4282-b7ef-49d75d6c6ada",
+      "NewsId": "8e3c2294463d64c1382b8749b9fa9b41",
+      "Source": "时讯网",
+      "Title": "大白马持续调整，要学李晨和范冰冰一样各奔东西了吗？",
+      "Url": "http://www.shixunwan.cn/article/1562535394107001/",
+      "PublishTime": "2019-07-08 05:29:00",
+      "EmotionType": "negative",
+      "Category": "3300",
+      "NewsTags": "科创板,禅师,非农数据,处以,大幅反弹"
+    },
+    {
+      "Id": "e3103e45-1c3e-48b0-87c3-be3019d4d872",
+      "NewsId": "1a1d2ceeac4a43e2275feb20a4a1dfe9",
+      "Source": "证券时报网",
+      "Title": "中信证券：食品板块龙头加速份额攫取 确定性强",
+      "Url": "http://kuaixun.stcn.com/2019/0708/15236376.shtml",
+      "PublishTime": "2019-07-08 00:00:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "龙头,白酒,推荐,高端,持续"
+    },
+    {
+      "Id": "9f35f623-6923-4ab4-85fd-3db4ab0e95b4",
+      "NewsId": "dd6c7f8b09db79e4df611d8f7aa6a561",
+      "Source": "微信公众号",
+      "Title": "盖房子的、开银行的、搞AI的都不如打酱油的！",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562425877&src=3&ver=1&signature=Qiw-*ybH32ehIUyXFyoBV3KsN5syQVScTl1hJy8n6x3iCUie*tHu6F7I8C4nd1o5GuJE6wt1ZsbZ-J0DYIrsBsOIMJ0sR5Eaz2tl8jZGG8xyBijYYxrAu24dJbJmtrv1oAJK*1W5nW56uUa0GgsP6ckQjIpqiPsCWyMv7QSuHaE=",
+      "PublishTime": "2019-07-06 22:07:45",
+      "EmotionType": "negative",
+      "Category": "3200,3300",
+      "NewsTags": "海天味业,占比,利器,估值,调味品"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

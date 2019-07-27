@@ -1,0 +1,249 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820181094382681",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 1310
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 477
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 1
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 15
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 15
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 46
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 10
+          },
+          {
+            "Value": "2500",
+            "Desc": "环保处罚",
+            "Count": 2
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 1
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 2
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 22
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 90
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 446
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 290
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 186
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 4
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 91
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 46
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 9
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 67
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 122
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 190
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 612
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 508
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "2c4e0d3d-5a52-4c54-9271-4b6673abfc74",
+        "NewsId": "97c45fe6adf9c8f212590cb361d0d9d5",
+        "Source": "中国商业新闻网",
+        "Title": "天一美膳成功举办首届总裁游学班",
+        "Url": "http://www.cucnews.com/news/jr/2019-07-18/76225.html",
+        "PublishTime": "2019-07-18 17:46:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "倍儿,文冶,汤臣倍健,同学,饼干"
+      },
+      {
+        "Id": "b4a5e785-03ca-41b7-ad6f-f3313aeb50ed",
+        "NewsId": "4eec1089f95bcca86659286e896fe068",
+        "Source": "中国药店.",
+        "Title": "从刷“卡”到掏现金，非药经营不得不面对的课题！",
+        "Url": "http://www.sohu.com/a/327653497_377305",
+        "PublishTime": "2019-07-18 06:58:00",
+        "EmotionType": "none",
+        "Category": "5000",
+        "NewsTags": "药店,店员,动销,果维康,消费者"
+      },
+      {
+        "Id": "ba08e3e2-9881-40a0-afa4-dbbbda99fd6c",
+        "NewsId": "c13adbb9f043f9021b40fd1b89ef82ce",
+        "Source": "港澳在线",
+        "Title": "汤臣倍健产品生产周期实现“由天到时”智能生产效率高了收入涨了",
+        "Url": "http://www.gangaonet.com/zhusanjiao/2019/0718/116591.html",
+        "PublishTime": "2019-07-18 00:00:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "学荣,张学,营养,称重,流程"
+      },
+      {
+        "Id": "cceeecc5-8cf6-435c-8c6a-f03d35411882",
+        "NewsId": "f87501b6ad90c528efd5de28d74f99d3",
+        "Source": "中国食品安全网",
+        "Title": "广东省市场监管局突击检查保健食品制售商",
+        "Url": "http://www.cfsn.cn/front/web/site.indexdfshow?newsid=7942",
+        "PublishTime": "2019-07-17 07:51:00",
+        "EmotionType": "negative",
+        "Category": "2100,2800",
+        "NewsTags": "经营,检查组,检查人员,进货,认知"
+      },
+      {
+        "Id": "5c8b879f-9c6d-4c15-af0d-7436de1876cc",
+        "NewsId": "49fb660f66fb5fc036e554183215063b",
+        "Source": "南方网",
+        "Title": "省市场监管局：对保健食品制售商家展开飞行检查",
+        "Url": "http://news.southcn.com/gd/content/2019-07/17/content_188339315.htm",
+        "PublishTime": "2019-07-17 07:22:00",
+        "EmotionType": "negative",
+        "Category": "2100,2800",
+        "NewsTags": "保健食品,生产,经营,检查组,进货"
+      },
+      {
+        "Id": "da79a54a-7cba-43a0-a965-7e36f0ff25e9",
+        "NewsId": "1ecc2d5c8c40d00f874b01ab4e5ed47f",
+        "Source": "中国发展网",
+        "Title": "广东省市场监管局突击检查汤臣倍健",
+        "Url": "http://cyfz.chinadevelopment.com.cn/cjyw/2019/07/1538374.shtml",
+        "PublishTime": "2019-07-16 17:35:00",
+        "EmotionType": "negative",
+        "Category": "5000",
+        "NewsTags": "汤臣倍健,药店,抽查,营养学,珠海"
+      },
+      {
+        "Id": "2959591a-5683-48b2-b543-612c2acf7a53",
+        "NewsId": "3798130bc3406d6f024e21e7ddd37764",
+        "Source": "华夏时报网",
+        "Title": "东阿阿胶不是“医药茅台” ——保健品不能当药吃",
+        "Url": "http://www.chinatimes.net.cn/article/88501.html",
+        "PublishTime": "2019-07-16 16:58:06",
+        "EmotionType": "none",
+        "Category": "3200,3300",
+        "NewsTags": "东阿阿胶,汤臣倍健,视多课,恒瑞医药,华夏时报"
+      },
+      {
+        "Id": "d9c5bd2d-6a20-4c6e-8b5d-a4e676d70674",
+        "NewsId": "0f2ad5ac34779ca59a139d17639c4b86",
+        "Source": "国信研究",
+        "Title": "食品饮料7月投资策略：龙头表现稳健，关注业绩中报兑现",
+        "Url": "http://www.sohu.com/a/327136327_619346",
+        "PublishTime": "2019-07-16 09:09:00",
+        "EmotionType": "none",
+        "Category": "3200,3300",
+        "NewsTags": "Q2,白酒,上涨,汤臣倍健,龙头"
+      },
+      {
+        "Id": "2ad88cad-b14c-469f-bcc5-992bb61a9081",
+        "NewsId": "35aedf5caa9a2f82ec70456dde46e1ee",
+        "Source": "百家号",
+        "Title": "这个千亿新市场，正成为年轻人新宠，或将冲击餐饮业！",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9608965404577493884%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-07-14 18:21:07",
+        "EmotionType": "positive",
+        "Category": "5000",
+        "NewsTags": "代餐,乐纯,Smeal,汤臣倍健,功能性"
+      },
+      {
+        "Id": "990a8c82-1522-47d5-80b2-878642b2dc29",
+        "NewsId": "36a2e2bf6cdb6d9c28ff5b4fe7f7c05a",
+        "Source": "现代商业",
+        "Title": "NC纽新宝荣获2019HNC“营养保健品进口品牌五强”",
+        "Url": "http://www.sohu.com/a/157051335_246926",
+        "PublishTime": "2019-07-11 15:17:00",
+        "EmotionType": "none",
+        "Category": "4000",
+        "NewsTags": "展会,澳洲,肠胃,HNC,大健康"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

@@ -1,0 +1,249 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071909432441141798",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 539
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 173
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 12
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 27
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 9
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 9
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 4
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 1
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 154
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 146
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 145
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 28
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 3
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 58
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 17
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 3
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 32
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 90
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 52
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 274
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 213
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "4b8ce47a-7226-4159-baaf-c4bb6b6aa5fa",
+      "NewsId": "6da7c2795199498cc022cbfb83302719",
+      "Source": "证券时报网",
+      "Title": "食品饮料板块走强 前五月食品饮料消费增速加快",
+      "Url": "http://stock.stcn.com/2019/0703/15226521.shtml",
+      "PublishTime": "2019-07-03 10:38:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "增速,食品饮料,消费市场,商务部,回落"
+    },
+    {
+      "Id": "902338ec-8feb-4eec-91f0-b1746c000acf",
+      "NewsId": "48e79d17ed0c77b4a42339224dc45add",
+      "Source": "时讯网",
+      "Title": "天味食品(603317)急速拉升，暂报47.45元",
+      "Url": "http://www.shixunwan.cn/article/1562064137317001/",
+      "PublishTime": "2019-07-02 18:31:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "天味食品,加加食品,有友食品,振幅,日线"
+    },
+    {
+      "Id": "088ee3b0-6819-4e81-ba49-8c502d96aadf",
+      "NewsId": "d16aac32d191e76bdaab530f24420865",
+      "Source": "第一财经",
+      "Title": "微策略-每日研报-天风证券：国企改革对食品饮料行业的影响",
+      "Url": "http://www.sohu.com/a/323347107_114986",
+      "PublishTime": "2019-06-27 14:25:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "白酒,涨价,涨停,股价,趋势"
+    },
+    {
+      "Id": "da06eb55-65b1-40b4-b00c-16a42dbff3c3",
+      "NewsId": "801f4cb578d6242437f814f0c943e990",
+      "Source": "每日经济新闻",
+      "Title": "前五大客户营收占比超70%，毛利率显著低于同行——供货箭牌、高露洁的亚香香料能否A股“留香”？",
+      "Url": "http://www.mrjjxw.com/articles/2019-06-22/1345997.html",
+      "PublishTime": "2019-06-22 17:40:00",
+      "EmotionType": "none",
+      "Category": "3100,3200",
+      "NewsTags": "亚香,应收账款,占比,华宝股份,箭牌"
+    },
+    {
+      "Id": "6258ed44-aed5-4a5a-8adb-8e12212e70fd",
+      "NewsId": "fef0e82ab85482620f716e6d5e7645a0",
+      "Source": "搜狐财经",
+      "Title": "爱仕达：完成对新三板公司“意欧斯”不超1200万元增持计划 ",
+      "Url": "http://www.sohu.com/a/321879293_114986",
+      "PublishTime": "2019-06-20 15:53:00",
+      "EmotionType": "none",
+      "Category": "3100,3300,3600,3700",
+      "NewsTags": "CMC资本,NEOBIO,CMCCapital,减持,增持"
+    },
+    {
+      "Id": "fb9f536a-8118-4bfa-b401-31cd7c334291",
+      "NewsId": "8aa4220afede0cbe1a0e7633491e160d",
+      "Source": "东方财富网",
+      "Title": "爱普股份股东馨宇投资减持320万股 套现约2755万元",
+      "Url": "http://finance.eastmoney.com/a/201906121148794573.html",
+      "PublishTime": "2019-06-12 11:24:00",
+      "EmotionType": "none",
+      "Category": "3200,3300,3600,3700",
+      "NewsTags": "爱普股份,食品配料,8.61,香精,上海证券交易所"
+    },
+    {
+      "Id": "cb699f2b-0c15-4852-837b-c1afe9cb12f3",
+      "NewsId": "1002baedf2ce57e378aafecb146d3dd8",
+      "Source": "微信公众号",
+      "Title": "【6月12日虹桥早餐】",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1560303463&src=3&ver=1&signature=rjZHQw*vSh0S-1Nmxs5Pggrpg*aGxweBKtlj*FaBCpno1M4Rlvuo*fYL302etjqULxnumMn8C2EmZq6xE8uEJgxcDy7pQvs1s6eXCRFmEjf5TfDLP5tpGNFAM0LHyJHDECuWQr-TqV0dQGk5XDJfyMs8hrRzIr6M7ui0DiSFuIY=",
+      "PublishTime": "2019-06-12 09:25:12",
+      "EmotionType": "positive",
+      "Category": "3200,3300,3400",
+      "NewsTags": "厦门钨业,指数,反弹,涨停,稀土"
+    },
+    {
+      "Id": "3b5521f3-6460-4acd-975b-48d5f9bc5400",
+      "NewsId": "15acb5245916a2b8530c7d59b7eeb911",
+      "Source": "涨停板摇篮",
+      "Title": "【今日涨停】基建板块全线爆发 稀土概念股持续强势",
+      "Url": "http://www.sohu.com/a/319915033_182615",
+      "PublishTime": "2019-06-11 21:17:00",
+      "EmotionType": "positive",
+      "Category": "3300",
+      "NewsTags": "OLED,汽车,科技"
+    },
+    {
+      "Id": "f1bb23a0-06b0-4d1f-b77a-3d2dec9e3460",
+      "NewsId": "fd9ac18fb47f08eb6c911f458323e29f",
+      "Source": "东方财富网",
+      "Title": "巨丰投顾：市场放量反弹 悲观情绪退潮",
+      "Url": "http://stock.eastmoney.com/a/201906111147480590.html",
+      "PublishTime": "2019-06-11 11:34:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "稀土永磁,涨幅居前,水泥建材,板块,题材股"
+    },
+    {
+      "Id": "ea715a42-7165-4315-b44b-ab83140cb56c",
+      "NewsId": "ac8e02ffa2eb9c1a175fd4cbcd063bad",
+      "Source": "百家号",
+      "Title": "人造肉概念高开高走 双塔食品等多股涨停",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9108679182812859237%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-06-11 09:57:58",
+      "EmotionType": "none",
+      "Category": "3100",
+      "NewsTags": "人造肉,Meat"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

@@ -1,0 +1,254 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071819504130848178",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 1753
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 890
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 2
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 34
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 6
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 8
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 2
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 8
+        },
+        {
+          "Value": "2500",
+          "Desc": "环保处罚",
+          "Count": 2
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 10
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 3
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 25
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 77
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 454
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 197
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 37
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 16
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 49
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 19
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 13
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 92
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 152
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 753
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 528
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 472
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "3cdd5c9b-9cca-4eaa-99cf-d419e5e18901",
+      "NewsId": "d75c9794086f6a887479f7f47f5da6fe",
+      "Source": "百家号",
+      "Title": "50岁蹬三轮创业成河南首富！74岁“速冻大王” 联手董明珠再创业",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9699020728478944175%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-18 18:16:23",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "陈泽民,速冻汤圆,地热,三全食品,发电"
+    },
+    {
+      "Id": "9cd76bcd-ae6f-478e-bcba-a9a80f20bbef",
+      "NewsId": "6fdfbd47a272226351883977c1d12913",
+      "Source": "OFweek",
+      "Title": "董明珠跨界清洁能源，有迹可循！",
+      "Url": "https://ecep.ofweek.com/2019-07/ART-93010-8440-30399202.html",
+      "PublishTime": "2019-07-18 17:55:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "格力电器,万江,董明珠,陈泽民,三全食品"
+    },
+    {
+      "Id": "9aaeea33-e473-4fdc-af22-150e448d0d22",
+      "NewsId": "78c8e496ca599d62795e94f640460b85",
+      "Source": "朱邦凌",
+      "Title": "原创 50岁蹬三轮卖汤圆成河南首富！74岁二次创业，联手董明珠做地热",
+      "Url": "http://www.sohu.com/a/327670025_100008055",
+      "PublishTime": "2019-07-18 12:44:00",
+      "EmotionType": "positive",
+      "Category": "3200,3600",
+      "NewsTags": "陈泽民,三全食品,速冻,汤圆,万江"
+    },
+    {
+      "Id": "9a4d205f-6156-4de7-b6df-ac6f0e565580",
+      "NewsId": "ce4814a6e0693dda3650c1109b157aed",
+      "Source": "金投网",
+      "Title": "董明珠再玩“跨界” 合作方董事长为三全创始人",
+      "Url": "https://finance.cngold.org/c/2019-07-18/c6471106.html",
+      "PublishTime": "2019-07-18 11:05:00",
+      "EmotionType": "positive",
+      "Category": "1200",
+      "NewsTags": "陈泽民,三全食品,格力电器,战略合作,地热能"
+    },
+    {
+      "Id": "0df6ecce-ab87-4b31-aab6-f10cd908e577",
+      "NewsId": "bf7b069e7ac4b07a07147d383745348c",
+      "Source": "每日经济新闻",
+      "Title": "格力电器牵手搞地热的万江新能源 董明珠再跨界？",
+      "Url": "http://www.mrjjxw.com/articles/2019-07-17/1354940.html",
+      "PublishTime": "2019-07-17 18:19:00",
+      "EmotionType": "positive",
+      "Category": "1200,5000",
+      "NewsTags": "万江,格力电器,陈泽民,战略合作,董明珠"
+    },
+    {
+      "Id": "eca20a13-07c4-4cce-91be-7145d5310fd6",
+      "NewsId": "77a9e45ba9efd297be4efe22d4f0d232",
+      "Source": "大河网",
+      "Title": "陈泽民联手董明珠 深耕北方新能源开发领域",
+      "Url": "https://jr.dahe.cn/2019/07-17/512752.html",
+      "PublishTime": "2019-07-17 14:17:00",
+      "EmotionType": "positive",
+      "Category": "1200",
+      "NewsTags": "陈泽民,万江,地热能,格力电器,集团董事长"
+    },
+    {
+      "Id": "b97b7495-7e83-4014-b899-1cbcd148fe40",
+      "NewsId": "77121321e71fd4e84cf2c32a16f574a1",
+      "Source": "慢钱头条",
+      "Title": "一枚散户的自选股观察名单更新20190716",
+      "Url": "http://toutiao.manqian.cn/wz_5cZiz92PKNV.html",
+      "PublishTime": "2019-07-17 00:00:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "上海机场,价格标签,轻套,苏泊尔,自选股"
+    },
+    {
+      "Id": "029358a5-163d-4bcb-b8d0-e2131f10c4c8",
+      "NewsId": "79e061a7c46debd33fcb56b7b40abf18",
+      "Source": "百家号",
+      "Title": "快讯！三全食品获政府补助1350万元",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9446371265607605083%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-16 17:37:02",
+      "EmotionType": "none",
+      "Category": "3200",
+      "NewsTags": "郑州市,食品,简称,审核,就业"
+    },
+    {
+      "Id": "386bee81-eabc-4d11-b5d6-77ee9dea7c5d",
+      "NewsId": "a56f7a52c9f60e1deeb5c8abfc39cbe4",
+      "Source": "微信公众号",
+      "Title": "【华创·每日最强音】食品饮料行业深度研究报告：他山之石——味之素：一门关于味道的生意|宏观+食饮+煤",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562898181&src=3&ver=1&signature=RVzCJiJd-X2dmQ5AvfnmN3WYnU*kplGy*6CZjcO79H*y0I9HZp5DhZjMbf50fx4kq6*3aZ7B77SpCNMgG3m2xeNJ1j597ASUXyWpuYMfL1N5e8JOqMs4Qoerl5PbS5pS9GPatsVMhc02ytvTGYpLPfMS14re04gX9jnyHiMJmkM=",
+      "PublishTime": "2019-07-12 09:28:45",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "华创证券,PPI,通胀,龙头,同比"
+    },
+    {
+      "Id": "739e0413-5400-4e94-9fe9-a4ac50e04f45",
+      "NewsId": "77775915d27f6ebe77315128967ac138",
+      "Source": "智通财经",
+      "Title": "日本食品启示录：看好中国复合调味品及速冻食品行业成长",
+      "Url": "https://www.zhitongcaijing.com/content/detail/218776.html",
+      "PublishTime": "2019-07-11 21:55:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "调味品,味之素,占比,日本,渠道"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

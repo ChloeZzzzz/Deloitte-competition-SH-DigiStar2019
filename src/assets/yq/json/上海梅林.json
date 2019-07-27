@@ -1,0 +1,259 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821054910521010",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 711
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 273
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 21
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 54
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 5
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 6
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 16
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 25
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 1
+        },
+        {
+          "Value": "2500",
+          "Desc": "环保处罚",
+          "Count": 9
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 10
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 5
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 48
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 229
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 166
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 103
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 13
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 62
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 10
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 3
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 36
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 20
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 81
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 362
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 268
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "77e973c1-a702-463f-81f7-f0ef48c70ee0",
+      "NewsId": "8972f487654e10c2c3fbb94ed2e3f20c",
+      "Source": "中国安全食品网",
+      "Title": "消费者愈发爱“新鲜” 罐头食品如何突围？",
+      "Url": "http://www.foodscn.cn/news/2019/07/16/15632643688.htm",
+      "PublishTime": "2019-07-16 16:05:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "罐头食品,午餐肉,水果罐头,占比,防腐剂"
+    },
+    {
+      "Id": "c49e76ce-3623-4601-aaf7-2f9ea99d5f6c",
+      "NewsId": "c259a526c6ec33508b363488d585a285",
+      "Source": "时讯网",
+      "Title": "股价异动：重庆啤酒(600132)大幅拉升，成交量放大",
+      "Url": "http://www.shixunwan.cn/article/1562838323209001/",
+      "PublishTime": "2019-07-11 17:33:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "重庆啤酒,上海梅林,日线,振幅,个股"
+    },
+    {
+      "Id": "a04a8bcc-d9c3-4375-8b97-e0eae5b3fc31",
+      "NewsId": "f5b385c511401af5ea62514dc8139f1d",
+      "Source": "金融界",
+      "Title": "7月11日午盘两市机构大单抢筹40股(名单)",
+      "Url": "http://www.sohu.com/a/326180495_114984",
+      "PublishTime": "2019-07-11 11:30:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "4.29,0.099,0.185,0.034,1.01"
+    },
+    {
+      "Id": "2539c06b-1900-4429-bbf8-bbb85bfbb763",
+      "NewsId": "9acee904eb29906c750f2154ecf5bc9d",
+      "Source": "智通财经",
+      "Title": "2019《财富》中国500强排行榜揭晓 榜单头部仍是中石化(00386)、中石油(00857)等",
+      "Url": "https://www.zhitongcaijing.com/content/detail/218474.html",
+      "PublishTime": "2019-07-11 07:18:00",
+      "EmotionType": "positive",
+      "Category": "3200,4000",
+      "NewsTags": "中国,营业,上榜,本榜,收入"
+    },
+    {
+      "Id": "33d0fef8-f6bc-4cc9-939d-61ef6f92aca6",
+      "NewsId": "db7f9b5bfe3a7746bf802d99a9341e89",
+      "Source": "中国食品网",
+      "Title": "人们愈发爱“新鲜” 罐头食品是否已失宠？",
+      "Url": "http://www.cnfood.com/news/show-313386.html",
+      "PublishTime": "2019-07-09 00:00:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "罐头食品,午餐肉,水果罐头,SPAM,占比"
+    },
+    {
+      "Id": "0227c696-6ff4-4749-926e-fb3a6ebd50f3",
+      "NewsId": "dcd970101e136d52ef072e5338657335",
+      "Source": "时讯网",
+      "Title": "（600073）上海本地食品龙头+猪肉概念，周一爆发在即",
+      "Url": "http://www.shixunwan.cn/article/1562531434572001/",
+      "PublishTime": "2019-07-08 04:19:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "盈利能力,牛羊肉,市占率,业务,生猪"
+    },
+    {
+      "Id": "1379dc94-cde8-42f9-aa0b-cb3617ef86ab",
+      "NewsId": "45bc27ecadffc6f5ca2f06771210b724",
+      "Source": "金融界",
+      "Title": "7月3日午盘两市机构大单抢筹40股(名单)",
+      "Url": "http://www.sohu.com/a/324587223_114984",
+      "PublishTime": "2019-07-03 11:30:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "7.14,1.59,9.97,1.125,4.97"
+    },
+    {
+      "Id": "85f840ad-6331-42cd-a185-93bcd3b0cc2a",
+      "NewsId": "0a208f396101af5e05acfd3009a4fa5c",
+      "Source": "川报观察",
+      "Title": "你所熟知的大白兔奶糖来四川做房地产了！光明地产品牌暨光明·蓉府产品发布会盛大启幕",
+      "Url": "https://cbgc.scol.com.cn/city/153586",
+      "PublishTime": "2019-07-02 13:46:00",
+      "EmotionType": "positive",
+      "Category": "4000",
+      "NewsTags": "光明地产,川渝,光明食品集团,蓉府,光明乳业"
+    },
+    {
+      "Id": "3cf3c17e-8878-4511-bf88-c6b30c3c3d8e",
+      "NewsId": "42bc7f1567d3b93635b45a85c4b37930",
+      "Source": "搜财网",
+      "Title": "糖果行业仍然萧条",
+      "Url": "http://www.scbzol.com/content/294648.html",
+      "PublishTime": "2019-06-30 01:55:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "大白兔,奶糖,奶茶,冠生园,上海梅林"
+    },
+    {
+      "Id": "2bfc9280-a260-4ea3-9326-4dd22890d4b5",
+      "NewsId": "27924116e0828a28b0721fe05814a9ff",
+      "Source": "华夏时报网",
+      "Title": "糖果业持续低迷 大白兔只能依靠回忆吗",
+      "Url": "http://www.chinatimes.net.cn/article/87901.html",
+      "PublishTime": "2019-06-28 13:17:05",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "大白兔,奶糖,奶茶,冠生园,上海梅林"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

@@ -1,0 +1,254 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820083772843083",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 828
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 324
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 8
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 33
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 13
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 31
+          },
+          {
+            "Value": "2200",
+            "Desc": "贪污受贿",
+            "Count": 5
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 21
+          },
+          {
+            "Value": "2500",
+            "Desc": "环保处罚",
+            "Count": 2
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 2
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 30
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 168
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 241
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 222
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 186
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 12
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 104
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 24
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 72
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 33
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 24
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 131
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 497
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 200
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "a2f417ac-526d-442d-8d80-05bc0ccf5487",
+        "NewsId": "739973005a9823f0d48c3824ca93f19f",
+        "Source": "财联社",
+        "Title": "又一公司业绩遭并购标的“拖累”年内已4家A股公司“退货”",
+        "Url": "http://www.sohu.com/a/326377587_222256",
+        "PublishTime": "2019-07-12 15:15:00",
+        "EmotionType": "negative",
+        "Category": "2800,3200,3300,3400,3600",
+        "NewsTags": "幸福蓝海,笛女传媒,财联社记者,常康环保,退货"
+      },
+      {
+        "Id": "a3c0ea9d-21aa-49bd-8b71-0aba563b26a0",
+        "NewsId": "82763bbe3aba86d6f96340c415a868c6",
+        "Source": "新京报网",
+        "Title": "麦趣尔集团再现平仓风险，持股因减持新规被套",
+        "Url": "http://www.bjnews.com.cn/finance/2019/07/05/599876.html",
+        "PublishTime": "2019-07-05 20:35:00",
+        "EmotionType": "none",
+        "Category": "3300,3600,3700,3800",
+        "NewsTags": "减持,质押,平仓,上市公司,股东"
+      },
+      {
+        "Id": "c649be6d-0202-465d-83ed-454466c9ffc9",
+        "NewsId": "e95c9d5d17370d682fb61c569b35f6de",
+        "Source": "搜狐财经",
+        "Title": "麦趣尔集团股份有限公司关于控股股东被动减持股份暨后续可能继续被动减持股份的预披露公告 ",
+        "Url": "http://www.sohu.com/a/324910429_115433",
+        "PublishTime": "2019-07-05 04:54:00",
+        "EmotionType": "none",
+        "Category": "3600,3700,3800",
+        "NewsTags": "减持股份,股份总数,控股股东,质押,股份有限"
+      },
+      {
+        "Id": "ec4f5b24-4d89-4619-8911-ce9ca8b2e9bc",
+        "NewsId": "8fed417d02ed243e8785fe8641b30fac",
+        "Source": "中国银河证券",
+        "Title": "麦趣尔(002719)股东麦趣尔集团减持122万股 套现约1464万元",
+        "Url": "http://www.chinastock.com.cn/yhwz_about.do?methodCall=getDetailInfo&docId=6866498",
+        "PublishTime": "2019-07-05 00:00:00",
+        "EmotionType": "none",
+        "Category": "3200,3600,3700",
+        "NewsTags": "烘焙,深圳证券交易所,食品,股东,加工"
+      },
+      {
+        "Id": "e5138d88-fc7b-40f0-9543-3f72f3655796",
+        "NewsId": "33aaf79cfe6fc02d0b0dbba84b2def91",
+        "Source": "食品伙伴网",
+        "Title": "麦趣尔净利连续3年下滑营收行业垫底 上市五年市值腰斩",
+        "Url": "http://news.foodmate.net/2019/06/523477.html",
+        "PublishTime": "2019-06-24 08:09:00",
+        "EmotionType": "none",
+        "Category": "2800,3200,3400",
+        "NewsTags": "麦趣尔,净利润,新美心,倒数,下滑"
+      },
+      {
+        "Id": "8bec962c-8b42-4353-a1bc-1d3e475627bc",
+        "NewsId": "ac057abe34d264e34b2cd1c0f20682b4",
+        "Source": "百家号",
+        "Title": "尚德守法保食安 诚信承诺享美好——2019年新疆维吾尔自治区食品安全宣传周活动正式启动",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9521665027372867584%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-06-19 12:20:09",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "自治区,新疆,餐饮,倡议,监管部门"
+      },
+      {
+        "Id": "2b2d8822-ffa3-4ed9-a55f-bb4af4172390",
+        "NewsId": "9327db2053c4d59aeea1e3b22129bab3",
+        "Source": "运营商财经网",
+        "Title": "麦趣尔信披违规被关注 过分收购企业引发业绩下滑？",
+        "Url": "http://www.sohu.com/a/320561727_452858",
+        "PublishTime": "2019-06-14 16:27:00",
+        "EmotionType": "negative",
+        "Category": "2300,3200,3400",
+        "NewsTags": "麦趣尔,收购,深交所,终止,股权"
+      },
+      {
+        "Id": "41d3eb8c-b5ff-45f5-bee9-f42eaecd7dee",
+        "NewsId": "f68dfd381db64e5a75e7b8413d6d746a",
+        "Source": "食品商务网",
+        "Title": "今日食事热点：娃哈哈营收止跌、永辉超市高管大变动",
+        "Url": "https://news.21food.cn/35/2840249.html",
+        "PublishTime": "2019-06-14 09:38:00",
+        "EmotionType": "positive",
+        "Category": "1200,3200",
+        "NewsTags": "每日优鲜,泰国天丝,麦趣尔,监管函,雀巢"
+      },
+      {
+        "Id": "aa7a5824-3419-49b5-9597-951f1353fa55",
+        "NewsId": "07befe43e7c9c07e3c7fbc2e244fea6c",
+        "Source": "东方财富网",
+        "Title": "问询函之后再收监管函 麦趣尔业绩持续下滑颓势难挽？",
+        "Url": "http://finance.eastmoney.com/a/201906141150802583.html",
+        "PublishTime": "2019-06-14 04:01:00",
+        "EmotionType": "none",
+        "Category": "2800,3200,3400",
+        "NewsTags": "麦趣尔,问询函,净利润,烘焙,1.16"
+      },
+      {
+        "Id": "b48ebb02-04bb-4477-8f22-88a96c498fa1",
+        "NewsId": "3894be4ffa1605f623d2a2d031e50f21",
+        "Source": "新浪网",
+        "Title": "十年首次亏损 麦趣尔遭遇扩张难题",
+        "Url": "https://finance.sina.com.cn/chanjing/gsnews/2019-06-14/doc-ihvhiews8717075.shtml",
+        "PublishTime": "2019-06-14 01:28:00",
+        "EmotionType": "negative",
+        "Category": "3200,3400",
+        "NewsTags": "麦趣尔,新美心,门店,亏损,1.54"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

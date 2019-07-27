@@ -1,0 +1,244 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071819541676010950",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 887
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 374
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 6
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 10
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 5
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 22
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 5
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 5
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 2
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 93
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 133
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 186
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 20
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 5
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 72
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 27
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 30
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 126
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 44
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 149
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 401
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 337
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "4960fb5f-a19c-47f2-a504-f7834cd9985a",
+        "NewsId": "770da9f64c96c898400cba4b51ece5f8",
+        "Source": "金融界",
+        "Title": "7月18日午盘两市机构大单抛盘40股(名单)",
+        "Url": "http://www.sohu.com/a/327734750_114984",
+        "PublishTime": "2019-07-18 11:30:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "0.014,0.148,0.0030,2.27,0.0050"
+      },
+      {
+        "Id": "143b9ba9-46d9-49a0-a44c-4ff0eb366166",
+        "NewsId": "1207f2cadc4685a083df67d82e13ff0a",
+        "Source": "东方财富网",
+        "Title": "互动平台上的“红与黑”：提问专业户刷屏蹭热点",
+        "Url": "http://finance.eastmoney.com/a/201907171180214283.html",
+        "PublishTime": "2019-07-17 02:36:00",
+        "EmotionType": "negative",
+        "Category": "2000,3100",
+        "NewsTags": "互动易,提问,回复,双塔食品,证代"
+      },
+      {
+        "Id": "cb45fca4-9a31-4f0f-a2c6-979eb58fd3c8",
+        "NewsId": "6e4500d4df69ceaf5f497ca804bac04a",
+        "Source": "金融界",
+        "Title": "7月15日午盘两市机构大单抛盘40股(名单)",
+        "Url": "http://www.sohu.com/a/326993041_114984",
+        "PublishTime": "2019-07-15 11:42:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "0.012,ST,0.049,0.0080,0.068"
+      },
+      {
+        "Id": "3ab7767d-69cf-4c0f-a8fa-fadcff9b1288",
+        "NewsId": "1fb8857feaf97bd71f1abae8c52e5b17",
+        "Source": "食品商务网",
+        "Title": "1400亿！“人造肉”在中国开始兴起，豌豆蛋白市场迎来长足发展",
+        "Url": "https://news.21food.cn/35/2847406.html",
+        "PublishTime": "2019-07-11 09:23:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "人造肉,素肉,试管,双塔食品,肉类"
+      },
+      {
+        "Id": "f1be8818-d52d-4f79-81f3-855de4212d4c",
+        "NewsId": "805ffbc4ef2c2cc9bddf702fad956389",
+        "Source": "界面",
+        "Title": "植物人造肉需求骤增，豌豆蛋白原料有点不够用",
+        "Url": "https://www.jiemian.com/article/3292006.html",
+        "PublishTime": "2019-07-09 13:50:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "人造肉,原料,消费量,生产商,转基因"
+      },
+      {
+        "Id": "c44681b7-4fbf-4094-8393-5bc2e83df5a4",
+        "NewsId": "507e18d498ef7a08f4285d090e2efe9d",
+        "Source": "金融界",
+        "Title": "7月5日午盘两市机构大单抛盘40股(名单)",
+        "Url": "http://www.sohu.com/a/325040215_114984",
+        "PublishTime": "2019-07-05 11:30:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "0.0060,ST,0.015,0.016,5.96"
+      },
+      {
+        "Id": "59159980-aaaf-4b8f-a421-a1449d291a43",
+        "NewsId": "8a3f087d1d7ae9d0822abeb0ba06e9e0",
+        "Source": "铅笔道",
+        "Title": "人造肉品牌“珍肉”获数百万元种子轮融资",
+        "Url": "https://www.pencilnews.cn/p/31138.html?from=article_list",
+        "PublishTime": "2019-07-05 10:32:24",
+        "EmotionType": "positive",
+        "Category": "3300,5000",
+        "NewsTags": "珍肉,人造肉,肉类,投资,产品"
+      },
+      {
+        "Id": "aa64ba13-71cc-4ff7-ac4a-ea86da066101",
+        "NewsId": "45bc27ecadffc6f5ca2f06771210b724",
+        "Source": "金融界",
+        "Title": "7月3日午盘两市机构大单抢筹40股(名单)",
+        "Url": "http://www.sohu.com/a/324587223_114984",
+        "PublishTime": "2019-07-03 11:30:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "7.14,1.59,9.97,1.125,4.97"
+      },
+      {
+        "Id": "5d1b572e-386a-4f87-ab83-d208891d42dc",
+        "NewsId": "789b1ffcdf7c722a6f1065b4a87ee5ab",
+        "Source": "股城网",
+        "Title": "食品板块全线走强 食品板块龙头股票有哪些？",
+        "Url": "https://stock.gucheng.com/201907/3752825.shtml",
+        "PublishTime": "2019-07-03 10:58:00",
+        "EmotionType": "positive",
+        "Category": "4000",
+        "NewsTags": "双塔食品,海欣食品,加加食品,股份有限,光度计"
+      },
+      {
+        "Id": "9d083340-2028-4733-8681-ee06e5e99d6c",
+        "NewsId": "6da7c2795199498cc022cbfb83302719",
+        "Source": "证券时报网",
+        "Title": "食品饮料板块走强 前五月食品饮料消费增速加快",
+        "Url": "http://stock.stcn.com/2019/0703/15226521.shtml",
+        "PublishTime": "2019-07-03 10:38:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "增速,食品饮料,消费市场,商务部,回落"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

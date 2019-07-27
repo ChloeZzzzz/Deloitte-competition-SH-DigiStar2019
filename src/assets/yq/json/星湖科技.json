@@ -1,0 +1,254 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071909270268414559",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 664
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 215
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 1
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 93
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 16
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 1
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 8
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 1
+        },
+        {
+          "Value": "2500",
+          "Desc": "环保处罚",
+          "Count": 9
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 4
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 2
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 101
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 200
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 214
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 107
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 18
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 131
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 33
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 10
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 28
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 20
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 68
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 485
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 111
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "1e559beb-3518-43db-8fc7-481b919396fc",
+      "NewsId": "89da4c81416117c080af9a6bbe19da2a",
+      "Source": "东方财富网",
+      "Title": "广东肇庆星湖生物科技股份有限公司2019年第一次临时股东大会决议公告",
+      "Url": "http://finance.eastmoney.com/a/201907171180741872.html",
+      "PublishTime": "2019-07-17 13:42:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "议案,律师事务所,董事会秘书,公司法,公司章程"
+    },
+    {
+      "Id": "f35edb03-13cf-4f52-82fb-b7bcc45ed5e2",
+      "NewsId": "005e169178e518797b46e880b44a2f0e",
+      "Source": "百家号",
+      "Title": "调味品行业 个股上半年增幅较大 抗周期性强",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9427023125162386394%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-16 04:21:59",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "调味品,千禾味业,同比增长,涨幅,星湖科技"
+    },
+    {
+      "Id": "e9fc7e0a-274a-4213-a50d-72b9178fa7cc",
+      "NewsId": "d737a41c98fcb6d0d37408f151dc94c9",
+      "Source": "银行信息港",
+      "Title": "广东省大型国有企业和国防军工企业有哪些？ 1、机场集团 2、广业集团 3、粤科金融集团 4、广晟资产",
+      "Url": "https://www.yinhang123.net/zixun/cjzw/1288620.html",
+      "PublishTime": "2019-07-12 18:01:00",
+      "EmotionType": "positive",
+      "Category": "3300,4000",
+      "NewsTags": "广东省,粤海,股份有限,省属,控股集团"
+    },
+    {
+      "Id": "e132b1c9-d563-42bb-9edc-2166ae93556b",
+      "NewsId": "aabe60f8dbef03c62077a8b42ae91fa5",
+      "Source": "搜狐财经",
+      "Title": "广东肇庆星湖生物科技股份有限公司关于公司股东深圳长城汇理资产服务企业(有限合伙)违规减持本公司股份及",
+      "Url": "http://www.sohu.com/a/325117238_115433",
+      "PublishTime": "2019-07-06 02:50:00",
+      "EmotionType": "none",
+      "Category": "2300,3300,3600,3700",
+      "NewsTags": "汇理资产,减持股份,股本,竞价,长城汇理"
+    },
+    {
+      "Id": "a444af01-15e4-48e2-a241-09dd859144b5",
+      "NewsId": "d16aac32d191e76bdaab530f24420865",
+      "Source": "第一财经",
+      "Title": "微策略-每日研报-天风证券：国企改革对食品饮料行业的影响",
+      "Url": "http://www.sohu.com/a/323347107_114986",
+      "PublishTime": "2019-06-27 14:25:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "白酒,涨价,涨停,股价,趋势"
+    },
+    {
+      "Id": "4708dbdd-de0b-457e-962f-ca472135a1cb",
+      "NewsId": "3aeab1c82b168e0c1405501d87da35a1",
+      "Source": "百家号",
+      "Title": "星湖科技6月26日盘中涨停",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9603419296087710153%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-06-26 10:38:28",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "星湖科技,主力资金,核苷酸,中间体,原料药"
+    },
+    {
+      "Id": "83843fc5-0a3b-49c7-9235-690a3779d083",
+      "NewsId": "02f2170761cd1d151b1e13fe765e842d",
+      "Source": "东方财富网",
+      "Title": "星湖科技：经营拐点显现 多业务景气共振",
+      "Url": "http://finance.eastmoney.com/a/201906191155364066.html",
+      "PublishTime": "2019-06-19 14:33:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "中间体,行业,医药,产能,雀巢"
+    },
+    {
+      "Id": "e8ec8d0d-c4df-466e-8918-de4dadfd2e58",
+      "NewsId": "3e85cafb09aca6522d74879afe451fdf",
+      "Source": "长江商报",
+      "Title": "星湖科技扣非净利连续7年为负去年扭亏   二股东三喊清仓减持上演“狼来了”",
+      "Url": "http://www.changjiangtimes.com/2019/06/596331.html",
+      "PublishTime": "2019-06-19 00:00:00",
+      "EmotionType": "none",
+      "Category": "3200,3300,3400,3600,3700,3800",
+      "NewsTags": "汇理资产,星湖科技,减持,冠辉,扣非"
+    },
+    {
+      "Id": "b6549212-3400-4c4b-8e86-9197ee16305f",
+      "NewsId": "b08b69b87371abd23ff187d928f5e575",
+      "Source": "东方财富网",
+      "Title": "两市13家公司进行股东增减持 完美世界8020万股解禁",
+      "Url": "http://finance.eastmoney.com/a/201906181154024965.html",
+      "PublishTime": "2019-06-18 13:06:00",
+      "EmotionType": "none",
+      "Category": "3600,3700",
+      "NewsTags": "限售股解禁"
+    },
+    {
+      "Id": "c7aea228-be0b-4198-9ce8-07c0c84337ea",
+      "NewsId": "51724815bcbb1e06e07e1e25e1417223",
+      "Source": "东方财富网",
+      "Title": "星湖科技大幅低开 现跌3% 股东拟清仓式减持",
+      "Url": "http://finance.eastmoney.com/a/201906181153845826.html",
+      "PublishTime": "2019-06-18 10:16:00",
+      "EmotionType": "none",
+      "Category": "3300,3600,3700",
+      "NewsTags": "星湖科技,减持,股东,信息"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

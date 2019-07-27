@@ -1,0 +1,254 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071819492586984838",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 634
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 128
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 5
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 40
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 6
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 1
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 4
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 2
+        },
+        {
+          "Value": "2500",
+          "Desc": "环保处罚",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 2
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 2
+        },
+        {
+          "Value": "2900",
+          "Desc": "偷税漏税",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 67
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 174
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 394
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 168
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 7
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 130
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 32
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 14
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 21
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 18
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 48
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 428
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 158
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "31f4a2cd-0775-4ab4-bb1d-d6f4d2c27887",
+      "NewsId": "e3824ba6d23641843f6aa0d2b18d66d7",
+      "Source": "同花顺财经",
+      "Title": "中信证券股份有限公司关于云南省能源投资集团有限公司 重大诉讼进展及股权划转等事项的临时受托管理事务报",
+      "Url": "http://stock.10jqka.com.cn/20190718/c612576725.shtml",
+      "PublishTime": "2019-07-18 06:57:00",
+      "EmotionType": "none",
+      "Category": "2700,3300,3800",
+      "NewsTags": "上海能源,发行人,大生农业,云南能投,公司债券"
+    },
+    {
+      "Id": "478c0249-fc91-4057-a6f1-d31003dc8bfd",
+      "NewsId": "199cce1d0e410e37a7a5a44c45af634b",
+      "Source": "昆明信息港",
+      "Title": "云南能投董事长杨万华辞职 上海华信13亿元融资至今未收回",
+      "Url": "https://www.kunming.cn/news/c/2019-07-16/12684496.shtml",
+      "PublishTime": "2019-07-16 16:27:00",
+      "EmotionType": "none",
+      "Category": "1200,3300,3600",
+      "NewsTags": "上海华信,叶简明,北方石油,云南能投,谢一华"
+    },
+    {
+      "Id": "80149b3e-6fd3-411d-bbbd-f5f351222536",
+      "NewsId": "0ab54c2f8d1cc9007c6294bad89919c1",
+      "Source": "贤集网",
+      "Title": "云南能源深陷债务泥沼董事长辞职 受上海华信事件影响",
+      "Url": "https://www.xianjichina.com/special/detail_410659.html",
+      "PublishTime": "2019-07-16 00:00:00",
+      "EmotionType": "none",
+      "Category": "1200,3300,4000",
+      "NewsTags": "叶简明,中国华信,投资集团,石油,国企"
+    },
+    {
+      "Id": "6ccab013-83b5-42e5-9b5b-110c10ca53e3",
+      "NewsId": "2e23548bc207ed88fcb1b4b8f539193f",
+      "Source": "创头条",
+      "Title": "云南省科技厅关于2019年度云南省科学技术奖提名受理形式审查通过项目的公示 ",
+      "Url": "http://www.ctoutiao.com/2092077.html",
+      "PublishTime": "2019-07-15 15:30:00",
+      "EmotionType": "positive",
+      "Category": "4000",
+      "NewsTags": "科学技术,云南省,审核,三等奖,医疗卫生"
+    },
+    {
+      "Id": "d87bc879-f6ca-40b6-8e40-2849ad2ca3fb",
+      "NewsId": "f0b033822e92c0cb7789349f65a68c84",
+      "Source": "新浪网",
+      "Title": "云南能投：关于公司董事长辞职及补选董事的公告",
+      "Url": "https://finance.sina.com.cn/stock/ggzz/2019-07-15/doc-ihytcitm2100344.shtml",
+      "PublishTime": "2019-07-15 12:40:00",
+      "EmotionType": "none",
+      "Category": "1200,3300",
+      "NewsTags": "独立董事,巨潮资讯,提名,能投,公告"
+    },
+    {
+      "Id": "50560051-9ecb-4938-845d-bf749f456361",
+      "NewsId": "2259a0a38b9f1236499f5fb1cec47aa7",
+      "Source": "有机硅",
+      "Title": "最新！年产40万吨有机硅单体项目进入设计阶段",
+      "Url": "http://www.sohu.com/a/326250161_782179",
+      "PublishTime": "2019-07-12 00:00:00",
+      "EmotionType": "positive",
+      "Category": "3300",
+      "NewsTags": "硅油,脱吸,单体,初步设计阶段,含氢"
+    },
+    {
+      "Id": "eafddc75-f98f-4398-b3b0-26bc12fe3523",
+      "NewsId": "eb39e1f21a111f74145e2241b6b827d1",
+      "Source": "东方财富网",
+      "Title": "云南云天化股份有限公司关于董事会、监事会换届选举的公告",
+      "Url": "http://finance.eastmoney.com/a/201907111175734345.html",
+      "PublishTime": "2019-07-11 13:44:00",
+      "EmotionType": "none",
+      "Category": "1200",
+      "NewsTags": "独立董事,董事会,股份有限,监事会,会计师"
+    },
+    {
+      "Id": "374b6e88-77fc-42c8-91e4-862110bca1d8",
+      "NewsId": "68fb5750c8ccf1fc521ee9bb9e1e5886",
+      "Source": "每日甘肃网",
+      "Title": "兴业银行昆明分行全面发力境外债业务",
+      "Url": "http://finance.gansudaily.com.cn/system/2019/07/08/017221776.shtml",
+      "PublishTime": "2019-07-08 16:35:00",
+      "EmotionType": "positive",
+      "Category": "3300",
+      "NewsTags": "国际债券市场,成功发行,云投集团,承销"
+    },
+    {
+      "Id": "9f33aba5-ccfa-481e-a9ea-6c6b5e045155",
+      "NewsId": "775a3854e2784a15a9f6c1f73a55c244",
+      "Source": "昆明信息港",
+      "Title": "新能源车“昆明制造”品牌渐响",
+      "Url": "https://www.kunming.cn/news/c/2019-07-05/12677940.shtml",
+      "PublishTime": "2019-07-05 08:00:00",
+      "EmotionType": "positive",
+      "Category": "5000",
+      "NewsTags": "新能源汽车,充电桩,江铃,首车,下线"
+    },
+    {
+      "Id": "7eb121aa-99a7-459d-adc3-d2e5b5071f02",
+      "NewsId": "4f4cad8d950be95dffd0958c682000ef",
+      "Source": "栾川广播电视网",
+      "Title": "云南能投：监事会2018年第十次临时会议决议公告新浪财经",
+      "Url": "http://www.lylctv.com/news/fazhi/271021.html",
+      "PublishTime": "2019-07-02 07:44:00",
+      "EmotionType": "none",
+      "Category": "1200,3300",
+      "NewsTags": "关联交易,监事会主席,公开招标,决议,决策程序"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}
