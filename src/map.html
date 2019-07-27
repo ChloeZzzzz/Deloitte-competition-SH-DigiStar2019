@@ -115,8 +115,8 @@
                 map: map
             });
         }
-        var page = lnglats[i][0] + ".html"
-        marker.content = "<a href=" + page + ">" + lnglats[i][3] + "</a>";
+        var page = lnglats[i][4] + ".html"
+        marker.content = "<a href=" + page + ">" + lnglats[i][0] + "</a>";
         marker.on('click', markerClick);
         marker.emit('click', {target: marker});
     }
