@@ -1,0 +1,229 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821260220246316",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 1145
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 493
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 24
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 12
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 1
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 4
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 12
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 98
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 425
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 264
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 52
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 12
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 99
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 25
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 1
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 35
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 93
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 69
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 536
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 540
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "f3117165-1346-46de-b6f4-36dabb60d28f",
+      "NewsId": "77121321e71fd4e84cf2c32a16f574a1",
+      "Source": "慢钱头条",
+      "Title": "一枚散户的自选股观察名单更新20190716",
+      "Url": "http://toutiao.manqian.cn/wz_5cZiz92PKNV.html",
+      "PublishTime": "2019-07-17 00:00:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "上海机场,价格标签,轻套,苏泊尔,自选股"
+    },
+    {
+      "Id": "5764997d-a4fd-4454-90e1-c32534ee7948",
+      "NewsId": "10bbf81a6292fe2dc2c533c9d1b82b78",
+      "Source": "广东新快网",
+      "Title": "陶陶居发布新品牌 雅园挺进高端商务市场",
+      "Url": "http://news.xkb.com.cn/caijing/2019/0716/542851.html",
+      "PublishTime": "2019-07-16 07:37:00",
+      "EmotionType": "positive",
+      "Category": "5000",
+      "NewsTags": "陶陶居,雅园,粤菜,广府,语录"
+    },
+    {
+      "Id": "fb8dec95-e54f-41ba-a758-377d9cd58c39",
+      "NewsId": "391450f7fba36667b44ab3637207f651",
+      "Source": "证券之星",
+      "Title": "休闲服务行业2019年半年报前瞻:上半年免税继续引领市场前沿,酒店波折后将引来数据验证期",
+      "Url": "https://stock.stockstar.com/JC2019071500000874.shtml",
+      "PublishTime": "2019-07-15 00:00:00",
+      "EmotionType": "none",
+      "Category": "3200",
+      "NewsTags": "首旅酒店,中国国旅,增速,个股,景区"
+    },
+    {
+      "Id": "a87b22a0-025d-438a-9ce4-f08c8e1e1612",
+      "NewsId": "40e55d150936a722e99f83af59351c77",
+      "Source": "时讯网",
+      "Title": "“中华老字号”名录大全",
+      "Url": "http://www.shixunwan.cn/article/1562958753553001/",
+      "PublishTime": "2019-07-13 03:07:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "注册商标,股份有限,酒业,上海,集团"
+    },
+    {
+      "Id": "e8a200fa-6715-435b-ad66-4f43fd04128d",
+      "NewsId": "edd18d65c5b3c815c6da171bcf913f0f",
+      "Source": "微信公众号",
+      "Title": "【企业】新荣记入选“2019中国餐饮行业top50榜单”位列第十八位",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562938583&src=3&ver=1&signature=94lMwlIFULJkFsR5rExeluTtZYroPb8RTWeLqZkpVwvkNVwZwC3fx9sB*F3WmrE3tsxu7xknDn9l8OXPihxiWhEZGLxcqdoJfwkgfK8y*KOPWuN4ho69lGcL-Q7E6CzUyGP-qaC0I7-cKMLpwaxmf5Jc*j1NWoHBFgLxOmQscS8=",
+      "PublishTime": "2019-07-12 21:00:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "酒店管理,饮食,TOP50,荣记,上海"
+    },
+    {
+      "Id": "608a192a-36c5-4690-b606-b977e0558575",
+      "NewsId": "a439519fc570f78ba957d03092ba4859",
+      "Source": "消费日报网",
+      "Title": "广州老字号如何探索品牌发展新活力？",
+      "Url": "http://www.xfrb.com.cn/html/guanzhu/changsanjiaoguancha/laozihao/561163.html",
+      "PublishTime": "2019-07-12 00:00:00",
+      "EmotionType": "positive",
+      "Category": "3200,3400",
+      "NewsTags": "陶陶居,广州酒家,状元坊,陈李济,中医药"
+    },
+    {
+      "Id": "8d4c176d-afdc-43f6-8022-679d6f626a73",
+      "NewsId": "e8bca739c44c5947493110bf4a04fae4",
+      "Source": "金羊网",
+      "Title": "“月饼大战” 拉开序幕 传统月饼仍领风骚",
+      "Url": "http://www.sohu.com/a/326142800_119778",
+      "PublishTime": "2019-07-11 14:57:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "月饼,广州酒家,莲香楼,流心,上涨"
+    },
+    {
+      "Id": "6ae74d81-348c-4d84-a7f0-053a20d660e3",
+      "NewsId": "f8418a7546a401fd1a40d6cb4e58dd2e",
+      "Source": "时讯网",
+      "Title": "粤菜老字号广州酒家携手陶陶居！打造品牌影响力",
+      "Url": "http://www.shixunwan.cn/article/1562758572487001/",
+      "PublishTime": "2019-07-10 19:28:00",
+      "EmotionType": "positive",
+      "Category": "3200,3600",
+      "NewsTags": "广州酒家,餐饮,陶陶居,粤菜,同比增长"
+    },
+    {
+      "Id": "c033fcd1-beb8-4b65-8b4d-f4a8553fed43",
+      "NewsId": "8b6701a5a05933db3170a8bdb155c6f6",
+      "Source": "证券之星",
+      "Title": "休闲服务行业周观点报告:口岸出境免税政策变更,锦江5月入住率回暖",
+      "Url": "https://stock.stockstar.com/JC2019071000000226.shtml",
+      "PublishTime": "2019-07-10 00:00:00",
+      "EmotionType": "positive",
+      "Category": "3200,3300,3400",
+      "NewsTags": "中公教育,餐饮,消费,酒店,板块"
+    },
+    {
+      "Id": "edc74a7f-d0b7-499d-98b8-8ab9a79809f7",
+      "NewsId": "a39142c6b00567d5def7d64e753eca82",
+      "Source": "东方财富网",
+      "Title": "广州酒家：并购粤式餐饮食品老字号陶陶居 强强联合",
+      "Url": "http://stock.eastmoney.com/a/201907091173133622.html",
+      "PublishTime": "2019-07-09 10:51:00",
+      "EmotionType": "none",
+      "Category": "3200,3300,3400,3600",
+      "NewsTags": "陶陶居,广州酒家,粮丰园,餐饮,月饼"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

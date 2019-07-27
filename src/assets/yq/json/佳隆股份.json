@@ -1,0 +1,249 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071819583788533961",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 614
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 249
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 2
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 58
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 6
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 2
+          },
+          {
+            "Value": "2200",
+            "Desc": "贪污受贿",
+            "Count": 1
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 6
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 1
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 99
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 129
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 148
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 23
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 7
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 87
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 17
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 13
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 80
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 31
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 68
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 367
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 179
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "13a941ca-8afd-400b-a040-4939a075f161",
+        "NewsId": "5d0370999b5e14ccf653374507f44a5e",
+        "Source": "亿欧",
+        "Title": "市值超越百度，海天味业所在的调味品市场，大有可为",
+        "Url": "https://www.iyiou.com/p/104563.html",
+        "PublishTime": "2019-07-03 19:51:05",
+        "EmotionType": "positive",
+        "Category": "3200,3400",
+        "NewsTags": "调味品,海天味业,莲花健康,酱油,营收"
+      },
+      {
+        "Id": "fab7869a-d9c6-4106-82bb-f4423201c519",
+        "NewsId": "5d4b9c27cb829720915eee7c60af571e",
+        "Source": "价值中国网",
+        "Title": "消费升级中的调味品产业发展趋势分析",
+        "Url": "http://www.chinavalue.net/Finance/Blog/2019-7-1/1808101.aspx",
+        "PublishTime": "2019-07-01 10:33:00",
+        "EmotionType": "none",
+        "Category": "3200,4000",
+        "NewsTags": "调味品,海天味业,千禾味业,食醋,酱油"
+      },
+      {
+        "Id": "0e36e830-233c-41cc-90d6-f47fadea73a5",
+        "NewsId": "35031e8626053873cddb95fc761e8d34",
+        "Source": "中国食品报网",
+        "Title": "传承井冈山精神  创新中国味道\r\n2019首届中国(井冈山)调味品行业峰会为全国调味品谋出路",
+        "Url": "http://www.cnfood.cn/hangyexinwen138930.html",
+        "PublishTime": "2019-05-31 21:44:00",
+        "EmotionType": "positive",
+        "Category": "3200",
+        "NewsTags": "峰会,协会,江西省,加加食品,秘书长"
+      },
+      {
+        "Id": "579fc742-5bd9-48c0-b93f-aff805381f03",
+        "NewsId": "f921aa8e57ab8b028fac69d747c774af",
+        "Source": "东方财富网",
+        "Title": "佳隆股份林平涛：七十年风雨相随 与新中国同龄同甘同味",
+        "Url": "http://finance.eastmoney.com/a/201905211128366874.html",
+        "PublishTime": "2019-05-21 06:30:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "林平涛,佳隆股份,罐头厂,弟弟,荔枝"
+      },
+      {
+        "Id": "15d114c4-4eb3-460b-972e-674f212aed01",
+        "NewsId": "eaa59baf2b5cab2aa7d124728939bb1b",
+        "Source": "东方财富网",
+        "Title": "佳隆股份：2019年将大幅投入新产品研发及推广",
+        "Url": "http://finance.eastmoney.com/a/201905101119546677.html",
+        "PublishTime": "2019-05-10 17:23:00",
+        "EmotionType": "positive",
+        "Category": "3100,3200",
+        "NewsTags": ""
+      },
+      {
+        "Id": "2c37e90c-eb83-4358-a810-84c8ed17b8db",
+        "NewsId": "f1c91d1d5cc1c4aa2ee0789336ac1fa4",
+        "Source": "东方财富网",
+        "Title": "佳隆股份一季度净利830万元 现金流量净额为-177万元",
+        "Url": "http://finance.eastmoney.com/a/201905061113354185.html",
+        "PublishTime": "2019-05-06 10:40:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "佳隆股份,报告期内,净利润,显示"
+      },
+      {
+        "Id": "4acb001e-ea9d-44dc-bf80-9422dbf81d99",
+        "NewsId": "61febdbc44c984e159b8d156c2b1a796",
+        "Source": "揭阳新闻网",
+        "Title": "普宁市池尾街道上寮村：电商异军突起 青年创业潮涌",
+        "Url": "https://jynews.net/newsWeb/toDetail?desId=79357",
+        "PublishTime": "2019-05-02 00:00:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "网批,池尾,普宁市,村民"
+      },
+      {
+        "Id": "367a3806-71ef-4d84-a989-d3f4cad528d0",
+        "NewsId": "b13466332c019958720933e17ca2c2eb",
+        "Source": "牛人趣事",
+        "Title": "广东佳隆食品股份有限公司2019年第一季度报告正文",
+        "Url": "http://www.niurenqushi.com/news/3/608312.html",
+        "PublishTime": "2019-04-30 21:10:00",
+        "EmotionType": "none",
+        "Category": "3200,3600",
+        "NewsTags": "非经常性损益,报告期内,关联方,会计,变动"
+      },
+      {
+        "Id": "7a57eabd-44e5-4480-b1ae-43516e44e624",
+        "NewsId": "8929103a7ce32fba8a0762ccb9aab504",
+        "Source": "东方财富网",
+        "Title": "佳隆股份去年营收3.2亿元 净利3519元 董事长林平涛薪酬30万元",
+        "Url": "http://finance.eastmoney.com/a/201904291110382562.html",
+        "PublishTime": "2019-04-29 21:06:00",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "报告期内,佳隆股份,同比增长,薪酬,合计"
+      },
+      {
+        "Id": "b8f883c1-2249-47ed-b085-8edda7fcf9f2",
+        "NewsId": "092af139077a8c1074c5682d153aba36",
+        "Source": "东方财富网",
+        "Title": "广东佳隆食品股份有限公司 关于增加指定信息披露媒体的公告",
+        "Url": "http://finance.eastmoney.com/a/201904281108740722.html",
+        "PublishTime": "2019-04-28 08:56:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "证券日报,证券报,公告,简称,投资者"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

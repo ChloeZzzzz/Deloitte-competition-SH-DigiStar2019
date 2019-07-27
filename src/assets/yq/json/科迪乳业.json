@@ -1,0 +1,249 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820113178996015",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 845
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 248
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 8
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 34
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 7
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 14
+          },
+          {
+            "Value": "2200",
+            "Desc": "贪污受贿",
+            "Count": 1
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 8
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 18
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 120
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 352
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 186
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 220
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 5
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 140
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 82
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 83
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 24
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 75
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 190
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 464
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 191
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "7754505b-cbab-40d6-8c96-7b33c6a29ad2",
+        "NewsId": "e3f31092184adecfd907b713e4e8a9bf",
+        "Source": "时讯网",
+        "Title": "周五行情注意几点，下周行情演绎，还得看它........",
+        "Url": "http://www.shixunwan.cn/article/1563103820025001/",
+        "PublishTime": "2019-07-14 19:24:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "氟化工,消息面,银行,指数,中报"
+      },
+      {
+        "Id": "d54a5e38-e136-4716-b70e-25251f9840f2",
+        "NewsId": "e1a0f8eddc8fef1fd8c4c692fd88ba3f",
+        "Source": "慢钱头条",
+        "Title": "有一种尴尬叫科迪乳业：定增官司缠身 收购三遭问询",
+        "Url": "http://toutiao.manqian.cn/wz_59EqQKzgSYb.html",
+        "PublishTime": "2019-07-11 00:00:00",
+        "EmotionType": "negative",
+        "Category": "3200,3300,3400",
+        "NewsTags": "科迪乳业,巨尔,定增,科迪速冻,科迪集团"
+      },
+      {
+        "Id": "4086481c-d8a1-47e9-9ee5-f71f157abc30",
+        "NewsId": "1ed13733dd919087cf2697d1254035de",
+        "Source": "中国经济时报",
+        "Title": "资本搅动乳业竞合大变局",
+        "Url": "http://www.sohu.com/a/326004071_115495",
+        "PublishTime": "2019-07-11 00:00:00",
+        "EmotionType": "positive",
+        "Category": "3200,3400",
+        "NewsTags": "蒙牛,乳企,皇氏集团,伊利,新希望"
+      },
+      {
+        "Id": "b5b91c0d-ae7f-4237-a1d8-5e05e0229a3b",
+        "NewsId": "0368ae2e23e8a4e31b1e9357493df3d0",
+        "Source": "搜狐财经",
+        "Title": "河南科迪乳业股份有限公司关于深圳证券交易所对公司2018年年度报告问询函的补充回复公告 ",
+        "Url": "http://www.sohu.com/a/325645378_115433",
+        "PublishTime": "2019-07-09 09:53:00",
+        "EmotionType": "none",
+        "Category": "3200,3300",
+        "NewsTags": "巨尔,进项税额,所得税,计算,可比"
+      },
+      {
+        "Id": "6165ea43-9314-49dd-b6b3-4ff04925fa0d",
+        "NewsId": "033ba6e140b03d39399ae2eba4e8fd23",
+        "Source": "时讯网",
+        "Title": "科迪乳业半年报预告净利增35%，收购科迪速冻、公司状况受关注",
+        "Url": "http://www.shixunwan.cn/article/1562601437363001/",
+        "PublishTime": "2019-07-08 23:55:00",
+        "EmotionType": "none",
+        "Category": "3100,3200,3300,3400",
+        "NewsTags": "科迪乳业,业绩,银行存款,投资者,资产"
+      },
+      {
+        "Id": "f797313f-5ac4-40ae-899b-a64cce1ee5fc",
+        "NewsId": "3c9cfd0993ef06da83a6aa2a6d1a0c4a",
+        "Source": "时讯网",
+        "Title": "「海豚盯盘」庄园牧场涨幅达4.14%，股价13.83元",
+        "Url": "http://www.shixunwan.cn/article/1562187303557001/",
+        "PublishTime": "2019-07-04 04:39:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "庄园牧场,走势"
+      },
+      {
+        "Id": "9b7623a5-1841-47a6-bfe2-c4b8e0a0d344",
+        "NewsId": "71cddff4981de7e62ad065c8ecec0d33",
+        "Source": "搜狐财经",
+        "Title": "飞奔的科迪乳业，前景蓝图果真灿烂？ ",
+        "Url": "http://www.sohu.com/a/324628441_100154902",
+        "PublishTime": "2019-07-03 21:03:00",
+        "EmotionType": "positive",
+        "Category": "3200,3400",
+        "NewsTags": "科迪乳业,科迪速冻,酸奶,市场,乳制品"
+      },
+      {
+        "Id": "92078529-7bb5-49bc-b9e0-0f042b1de883",
+        "NewsId": "6c1cf469cac234e3bd4bb5155f52a763",
+        "Source": "长城网承德频道",
+        "Title": "【股市分析】沪指低位震荡收跌 食品饮料板块逆势大涨",
+        "Url": "http://www.sohu.com/a/324575476_100194664",
+        "PublishTime": "2019-07-03 17:07:00",
+        "EmotionType": "none",
+        "Category": "3200,3300",
+        "NewsTags": "向好,板块,涨停,个股,涨幅"
+      },
+      {
+        "Id": "2f84d98c-a14b-49c6-a665-e750a3469bae",
+        "NewsId": "6da7c2795199498cc022cbfb83302719",
+        "Source": "证券时报网",
+        "Title": "食品饮料板块走强 前五月食品饮料消费增速加快",
+        "Url": "http://stock.stcn.com/2019/0703/15226521.shtml",
+        "PublishTime": "2019-07-03 10:38:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "增速,食品饮料,消费市场,商务部,回落"
+      },
+      {
+        "Id": "c6434fbd-4e57-4359-8ee2-ae9857be28db",
+        "NewsId": "6c18762fb0470cca562e8a70467772be",
+        "Source": "证券时报",
+        "Title": "科迪乳业持续发力渠道下沉 产品多元化布局有望开花结果",
+        "Url": "http://www.sohu.com/a/324423754_115433",
+        "PublishTime": "2019-07-03 04:29:00",
+        "EmotionType": "positive",
+        "Category": "3200,5000",
+        "NewsTags": "科迪乳业,科迪速冻,经销商,占比,市场"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

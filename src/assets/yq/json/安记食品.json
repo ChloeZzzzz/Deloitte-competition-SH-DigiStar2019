@@ -1,0 +1,239 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821240993117324",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 615
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 164
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 39
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 14
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 3
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 7
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 1
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 2
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 239
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 183
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 204
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 26
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 8
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 76
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 21
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 18
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 34
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 35
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 93
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 317
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 205
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "01d454bb-b70e-4d8c-93a9-4861ad6a043c",
+      "NewsId": "bba252923fe8229c928c7b39cc3518ce",
+      "Source": "微信公众号",
+      "Title": "中国毛利率最高的调味料公司IPO过会，青岛有望迎来第37家A股上市公司！",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1563419350&src=3&ver=1&signature=pOvc8L2FlPDSY1cdpK4TNg8WyXV4Q0QlZzmm9H*w2K3TGmmxJkg2Zw9PpxyXUstkt4XFbBw628-pGEpV9SPTJhNL-vnA3vyA7GNCtr3eO46k2K32w-HTaxfXArYI3H7PUlA-yrqyrve8Kp9VS5Tl-U4KMkV1SWRJksBFz41dlrI=",
+      "PublishTime": "2019-07-18 11:05:39",
+      "EmotionType": "none",
+      "Category": "3100,3200,3300",
+      "NewsTags": "圣农食品,调味料,德润,毛利率,安记食品"
+    },
+    {
+      "Id": "461942c0-0fd7-46c1-8bba-15a650c1125d",
+      "NewsId": "bc116508eff4b3a01118b69673b7a886",
+      "Source": "中国新闻网福建站",
+      "Title": "5家泉企入围省级企业技术中心名单 占据全省总数的三分之一",
+      "Url": "http://www.fj.chinanews.com/news/fj_fjzzs/2019/2019-07-12/445073.html",
+      "PublishTime": "2019-07-12 11:38:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "主营业务收入,福建省,工信厅,泉州,原值"
+    },
+    {
+      "Id": "5fd37ecd-2f04-49ff-8e6d-8632024195e8",
+      "NewsId": "48c2852d3a3f6d940dfd49f25dbb0ecb",
+      "Source": "微信公众号",
+      "Title": "【公示】2019年第二十六批省企业技术中心名单公示",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562727949&src=3&ver=1&signature=AXp4omtwG3yC96ZVs2B-RNMWw0FJAh0vwn-sxhuB8zh8YK3iG7qYVDC-M0gfshsMbDDc*CX9-*w4xzN7Blbieffyql1j1BDllBIk3s-YfZ*VeF*kNXRkCG6KOnb7KUV*2S3XeAk5*V60qxcvYONHoT4Zc5FxmBCrKKF4l9vqesM=",
+      "PublishTime": "2019-07-10 10:56:01",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "建设集团,嘉文丽,股份有限,中建,梅洋"
+    },
+    {
+      "Id": "74fe5799-479b-4a97-8711-1812bdda9888",
+      "NewsId": "48e79d17ed0c77b4a42339224dc45add",
+      "Source": "时讯网",
+      "Title": "天味食品(603317)急速拉升，暂报47.45元",
+      "Url": "http://www.shixunwan.cn/article/1562064137317001/",
+      "PublishTime": "2019-07-02 18:31:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "天味食品,加加食品,有友食品,振幅,日线"
+    },
+    {
+      "Id": "659ba769-e41e-4b48-8440-1efe243c8824",
+      "NewsId": "5d4b9c27cb829720915eee7c60af571e",
+      "Source": "价值中国网",
+      "Title": "消费升级中的调味品产业发展趋势分析",
+      "Url": "http://www.chinavalue.net/Finance/Blog/2019-7-1/1808101.aspx",
+      "PublishTime": "2019-07-01 10:33:00",
+      "EmotionType": "none",
+      "Category": "3200,4000",
+      "NewsTags": "调味品,海天味业,千禾味业,食醋,酱油"
+    },
+    {
+      "Id": "4a7d1ba7-2f04-4796-8f69-be2fc94cf15d",
+      "NewsId": "877ade3907b8e4e1df416c4061568014",
+      "Source": "东方财富网",
+      "Title": "安记食品(603696.SH)子公司内部转让 安记生物医药科技及永春味安食品获转至公司",
+      "Url": "http://finance.eastmoney.com/a/201906201156695358.html",
+      "PublishTime": "2019-06-20 16:00:00",
+      "EmotionType": "positive",
+      "Category": "3600",
+      "NewsTags": "股权转让,安记食品,持有,董事会,会议"
+    },
+    {
+      "Id": "d2a24f04-1b18-4fa8-981b-e934c1230e31",
+      "NewsId": "35031e8626053873cddb95fc761e8d34",
+      "Source": "中国食品报网",
+      "Title": "传承井冈山精神  创新中国味道\r\n2019首届中国(井冈山)调味品行业峰会为全国调味品谋出路",
+      "Url": "http://www.cnfood.cn/hangyexinwen138930.html",
+      "PublishTime": "2019-05-31 21:44:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "峰会,协会,江西省,加加食品,秘书长"
+    },
+    {
+      "Id": "aee3884e-d42e-4790-84b4-0d1d4c1ffd24",
+      "NewsId": "2a6d030ac06d6642fe733ba7a063e44d",
+      "Source": "证券日报",
+      "Title": "近六成QFII持仓股月内跑赢大盘 14只重仓股被机构扎堆看好",
+      "Url": "http://www.zqrb.cn/stock/redian/2019-05-18/A1558112829548.html",
+      "PublishTime": "2019-05-18 01:06:00",
+      "EmotionType": "negative",
+      "Category": "3200,3600,3700",
+      "NewsTags": "上海机场,海螺水泥,法国兴业银行,丰乐种业,个股"
+    },
+    {
+      "Id": "e269e71e-19b2-40cd-9557-81e81e2b2d2c",
+      "NewsId": "641b019129cfccd88543a15e81609d3b",
+      "Source": "东方财富网",
+      "Title": "安记食品股份有限公司股东及董监高减持股份计划公告",
+      "Url": "http://finance.eastmoney.com/a/201905171125451312.html",
+      "PublishTime": "2019-05-17 08:38:00",
+      "EmotionType": "none",
+      "Category": "3100,3300,3600,3700",
+      "NewsTags": "减持,林肖芳,安记食品,东方联合,股份"
+    },
+    {
+      "Id": "600b15bc-bcc4-4192-9df2-25c0c0ba07aa",
+      "NewsId": "8f2a9e93015bf021c3dbd0cc3f294f5b",
+      "Source": "百家号",
+      "Title": "安记食品股东林肖芳、东方联合、翔宇投资拟减持股份",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9100183887875250972%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-05-17 07:38:05",
+      "EmotionType": "none",
+      "Category": "3300,3600,3700",
+      "NewsTags": "东方联合,总股本,营业"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

@@ -1,0 +1,239 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820190412363390",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 591
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 198
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 4
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 33
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 7
+          },
+          {
+            "Value": "2200",
+            "Desc": "贪污受贿",
+            "Count": 1
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 3
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 8
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 1
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 124
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 125
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 138
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 89
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 7
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 95
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 28
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 13
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 38
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 52
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 11
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 280
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 300
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "9560a041-597e-4dad-ae3a-26028414f5f3",
+        "NewsId": "7e2c33921c46031b58e56cfc67445709",
+        "Source": "同花顺财经",
+        "Title": "量子生物董事长交棒睿智化学创始人惠欣 医药创新业务提速",
+        "Url": "http://stock.10jqka.com.cn/20190627/c612203311.shtml",
+        "PublishTime": "2019-06-27 18:27:00",
+        "EmotionType": "positive",
+        "Category": "1200,3200,3300,3400",
+        "NewsTags": "量子生物,惠欣,曾宪经,同比增长,CRO"
+      },
+      {
+        "Id": "e8980690-ef02-49e8-b5b2-e34a4368370b",
+        "NewsId": "7edee07690f54bb59d0b512a8e9a92a9",
+        "Source": "长江商报",
+        "Title": "量子生物21亿并购才过一年   标的董事长立马接替上位",
+        "Url": "http://www.changjiangtimes.com/2019/06/596277.html",
+        "PublishTime": "2019-06-18 00:00:00",
+        "EmotionType": "none",
+        "Category": "1200,3200,3400,3600",
+        "NewsTags": "曾宪经,量子生物,惠欣,量子高科,同比增长"
+      },
+      {
+        "Id": "bf17dce5-30c3-49c5-a46d-b5ceeaae2569",
+        "NewsId": "506c4fc3392738698d2689b8e7bb7851",
+        "Source": "蓝鲸财经",
+        "Title": "量子生物董事长变更，助推战略转型",
+        "Url": "http://www.sohu.com/a/321128199_250147",
+        "PublishTime": "2019-06-17 16:28:00",
+        "EmotionType": "positive",
+        "Category": "1200,3200,3400",
+        "NewsTags": "量子生物,同比增长,有限合伙,副董事长,管理中心"
+      },
+      {
+        "Id": "8312a49c-eed3-4cb2-8025-e657e044c1a8",
+        "NewsId": "ba76429e8c43864a333e79a1461c60df",
+        "Source": "东方财富网",
+        "Title": "量子生物(300149.SZ)：磁晅量佳解除质押5909.4万股",
+        "Url": "http://finance.eastmoney.com/a/201906111148123668.html",
+        "PublishTime": "2019-06-11 22:11:00",
+        "EmotionType": "negative",
+        "Category": "3600,3800",
+        "NewsTags": "股份,合伙,持有,信息"
+      },
+      {
+        "Id": "4aefd10c-f201-49ac-bcbf-6e2d141a3a2e",
+        "NewsId": "faa68113aee36ddfc81317eb60b5983d",
+        "Source": "东方财富网",
+        "Title": "量子生物(300149.SZ)与广州再极2019年度日常关联交易预计额度调至1600万元",
+        "Url": "http://finance.eastmoney.com/a/201906111147563629.html",
+        "PublishTime": "2019-06-11 13:12:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "进展,研发,信息"
+      },
+      {
+        "Id": "2a51e25e-4425-451b-b604-35caca811f7c",
+        "NewsId": "bbb0d9d9dcde58a361887a74b2f41278",
+        "Source": "同花顺财经",
+        "Title": "量子生物获股东增持",
+        "Url": "http://www.sohu.com/a/319411979_161117",
+        "PublishTime": "2019-06-09 20:00:00",
+        "EmotionType": "none",
+        "Category": "3600,3700",
+        "NewsTags": "增持,股份,合计,公告"
+      },
+      {
+        "Id": "e04e93de-73fd-43db-bfc2-e739016820b5",
+        "NewsId": "1f3db0a61ecc08c758d6fb251d0ce48e",
+        "Source": "东方财富网",
+        "Title": "量子生物股东增持622万股 耗资9341万元",
+        "Url": "http://finance.eastmoney.com/a/201906081145581476.html",
+        "PublishTime": "2019-06-08 13:23:00",
+        "EmotionType": "none",
+        "Category": "3600,3700",
+        "NewsTags": "3.93,量子生物,增持,深圳证券交易所,显示"
+      },
+      {
+        "Id": "4ba97c04-45ae-4f99-aa3d-b74348cb2bef",
+        "NewsId": "58203c401af5126a4599354a1ff3994e",
+        "Source": "东方财富网",
+        "Title": "量子生物(300149.SZ)：WOO Swee Lian已增持1.24%的股份",
+        "Url": "http://finance.eastmoney.com/a/201906061145323484.html",
+        "PublishTime": "2019-06-06 22:51:00",
+        "EmotionType": "none",
+        "Category": "3600,3700",
+        "NewsTags": "Swee Lian,增持,股份,信息"
+      },
+      {
+        "Id": "d6d22be4-67ba-4428-ae9b-940ea5c3e402",
+        "NewsId": "df8e9b12d9c02679052d368c8d4524d9",
+        "Source": "时讯网",
+        "Title": "“我真怕我买的这只股票会爆雷”",
+        "Url": "http://www.shixunwan.cn/article/1558733953640001/",
+        "PublishTime": "2019-05-25 05:37:00",
+        "EmotionType": "none",
+        "Category": "2800,3100,3200,3400",
+        "NewsTags": "量子生物,低聚果糖,副董事长,量子高科,收购"
+      },
+      {
+        "Id": "2edc5e76-68ec-473c-b4b0-604835b8c1b2",
+        "NewsId": "17c3446a6b6e69537d5b3df7898bc7d4",
+        "Source": "东方财富网",
+        "Title": "量子生物：规划布局微生态营养制剂领域",
+        "Url": "http://finance.eastmoney.com/a/201905231131774841.html",
+        "PublishTime": "2019-05-23 14:43:00",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "投资者,广东,研发,开发,优势"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

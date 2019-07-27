@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821150135325406",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 421
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 121
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 25
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 3
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 11
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 6
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 1
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 3
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 8
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 42
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 189
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 75
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 84
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 14
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 42
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 11
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 12
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 7
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 22
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 110
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 252
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 59
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "75e97b10-8c49-4735-8aee-198cffe19814",
+      "NewsId": "087ca75f1719f2c3fef3e6b1510c8e17",
+      "Source": "易菇网官方",
+      "Title": "李增智：虫草产业国际化的大幕已经拉开",
+      "Url": "http://www.sohu.com/a/327434055_100168768",
+      "PublishTime": "2019-07-17 14:05:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "冬虫夏草,菌物,李增智,大健康,保健食品"
+    },
+    {
+      "Id": "712a7ab5-a127-4aa5-93b6-ea28865a4bee",
+      "NewsId": "805c8c2ddbd1a7b1ec9eaeb6cf4befb1",
+      "Source": "栾川广播电视网",
+      "Title": "青海春天:关于召开2019年第一次临时股东大会的通知",
+      "Url": "http://www.lylctv.com/news/fazhi/284344.html",
+      "PublishTime": "2019-07-13 22:57:00",
+      "EmotionType": "none",
+      "Category": "1200,3600",
+      "NewsTags": "议案,n4,股东大会,选举,候选人"
+    },
+    {
+      "Id": "a8440d37-7553-4a9b-8411-6953a175607f",
+      "NewsId": "60fc4e3ed7b5071957d7a2671d532458",
+      "Source": "百家号",
+      "Title": "国菌“冬虫夏草”如何逆风破局？",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_10188686221857722012%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-01 09:34:35",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "冬虫夏草,药食,农牧民,同源,虫草"
+    },
+    {
+      "Id": "db09f99b-1c36-4c5d-9bf6-85c510ea764b",
+      "NewsId": "130c331752d3eba43d3a1ffff97de96c",
+      "Source": "蒙阴信息港",
+      "Title": "卖吃火锅喝的白酒亏6500万 青海春天称战略性亏损",
+      "Url": "http://www.mengyinnews.com/html/2019/06/030350473126.htm",
+      "PublishTime": "2019-06-03 03:50:00",
+      "EmotionType": "negative",
+      "Category": "3200",
+      "NewsTags": "凉露,青海春天,小瓶酒,冬虫夏草,虫草"
+    },
+    {
+      "Id": "b47eb5b8-eea9-4612-9a8b-2484db07c2c8",
+      "NewsId": "c7964ecf5f95ef1ab30540d2b6083f08",
+      "Source": "曲阜网",
+      "Title": "[年报]青海春天:2018年年度报告摘要",
+      "Url": "http://www.kfyyy.com/news/guonei/110518.html",
+      "PublishTime": "2019-06-02 12:35:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "n0,n2,n1,股东,广告"
+    },
+    {
+      "Id": "beba221e-9972-4104-8b83-a2c96d42e8af",
+      "NewsId": "6cfadceec362c049df6f6fb10c43560e",
+      "Source": "东方财富网",
+      "Title": "青海春天(600381.SH)：广西泰达已减持1.58%的股份 持股降至5%",
+      "Url": "http://finance.eastmoney.com/a/201905311139547586.html",
+      "PublishTime": "2019-05-31 14:41:00",
+      "EmotionType": "none",
+      "Category": "3600,3700",
+      "NewsTags": "减持,信息"
+    },
+    {
+      "Id": "74a7b619-5f73-449e-81be-36494df760e8",
+      "NewsId": "ddefb27cf5c8d62cfc7c83fad2776e02",
+      "Source": "搜狐财经",
+      "Title": "青海春天药用资源科技股份有限公司简式权益变动报告书  ",
+      "Url": "http://www.sohu.com/a/317641389_115433",
+      "PublishTime": "2019-05-31 01:40:00",
+      "EmotionType": "none",
+      "Category": "3600,3700",
+      "NewsTags": "青海春天,报告书,减持,上市公司,泰达"
+    },
+    {
+      "Id": "85b6aa86-095c-471f-ac7c-823cd01be909",
+      "NewsId": "b7660161d3a83264034498bbc1aa70a7",
+      "Source": "同花顺",
+      "Title": "市场疲软 业绩下滑 保健品企业出路在哪儿",
+      "Url": "http://field.10jqka.com.cn/20190518/c611477903.shtml",
+      "PublishTime": "2019-05-18 09:55:00",
+      "EmotionType": "negative",
+      "Category": "3200",
+      "NewsTags": "交大昂立,保健食品,青海春天,碧生源,东阿阿胶"
+    },
+    {
+      "Id": "731f3ce6-d0e7-4ac4-9b43-136d096c6909",
+      "NewsId": "efa49889eb7b5aef0c20b5d6b8b99f43",
+      "Source": "同花顺",
+      "Title": "青海本地股午后盘中异动拉升",
+      "Url": "http://stock.10jqka.com.cn/20190516/c611431439.shtml",
+      "PublishTime": "2019-05-16 13:18:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "拉升"
+    },
+    {
+      "Id": "605f200c-ac8a-425f-a1d5-8ce50195c95d",
+      "NewsId": "7767cb348608abcdbe381d02d71a9f08",
+      "Source": "中新经纬",
+      "Title": "A股上市公司去年花2726亿做广告，医药生物行业贡献超4成！",
+      "Url": "http://www.sohu.com/a/314218526_561670?sec=wd",
+      "PublishTime": "2019-05-16 00:07:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "青海春天,销售费用,医药生物,营业总收入,中迪投资"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

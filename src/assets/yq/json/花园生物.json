@@ -1,0 +1,254 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821023952376525",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 641
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 147
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 1
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 25
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 10
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 4
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 1
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 8
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 8
+        },
+        {
+          "Value": "2500",
+          "Desc": "环保处罚",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 2
+        },
+        {
+          "Value": "2900",
+          "Desc": "偷税漏税",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 240
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 193
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 173
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 20
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 3
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 101
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 33
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 7
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 62
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 55
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 76
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 322
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 243
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "35516659-857d-424c-892d-db75cbf6fdb7",
+      "NewsId": "a18903ff52ceb00e25924f0f753c7a09",
+      "Source": "新浪网",
+      "Title": "中国“科”公司评选之：谁是维生素行业“科技龙头”",
+      "Url": "https://finance.sina.com.cn/stock/2019-07-05/doc-ihytcerm1562551.shtml",
+      "PublishTime": "2019-07-05 15:53:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "研发人员,新浪财经,新和成,亿帆医药,科创"
+    },
+    {
+      "Id": "7f5ff8ff-72e6-4de4-95a9-b2eeb769b49b",
+      "NewsId": "f1010d2518c2169d0b376980f8352a88",
+      "Source": "喵股网",
+      "Title": "圣达转债754079值得申购吗？",
+      "Url": "http://www.miaogu.com/html/xingu/20190703/244520.html",
+      "PublishTime": "2019-07-03 21:02:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "生物素,叶酸,申购,饲料添加剂,平价"
+    },
+    {
+      "Id": "58444859-4324-4407-af1c-9e704abcc172",
+      "NewsId": "bb8f64b1651aacfcff1f4a40fff45c39",
+      "Source": "证券之星",
+      "Title": "医药生物行业周观点:《疫苗管理法》出台,部分医药企业股价迭创历史新高",
+      "Url": "https://stock.stockstar.com/JC2019070100000247.shtml",
+      "PublishTime": "2019-07-01 00:00:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "医药生物,疫苗管理法,泰格医药,花园生物,药品"
+    },
+    {
+      "Id": "823afd79-fa50-4873-b901-708b377ceb28",
+      "NewsId": "8ac8a64d007c9a3e1a405662ee8345e2",
+      "Source": "德林社",
+      "Title": "6400万资金逃离，花园生物股价离奇闪崩",
+      "Url": "http://www.sohu.com/a/323638243_157944",
+      "PublishTime": "2019-06-28 19:31:00",
+      "EmotionType": "negative",
+      "Category": "3200,3300,3600,3700",
+      "NewsTags": "花园生物,证券营业部,邵钦祥,浙商证券,清退"
+    },
+    {
+      "Id": "a4af2b7a-74f8-4925-a277-8a29f9b0f6ba",
+      "NewsId": "7e3efa4927445119c9bb3f6169ef30d0",
+      "Source": "东方财富网",
+      "Title": "花园生物离奇闪崩跌停回应称公司经营正常",
+      "Url": "http://finance.eastmoney.com/a/201906271162833121.html",
+      "PublishTime": "2019-06-27 13:07:00",
+      "EmotionType": "negative",
+      "Category": "3200",
+      "NewsTags": "花园生物,跌停,投资者,触及,个股"
+    },
+    {
+      "Id": "256771de-e12f-472f-a2fe-dc2cdfe79f6a",
+      "NewsId": "c515b814f8a653d95444e783f082c9e1",
+      "Source": "界面新闻",
+      "Title": "快看 | 上半年业绩预增最高超70%后，花园生物闪崩跌停",
+      "Url": "http://www.sohu.com/a/323300193_313745",
+      "PublishTime": "2019-06-27 11:43:00",
+      "EmotionType": "none",
+      "Category": "3200",
+      "NewsTags": "花园生物,同比增长,净利润,营收,系列产品"
+    },
+    {
+      "Id": "5755b6c2-c41d-4d04-88eb-be11e1207628",
+      "NewsId": "0f93e64e728cc2bee885a934d33f8087",
+      "Source": "第一财经",
+      "Title": "半年报预增最高超七成，花园生物离奇闪崩跌停",
+      "Url": "https://www.yicai.com/news/100239445.html",
+      "PublishTime": "2019-06-27 10:23:00",
+      "EmotionType": "negative",
+      "Category": "3200",
+      "NewsTags": "花园生物,同比增长,羊毛脂,净利润,胆固醇"
+    },
+    {
+      "Id": "2476428c-1128-40c9-8e47-fbd9f1a8e0c3",
+      "NewsId": "c5fedb74404c4954aca0033c04de05bb",
+      "Source": "时讯网",
+      "Title": "异动监测：花园生物(300401)急速拉升，暂报20.68元",
+      "Url": "http://www.shixunwan.cn/article/1561423386758001/",
+      "PublishTime": "2019-06-25 08:28:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "花园生物,冠昊生物,振幅,日线,涨幅"
+    },
+    {
+      "Id": "68ca15f6-55f8-4756-a684-c0625b05a94b",
+      "NewsId": "b8250a80f1030a54d17ca5eeff77a7ab",
+      "Source": "证券日报",
+      "Title": "维生素D3销量持续增长 花园生物预计上半年净利增幅最高逾七成",
+      "Url": "http://www.zqrb.cn/gscy/gongsi/2019-06-25/A1561396476236.html",
+      "PublishTime": "2019-06-25 01:14:00",
+      "EmotionType": "positive",
+      "Category": "3100,3200",
+      "NewsTags": "花园生物,VD3,胆固醇,年产,油剂"
+    },
+    {
+      "Id": "d999d4c9-6a2e-44ad-aafc-e307e23583cb",
+      "NewsId": "96319fa7741cdbadd0722a1cafdf96c8",
+      "Source": "东方财富网",
+      "Title": "周期股投资今日小总结(20190624)",
+      "Url": "http://caifuhao.eastmoney.com/news/20190624222909273513650",
+      "PublishTime": "2019-06-24 22:29:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "限产,SH600547,SZ300401,SZ002237,涨停"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

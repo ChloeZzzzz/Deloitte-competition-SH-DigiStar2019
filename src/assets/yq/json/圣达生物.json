@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071909442644594388",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 510
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 185
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 7
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 31
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 15
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 3
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 7
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 1
+        },
+        {
+          "Value": "2500",
+          "Desc": "环保处罚",
+          "Count": 6
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 181
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 128
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 129
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 54
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 4
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 61
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 14
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 6
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 33
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 17
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 53
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 310
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 147
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "6cb39c18-832c-4aa4-81ed-4f23e1ec1868",
+      "NewsId": "4f73f0ee2d70e20ccd87708d21940f98",
+      "Source": "水晶球财经网",
+      "Title": "景林资产A股、H股、美股持仓一览",
+      "Url": "http://www.sohu.com/a/326872144_135357",
+      "PublishTime": "2019-07-15 08:41:00",
+      "EmotionType": "none",
+      "Category": "3300,3600,3700",
+      "NewsTags": "景林资产,基石投资者,欢聚时代,拼多多,FB"
+    },
+    {
+      "Id": "d6e053f6-3b35-4bfd-b781-16857da18c3b",
+      "NewsId": "354bed0e88832dcc58ce6b81026fbe71",
+      "Source": "喵股网",
+      "Title": "圣达转债113539中签号公布一览",
+      "Url": "http://www.miaogu.com/html/xingu/20190704/244710.html",
+      "PublishTime": "2019-07-04 21:47:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "位数,AI,发行,开发者,公告"
+    },
+    {
+      "Id": "53092e15-16ff-4d64-a038-384ab29e4819",
+      "NewsId": "ffa88aea1fc5641755ca7308c3affda9",
+      "Source": "百家号",
+      "Title": "圣达生物：圣达转债网上申购中签号出炉 共174982个",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9133995648580852330%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-04 16:14:35",
+      "EmotionType": "negative",
+      "Category": "3300",
+      "NewsTags": "位数,可转换,发行,申购,公告"
+    },
+    {
+      "Id": "9bfaba0d-febd-49f7-8916-b268c237ca8c",
+      "NewsId": "97f112170a86a69cbd7716fa11b218a3",
+      "Source": "证券时报网",
+      "Title": "圣达生物可转债中签号出炉 共17.5万个",
+      "Url": "http://kuaixun.stcn.com/2019/0704/15229980.shtml",
+      "PublishTime": "2019-07-04 00:00:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": ""
+    },
+    {
+      "Id": "ab52f952-7319-4ca2-9abd-2f77ff12c9fa",
+      "NewsId": "f1010d2518c2169d0b376980f8352a88",
+      "Source": "喵股网",
+      "Title": "圣达转债754079值得申购吗？",
+      "Url": "http://www.miaogu.com/html/xingu/20190703/244520.html",
+      "PublishTime": "2019-07-03 21:02:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "生物素,叶酸,申购,饲料添加剂,平价"
+    },
+    {
+      "Id": "4fcd6181-ecf3-4ab2-8d56-cb39b18839f0",
+      "NewsId": "6dddad6b7848b2655f2f99c93d16606d",
+      "Source": "喵股网",
+      "Title": "圣达转债754079正股分析",
+      "Url": "http://www.miaogu.com/html/xingu/20190703/244513.html",
+      "PublishTime": "2019-07-03 20:52:00",
+      "EmotionType": "none",
+      "Category": "3200,3400",
+      "NewsTags": "生物素,叶酸,申购,转股价格,霉素"
+    },
+    {
+      "Id": "162b33ba-f70b-4120-8008-a12254815cf8",
+      "NewsId": "2035544ce102fe4a6239908732c8fc28",
+      "Source": "喵股网",
+      "Title": "圣达转债754079申购价值分析",
+      "Url": "http://www.miaogu.com/html/xingu/20190703/244512.html",
+      "PublishTime": "2019-07-03 20:48:00",
+      "EmotionType": "none",
+      "Category": "3200,3300,3600",
+      "NewsTags": "优先配售,网上申购,正股,发行,平价"
+    },
+    {
+      "Id": "81b631b7-1335-4da7-b454-ba6508198e02",
+      "NewsId": "7ff2186cbad63bed32ad41932ee1f8c1",
+      "Source": "金融界",
+      "Title": "圣达生物：圣达转债网上中签率0.03083319％",
+      "Url": "http://www.sohu.com/a/324659174_114984",
+      "PublishTime": "2019-07-03 18:37:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "网上申购,本次发行,摇号,公告"
+    },
+    {
+      "Id": "a6564d13-5ab4-4bca-bdb8-75cbd0dd7458",
+      "NewsId": "005e735dac2c63b4ea83ed17d5ff644d",
+      "Source": "东方财富网",
+      "Title": "圣达转债申购价值分析：债底保护性较弱 打新谨慎参与",
+      "Url": "http://finance.eastmoney.com/a/201907031167605038.html",
+      "PublishTime": "2019-07-03 09:30:00",
+      "EmotionType": "none",
+      "Category": "3200",
+      "NewsTags": "生物素,圣达生物,乳酸链球菌素,叶酸,霉素"
+    },
+    {
+      "Id": "39ee7c26-bde7-4672-ada6-1c17a20e0dd2",
+      "NewsId": "ad932d6c90d6814d9516c5b4838c7b95",
+      "Source": "金投网",
+      "Title": "可转债申购价值分析：圣达转债今日可申购",
+      "Url": "https://stock.cngold.org/c/2019-07-03/c6444966.html",
+      "PublishTime": "2019-07-03 09:18:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "圣达生物,债底,总股本,平价,3.39"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

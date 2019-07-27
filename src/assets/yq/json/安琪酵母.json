@@ -1,0 +1,249 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821095544064862",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 826
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 444
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 3
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 9
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 3
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 11
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 3
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 1
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 3
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 5
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 13
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 13
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 122
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 125
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 12
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 4
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 46
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 16
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 5
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 85
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 81
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 40
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 235
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 551
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "083b268b-3939-4cec-9cb4-16f7d569a00d",
+      "NewsId": "9238ff58547b56c89005dd8eef8d3657",
+      "Source": "中国银河证券",
+      "Title": "安琪酵母(600298)人员变动不改长期战略 逐季改善业绩确定性强",
+      "Url": "http://www.chinastock.com.cn/yhwz_about.do?methodCall=getDetailInfo&docId=6886064",
+      "PublishTime": "2019-07-17 00:00:00",
+      "EmotionType": "none",
+      "Category": "1200,3200",
+      "NewsTags": "安琪,俞总,糖蜜,19Q1,产能利用率"
+    },
+    {
+      "Id": "7494431c-112b-4e20-bc25-354f03f32dc2",
+      "NewsId": "09e1919405fb81d30de5d64a4b9f3a9a",
+      "Source": "同花顺财经",
+      "Title": "长城证券：维持食品饮料行业推荐评级",
+      "Url": "http://stock.10jqka.com.cn/20190716/c612533536.shtml",
+      "PublishTime": "2019-07-16 12:34:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "食品饮料,通胀,背景,价格,关注"
+    },
+    {
+      "Id": "1716a16c-6cf4-4020-ae1b-4d35c5cbf66b",
+      "NewsId": "7da1ff63cd58a28e6718c682475801d5",
+      "Source": "中国银河证券",
+      "Title": "安琪酵母(600298)昨日低开低走 7月以来股价连续回调",
+      "Url": "http://www.chinastock.com.cn/yhwz_about.do?methodCall=getDetailInfo&docId=6882969",
+      "PublishTime": "2019-07-16 00:00:00",
+      "EmotionType": "none",
+      "Category": "3200",
+      "NewsTags": "酵母,营养,食品,生产,产品"
+    },
+    {
+      "Id": "b079eec0-bc0a-4089-8046-555b13860a52",
+      "NewsId": "275e84c26fc6ec58f100c6c4d7f2a3e8",
+      "Source": "查猪价",
+      "Title": "理性回调，猪价窄幅涨跌调整",
+      "Url": "http://www.sohu.com/a/327002395_177991",
+      "PublishTime": "2019-07-15 14:51:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "母猪,屠宰场,清毒,现象,免疫"
+    },
+    {
+      "Id": "04fe9dbd-816a-4b99-bc7d-44866c1a9edd",
+      "NewsId": "57eeb9accd0fa1b4944841236e9eeaad",
+      "Source": "新浪网",
+      "Title": "安琪酵母关于董事长退休辞职的公告",
+      "Url": "https://finance.sina.com.cn/stock/ggzz/2019-07-12/doc-ihytcerm3214766.shtml",
+      "PublishTime": "2019-07-12 17:40:00",
+      "EmotionType": "none",
+      "Category": "1200,4000",
+      "NewsTags": "俞学锋,酵母,董事会,董事长,法定代表"
+    },
+    {
+      "Id": "90a815b7-47d7-4c77-9354-95946f6df799",
+      "NewsId": "b5a1ad87feb2bcb87e89b17743ea5fe5",
+      "Source": "证券时报网",
+      "Title": "部分上市公司 产业并购基金“夭折”",
+      "Url": "http://kuaixun.stcn.com/2019/0712/15246751.shtml",
+      "PublishTime": "2019-07-12 00:00:00",
+      "EmotionType": "none",
+      "Category": "3300,3400",
+      "NewsTags": "上市公司,产业,投资"
+    },
+    {
+      "Id": "d0ba2e79-be95-490c-804f-f800c82d093c",
+      "NewsId": "74eaff33d1d765fb8196440c60883380",
+      "Source": "中国食品报网",
+      "Title": "什么是好油条？ 以后将有标准可循 《油条》等 19 项团体标准立项",
+      "Url": "http://www.cnfood.cn/hangyexinwen140623.html",
+      "PublishTime": "2019-07-11 10:36:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "油条,股份有限,早餐,粮油,标准"
+    },
+    {
+      "Id": "1028a09b-5024-4917-8cb2-46e4068aa7a7",
+      "NewsId": "7cacd02b187dc553b541288e8ff837f0",
+      "Source": "农资导报",
+      "Title": "守正出奇、极致营销：农资厂商“新业态”再燃战火！",
+      "Url": "http://www.sohu.com/a/325781974_183801",
+      "PublishTime": "2019-07-09 18:45:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "大咖,单品,营销,农技,产品"
+    },
+    {
+      "Id": "b35753b0-fc1c-429f-9052-4f1eab116b8f",
+      "NewsId": "dcea18f39fba3c6d2ad3c8e0a0dcbe0c",
+      "Source": "搜狐财经",
+      "Title": "安琪酵母终止与养老基金合作，宜华健康市值跌187亿，万科调整养老策略 ",
+      "Url": "http://www.sohu.com/a/324707453_120023149",
+      "PublishTime": "2019-07-04 09:08:00",
+      "EmotionType": "none",
+      "Category": "3200,3300,3400,3600",
+      "NewsTags": "宜华健康,安琪酵母,万科,市值,九华山庄"
+    },
+    {
+      "Id": "644413d9-11ca-4186-98d6-b4faed720128",
+      "NewsId": "4838bef044a1cc2e755e3fe3e8a38c4a",
+      "Source": "微信公众号",
+      "Title": "【食品饮料2019年中期策略】安全边际+改善预期，精选优质个股",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562201992&src=3&ver=1&signature=OtK3rznB4VYiaGJKecVqbC49Tfpy1QYwIZNYGlS7y4QoXIWDiKp-7o6ZZIwWnBuCXbZj*H0*bW3t*DAAwtmzJicdRZUnMlP31Ah5H54-PLxZ5vmKaH-jpMNpToWcoMwGkzRe-7y1zJvfV1XCoOaVEbHLTXMAc1WwUpAtc1Ooc3c=",
+      "PublishTime": "2019-07-04 08:40:35",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "白酒,伊利股份,安琪酵母,食品饮料,名酒"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

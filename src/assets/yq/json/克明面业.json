@@ -1,0 +1,249 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820021648009332",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 911
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 323
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 5
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 27
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 8
+          },
+          {
+            "Value": "2100",
+            "Desc": "造假欺诈",
+            "Count": 3
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 1
+          },
+          {
+            "Value": "2400",
+            "Desc": "垄断信息",
+            "Count": 1
+          },
+          {
+            "Value": "2600",
+            "Desc": "安全事故",
+            "Count": 1
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 7
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 96
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 307
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 256
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 83
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 11
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 138
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 51
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 27
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 63
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 54
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 69
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 511
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 331
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "c9a19cab-5bc0-4aab-b617-17569494587f",
+        "NewsId": "f6f7f427da83dbb9abb72eed173f90c1",
+        "Source": "中国商网-中国商报",
+        "Title": "金龙鱼母公司益海嘉里上市 对粮油行业有何影响",
+        "Url": "http://www.sohu.com/a/327477909_393779",
+        "PublishTime": "2019-07-17 17:15:00",
+        "EmotionType": "positive",
+        "Category": "3100,3200",
+        "NewsTags": "益海嘉里,毛利率,金龙鱼,股份有限,厨房"
+      },
+      {
+        "Id": "5ab2197b-4d17-4ab2-bec2-299131e92713",
+        "NewsId": "4bf722e37a783b97148883bb84993a3e",
+        "Source": "挖贝网",
+        "Title": "克明面业再推2亿元回购计划：借款也要回购 控股股东股份被100%质押",
+        "Url": "http://www.wabei.cn/Home/News/61108",
+        "PublishTime": "2019-07-17 12:02:00",
+        "EmotionType": "none",
+        "Category": "3300,3600,3800",
+        "NewsTags": "克明面业,质押,股价,股份,上限"
+      },
+      {
+        "Id": "b4d9f495-aa6a-4304-a491-b45010da2251",
+        "NewsId": "7ccd9564825e711988d89fd5186f30ca",
+        "Source": "新浪网",
+        "Title": "克明面业回购计划股价上限低于市场价遭问询",
+        "Url": "https://finance.sina.com.cn/stock/s/2019-07-17/doc-ihytcerm4159436.shtml",
+        "PublishTime": "2019-07-17 07:34:00",
+        "EmotionType": "negative",
+        "Category": "3100,3200,3600",
+        "NewsTags": "克明面业,员工持股计划,回购股份,信托,资金"
+      },
+      {
+        "Id": "f15340cc-460b-4ad9-88fe-d810f598c84b",
+        "NewsId": "cd75e148c1cce8518e9f7d0345ff51bd",
+        "Source": "面包财经",
+        "Title": "克明面业：回购最高限价低于股价，真回购还是假回购？",
+        "Url": "http://www.sohu.com/a/327299179_384082",
+        "PublishTime": "2019-07-17 07:00:00",
+        "EmotionType": "negative",
+        "Category": "3200,3800",
+        "NewsTags": "回购,克明面业,质押,扣非,营收"
+      },
+      {
+        "Id": "9575a8c8-b61e-4ecd-8fda-bc7d0633087d",
+        "NewsId": "f2fa7b20a85c2e488ed572591903725d",
+        "Source": "资本邦",
+        "Title": "逼近13元回购价，克明面业被问是否操纵股价？",
+        "Url": "http://www.chinaipo.com/ipo/86452.html",
+        "PublishTime": "2019-07-16 00:00:00",
+        "EmotionType": "negative",
+        "Category": "1100",
+        "NewsTags": "回购,克明面业,股份,资金,深交所"
+      },
+      {
+        "Id": "7edb7b98-367f-449b-b08e-4b62a0c8bf97",
+        "NewsId": "ba887fddaf92a0fcb69e236901e4a6a9",
+        "Source": "经济观察报",
+        "Title": "金龙鱼披露招股书：138.7亿拟投向厨房食品项目",
+        "Url": "http://www.sohu.com/a/326539630_118622",
+        "PublishTime": "2019-07-13 10:29:00",
+        "EmotionType": "none",
+        "Category": "3100,3200",
+        "NewsTags": "金龙鱼,招股书,上市,原材料,管理水平"
+      },
+      {
+        "Id": "ac4f8184-4797-4bc6-8faf-7dcadf2ebef8",
+        "NewsId": "3919a254023431689beba0a40242b65e",
+        "Source": "挖贝网",
+        "Title": "克明面业股东克明食品集团质押4500万股 公司去年净利同比增长65%",
+        "Url": "http://www.wabei.cn/Home/News/60411",
+        "PublishTime": "2019-07-13 08:28:00",
+        "EmotionType": "none",
+        "Category": "3200,3800",
+        "NewsTags": "股份总数,占本,其所持,克明面业,南县"
+      },
+      {
+        "Id": "cdd6d323-573d-4034-9d8b-b2d5722000a6",
+        "NewsId": "14883770b83799b118dfda5e77f09cf4",
+        "Source": "东方财富网",
+        "Title": "克明面业股份有限公司关于召开2019年第三次临时股东大会的通知",
+        "Url": "http://finance.eastmoney.com/a/201907121177062232.html",
+        "PublishTime": "2019-07-12 14:15:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "议案,授权委托书,委托人,受托人,提案"
+      },
+      {
+        "Id": "fbe43851-aa14-41d5-8e91-d54eb2f3631f",
+        "NewsId": "7d25aa4e60a166ee39ae3ac06222c227",
+        "Source": "搜狐财经",
+        "Title": "克明面业股份有限公司第五届董事会第二次会议决议公告 ",
+        "Url": "http://www.sohu.com/a/326252175_115433",
+        "PublishTime": "2019-07-12 01:58:00",
+        "EmotionType": "none",
+        "Category": "3600",
+        "NewsTags": "股东大会,董事会,投票,议案,方案"
+      },
+      {
+        "Id": "e1cdc89e-9f94-49a7-badc-8f18b715bd27",
+        "NewsId": "675e76bb340665afd6951ffcfcd94f0d",
+        "Source": "微信公众号",
+        "Title": "韩国公司开始测试中国产氟化氢、替代日本份额机遇大",
+        "Url": "https://mp.weixin.qq.com/s?timestamp=1562855813&src=3&ver=1&signature=pSGuvfHi4k85kvAcOagEzRyUqGfKDXMelbeWYbvOMAPms7CBtBSLSINOYVH59NfXuVivu9PnmXwH0*QwHjWdeLnVo7TQOn73VeqGjDZ48fMXtfyRzLicoDJSI*Kr36L0bdVsVzzS93U-Q6wbexSaIIEdVgsIKFcd7vBg2H1Zmpw=",
+        "PublishTime": "2019-07-11 22:11:39",
+        "EmotionType": "positive",
+        "Category": "0000",
+        "NewsTags": "机构买入,乐凯新材,动力电池,白皮书,工艺"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

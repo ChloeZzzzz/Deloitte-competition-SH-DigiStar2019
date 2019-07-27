@@ -1,0 +1,249 @@
+{
+    "OrderNumber": "COMPANYNEWS2019071820004574329598",
+    "Paging": {
+      "PageSize": 10,
+      "PageIndex": 1,
+      "TotalRecords": 701
+    },
+    "GroupItems": [
+      {
+        "Key": "tags",
+        "Items": [
+          {
+            "Value": "0000",
+            "Desc": "其他",
+            "Count": 197
+          },
+          {
+            "Value": "1100",
+            "Desc": "高管违法",
+            "Count": 2
+          },
+          {
+            "Value": "1200",
+            "Desc": "高管变动",
+            "Count": 60
+          },
+          {
+            "Value": "2000",
+            "Desc": "违法违纪",
+            "Count": 9
+          },
+          {
+            "Value": "2300",
+            "Desc": "违纪违规",
+            "Count": 4
+          },
+          {
+            "Value": "2400",
+            "Desc": "垄断信息",
+            "Count": 2
+          },
+          {
+            "Value": "2500",
+            "Desc": "环保处罚",
+            "Count": 3
+          },
+          {
+            "Value": "2700",
+            "Desc": "司法纠纷",
+            "Count": 1
+          },
+          {
+            "Value": "2800",
+            "Desc": "侵权抄袭",
+            "Count": 10
+          },
+          {
+            "Value": "2900",
+            "Desc": "偷税漏税",
+            "Count": 2
+          },
+          {
+            "Value": "3100",
+            "Desc": "上市退市",
+            "Count": 116
+          },
+          {
+            "Value": "3200",
+            "Desc": "亏损盈利",
+            "Count": 244
+          },
+          {
+            "Value": "3300",
+            "Desc": "投资融资",
+            "Count": 262
+          },
+          {
+            "Value": "3400",
+            "Desc": "收购重组",
+            "Count": 88
+          },
+          {
+            "Value": "3500",
+            "Desc": "停业破产",
+            "Count": 8
+          },
+          {
+            "Value": "3600",
+            "Desc": "股权变动",
+            "Count": 121
+          },
+          {
+            "Value": "3700",
+            "Desc": "增持减持",
+            "Count": 35
+          },
+          {
+            "Value": "3800",
+            "Desc": "债务抵押",
+            "Count": 20
+          },
+          {
+            "Value": "4000",
+            "Desc": "成果信誉",
+            "Count": 49
+          },
+          {
+            "Value": "5000",
+            "Desc": "产品相关",
+            "Count": 43
+          }
+        ]
+      },
+      {
+        "Key": "impact",
+        "Items": [
+          {
+            "Value": "negative",
+            "Desc": "消极",
+            "Count": 55
+          },
+          {
+            "Value": "none",
+            "Desc": "中立",
+            "Count": 417
+          },
+          {
+            "Value": "positive",
+            "Desc": "积极",
+            "Count": 229
+          }
+        ]
+      }
+    ],
+    "Result": [
+      {
+        "Id": "a87f100c-3463-4f10-820d-82f1ff28a524",
+        "NewsId": "e05e3c49f931ab7e4963ac80e949186d",
+        "Source": "微信公众号",
+        "Title": "7月8日龙虎榜分析+事件解读+个股利好+股票池",
+        "Url": "https://mp.weixin.qq.com/s?timestamp=1562546539&src=3&ver=1&signature=ODDVBaXyXlKQzYdqLub9*HB0xoLV0lYMyYAR2lk4VwKJKtb0MT0SSquSo0yxRYw9RAgZQP6p179wHLBum7az4*y8NychsT2Vz8JrAxBl2a3WMbsOuUzjYmocgKLVtjGXQ00Sw6KtMPZ1cyDfZ0CGXLTlNTvtBMviZUuEF3DFYWY=",
+        "PublishTime": "2019-07-08 07:05:00",
+        "EmotionType": "positive",
+        "Category": "3200",
+        "NewsTags": "抗生素,头孢,点评,化学品,月份"
+      },
+      {
+        "Id": "3fc31614-1610-4ad1-a80b-99ce43b81675",
+        "NewsId": "dda7ff57077a5051e30591fc34952113",
+        "Source": "时讯网",
+        "Title": "异动监测：金达威(002626)大幅拉升，暂报13.44元",
+        "Url": "http://www.shixunwan.cn/article/1562366571706001/",
+        "PublishTime": "2019-07-06 06:30:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "金达威,7.09,VA,万泽股份,兴齐眼药"
+      },
+      {
+        "Id": "584da8db-e9f0-44dd-ae0e-fc8abfda89b9",
+        "NewsId": "b356a764c74aa333512948dfe234300b",
+        "Source": "海峡导报",
+        "Title": "投资有风险，莫赔进声誉",
+        "Url": "http://www.sohu.com/a/324703394_114890",
+        "PublishTime": "2019-07-04 08:43:00",
+        "EmotionType": "none",
+        "Category": "3300",
+        "NewsTags": "违约,赛事,撇清,母公司,子公司"
+      },
+      {
+        "Id": "ee15e2cf-9ad9-4d75-a7c6-7ed940b8d97c",
+        "NewsId": "23159f686b4793e428a68c62315a1964",
+        "Source": "搜狐财经",
+        "Title": "一厦企违约 导致冰壶世界杯停办？ ",
+        "Url": "http://www.sohu.com/a/324450283_114890",
+        "PublishTime": "2019-07-03 08:59:00",
+        "EmotionType": "none",
+        "Category": "3200,3300",
+        "NewsTags": "违约,冰雪,系列赛,体育赛事,创办"
+      },
+      {
+        "Id": "abd47bea-f602-4026-966d-0d415f043a42",
+        "NewsId": "1d88bf5b61ae89bade86d1edf0fbc15d",
+        "Source": "东南网厦门频道",
+        "Title": "冰壶世界杯停摆牵出厦企 这是一家什么公司？",
+        "Url": "http://xm.fjsen.com/2019-07/03/content_22459380.htm",
+        "PublishTime": "2019-07-03 00:00:00",
+        "EmotionType": "none",
+        "Category": "0000",
+        "NewsTags": "厦企,资金方,停摆,牵出,违约"
+      },
+      {
+        "Id": "c6e455b8-5143-48c5-bef6-64c12a56da14",
+        "NewsId": "c93a80f01e2e7fe1deb8cdc546694aa6",
+        "Source": "百家号",
+        "Title": "中国企业违约致冰壶世界杯停摆！违约的背后，是这项运动的高门槛",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_8303675957748830345%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-06-24 16:52:15",
+        "EmotionType": "positive",
+        "Category": "3200,3300,3600",
+        "NewsTags": "混双,循环赛,亚军,冰雪,运动"
+      },
+      {
+        "Id": "533effa1-440c-45c1-86d7-bb61f09eb6fd",
+        "NewsId": "09227719d668a66a793257c7e55fdcd8",
+        "Source": "百家号",
+        "Title": "冰壶世界杯停摆谁之过？金达威否认违约后迅速剥离体育资产",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9101260318380483929%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-06-24 15:40:41",
+        "EmotionType": "none",
+        "Category": "3200,3400,3600",
+        "NewsTags": "冰壶,违约,赛事,联合会,净利润"
+      },
+      {
+        "Id": "1aa747c0-7f69-4f4d-9347-bbdd09f20b7a",
+        "NewsId": "ef19cbad31db9d1fd1a5e2bc0db96810",
+        "Source": "第一财经",
+        "Title": "中青旅：控股子公司参与的濮院景区项目预计2020年开业",
+        "Url": "http://www.sohu.com/a/322620422_114986",
+        "PublishTime": "2019-06-24 14:52:00",
+        "EmotionType": "none",
+        "Category": "3600",
+        "NewsTags": "控股子公司,金达威,股权"
+      },
+      {
+        "Id": "0369fab1-d5e1-48ef-8adb-f40661bc1132",
+        "NewsId": "ccce77f49a5b8eae5c95936b30b21a55",
+        "Source": "互联网+体育",
+        "Title": "冰壶世界杯因违约停办，违约方金达威体育被清仓丨纪胖超级晚",
+        "Url": "http://www.sohu.com/a/322482545_482792",
+        "PublishTime": "2019-06-23 20:29:00",
+        "EmotionType": "none",
+        "Category": "3200,3600",
+        "NewsTags": "纪胖,停办,体育产业,违约方,冰雪"
+      },
+      {
+        "Id": "95c1fa5c-c608-4509-8330-5d0839b7227f",
+        "NewsId": "e39d953c01bfdb7b5453a2bc3ede7e98",
+        "Source": "百家号",
+        "Title": "金达威称未违约 按下暂停键的冰壶世界杯上演“罗生门”",
+        "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9875176561554049488%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+        "PublishTime": "2019-06-19 21:29:31",
+        "EmotionType": "none",
+        "Category": "3200",
+        "NewsTags": "冰壶,商报,世界杯,体育赛事,国际"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }

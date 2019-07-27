@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821223549561932",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 685
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 227
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 3
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 46
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 9
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 10
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 24
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 2
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 2
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 9
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 150
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 148
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 185
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 17
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 14
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 62
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 36
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 1
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 38
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 43
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 97
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 349
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 239
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "9b29cbbd-c8ba-4ffe-b0c2-3dea88d8d095",
+      "NewsId": "aa014c75a8261a1f0d9189c68059d205",
+      "Source": "面包财经",
+      "Title": "元祖股份：两大重要股东频减持，看衰公司还是另有原因？",
+      "Url": "http://www.sohu.com/a/327518937_384082",
+      "PublishTime": "2019-07-18 07:00:00",
+      "EmotionType": "none",
+      "Category": "3200,3600,3700",
+      "NewsTags": "元祖股份,减持,预收款项,销售费用,月饼"
+    },
+    {
+      "Id": "729b4a3e-493c-46c9-91cb-8f705c940b66",
+      "NewsId": "24769358c9ef3867eb96d103c7c5dffa",
+      "Source": "新京报网",
+      "Title": "元祖股份二股东半年内两次违规增减持",
+      "Url": "http://www.bjnews.com.cn/finance/2019/07/05/599875.html",
+      "PublishTime": "2019-07-05 20:35:00",
+      "EmotionType": "none",
+      "Category": "2300,3600,3700",
+      "NewsTags": "短线交易,误操作,总股本,交易系统,买入"
+    },
+    {
+      "Id": "b7216c03-93ed-49b2-88f3-739dc4a7282b",
+      "NewsId": "895d2ca0b7d16176c155e4032a46f43b",
+      "Source": "金融界",
+      "Title": "元祖股份：卓傲国际减持股份时误操作导致短线交易",
+      "Url": "http://www.sohu.com/a/324874829_114984",
+      "PublishTime": "2019-07-04 16:42:00",
+      "EmotionType": "none",
+      "Category": "3600,3700",
+      "NewsTags": "短线交易,交易系统,买入,成交,股票"
+    },
+    {
+      "Id": "2865ee43-b1d7-43b6-a504-b11a276ef570",
+      "NewsId": "f372ba3b8ec10c8e665d644e831ca64c",
+      "Source": "搜狐财经",
+      "Title": "元祖股份（603886）：烘焙业龙头企业充分受益于行业复苏 ",
+      "Url": "http://www.sohu.com/a/324335384_252400",
+      "PublishTime": "2019-07-02 16:53:00",
+      "EmotionType": "positive",
+      "Category": "3200,4000",
+      "NewsTags": "占比,月饼礼盒,门店,蛋糕,毛利率"
+    },
+    {
+      "Id": "7fd08228-2169-4677-b7c7-dc01ab9e4703",
+      "NewsId": "f833f0a3aff26d7b36655d313860e028",
+      "Source": "时讯网",
+      "Title": "科创板渐近！科技龙头有溢价机会",
+      "Url": "http://www.shixunwan.cn/article/1561936715540001/",
+      "PublishTime": "2019-07-01 07:10:00",
+      "EmotionType": "positive",
+      "Category": "3300",
+      "NewsTags": "用友网络,留意,个股,科技股,延伸"
+    },
+    {
+      "Id": "0c0c49d1-ee3b-49c5-8534-b46c257f5666",
+      "NewsId": "9ffb8086e502c086f685e2cd826fb3ab",
+      "Source": "时讯网",
+      "Title": "趋势板块再创新高，隐藏高盈利高成长成长股",
+      "Url": "http://www.shixunwan.cn/article/1561931297599001/",
+      "PublishTime": "2019-07-01 05:42:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "盈利能力,营收,逻辑,会员"
+    },
+    {
+      "Id": "a7ccd18a-bf69-4dbc-ae2e-2f12be560ef7",
+      "NewsId": "4095eccb9aec87a7943ba680d481d8f1",
+      "Source": "东方财富网",
+      "Title": "强者恒强 食品饮料细分龙头引关注",
+      "Url": "http://finance.eastmoney.com/a/201906211157078666.html",
+      "PublishTime": "2019-06-21 03:55:00",
+      "EmotionType": "positive",
+      "Category": "3200,3300",
+      "NewsTags": "龙头,估值溢价,成长性,行业"
+    },
+    {
+      "Id": "f2379fba-b433-41a3-8311-1698baf91161",
+      "NewsId": "344d3cbbd5af39619825f5bec8983016",
+      "Source": "中国政府网",
+      "Title": "大陆消费升级“点亮”台企财报",
+      "Url": "http://www.gov.cn/xinwen/2019-06/20/content_5401884.htm",
+      "PublishTime": "2019-06-20 16:29:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "旺旺集团,台企,悦心健康,台资,旺仔"
+    },
+    {
+      "Id": "90e89c32-9dc1-46fe-89d4-f65904f959db",
+      "NewsId": "50fa481861857453d46a97360186d1cd",
+      "Source": "中国银河证券",
+      "Title": "食品饮料行业:高端酒受益需求扩张 国产奶粉支持政策再出台",
+      "Url": "http://www.chinastock.com.cn/yhwz_about.do?methodCall=getDetailInfo&docId=6828872",
+      "PublishTime": "2019-06-12 00:00:00",
+      "EmotionType": "positive",
+      "Category": "3200",
+      "NewsTags": "茅台,水井坊,市场预期,白酒,趋势"
+    },
+    {
+      "Id": "83321fd3-64c5-42dd-9aa4-ff822ec0832a",
+      "NewsId": "f8f095a8f6b5704c97249866f5ac2190",
+      "Source": "搜狐财经",
+      "Title": "″元祖食品″会是巴菲特眼中的″喜诗糖果″？ ",
+      "Url": "http://www.sohu.com/a/319873248_100034414",
+      "PublishTime": "2019-06-11 18:29:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "元祖食品,月饼,蛋糕,烘焙,糖果"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

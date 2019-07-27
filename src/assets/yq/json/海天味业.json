@@ -1,0 +1,244 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821244270497867",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 1071
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 447
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 1
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 16
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 4
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 13
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 4
+        },
+        {
+          "Value": "2400",
+          "Desc": "垄断信息",
+          "Count": 2
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 19
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 24
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 25
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 414
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 185
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 38
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 11
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 78
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 43
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 1
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 125
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 44
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 135
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 346
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 590
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "0d26e5a6-61b8-41e2-8db7-35e8e582dc74",
+      "NewsId": "bc994a215cb257f605b87d48580f2a25",
+      "Source": "雪球",
+      "Title": "如何计算一个股票还有多少上涨空间",
+      "Url": "http://www.sohu.com/a/327427206_100034414",
+      "PublishTime": "2019-07-17 13:04:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "估值,海天味业,业绩,海澜之家,pe"
+    },
+    {
+      "Id": "3924eb2a-4bd4-4c10-bb3f-d9b06a82baf5",
+      "NewsId": "9cf176b00ed5b45cc14f327e67870d82",
+      "Source": "食品商务网",
+      "Title": "资本助力复合调味品行业飞速发展",
+      "Url": "https://news.21food.cn/35/2853079.html",
+      "PublishTime": "2019-07-17 10:56:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "复合调味品,酱油,渗透率,集中度,市场占有率"
+    },
+    {
+      "Id": "1e91b3a1-cfaf-4d1d-9bce-e8439151c3ee",
+      "NewsId": "4ba635e22f212927330ba45701a7887f",
+      "Source": "食品商务网",
+      "Title": "酱油龙头企业保持超过20%增速",
+      "Url": "https://news.21food.cn/13/2853078.html",
+      "PublishTime": "2019-07-17 10:54:00",
+      "EmotionType": "positive",
+      "Category": "3200,4000",
+      "NewsTags": "占比,调味品,集中度,马太效应,龙头企业"
+    },
+    {
+      "Id": "f709d5bc-a675-4b66-87ba-9c023a8e95c4",
+      "NewsId": "77121321e71fd4e84cf2c32a16f574a1",
+      "Source": "慢钱头条",
+      "Title": "一枚散户的自选股观察名单更新20190716",
+      "Url": "http://toutiao.manqian.cn/wz_5cZiz92PKNV.html",
+      "PublishTime": "2019-07-17 00:00:00",
+      "EmotionType": "negative",
+      "Category": "0000",
+      "NewsTags": "上海机场,价格标签,轻套,苏泊尔,自选股"
+    },
+    {
+      "Id": "32873e3a-28af-41c5-a43d-3903561e9cce",
+      "NewsId": "08e407d936bdc21b6a1f026639daf099",
+      "Source": "中国食品机械网",
+      "Title": "调味品本土企业占据先发优势",
+      "Url": "http://www.foodmach.cn/News/news-31338.html",
+      "PublishTime": "2019-07-16 16:25:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "占比,饮食,海天,各子,差异"
+    },
+    {
+      "Id": "7d0af27a-4624-456a-b18b-1554e23102a2",
+      "NewsId": "a37474f03edbdca752fd1850c9d01469",
+      "Source": "雪球",
+      "Title": "年轻人撑起的网红品牌，就比不过白酒、酱油吗？",
+      "Url": "http://www.sohu.com/a/327183247_100034414",
+      "PublishTime": "2019-07-16 12:51:00",
+      "EmotionType": "none",
+      "Category": "3200",
+      "NewsTags": "三只松鼠,百润股份,鸡尾酒,消费,大国"
+    },
+    {
+      "Id": "f5f7213b-5080-40b6-a076-e9cd2aecdce1",
+      "NewsId": "005e169178e518797b46e880b44a2f0e",
+      "Source": "百家号",
+      "Title": "调味品行业 个股上半年增幅较大 抗周期性强",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9427023125162386394%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-16 04:21:59",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "调味品,千禾味业,同比增长,涨幅,星湖科技"
+    },
+    {
+      "Id": "e05831d3-6305-47d3-b5db-75390872e4ba",
+      "NewsId": "bd522c8566c669c04169074cd9127c9f",
+      "Source": "同花顺财经",
+      "Title": "2018年中国调味品行业市场概况与发展趋势 头部厂商依靠产地优势树立起产品壁垒",
+      "Url": "http://stock.10jqka.com.cn/20190715/c612515648.shtml",
+      "PublishTime": "2019-07-15 16:56:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "酱油,占比,消费量,酿造"
+    },
+    {
+      "Id": "0b499d9b-7202-4e7b-9f09-506a77a37a80",
+      "NewsId": "bee6035c6b2464fb715bccb7dd48cfb9",
+      "Source": "证券时报网",
+      "Title": "中信建投：茅台中报低于预期，不应过度解读",
+      "Url": "http://www.sohu.com/a/326944793_119666",
+      "PublishTime": "2019-07-15 14:27:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "板块,五粮液,茅台"
+    },
+    {
+      "Id": "0379b600-d2c5-4af1-ae22-14b872d5d70b",
+      "NewsId": "e065a45ce6e99ee173fc69e0080513f1",
+      "Source": "有道财经",
+      "Title": "26岁开始打酱油，却打出554亿身家，一夜之间还造就34个亿万富翁",
+      "Url": "http://www.sohu.com/a/326932729_100245187",
+      "PublishTime": "2019-07-15 13:13:00",
+      "EmotionType": "positive",
+      "Category": "0000",
+      "NewsTags": "庞康,海天酱油,海天味业,身家,副厂长"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}

@@ -1,0 +1,254 @@
+{
+  "OrderNumber": "COMPANYNEWS2019071821191596930769",
+  "Paging": {
+    "PageSize": 10,
+    "PageIndex": 1,
+    "TotalRecords": 933
+  },
+  "GroupItems": [
+    {
+      "Key": "tags",
+      "Items": [
+        {
+          "Value": "0000",
+          "Desc": "其他",
+          "Count": 235
+        },
+        {
+          "Value": "1100",
+          "Desc": "高管违法",
+          "Count": 2
+        },
+        {
+          "Value": "1200",
+          "Desc": "高管变动",
+          "Count": 83
+        },
+        {
+          "Value": "2000",
+          "Desc": "违法违纪",
+          "Count": 6
+        },
+        {
+          "Value": "2100",
+          "Desc": "造假欺诈",
+          "Count": 3
+        },
+        {
+          "Value": "2200",
+          "Desc": "贪污受贿",
+          "Count": 1
+        },
+        {
+          "Value": "2300",
+          "Desc": "违纪违规",
+          "Count": 10
+        },
+        {
+          "Value": "2500",
+          "Desc": "环保处罚",
+          "Count": 1
+        },
+        {
+          "Value": "2600",
+          "Desc": "安全事故",
+          "Count": 2
+        },
+        {
+          "Value": "2700",
+          "Desc": "司法纠纷",
+          "Count": 1
+        },
+        {
+          "Value": "2800",
+          "Desc": "侵权抄袭",
+          "Count": 1
+        },
+        {
+          "Value": "3100",
+          "Desc": "上市退市",
+          "Count": 86
+        },
+        {
+          "Value": "3200",
+          "Desc": "亏损盈利",
+          "Count": 394
+        },
+        {
+          "Value": "3300",
+          "Desc": "投资融资",
+          "Count": 416
+        },
+        {
+          "Value": "3400",
+          "Desc": "收购重组",
+          "Count": 98
+        },
+        {
+          "Value": "3500",
+          "Desc": "停业破产",
+          "Count": 14
+        },
+        {
+          "Value": "3600",
+          "Desc": "股权变动",
+          "Count": 183
+        },
+        {
+          "Value": "3700",
+          "Desc": "增持减持",
+          "Count": 42
+        },
+        {
+          "Value": "3800",
+          "Desc": "债务抵押",
+          "Count": 16
+        },
+        {
+          "Value": "4000",
+          "Desc": "成果信誉",
+          "Count": 36
+        },
+        {
+          "Value": "5000",
+          "Desc": "产品相关",
+          "Count": 39
+        }
+      ]
+    },
+    {
+      "Key": "impact",
+      "Items": [
+        {
+          "Value": "negative",
+          "Desc": "消极",
+          "Count": 83
+        },
+        {
+          "Value": "none",
+          "Desc": "中立",
+          "Count": 588
+        },
+        {
+          "Value": "positive",
+          "Desc": "积极",
+          "Count": 262
+        }
+      ]
+    }
+  ],
+  "Result": [
+    {
+      "Id": "228de72a-a5fd-4e81-a75e-6bbddeb14e7e",
+      "NewsId": "775af00780c7ab5d9978c52a2ae083f0",
+      "Source": "百家号",
+      "Title": "中炬高新：2018年年度权益分派实施公告",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9626961858739214462%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-18 00:28:48",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": ""
+    },
+    {
+      "Id": "19d68c47-6451-40a0-b656-40f76b6ada7d",
+      "NewsId": "09e1919405fb81d30de5d64a4b9f3a9a",
+      "Source": "同花顺财经",
+      "Title": "长城证券：维持食品饮料行业推荐评级",
+      "Url": "http://stock.10jqka.com.cn/20190716/c612533536.shtml",
+      "PublishTime": "2019-07-16 12:34:00",
+      "EmotionType": "none",
+      "Category": "3200,3300",
+      "NewsTags": "食品饮料,通胀,背景,价格,关注"
+    },
+    {
+      "Id": "1b21a43a-f730-4de5-a2d1-c425a49c08dc",
+      "NewsId": "e1e69ca8ab0df155f6971ed29d5ecc00",
+      "Source": "北极星电力新闻网",
+      "Title": "胡军 | 增量配电网与综合能源服务",
+      "Url": "http://shoudian.bjx.com.cn/html/20190715/992797.shtml",
+      "PublishTime": "2019-07-15 10:35:00",
+      "EmotionType": "positive",
+      "Category": "3300",
+      "NewsTags": "新区,电网,售电,招商引资,业务"
+    },
+    {
+      "Id": "4bc42259-b31d-4df7-951b-f682e8a11d77",
+      "NewsId": "10697a8678c4cffcd7b40cc6a3293eb6",
+      "Source": "慢钱头条",
+      "Title": "中炬高新估值分析",
+      "Url": "http://toutiao.manqian.cn/wz_5a1FGY1NRIb.html",
+      "PublishTime": "2019-07-15 00:00:00",
+      "EmotionType": "none",
+      "Category": "3200,3300,3400",
+      "NewsTags": "中炬高新,调味品,海天味业,营业收入,酱油"
+    },
+    {
+      "Id": "3e291c6c-465e-4c16-b91f-f7978476623b",
+      "NewsId": "0aa289b5d00117cb8e5b76f8dd3674fb",
+      "Source": "东方财富网",
+      "Title": "中炬高新技术实业（集团）股份有限公司第九届第九次董事会决议公告",
+      "Url": "http://finance.eastmoney.com/a/201907091172976969.html",
+      "PublishTime": "2019-07-09 09:36:00",
+      "EmotionType": "none",
+      "Category": "0000",
+      "NewsTags": "议案,彭海泓,独立董事,张晓虹,中炬"
+    },
+    {
+      "Id": "000ebfc0-efb7-4363-b095-05ed91b8c596",
+      "NewsId": "32f5950a7bfe0f93cb05fa444fb80afd",
+      "Source": "微信公众号",
+      "Title": "A股早餐：有色金属企业信心指数连续两季度回升",
+      "Url": "https://mp.weixin.qq.com/s?timestamp=1562550040&src=3&ver=1&signature=vVorOuoYpomqJJXpCk1S4GQhdY*gdbkoKlGEXueDspd9JsTk6gtiKE-x6qPDGS3jrLkzFJHnq1klgtxPgvrVmnxLuH2PI*YfY8*yuR9*aNS7UU6ieZzjneX822r-RKhpwXJ5Z1gXJnvdzPLMjD4*cYIGzNJRaSiXPBEJkyZTQZE=",
+      "PublishTime": "2019-07-08 08:46:36",
+      "EmotionType": "positive",
+      "Category": "3600,3700",
+      "NewsTags": "抗生素,增持"
+    },
+    {
+      "Id": "5276df3b-28d2-42e1-a448-4a87d29d96d6",
+      "NewsId": "34eb60a29156d01256c31ab07a236e4b",
+      "Source": "慢钱头条",
+      "Title": "高位白马蓝筹杀跌，是机会还是风险？",
+      "Url": "http://toutiao.manqian.cn/wz_wal4qx9519.html",
+      "PublishTime": "2019-07-05 00:00:00",
+      "EmotionType": "none",
+      "Category": "3300",
+      "NewsTags": "绿地控股,万科A,价值投资,标的,地产"
+    },
+    {
+      "Id": "bd987156-3665-4338-a91d-4aa1f7740af5",
+      "NewsId": "b3e0d5271158025de5e504f422a0b038",
+      "Source": "价值中国网",
+      "Title": "双创生态谋定中山火炬高新区-万祥军：国情研究自主创新",
+      "Url": "http://www.chinavalue.net/Finance/Blog/2019-7-3/1808751.aspx",
+      "PublishTime": "2019-07-03 11:01:00",
+      "EmotionType": "positive",
+      "Category": "3100,3300,5000",
+      "NewsTags": "双创,开发区,园区,科技,澳门"
+    },
+    {
+      "Id": "17405700-de22-4f84-aa40-e6ef3d7d8c92",
+      "NewsId": "def01c4ce47d6667bb3e3749fcce455c",
+      "Source": "百家号",
+      "Title": "A股酱油贵：中炬高新能挑战海天味业吗？",
+      "Url": "https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9529983683311934345%22%2C%22sourceFrom%22%3A%22bjh%22%7D&type=news",
+      "PublishTime": "2019-07-03 08:38:00",
+      "EmotionType": "none",
+      "Category": "3200,3400",
+      "NewsTags": "中炬高新,酱油,料酒,厨邦,海天味业"
+    },
+    {
+      "Id": "f5f059f3-e940-4efd-a8e2-82224c0f8da3",
+      "NewsId": "5d4b9c27cb829720915eee7c60af571e",
+      "Source": "价值中国网",
+      "Title": "消费升级中的调味品产业发展趋势分析",
+      "Url": "http://www.chinavalue.net/Finance/Blog/2019-7-1/1808101.aspx",
+      "PublishTime": "2019-07-01 10:33:00",
+      "EmotionType": "none",
+      "Category": "3200,4000",
+      "NewsTags": "调味品,海天味业,千禾味业,食醋,酱油"
+    }
+  ],
+  "Status": "200",
+  "Message": "查询成功"
+}
