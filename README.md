@@ -3,7 +3,7 @@ This repository is for development of the 2019 Deloitte competition.
 
 Team Member:
 
-王宁 - leader/development: Data wrangling/Product planning
+王宁 - Leader/Development: Data wrangling/Product planning
 
 Cindy - Consultant/Product planning/Testing
 
